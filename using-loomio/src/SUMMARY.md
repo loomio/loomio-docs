@@ -1,5 +1,7 @@
 # Summary
 
+[Home](index.md)
+
 - [Getting started]()
   - [Key concepts](getting-started/key-concepts.md)
   - [Signing in](getting-started/sign-in.md)
