@@ -20,9 +20,11 @@ jobs:
           mdbook-version: '0.4.12'
 
       - run: mdbook build using-loomio
+      - run: mdbook build facilitators_guide
       - run: mkdir ./public
       - run: cp index.html ./public
       - run: mv ./using-loomio/book ./public/using-loomio
+      - run: mv ./facilitators_guide/book ./public/facilitators_guide
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
