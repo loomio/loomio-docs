@@ -21,6 +21,7 @@ jobs:
 
       - run: mdbook build using-loomio
       - run: mdbook build facilitators_guide
+      - run: mdbook build policy
       - run: mkdir ./public
       - run: cp index.html ./public
       - run: mv ./using-loomio/book ./public/using-loomio
