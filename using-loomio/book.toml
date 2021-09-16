@@ -1,0 +1,6 @@
+[book]
+authors = ["Robert Guthrie", "Michael Elwood-Smith"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Using Loomio"
