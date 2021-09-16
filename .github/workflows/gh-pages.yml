@@ -19,7 +19,7 @@ jobs:
         with:
           mdbook-version: '0.4.12'
 
-      - run: mdbook build
+      - run: mdbook build using-loomio
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
