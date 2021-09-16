@@ -19,12 +19,12 @@ jobs:
         with:
           mdbook-version: '0.4.12'
 
-      - run: mdbook build using-loomio
+      - run: mdbook build user_manual
       - run: mdbook build facilitators_guide
       - run: mdbook build policy
       - run: mkdir ./public
       - run: cp index.html ./public
-      - run: mv ./using-loomio/book ./public/using-loomio
+      - run: mv ./user_manual/book ./public/user_manual
       - run: mv ./facilitators_guide/book ./public/facilitators_guide
       - run: mv ./policy/book ./public/policy
 
