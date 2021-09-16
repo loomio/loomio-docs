@@ -26,6 +26,7 @@ jobs:
       - run: cp index.html ./public
       - run: mv ./using-loomio/book ./public/using-loomio
       - run: mv ./facilitators_guide/book ./public/facilitators_guide
+      - run: mv ./policy/book ./public/policy
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
