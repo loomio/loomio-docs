@@ -22,7 +22,7 @@ Your group will have an image that represents something about your organization.
 
 Threads are where you discuss topics, share information and make decisions together.  
 
-![](https://i.imgur.com/WIZDhKM.png)
+![](Threads.png)
 
 Threads are used for many purposes.  In a board, you will be invited to Threads to prepare for a board meeting, vote on resolutions, approve minutes, discuss a particular topic, ask questions, share reports and discuss any other information important for the board.
 
@@ -34,7 +34,7 @@ You can write a Comment in a Thread, and people can reply, react or post their o
 
 When you have written your text as a Comment in the thread, use **Post Comment** to instantly publish the comment. Your comment will be visible to anyone who has permission to see the thread. If you want to change anything you can edit the comment.
 
-![](https://i.imgur.com/vNQSEVQ.png)
+![](comment.png)
 
 #### @Mention
 
@@ -62,7 +62,7 @@ One of the key things about Loomio is it's powerful voting tools. These help you
 ### Proposal
 A **Proposal** helps your group progress a discussion towards a decision, where you can have your say by voting.
 
-![](https://i.imgur.com/pidPaa2.png)
+![](Proposals.png)
 
 Simply state what’s being proposed, attach any supporting  documents, set a duration for when responses are required by, and invite people to vote.
 
