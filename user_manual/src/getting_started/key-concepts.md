@@ -39,20 +39,21 @@ When you have written your text as a Comment in the thread, use **Post Comment**
 #### @Mention
 
 You can notify people when you write a comment.
-TODO and image or animation of mentioning
+
+![](mention.png)
 
 #### Reply
 
 You can reply to someone's comment.  Your reply is published in the thread and an email is sent to the author of the comment.
 
-![](https://i.imgur.com/o2gF7bf.png)
+![](reply.png)
 
 
 #### React
 
 Reacting to a comment is a great way to encourage and acknowledge a comment by letting the comment author know how you feel.  It is a quick and light-weight way to participate that does not require any text, nor send an email.
 
-![](https://i.imgur.com/pU4gA4y.png)
+![](react.png)
 
 
 ## Voting tools
