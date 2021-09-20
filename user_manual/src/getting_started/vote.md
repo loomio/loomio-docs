@@ -1,14 +1,18 @@
 # Vote
 
-## Casting a vote
+You will receive an invitation to vote via email or by notification in Loomio. Click on the link to cast your vote.
+
+## Voting
 
 Voting in a Proposal or Poll is easy, just click or tap on the icon of your choice.
 
-You can vote to **Agree**, **Abstain** or **Disagree** to the proposal.
+You can vote to **Agree**, **Abstain** or **Disagree** to the proposal. Other options may be available.
 
 ![](proposal-vote.png)
 
-When voting, you can also leave a **Reason** to say why you have voted this way.
+## State a reason
+
+When voting, you can also leave a **Reason** to say why you have voted this way. This is optional.
 
 ![](reason.png)
 
