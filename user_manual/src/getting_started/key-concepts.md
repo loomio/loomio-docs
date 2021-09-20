@@ -10,7 +10,7 @@ Loomio is an outcome-focused decision making tool.
 
 A Loomio group is a safe place for your organization to meet, have discussions and make decisions about work.
 
-![](https://i.imgur.com/CIeVlOq.png)
+![](Groups.png)
 
 
 **Group page**
