@@ -4,13 +4,13 @@ Loomio is an outcome-focused decision making tool.
 
 ## Here are some of the key concepts to learn about Loomio.
 
-![](https://i.imgur.com/wI2NlBt.png)
+![](key-concept.png)
 
 ## Group
 
 A Loomio group is a safe place for your organization to meet, have discussions and make decisions about work.
 
-![](https://i.imgur.com/CIeVlOq.png)
+![](Groups.png)
 
 
 **Group page**
@@ -22,47 +22,19 @@ Your group will have an image that represents something about your organization.
 
 Threads are where you discuss topics, share information and make decisions together.  
 
-![](https://i.imgur.com/WIZDhKM.png)
+![](Threads.png)
 
 Threads are used for many purposes.  In a board, you will be invited to Threads to prepare for a board meeting, vote on resolutions, approve minutes, discuss a particular topic, ask questions, share reports and discuss any other information important for the board.
 
 Threads keep everything about a topic in one place. Over time you’ll create a useful archive of your organization’s discussions and decisions.
 
-### Comment
-
-You can write a Comment in a Thread, and people can reply, react or post their own comment to continue the discussion.
-
-When you have written your text as a Comment in the thread, use **Post Comment** to instantly publish the comment. Your comment will be visible to anyone who has permission to see the thread. If you want to change anything you can edit the comment.
-
-![](https://i.imgur.com/vNQSEVQ.png)
-
-#### @Mention
-
-You can notify people when you write a comment.
-TODO and image or animation of mentioning
-
-#### Reply
-
-You can reply to someone's comment.  Your reply is published in the thread and an email is sent to the author of the comment.
-
-![](https://i.imgur.com/o2gF7bf.png)
-
-
-#### React
-
-Reacting to a comment is a great way to encourage and acknowledge a comment by letting the comment author know how you feel.  It is a quick and light-weight way to participate that does not require any text, nor send an email.
-
-![](https://i.imgur.com/pU4gA4y.png)
-
-
-## Voting tools
+## Proposal
 
 One of the key things about Loomio is it's powerful voting tools. These help you take a discussion through to a clear outcome.
 
-### Proposal
 A **Proposal** helps your group progress a discussion towards a decision, where you can have your say by voting.
 
-![](https://i.imgur.com/pidPaa2.png)
+![](Proposals.png)
 
 Simply state what’s being proposed, attach any supporting  documents, set a duration for when responses are required by, and invite people to vote.
 
@@ -70,52 +42,17 @@ Loomio is set to automatically remind people who haven't voted 24 hours before t
 
 Proposals help you make clear decisions. They provide a valuable record of the decision, including the discussion that led to the decision.
 
-### Casting a vote
-
-Voting in a Proposal or Poll is easy, just click or tap on the icon of your choice.
-
-You can vote to **Agree**, **Abstain** or **Disagree** to the proposal.
-
-![](https://i.imgur.com/xScj3Op.png)
-
-When voting, you can also leave a **Reason** to say why you have voted this way.
-
-![](https://i.imgur.com/wTjKXcG.png)
-
-Up until the proposal closes, you can change your vote.  
-
-There are many reasons why you might want to change your vote. For example if new information emerges it may cause you to rethink your decision, and change your vote.
-
-### Results
-
-Results of the proposal are updated as people vote, so you can see how a proposal is trending.
-
-![](https://i.imgur.com/dyQAFfw.png)
-
-In a controversial proposal it is common to see mixed results, however this does not mean the proposal has failed.  
-
-Often the new information revealed during the proposal helps form a better proposal that is more likely to pass.
-
-### Outcome
-
-When the proposal closes, the author is prompted to state the **Outcome**.
-
-This is an important final step to record the result of the decision and let everyone know what will happen next.
-
-![](https://i.imgur.com/Hb1f6P7.png)
-
-
 ## Other voting tools
 
 There is a range of Poll tools available in Loomio to help you progress a discussion towards an outcome; to ask people to approve something, find a suitable time to meet, or inquire about their preference for options.
 
 
-- Proposal: Find agreement on a proposal
-- Poll:
-- Check:
-- Time poll: Find a time to meet
-- Dot vote: Give
-- Score poll
-- Ranked chocie
+- **Proposal**: Find agreement on a proposal
+- **Poll**: Choose from a list of options to find people's preferences
+- **Check**: Make an offer or ask people to take an action. Think of it as the online equivalent of asking a room of people “Please raise your hand if you…”.
+- **Time poll**: Time polls make it easy to identify the best time to meet. Enter a selection of times and share the poll with the people involved. Participants tick the times they can attend and the result is a table showing who is available when, so you’re able to pick the best time for your group
+- **Dot vote**: Prioritise options together by allocating a ‘budget’ of points. This style of poll is useful for groups trying to allocate a limited resource to a number of options (e.g. agenda items, or budget line-items).
+- **Score poll**: A score poll lets your group express the degree of preference for different options on a scale. People get to express their desire, preference or interest in each option. The poll produces more granular results than a simple majority vote.
+- **Ranked Choice**: Offers a series of options for people to vote in their preferred order. You can choose the number of votes people can give and rank. Ranked-choice is particularly useful when you have a large number of options or an election to run.
 
 [Read more](polls/index.md)

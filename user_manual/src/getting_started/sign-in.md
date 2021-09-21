@@ -6,56 +6,52 @@ Signing up to Loomio is easy - you don’t need a password, and your computer wi
 
 Your invitation to join your Loomio group will arrive in your email inbox and look something like this:
 
-![](https://i.imgur.com/IlZNt4K.png)
+![](invitation.png)
 
-* Click the **Accept invitation** button at the centre of the email.
+Click the **Accept invitation** button at the centre of the email.
 
 The link will take you to the internet browser on your computer, tablet or smartphone and open a page where you are invited to create an account on the service at decisions.oric.gov.au.
 
 On your computer you will see:
 
-![](https://i.imgur.com/xnAfdVb.png)
+![](sign-in.png)
 
-* Click the **CONTINUE WITH EMAIL** button at the centre of the screen.
+Click the **CONTINUE WITH EMAIL** button at the centre of the screen.
 
 You will be taken to this page to create your Loomio user account.
 
-![](https://i.imgur.com/hXZlxUW.png)
+![](create-account.png)
 
 Type in your name, so people in your group will recognise you.
 
-* Click the **CREATE ACCOUNT** button at the bottom right hand corner of the screen.
+Click the **CREATE ACCOUNT** button at the bottom right hand corner of the screen.
 
 A Loomio user account will then be created for you.
 
-# Upload profile photo (Optional)
+## Upload profile photo (Optional)
 
 We encourage you to upload a profile picture which will be displayed whenever you make a comment. This is helpful for other members to easily identify you. This step is optional.
 
 If you don’t want to add a photo now: Click 'Use initials'
 
-![](https://i.imgur.com/BXeh6Jp.png)
+![](select-photo.png)
 
-* Click **Upload new photo**.
+Click **Upload new photo**.
 
 Select a suitable photo file from your computer.
 
-![](https://i.imgur.com/4MYpUUD.png)
+![](upload-photo.png)
 
-* Click **Open** to upload your photo.
-
-Creating a new user account and signing into an existing account both start from the form:
-
-![sign-in form](sign_in_form.png)
+Click **Open** to upload your photo.
 
 ## Returning to Loomio
 
-## Sign in via email
+### Sign in via email
 When you sign in via email, you'll be sent an email with a link (or a code) to sign in.
 
 ![sign-in email](sign_in_email.png)
 
-## Forgot your password?
+### Forgot your password?
 
 1. Go to the sign-in, put in your email address.
 2. Click **Sign in with email**
@@ -65,17 +61,17 @@ When you sign in via email, you'll be sent an email with a link (or a code) to s
 
 ![](forgot_my_password.png)
 
-## Tips for a better experience
+### Tips for a better experience
 
-### Set a password
+#### Set a password
 If you don't want to check your email to sign in, you can easily set a password. To do this, take the same steps you would to [change your password](../user_profile/#resetting-your-password).
 
-### Don't create more than one user account
+#### Don't create more than one user account
 Remember to use the same email address each time you login, or you may end up with two user accounts, which will cause permission errors when you're checking notifications.
 
 Sometimes people think they need two Loomio accounts because they have two groups and they want to keep things separated; However, Loomio is designed to support belonging to multiple groups with one user account.
 
-#### Merging user accounts
+### Merging user accounts
 If you do find yourself with more than one user account, you can [merge them](../merge_accounts).
 
 ### You can accept an invitation sent to another email address
