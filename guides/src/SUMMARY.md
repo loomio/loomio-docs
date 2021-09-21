@@ -1,5 +1,6 @@
 # Summary
 
+- [4 patterns of successful groups](four-patterns-of-success.md)
 - [5 ways to use threads](5_ways_to_use_threads/index.md)
 - [Advice process](advice_process/index.md)
 - [Consent process](consent_process/index.md)
