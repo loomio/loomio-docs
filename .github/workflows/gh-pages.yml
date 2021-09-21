@@ -20,13 +20,15 @@ jobs:
           mdbook-version: '0.4.12'
 
       - run: mdbook build user_manual
-      - run: mdbook build facilitators_guide
+      - run: mdbook build guides
       - run: mdbook build policy
       - run: mkdir ./public
-      - run: cp index.html ./public
-      - run: mv ./user_manual/book ./public/user_manual
-      - run: mv ./facilitators_guide/book ./public/facilitators_guide
-      - run: mv ./policy/book ./public/policy
+      - run: cp redirect.html ./public/index.html
+      - run: mkdir ./public/en
+      - run: cp index.html ./public/en
+      - run: mv ./user_manual/book ./public/en/user_manual
+      - run: mv ./guides/book ./public/en/guides
+      - run: mv ./policy/book ./public/en/policy
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
