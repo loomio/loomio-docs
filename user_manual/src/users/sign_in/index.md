@@ -1,12 +1,5 @@
----
-title: Sign into Loomio
-weight: 15
-description: Creating an Account, signing in, and troubleshooting.
-menu:
-  main:
-    name: Signing in
-    parent: users
----
+# Sign into Loomio
+_Creating an Account, signing in, and troubleshooting._
 
 Creating a new user account and signing into an existing account both start from the sign-in form:
 

@@ -1,15 +1,5 @@
----
-title: Types of polls and proposals
-description: You can use several kinds of polls or proposals to get group outcomes.
-weight: 50
-menu:
-  main:
-    parent: polls
----
-
 # Polls and Proposals
-
-Loomio's unique advantage over other tools is our facilitation and decision-making tools, our **proposals** and **polls**. These are used within discussion threads in order to move conversations, and your group, to clear, shared outcomes.
+_Loomio's **proposals** and **polls** are desgined to help you move a discussion through to clear outcomes_
 
 There are a number of different types of polls. Below the thread context, switch from the **Comment** box to the **Poll** to see the variety of unique ways to get your group's input and/or visualise where the group stands on a given topic or question.
 

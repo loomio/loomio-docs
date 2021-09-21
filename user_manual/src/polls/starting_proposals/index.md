@@ -1,11 +1,6 @@
----
-title: Using proposals or polls
-description: Basics, tips, and tricks for writing and using decision tools.
-weight: 10
-menu:
-  main:
-    parent: polls
----
+# Using proposals or polls
+_Basics, tips, and tricks for writing and using decision tools._
+
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/O-laa4di8kI" frameborder="0" allowfullscreen></iframe>
 
 There are a number of [types of proposals](../starting_proposals), but the basics remain the same for all of them.

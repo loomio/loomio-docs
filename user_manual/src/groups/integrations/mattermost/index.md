@@ -1,14 +1,5 @@
----
-title: Mattermost integration
-description: Connecting your Loomio group notifications to your Mattermost team chat.
-weight: 40
-hidetoc: true
-menu:
-  main:
-    name: Mattermost
-    identifier: mattermost
-    parent: integrations
----
+# Mattermost integration
+_Connecting your Loomio group notifications to your Mattermost team chat._
 
 Loomio can send notifications into your Mattermost channels when new discussions, proposals, comments, votes, and outcomes occur. Get key updates, at the right time, on important discussions and decisions.
 

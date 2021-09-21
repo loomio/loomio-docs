@@ -1,12 +1,5 @@
----
-title: Navigating Loomio
-description: How to find what you're looking for in Loomio.
-weight: 40
-menu:
-  main:
-    name: Navigation
-    parent: users
----
+# Navigating Loomio
+_How to find what you're looking for in Loomio._
 
 ## Top level
 

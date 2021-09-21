@@ -1,11 +1,5 @@
----
-title: Outcomes
-description: Record your decisions and share what's next by setting outcomes.
-weight: 30
-menu:
-  main:
-    parent: polls
----
+# Outcomes
+_Record your decisions and share what's next by setting outcomes._
 
 When your proposal closes, you’ll be prompted to set a proposal outcome.
 

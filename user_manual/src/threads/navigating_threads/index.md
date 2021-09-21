@@ -1,11 +1,6 @@
----
-title: Navigating in threads
-weight: 40
-description: Find what you need, when you need it, in a thread.
-menu:
-  main:
-    parent: threads
----
+# Navigating in threads
+_Find what you need, when you need it, in a thread._
+
 ## Context
 The thread **context** has special status within a thread. It's always at the top, and it's always visible on the page. It's typically used to frame the discussion or decision and provide necessary context. Learn more about engaging with the thread context [here](../engaging_with_threads/#thread-context).
 

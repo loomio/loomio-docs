@@ -1,12 +1,6 @@
----
-title: Merging your accounts
-description: How to merge two accounts together
-weight: 100
-menu:
-  main:
-    name: Merging accounts
-    parent: users
----
+# Merging your accounts
+_How to merge two accounts together_
+
 ## I have two Loomio accounts under two different email addresses, and I would like to merge them into a single account
 
  1. Login to Loomio **on the account you wish to replace**
@@ -15,4 +9,4 @@ menu:
 ![](merge_accounts.gif)
  4. A verification email will be sent to your preferred email address, and all you need to do is follow the prompts from there
 
-**N.B. This action is irreversible, but you will have the opportunity to make a final confirmation before it occurs**
+**This action is irreversible, but you will have the opportunity to make a final confirmation before it occurs**

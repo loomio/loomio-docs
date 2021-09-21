@@ -1,12 +1,5 @@
----
-title: Your Profile
-description: Configuring your online appearance and profile in Loomio.
-weight: 20
-menu:
-  main:
-    name: Your Profile
-    parent: users
----
+# Your Profile
+_Configuring your online appearance and profile in Loomio._
 
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/0Mb2_D74ktM?rel=0" frameborder="0" allowfullscreen></iframe>
 

@@ -1,12 +1,5 @@
----
-title: Notifications
-description: How to configure your email notification settings.
-weight: 30
-menu:
-  main:
-    parent: users
-    name: Notifications
----
+# Notifications
+_How to configure your email notification settings._
 
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/0Mb2_D74ktM?start=2?rel=0" frameborder="0" allowfullscreen></iframe>
 

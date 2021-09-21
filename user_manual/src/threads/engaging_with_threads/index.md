@@ -1,11 +1,5 @@
----
-title: Engaging with threads
-weight: 30
-description: Comments and tools such as thread translation and thread emails.
-menu:
-  main:
-    parent: threads
----
+# Engaging with threads
+_Comments and tools such as thread translation and thread emails._
 
 ## Thread context
 

@@ -1,12 +1,5 @@
----
-title: Subgroups
-description: Subgroups help you organize in teams.
-weight: 30
-menu:
-  main:
-    name: Subgroups
-    parent: groups
----
+# Subgroups
+_Subgroups help you organize in teams._
 
 Subgroups help you organize your communications and members so that the right people are engaged in their work together.
 

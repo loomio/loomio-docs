@@ -1,11 +1,6 @@
----
-title: Starting threads
-weight: 10
-description: Get a discussion or decision going.
-menu:
-  main:
-    parent: threads
----
+# Starting threads
+_Get a discussion or decision going._
+
 ## New thread
 
 You can start a thread by clicking **New thread** from a group page. When you start the thread, it will be visible to all of that group's members.

@@ -1,12 +1,6 @@
----
-title: Group data export
-description: How to export your group data.
-weight: 60
-menu:
-  main:
-    name: Data export
-    parent: groups
----
+# Group data export
+
+How to export your group data.
 
 A simple way to export all of your group's data. You can export it to a CSV, HTML, or JSON file.
 

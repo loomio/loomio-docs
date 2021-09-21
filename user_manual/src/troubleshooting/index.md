@@ -1,21 +1,12 @@
----
-title: Troubleshooting
-weight: 20
-description: Questions people often ask when they're learning about Loomio.
-menu:
-  main:
-    parent: user_manual
----
+# Troubleshooting
+_Common issues and ways to resolve them_
 
-## Troubleshooting
-
-### I can't see any of my groups!
+## I can't see any of my groups
 To fix this: Sign out then sign in again with the email address you normally use Loomio with.
 
 Why does this happen? This can happen because you participated in a poll when you were not signed in; Loomio creates a guest user, so you can participate without signing in. When you sign in later, we confirm the authenticity of your vote and connect it to your registered user.
 
-
-## Not receiving emails from Loomio?
+## I'm not receiving emails from Loomio
 If you cannot find your email code in the email inbox of the account you signed up with – or you started a group and haven't heard from us – **you will likely find it in your spam or junk mail folder.** Then, please white list loomio.org with your email service, or add notifications@loomio.org to your contacts.
 
 ## How can I stop my signature being included in email replies to threads?

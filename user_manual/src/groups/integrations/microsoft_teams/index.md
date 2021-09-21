@@ -1,14 +1,5 @@
----
-title: Microsoft Teams integration
-description: Connect your Loomio group notifications to Microsoft Teams.
-weight: 30
-hidetoc: true
-menu:
-  main:
-    name: Microsoft Teams
-    identifier: microsoft_teams
-    parent: integrations
----
+# Microsoft Teams integration
+_Connect your Loomio group notifications to Microsoft Teams._
 
 Loomio can send notifications into your Microsoft Teams when new discussions, proposals, comments, votes, and outcomes occur. Get key updates, at the right time, on important discussions and decisions.
 

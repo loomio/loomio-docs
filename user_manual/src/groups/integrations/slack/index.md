@@ -1,14 +1,5 @@
----
-title: Slack integration
-description: Connect your Loomio group notifications to Slack.
-weight: 10
-hidetoc: true
-menu:
-  main:
-    name: Slack
-    identifier: slack
-    parent: integrations
----
+# Slack integration
+_Connect your Loomio group notifications to Slack._
 
 Loomio can send notifications into your Slack channels when new discussions, proposals, comments, votes, and outcomes occur. Get key updates, at the right time, on important discussions and decisions.
 

@@ -1,11 +1,6 @@
----
-title: Notifying people
-weight: 20
-description: Catalyze interactions.
-menu:
-  main:
-    parent: threads
----
+# Notifying people
+
+_Catalyze interactions._
 
 Effective use of Loomio means knowing how and when to get attention from the group, group members, and even external people your group wants to engage in Loomio to keep everything in one place.
 

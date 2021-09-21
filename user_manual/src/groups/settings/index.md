@@ -1,12 +1,5 @@
----
-title: Admin and Settings
-description: Permissions and advanced group settings.
-weight: 20
-menu:
-  main:
-    name: Admin and Settings
-    parent: 'groups'
----
+# Admin and Settings
+_Permissions and advanced group settings._
 
 ## Admin
 
