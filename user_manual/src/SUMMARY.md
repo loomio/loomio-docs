@@ -29,15 +29,22 @@
 - [Starting proposals](polls/starting_proposals/index.md)
 - [Outcomes](polls/outcomes/index.md)
 
-# Integrations
-- [Slack](groups/integrations/slack/index.md)
-- [Microsoft Teams](groups/integrations/microsoft_teams/index.md)
-- [Mattermost](groups/integrations/mattermost/index.md)
-
-# Users
+# Your Profile
+- [User profile](users/user_profile/index.md)
 - [Deleting your account](users/deleting_your_account/index.md)
 - [Email settings](users/deleting_your_account/index.md)
 - [Merge accounts](users/merge_accounts/index.md)
 - [Navigation](users/navigation/index.md)
 - [Sign in](users/sign_in/index.md)
-- [User profile](users/user_profile/index.md)
+
+# Integrations
+- [Slack](groups/integrations/slack/index.md)
+- [Microsoft Teams](groups/integrations/microsoft_teams/index.md)
+- [Mattermost](groups/integrations/mattermost/index.md)
+
+# Old Getting started (yeowzer!)
+- [Starting a group](old_getting_started/starting_a_group/index.md)
+- [Having discussions](old_getting_started/having_discussions/index.md)
+- [Decision tools](old_getting_started/decision_tools/index.md)
+- [Activating](old_getting_started/activating/index.md)
+- [Notification settings](old_getting_started/notifications_settings/index.md)
