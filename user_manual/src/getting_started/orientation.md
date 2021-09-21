@@ -1,6 +1,6 @@
 # A quick tour of Loomio
 
-There are several tools included within Loomio to help you find the information you are looking for quickly, and to help you to participate in discussion threads and decision votes.
+Lets take a quick orientation tour to help you participate in discussions and decisions.
 
 ## Sidebar
 
@@ -8,12 +8,11 @@ The sidebar menu is accessible from the (☰) menu icon at screen top left, wher
 
 ![](sidebar-menu.png)
 
-* **Dashboard** - open Polls and Proposals and recently active Threads.
-* **Unread threads** - a list of Threads you have yet to read.
-* **Invite-only threads** - private Threads that do not belong to a group.
-* **Start a new thread** - where you can start a new private Thread. 
-
-The sidebar menu is also where you can easily navigate to your Loomio groups and subgroups.
+* **Dashboard** - Open Polls and Proposals and recently active Threads.
+* **Unread threads** - A list of Threads you have yet to read.
+* **Invite-only threads** - Private Threads that do not belong to a group.
+* **Start a new thread** - Where you can start a new private Thread. 
+* **Your Loomio groups** - Where you can easily find your Loomio groups and subgroups.
 
 ### User settings
 
