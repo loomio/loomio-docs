@@ -59,9 +59,31 @@ When you receive an email from Loomio, you can reply directly from your email in
 
 ## Group page
 
+Your group home page is the first place people see when they arrive. It contains a description of why the group exists and what you will use it for, and any other information that may help you participate.
 
+You can add an image that represents something of your organization and place.
 
-### group page tabs
+![](group-page.png)
+
+### Tabs
+
+Under the group description you will see tabs. Clicking on each tab displays information about:
+
+**Threads** - A list of discussion threads showing the author, the thread title, category tag, along with some other useful information about the recent activity in the thread. 
+
+**Polls** - A list of the polls and proposals active in your group.
+
+**Members** - Where you can see a list of the people who are members of the group.
+
+**Files** - Files and documents that have been uploaded to your group.
+
+**Subgroups** - A list of subgroups that you are a member of. A subgroup is the collaborative space for a working team, project or event, a governance board, a subcommittee or stakeholders group.
+
+**Settings** - Where administrators of the group can set and change group privacy and member permissions.
+
+Below the tabs there is a search bar, with filters such as open or closed threads and category tags. The filters help you view a reduced set of information.
+
+If the threads tab is selected, the thread list shows the title of the thread, author, number of replies, and when last active.
 
 ## Thread page
 
