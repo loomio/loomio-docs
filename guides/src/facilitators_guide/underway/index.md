@@ -40,18 +40,14 @@ In our society, multiple layers of history, power dynamics, culture, and psychol
 
 But the best ideas do not always come from the loudest voices, and the role of facilitation is to counteract these biases. It’s important to be aware of the dynamics we are collectively grappling with if our goals are social justice, group effectiveness, and high quality decision making.
 
-{{%expert_advice "../rich_200.png"%}}
-  > If you want to innovate, you have to make space for different points of view — luckily, this is also what you need to do if you want a team where everyone is empowered. All kinds of cultural and technical factors conspire to privilege some voices at the expense of others. There are many practices you can implement to systematically challenge that bias, but just being aware of it is a good starting point. — Richard Bartlett
-{{%/expert_advice%}}
+> <img style="border-radius: 100%; float: right; margin-left: 0.5em; max-width: 96px; " src="../rich_200.png"> If you want to innovate, you have to make space for different points of view — luckily, this is also what you need to do if you want a team where everyone is empowered. All kinds of cultural and technical factors conspire to privilege some voices at the expense of others. There are many practices you can implement to systematically challenge that bias, but just being aware of it is a good starting point. — Richard Bartlett
 
 
 Our lived human experience is to inhabit a singular consciousness, so humans tend to forget that others experience the world differently. Even within a seemingly homogenous group, there is incredible diversity — perspectives, pace, preferences. Internalising this truth — that others are different from myself — is a central personal growth challenge.
 
 There is no such thing as one size fits all. Any mode of interacting enhances some voices and quiets others, or emphasises different tendencies within an individual. So, it’s necessary to employ a range of approaches to invite the best from multiple diverse voices.
 
-{{%expert_advice "../silvia_200.png"%}}
-  > Check you’re catering to different learning styles. One simple way to check is with the Head, Heart, Hands metaphor. People who learn with their Head need facts and detailed information. A Heart learner thrives off stories. They need an emotional connection to the work. Learning with the Hands is all about doing stuff and getting active. — Silvia Zuur
-{{%/expert_advice%}}
+> <img style="border-radius: 100%; float: right; margin-left: 0.5em; max-width: 96px; " src="../silvia_200.png"> Check you’re catering to different learning styles. One simple way to check is with the Head, Heart, Hands metaphor. People who learn with their Head need facts and detailed information. A Heart learner thrives off stories. They need an emotional connection to the work. Learning with the Hands is all about doing stuff and getting active. — Silvia Zuur
 
 One of the best approaches to bringing out and weaving together diverse voices is to invite diverse modes of interaction, which will serve different needs and preferences, and level the communication playing field.
 
@@ -135,7 +131,7 @@ It’s important not to try to “boil the ocean”, and instead break things do
 
 In a collaboration, no one knows exactly what will emerge, so scope must evolve with the discussion. Whether branching out at a given moment is a distraction or an evolution is a judgement call. Too much rigidity and too much flexibility can both be damaging. Often times it’s not about whether something is relevant or not, but a question of sequence and timing in terms of what will be most constructive.
 
-> If you plan a session with multiple, interlinked parts – each one building on the other, and all leading to a life-changing, mind-exploding conclusion – and you can pull it off, then that’s amazing. But more often than not, a complicated session will go over-time and may not hit the participant’s wants and needs. -- Silvia Zuur
+> If you plan a session with multiple, interlinked parts – each one building on the other, and all leading to a life-changing, mind-exploding conclusion – and you can pull it off, then that’s amazing. But more often than not, a complicated session will go over-time and may not hit the participant’s wants and needs. - Silvia Zuur
 
 ## A series of small yes's
 Lumping too many conversations together simply creates confusion. Frustrated groups are often helped by breaking things down. If an issue seems hopeless, complex or conflicted, it can be possible to separate out individual questions and reach consensus on them, starting with the easiest things to agree. Then when it comes to points of disagreement, you can pare it down to only the crux of the issues and work on them in a focused way.
@@ -163,9 +159,6 @@ On Loomio
 * It’s easy to modulate your own pace of engagement. If a conversation is moving too fast or slowly for you, you can drop your input and step back, and then return later when a proposal is raised.
 * It’s interesting to note how a “fast” decision on Loomio is 1 or 2 days, while a “fast” decision in person is more like 5 minutes. And yet, Loomio does not seem “slow”, the way taking 2 days to reach a decision in person would. Loomio runs decisions in parallel to other ongoing work, and it's much more efficient gathering everyone’s input on Loomio over 2 days versus having to schedule an in-person meeting.
 * Facilitation on Loomio could be likened to “bullet time” (when Neo can stop time and just walk around a bullet in the Matrix) — you can walk through a living conversation frame by frame. It’s like a superpower.
-
-<a href="bulletime.jpg" alt="Neo Matrix Bullet Time"><img src="bulletime.jpg" class="img-center img-50pc"/></a>
-
 
 ## Managing the Attention Economy
 

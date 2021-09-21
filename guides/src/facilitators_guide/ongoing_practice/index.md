@@ -26,17 +26,13 @@ People who are less used to taking acts of facilitation can be supported with ed
 * noticing who is and is not participating
 * appreciating contributions explicitly
 
-{{%expert_advice "../silvia_200.png"%}}
-  > You don’t need an agenda to be a facilitator. Facilitating is just about making a group situation easy. Next time you’re at a family gathering, party or morning tea: approach it like a facilitator and make sure everybody in the group feels included and able to participate. — Silvia Zuur
-{{%/expert_advice%}}
+> <img style="border-radius: 100%; float: right; margin-left: 0.5em; max-width: 96px; " src="../silvia_200.png"> You don’t need an agenda to be a facilitator. Facilitating is just about making a group situation easy. Next time you’re at a family gathering, party or morning tea: approach it like a facilitator and make sure everybody in the group feels included and able to participate. — Silvia Zuur
 
 Distributed facilitation can work beautifully, but it can also cause people to step all over each other. At first, it’s awkward as people learn the dance. It’s important to differentiate between distributed facilitation (peers helping the collective), “facipulation” (manipulating the group toward your own agenda), and backseat facilitation (taking acts of facilitation when you do not have the mandate).
 
 Consciously decide when peer facilitation is a good choice, and when a specific facilitator is called for. In certain situations, such as a high-conflict discussion where a specified neutral party is needed, or there is a lack of trust, distributed facilitation might not work.
 
-{{%expert_advice "../rich_200.png"%}}
-  > Acts of facilitation are not just for the manager, or the person who called the meeting — they are for everyone. — Richard Bartlett
-{{%/expert_advice%}}
+> <img style="border-radius: 100%; float: right; margin-left: 0.5em; max-width: 96px; " src="../rich_200.png"> Acts of facilitation are not just for the manager, or the person who called the meeting — they are for everyone. — Richard Bartlett
 
 
 ## Translating this into Loomio

@@ -2,10 +2,9 @@
 
 ![](cover.jpg)
 
-{{%expert_advice "../silvia_200.png"%}}
-  > For every minute of time with the group, consider spending 3 minutes planning. That means spending three hours preparing for a one hour session. Only as you improve should you spend less time planning. — Silvia Zuur
-{{%/expert_advice%}}
-
+> <img style="border-radius: 100%; float: right; margin-left: 0.5em; max-width: 96px; " src="../silvia_200.png"> For every minute of time with the group, consider spending 3 minutes planning. That means spending three hours preparing for a one hour session. Only as you improve should you spend less time planning.
+>
+> — Silvia Zuur
 
 ## Understand Purpose
 

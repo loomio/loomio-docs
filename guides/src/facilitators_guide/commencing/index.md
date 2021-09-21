@@ -6,9 +6,9 @@
 
 How participants are invited into a facilitated space is incredibly important. People understand huge amounts of information from the invitation, and use it to judge how a space will be held and if they belong there. The moment of invitation is in many ways the defining opportunity to set the tone and establish trust.
 
-{{%expert_advice "../rich_200.png"%}}
-  > Decision making is all about communication: your group can only make good decisions together if there’s a foundation of good communication in place first. This means being clear about what the purpose of a discussion or meeting is, who needs to be involved, what the time-frame is, and what people can expect. — Richard Bartlett
-{{%/expert_advice%}}
+> <img style="border-radius: 100%; float: right; margin-left: 0.5em; max-width: 96px; " src="../rich_200.png"> Decision making is all about communication: your group can only make good decisions together if there’s a foundation of good communication in place first. This means being clear about what the purpose of a discussion or meeting is, who needs to be involved, what the time-frame is, and what people can expect.
+>
+> — Richard Bartlett
 
 Key aspects to an invitation:
 
@@ -56,9 +56,8 @@ Even among groups who already know each other well, this introduction process co
 
 People's expression does not occur in a vaccuum, but in the context of who they are. A multi-faceted view of someone’s identity is an essential aspect of interpreting their contributions.
 
-{{%expert_advice "../rich_200.png"%}}
-  > We start many of our meetings with everyone “checking in” before we get to the agenda. These check-ins are focused not on your work tasks, but on how you’re doing as a human being. If you’re going through a rough patch at home, or you’re sick, or you have exciting positive news, understanding your state of mind will help the entire group have the right context to interpret how you’re communicating. — Richard Bartlett
-{{%/expert_advice%}}
+
+> We start many of our meetings with everyone “checking in” before we get to the agenda. These check-ins are focused not on your work tasks, but on how you’re doing as a human being. If you’re going through a rough patch at home, or you’re sick, or you have exciting positive news, understanding your state of mind will help the entire group have the right context to interpret how you’re communicating. — Richard Bartlett
 
 On Loomio
 
