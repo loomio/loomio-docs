@@ -4,13 +4,13 @@ Loomio is an outcome-focused decision making tool.
 
 ## Here are some of the key concepts to learn about Loomio.
 
-![](key-concept.png)
+![](key-concept.png#border-solid)
 
 ## Group
 
 A Loomio group is a safe place for your organization to meet, have discussions and make decisions about work.
 
-![](Groups.png)
+![](Groups.png#width-50#border-solid)
 
 
 **Group page**
@@ -22,7 +22,7 @@ Your group will have an image that represents something about your organization.
 
 Threads are where you discuss topics, share information and make decisions together.  
 
-![](Threads.png)
+![](Threads.png#width-50#border-solid)
 
 Threads are used for many purposes.  In a board, you will be invited to Threads to prepare for a board meeting, vote on resolutions, approve minutes, discuss a particular topic, ask questions, share reports and discuss any other information important for the board.
 
@@ -34,7 +34,7 @@ One of the key things about Loomio is it's powerful voting tools. These help you
 
 A **Proposal** helps your group progress a discussion towards a decision, where you can have your say by voting.
 
-![](Proposals.png)
+![](Proposals.png#width-50#border-solid)
 
 Simply state what’s being proposed, attach any supporting  documents, set a duration for when responses are required by, and invite people to vote.
 
