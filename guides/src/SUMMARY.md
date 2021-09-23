@@ -16,3 +16,7 @@
   - [Underway](facilitators_guide/underway/index.md)
   - [Concluding](facilitators_guide/concluding/index.md)
   - [Ongoing Practice](facilitators_guide/ongoing_practice/index.md)
+
+# ORIC Guides
+- [Getting started](oric/index.md)
+- 
