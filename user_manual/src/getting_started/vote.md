@@ -1,20 +1,18 @@
-# Vote
+# Voting
 
-You will receive an invitation to vote via email or by notification in Loomio. Click on the link to cast your vote.
-
-## Voting
+You will receive an invitation to vote via email or by notification in Loomio. Click on the link to have your say.
 
 Voting in a Proposal or Poll is easy, just click or tap on the icon of your choice.
 
 You can vote to **Agree**, **Abstain** or **Disagree** to the proposal. Other options may be available.
 
-![](proposal-vote.png)
+![](proposal-vote.png#width-80#border-solid)
 
 ## State a reason
 
 When voting, you can also leave a **Reason** to say why you have voted this way. This is optional.
 
-![](reason.png)
+![](reason.png#width-80#border-solid)
 
 Up until the proposal closes, you can change your vote.  
 
@@ -24,7 +22,7 @@ There are many reasons why you might want to change your vote. For example if ne
 
 Results of the proposal are updated as people vote, so you can see how a proposal is trending.
 
-![](results.png)
+![](results.png#width-80#border-solid)
 
 In a controversial proposal it is common to see mixed results, however this does not mean the proposal has failed.  
 
@@ -36,4 +34,4 @@ When the proposal closes, the author is prompted to state the **Outcome**.
 
 This is an important final step to record the result of the decision and let everyone know what will happen next.
 
-![](outcome.png)
+![](outcome.png#width-80#border-solid)
