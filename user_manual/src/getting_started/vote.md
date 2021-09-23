@@ -18,6 +18,16 @@ Up until the proposal closes, you can change your vote.
 
 There are many reasons why you might want to change your vote. For example if new information emerges it may cause you to rethink your decision, and change your vote.
 
+### Changing your vote
+
+If you can change your vote, up until the proposal closes.
+
+![](update-vote.png#width-80#border-solid)
+
+There are many reasons why you might want to change your vote. For example if new information emerges it may cause you to rethink your decision, and change your vote.
+
+Once again, you can leave a reason - to say why you have changed your vote.
+
 ## Results
 
 Results of the proposal are updated as people vote, so you can see how a proposal is trending.
