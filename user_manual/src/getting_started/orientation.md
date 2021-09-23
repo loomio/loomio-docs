@@ -30,22 +30,6 @@ Below the tabs there is a search bar, with filters such as open or closed thread
 
 If the threads tab is selected, the thread list shows the title of the thread, author, number of replies, and when last active.
 
-## Thread page
-
-By scrolling down your group page, you will see a list of threads, proposals and polls in your group, ordered by recently active.
-
-
-
-The thread shows the author, or an icon of the active proposal or poll.  You can read the thread title and see category tags.
-
-### context
-### activity
-### comment
-
-### timeline
-
-## Poll page
-
 ## Sidebar
 
 The sidebar menu is accessible from the (☰) menu icon at screen top left, where you can see:
@@ -101,4 +85,25 @@ If you are receiving too many emails from Loomio, you can change the default ema
 
 When you receive an email from Loomio, you can reply directly from your email inbox and your reply will be posted into the Loomio thread. This works for everything except the Catch-up summary email.
 
+## Thread page
 
+From the group page, click on a thread to read the thread.
+
+![](thread-example.png#width-80#border-solid)
+
+Here you can read the thread title, content and comments from other members. 
+
+The thread page includes information about everything you need to know;
+* the group and subgroup the thread belongs to
+* category tags applied to the thread
+* author, privacy, who has seen the thread and who has been notified
+* comments, replies and any polls
+* timeline of key events in the thread, such as polls or proposals
+
+### context
+### activity
+### comment
+
+### timeline
+
+## Poll page
