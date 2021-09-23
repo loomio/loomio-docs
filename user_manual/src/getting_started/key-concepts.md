@@ -1,6 +1,6 @@
 # Loomio key concepts
 
-Loomio is an outcome-focused decision making tool.
+Loomio is collaborative working space for your organization, focused to help you make decisions to achieve outcomes.
 
 ## Here are some of the key concepts to learn about Loomio.
 
@@ -12,6 +12,13 @@ A Loomio group is a safe place for your organization to meet, have discussions a
 
 ![](Groups.png#width-50#border-solid)
 
+**Subgroups**
+
+Subgroups are all about people - they provide a place for a group of people to do their work. 
+
+Any natural grouping of people who need to focus on specific work together are a candidate for a subgroup. For example use subgroups as a collaborative space for your working team, project or event, a governance board, a subcommittee or stakeholders group.
+
+![](subgroups.png#width-80#border-solid)
 
 **Group page**
 Your Group home page is the first place you see when your arrive. It contains a description of your group; it's purpose, an outline of the work you are going to do, and any other information to help you participate.
