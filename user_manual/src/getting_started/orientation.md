@@ -1,10 +1,10 @@
 # A quick tour of Loomio
 
-Lets take a quick orientation tour to help you participate in discussions and decisions.
+Lets take an orientation tour to help you quickly understand how to participate in discussions and decisions in your group.
 
 ## Group page
 
-Your group home page is the first place people see when they arrive. It contains a description of why the group exists and what you will use it for, and any other information that may help you participate.
+Your group home page is the first place people see when they arrive. It contains a description of why the group exists, what you will use it for, and any other information that may help you participate.
 
 You can add an image that represents something of your organization and place.
 
@@ -46,7 +46,7 @@ The sidebar menu is accessible from the (☰) menu icon at screen top left, wher
 
 Click the down arrow ( ∨ ) to open your user settings.
 
-![](profile.png#width-50#border-solid)
+![](profile-edit.png#width-50#border-solid)
 
 The most useful settings when getting started are:
 
@@ -67,8 +67,6 @@ The bell icon in the top-right is where notifications are accessed within Loomio
 
 Loomio sends emails to keep you updated on the activity in your groups. 
 
-![](email-settings.png#width-80#border-solid)
-
 Emails Loomio may send you include:
 
 * **Mention and Replies** - When someone @mentions you in a comment or replies to you, you will receive a notification email.
@@ -81,13 +79,37 @@ These emails are to help you participate effectively with your group. The defaul
 
 If you are receiving too many emails from Loomio, you can change the default email settings. Talk to your group administrator to get the balance right for you.
 
+![](profile.png#width-50#border-solid)
+
+![](email-settings.png#width-80#border-solid)
+
 ![](notification-preferences.png#width-80#border-solid)
 
 When you receive an email from Loomio, you can reply directly from your email inbox and your reply will be posted into the Loomio thread. This works for everything except the Catch-up summary email.
 
+## Finding Information Quickly
+
+There are several tools included within Loomio to help you find the information you are looking for quickly.
+
+### Search
+
+You can use the Search bar at the top of almost every page to search for content relevant to that page.
+
+For example, on the Threads page typing 'decision' in the search bar brings up two threads with the work 'decision'.
+
+![](search.png#width-80#border-solid)
+
+### Category Tags
+
+Category Tags make it easy to find threads of a certain type or topic. 
+
+Tags can be applied when starting or editing a Thread, Poll or Proposal.
+
+![](search-tags.png#width-80#border-solid)
+
 ## Thread page
 
-From the group page, click on a thread to read the thread.
+From your group page, click on a thread to read the thread.
 
 ![](thread-example.png#width-80#border-solid)
 
