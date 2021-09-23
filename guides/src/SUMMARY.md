@@ -19,4 +19,3 @@
 
 # ORIC Guides
 - [Getting started](oric/index.md)
-- 
