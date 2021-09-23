@@ -46,7 +46,7 @@ The sidebar menu is accessible from the (☰) menu icon at screen top left, wher
 
 Click the down arrow ( ∨ ) to open your user settings.
 
-![](profile-edit.png#width-50#border-solid)
+![](profile-edit.png#width-30#border-solid)
 
 The most useful settings when getting started are:
 
@@ -79,7 +79,7 @@ These emails are to help you participate effectively with your group. The defaul
 
 If you are receiving too many emails from Loomio, you can change the default email settings. Talk to your group administrator to get the balance right for you.
 
-![](profile.png#width-50#border-solid)
+![](profile.png#width-30#border-solid)
 
 ![](email-settings.png#width-80#border-solid)
 
@@ -111,21 +111,46 @@ Tags can be applied when starting or editing a Thread, Poll or Proposal.
 
 From your group page, click on a thread to read the thread.
 
-![](thread-example.png#width-80#border-solid)
+![](thread-robotics-roadshow.png#width-80#border-solid)
 
-Here you can read the thread title, content and comments from other members. 
+On the thread page the thread title is prominent, and you can read the thread content and discussion comments from other members. 
 
-The thread page includes information about everything you need to know;
-* the group and subgroup the thread belongs to
+The thread page includes everything you need to know about the thread;
+* the group, and subgroup, the thread belongs to
 * category tags applied to the thread
-* author, privacy, who has seen the thread and who has been notified
-* comments, replies and any polls
+* author and thread privacy
+* **Seen by** to see who has seen the thread
+* **Notified** to see who has been notified
+* comments, replies, reactions and any polls
 * timeline of key events in the thread, such as polls or proposals
 
-### context
-### activity
-### comment
+### Thread context
 
-### timeline
+The thread context is used to introduce the topic. It will often include background information, attached files or links to online documents, to help you participate in the discussion - just as you would attach a file to an email. The context always stays at the top of the thread.
+
+![](thread-context.png#width-80#border-solid)
+
+### Thread activity
+
+**Seen by** shows who has read the thread, and when.
+
+![](seen-by.png#width-80#border-solid)
+
+**Notified** shows who has been notified about the thread, and if read or email opened.
+
+![](thread-notification.png#width-80#border-solid)
+
+### Comments
+
+As you scroll down the thread page, you will see comments and replies from other group members.
+
+![](thread-comments.png#width-80#border-solid)
+
+### Timeline
+
+The thread timeline builds with key activity in the threads.  Use timeline to quickly go to decisions or important comments pinned to the timeline.
+
+![](thread-timeline.png#width-50#border-solid)
+
 
 ## Poll page
