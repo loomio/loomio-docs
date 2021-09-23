@@ -12,18 +12,18 @@ A Loomio group is a safe place for your organization to meet, have discussions a
 
 ![](Groups.png#width-50#border-solid)
 
-**Subgroups**
-
-Subgroups are all about people - they provide a place for a group of people to do their work. 
-
-Any natural grouping of people who need to focus on specific work together are a candidate for a subgroup. For example use subgroups as a collaborative space for your working team, project or event, a governance board, a subcommittee or stakeholders group.
-
-![](subgroups.png#width-80#border-solid)
-
 **Group page**
 Your Group home page is the first place you see when your arrive. It contains a description of your group; it's purpose, an outline of the work you are going to do, and any other information to help you participate.
 
 Your group will have an image that represents something about your organization.
+
+**Subgroups**
+
+Subgroups are all about people - they provide a place for a group of people to do their work. 
+
+![](subgroups.png#width-80#border-solid)
+
+Any natural grouping of people who need to focus on specific work together are a candidate for a subgroup. For example use subgroups as a collaborative space for your working team, project or event, a governance board, a subcommittee or stakeholders group.
 
 ## Thread
 
