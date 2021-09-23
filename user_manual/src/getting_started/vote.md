@@ -20,7 +20,7 @@ There are many reasons why you might want to change your vote. For example if ne
 
 ### Changing your vote
 
-If you can change your vote, up until the proposal closes.
+If you can **change your vote**, up until the proposal closes.
 
 ![](update-vote.png#width-80#border-solid)
 
