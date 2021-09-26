@@ -9,7 +9,6 @@ This series of guides and templates is designed to help directors use digital co
 This pack includes guides to use templates within Loomio for good governance, guides for group administrators (Connectors) and for directors of corporations.
 
 Click on the links below to go to the guide you are interested in.
-- [Introduction to guides and templates](oric/intro.md)
 
 ## Guides
 - [Governance onboarding to Loomio for Corporations](oric/onboarding.md)
