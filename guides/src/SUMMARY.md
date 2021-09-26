@@ -18,8 +18,9 @@
   - [Ongoing Practice](facilitators_guide/ongoing_practice/index.md)
 
 # ORIC Guides
-- [Introduction to guides and templates for the Loomio ORIC pilot program](oric/index.md)
+- [Introduction to guides and templates for the Loomio ORIC pilot program](oric/intro.md)
 - **Guides**
+  - [Governance onboarding to Loomio for Corporations](oric-guides/onboarding.md)
   - [Guide for Directors and Users](oric/index.md)
   - [Guide for Connectors](oric-guides/guide-connectors.md)
   - [Loomio key concepts](getting_started/key-concepts.md)
