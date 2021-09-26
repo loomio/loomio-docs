@@ -12,6 +12,7 @@ Click on the links below to go to the guide you are interested in.
 - [Introduction to guides and templates](oric/intro.md)
 
 ## Guides
+- [Governance onboarding to Loomio for Corporations](oric/onboarding.md)
 - [Guide for Director users](oric/guide-directors.md)
 - [Guide for Connectors](oric/guide-connectors.md)
 - [Loomio key concepts](getting_started/key-concepts.md)
