@@ -2,13 +2,12 @@
 
 The following chart summarises the onboarding training, Loomio group set up and Guides made available to support Corporations as they get started with Loomio:
 
-![](onboarding-overview.png)
+![](onboarding-overview.png#border-solid)
 
 
 **Letter of invitation** 
-An invitation to the ORIC Loomio Pilot programme and to join a first call via Zoom.
+A sample invitation letter to the ORIC Loomio Pilot programme and to join a first call via Zoom.
 [Click here for the draft Letter of invitation.](https://hackmd.io/2lEu8UH5TGWSHWyssj0yGg)
-
 
 **Online webinar with the leaders of corporations** 
 This first session is with the Chairperson and/or Chief Executives of Corporations enquiring about joining the ORIC Loomio pilot, where we will introduce the pilot, Loomio and our intent to support good governance with digital tools.
