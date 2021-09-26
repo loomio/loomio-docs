@@ -21,7 +21,7 @@
 - [Introduction to guides and templates for the Loomio ORIC pilot program](oric/intro.md)
 - **Guides**
   - [Governance onboarding to Loomio for Corporations](oric-guides/onboarding.md)
-  - [Guide for Directors and Users](oric/index.md)
+  - [Guide for Directors and Users](oric-guides/guide-directors.md)
   - [Guide for Connectors](oric-guides/guide-connectors.md)
   - [Loomio key concepts](getting_started/key-concepts.md)
 - **Good governance guides**
