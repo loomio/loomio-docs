@@ -18,4 +18,6 @@
   - [Ongoing Practice](facilitators_guide/ongoing_practice/index.md)
 
 # ORIC Guides
-- [Getting started](oric/index.md)
+- [Introduction to guides and templates for the Loomio ORIC pilot program](oric/index.md)
+- [Guides]
+  - [Guide for Directors and Users](oric/index.md)
