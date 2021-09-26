@@ -9,11 +9,11 @@ This series of guides and templates is designed to help directors use digital co
 This pack includes guides to use templates within Loomio for good governance, guides for group administrators (Connectors) and for directors of corporations.
 
 Click on the links below to go to the guide you are interested in.
-- [Introduction to guides and templates](oric-guides/intro.md)
+- [Introduction to guides and templates](oric/intro.md)
 
 ## Guides
-- [Guide for Director users](oric-guides/guide-directors.md)
-- [Guide for Connectors](oric-guides/guide-connectors.md)
+- [Guide for Director users](oric/guide-directors.md)
+- [Guide for Connectors](oric/guide-connectors.md)
 - [Loomio key concepts](getting_started/key-concepts.md)
 
 See your Loomio Demo Group for templates and examples for preparing board meetings, follow up minutes and actions, voting on resolutions, and enabling subcommittees to make recommendations or decisions.
@@ -34,6 +34,6 @@ Good governance exists where an organisation has systems and processes in place 
 Underpinning all of these principles is good communication.
 
 Use these guides to help improve governance in your organisation:
-- [Introducing a new online tool to your organisation](oric-guides/intro-online-tool.md)
-- [Approving financial reports - what directors should consider](oric-guides/approving-financials.md)
-- [Questioning Financial statements - Questions directors could ask](oric-guides/questioning-financials.md)
+- [Introducing a new online tool to your organisation](oric/intro-online-tool.md)
+- [Approving financial reports - what directors should consider](oric/approving-financials.md)
+- [Questioning Financial statements - Questions directors could ask](oric/questioning-financials.md)
