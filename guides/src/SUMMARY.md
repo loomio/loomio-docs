@@ -19,5 +19,11 @@
 
 # ORIC Guides
 - [Introduction to guides and templates for the Loomio ORIC pilot program](oric/index.md)
-- [Guides]
+- **Guides**
   - [Guide for Directors and Users](oric/index.md)
+  - [Guide for Connectors](oric-guides/guide-connectors.md)
+  - [Loomio key concepts](getting_started/key-concepts.md)
+- **Good governance guides**
+  - [Introducing a new online tool to your organisation](oric-guides/intro-online-tool.md)
+  - [Approving financial reports - what directors should consider](oric-guides/approving-financials.md)
+  - [Questioning Financial statements - Questions directors could ask](oric-guides/questioning-financials.md)
