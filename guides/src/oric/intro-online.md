@@ -103,7 +103,6 @@ For example, typical work processes of a board include:
 * *attach or link documents and other necessary materials*
 * *summarise actions and invite directors to update on their tasks*
 
-![](prepare-meeting.png#border-solid)
 
 *Use a Loomio **Time Poll** to find the next meeting date.*
 
