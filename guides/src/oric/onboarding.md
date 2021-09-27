@@ -15,11 +15,27 @@ This first session is with the Chairperson and/or Chief Executives of Corporatio
 * Get everyone to join Loomio, post a comment and vote on a poll during the call
 * Ask leader to identify an administrator or company secretary who we will invite as ‘Connectors’ to a practical training session to set up their board on Loomio
 
+Outcomes sought: 
+* Understanding the value of Loomio to your Board
+* Identification of areas for governance improvement for your Board and potential issues
+* Build trust/permission/excitement for using Loomio to address the above
+
 **Training session with Connectors**
-A practical hands-on training session for each board administrator to set up Loomio for their first board meeting.
+A practical hands-on training session for each board administrator to set up Loomio for your first board meeting.
+
+Outcomes sought:
+* Exposure to and hands-on experience in use of Loomio
+* Confidence in using the tool independently for your next meeting
+* Identification of any barriers or issues in using Loomio or addressing governance 
 
 **Training for each organisation**
 A one hour time slot to be scheduled within the next board meeting to give all directors the capability to use Loomio.
+
+Outcomes sought:
+* Building confidence as users of Loomio
+* Building capability to interact with the tool to be able to do good governance 
+* Setting up your Loomio group for success and ease of use
+
 
 **Pre-configured Loomio group for each Corporation**
 A Loomio group and subgroups set up for each Corporation on the decisions.oric.gov.au service, containing initial templated content to help the corporations get started with Loomio.
@@ -28,4 +44,12 @@ A Loomio group and subgroups set up for each Corporation on the decisions.oric.g
 Each Corporation will have a pre-loaded demo group, where they can see example content and templates for common board discussion and decision processes.
 
 **Guides**
-Guides to help Corporations use Loomio and practice good governance are built into Loomio Help online documentation.
+An online book for ORIC Corporations, that may be printed to pdf.  Includes Guides for directors, connectors and links to the Loomio Help book for key concepts. 
+Includes guides for good governance practices on Loomio and questions directors should ask when approving financial reports.
+
+**Help**
+Loomio Manual for all users including introducing Loomio key concepts in the first chapter.  The Manual provides information about all Loomio features, to help people setting up and facilitating Loomio groups.  
+
+
+
+
