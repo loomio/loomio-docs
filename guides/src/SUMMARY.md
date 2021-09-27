@@ -18,13 +18,10 @@
   - [Ongoing Practice](facilitators_guide/ongoing_practice/index.md)
 
 # ORIC Guides
-- [Introduction to guides and templates for the Loomio ORIC pilot program](oric/intro.md)
-- **Guides**
-  - [Governance onboarding to Loomio for Corporations](oric-guides/onboarding.md)
-  - [Guide for Directors and Users](oric-guides/guide-directors.md)
-  - [Guide for Connectors](oric-guides/guide-connectors.md)
-  - [Loomio key concepts](getting_started/key-concepts.md)
-- **Good governance guides**
-  - [Introducing a new online tool to your organisation](oric-guides/intro-online-tool.md)
-  - [Approving financial reports - what directors should consider](oric-guides/approving-financials.md)
-  - [Questioning Financial statements - Questions directors could ask](oric-guides/questioning-financials.md)
+- [Introduction](oric/index.md)
+- [Onboarding](oric/onboarding.md)
+- [Guide for Directors and Users](oric/guide-directors.md)
+- [Guide for Connectors](oric/guide-connectors.md)
+- [Introducing a new online tool to your organisation](oric/intro-online.md)
+- [Approving financial reports](oric/approving-financials.md)
+- [Questioning Financial statements](oric/questioning-financials.md)
