@@ -14,7 +14,7 @@ Click on the links below to go to the guide you are interested in.
 - [Governance onboarding to Loomio for Corporations](onboarding.md)
 - [Guide for Director users](guide-directors.md)
 - [Guide for Connectors](guide-connectors.md)
-- [Loomio key concepts](../user_manual/getting_started/key-concepts.md)
+- [Loomio key concepts](https://loomio.github.io/loomio-docs/en/user_manual/getting_started/key-concepts.html)
 
 See your Loomio Demo Group for templates and examples for preparing board meetings, follow up minutes and actions, voting on resolutions, and enabling subcommittees to make recommendations or decisions.
 
