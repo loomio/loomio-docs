@@ -335,6 +335,8 @@ Typical subgroups for Indigenous Corporations include:
 * Risks & Audits
 * Industry-specific subgroup such as Property
 
+![](board-subgroups.png)
+
 ---
 
 **Set up a subgroup**
