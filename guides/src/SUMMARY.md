@@ -25,3 +25,4 @@
 - [Introducing a new online tool to your organisation](oric/intro-online.md)
 - [Approving financial reports](oric/approving-financials.md)
 - [Questioning Financial statements](oric/questioning-financials.md)
+- [Letter of invitation to Pilot](oric/letter.md)
