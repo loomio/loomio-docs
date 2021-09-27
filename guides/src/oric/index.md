@@ -37,3 +37,9 @@ Use these guides to help improve governance in your organisation:
 - [Introducing a new online tool to your organisation](intro-online.md)
 - [Approving financial reports](approving-financials.md)
 - [Questioning Financial statements](questioning-financials.md)
+
+## Letter of invitation to Pilot
+An invitation to the ORIC Loomio Pilot programme and to join a first call via Zoom.
+- [Letter of invitation](letter.md)
+
+---
