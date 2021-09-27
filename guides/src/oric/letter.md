@@ -47,11 +47,16 @@ The session is 1 hour duration, via Zoom video call at the following times:
 * 11am AEST
 * 1pm New Zealand
 
-If you wish to join the Pilot; Following the webinar we will arrange training sessions with your board administrator or company secretary and book a timeslot in your next board meeting to introduce Loomio to directors. 
+## Getting started with Loomio
+When you are ready to get started; please identify a person familiar with the IT and technology of your organisation, and the person who takes care of board administration. Send us their name and email addresses (it's ok if they are the same person). 
 
-We will also invite you to spend 10 minutes responding to a baseline survey about your corporation’s current governance.
+We will then set up a Loomio group for your Corporation and get in touch to arrange training and onboarding, and book a timeslot in your next board meeting to introduce Loomio to directors. 
 
-We do expect you to actively use Loomio tools for your board decision-making—and if you have a question or concern, contact either your trained administrator or Loomio for support.
+We ask you to spend 10 minutes responding to a baseline survey about your corporation’s current governance.
+
+And we expect you to actively use Loomio tools for your board decision-making. 
+
+If you have a question or concern, contact either your trained administrator or Loomio for support.
 
 ## Data sovereignty
 Aboriginal and Torres Strait Islander corporations participating in this programme will have sovereignty over their data. ORIC will have access to metrics about their use of Loomio, and any quantitative and qualitative data that directors provide as part of evaluating their own governance and the Loomio service. ORIC will have no access to any substantive data about corporations’ deliberations or decisions.
