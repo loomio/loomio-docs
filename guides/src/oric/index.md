@@ -34,6 +34,6 @@ Good governance exists where an organisation has systems and processes in place 
 Underpinning all of these principles is good communication.
 
 Use these guides to help improve governance in your organisation:
-- [Introducing a new online tool to your organisation](intro-online-tool.md)
+- [Introducing a new online tool to your organisation](intro-online.md)
 - [Approving financial reports - what directors should consider](approving-financials.md)
 - [Questioning Financial statements - Questions directors could ask](questioning-financials.md)
