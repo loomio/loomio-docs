@@ -11,10 +11,10 @@ This pack includes guides to use templates within Loomio for good governance, gu
 Click on the links below to go to the guide you are interested in.
 
 ## Guides
-- [Governance onboarding to Loomio for Corporations](oric/onboarding.md)
-- [Guide for Director users](oric/guide-directors.md)
-- [Guide for Connectors](oric/guide-connectors.md)
-- [Loomio key concepts](getting_started/key-concepts.md)
+- [Governance onboarding to Loomio for Corporations](onboarding.md)
+- [Guide for Director users](guide-directors.md)
+- [Guide for Connectors](guide-connectors.md)
+- [Loomio key concepts](../user_manual/getting_started/key-concepts.md)
 
 See your Loomio Demo Group for templates and examples for preparing board meetings, follow up minutes and actions, voting on resolutions, and enabling subcommittees to make recommendations or decisions.
 
