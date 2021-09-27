@@ -71,6 +71,8 @@ Typical subgroups for Indigenous Corporations include:
 * An industry-specific subgroup, such as "Property"
 * Membership
 
+![](board-subgroups.png#border-solid)
+
 You may also want to set up a subgroup to share information and engage with Corporation membership. 
 
 Always review subgroup privacy and permissions are set appropriate for the  work of the subgroup. 
