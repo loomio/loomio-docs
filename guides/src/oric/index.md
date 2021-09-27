@@ -11,7 +11,7 @@ This pack includes guides to use templates within Loomio for good governance, gu
 Click on the links below to go to the guide you are interested in.
 
 ## Guides
-- [Governance onboarding to Loomio for Corporations](onboarding.md)
+- [Onboarding to Loomio](onboarding.md)
 - [Guide for Director users](guide-directors.md)
 - [Guide for Connectors](guide-connectors.md)
 - [Loomio key concepts](https://loomio.github.io/loomio-docs/en/user_manual/getting_started/key-concepts.html)
@@ -35,5 +35,5 @@ Underpinning all of these principles is good communication.
 
 Use these guides to help improve governance in your organisation:
 - [Introducing a new online tool to your organisation](intro-online.md)
-- [Approving financial reports - what directors should consider](approving-financials.md)
-- [Questioning Financial statements - Questions directors could ask](questioning-financials.md)
+- [Approving financial reports](approving-financials.md)
+- [Questioning Financial statements](questioning-financials.md)
