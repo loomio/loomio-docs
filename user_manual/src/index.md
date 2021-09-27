@@ -28,3 +28,7 @@ Read **Decisions** to learn how to use **Proposal** and **Poll** decision-making
 
 ## Integrations
 
+Loomio can send notifications to Slack, Microsoft Teams and Mattermost about new events.  Read **Integrations** for help in configuration to your chat tool.
+
+Loomio can also be configured for Single Sign On (SSO) on private hosted services. Contact the Loomio team for more information.
+
