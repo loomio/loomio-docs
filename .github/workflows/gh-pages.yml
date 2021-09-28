@@ -22,6 +22,7 @@ jobs:
       - run: mdbook build user_manual
       - run: mdbook build guides
       - run: mdbook build policy
+      - run: mdbook build oric
       - run: mkdir ./public
       - run: cp redirect.html ./public/index.html
       - run: mkdir ./public/en
@@ -29,6 +30,7 @@ jobs:
       - run: mv ./user_manual/book ./public/en/user_manual
       - run: mv ./guides/book ./public/en/guides
       - run: mv ./policy/book ./public/en/policy
+      - run: mv ./oric/book ./public/en/oric
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
