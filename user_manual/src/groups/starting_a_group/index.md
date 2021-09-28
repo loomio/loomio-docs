@@ -1,6 +1,22 @@
 # Starting a new group
 
-When you first start, you'll create a new **organization**. At this stage, organization is basically another way of saying "your group." The first thing to do is enter a name and a description for your group.
+Starting a new group will depend upon your Loomio service:
+
+### Starting a new group on loomio.org - available globally
+
+You can start a new Loomio group at any time on a free trial at:
+- loomio.com - click on the **Try Loomio for Free** button, or,
+- sidebar menu - click on **New group**.
+
+### Starting a new group on a regional service - limited availability
+
+Loomio service running on local secure servers is available in some regions.  See loomio.com/pricing for current details.
+
+Contact us to start a new Loomio group on a regional service.
+
+### Starting a new group on a private or self-hosted service
+
+You can start a new Loomio group at any time from the sidebar menu - click on **New group**.
 
 ## Group details
 
