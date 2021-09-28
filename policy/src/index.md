@@ -1,9 +1,4 @@
----
-title: 'Loomio Policies and Terms of Service'
-description: 'All the policies and legal stuff for Loomio customers. We try to make all our policies as clear, fair, and readable as possible.'
----
-
-# Loomio Policies, Terms, and Legal Stuff
+# Loomio Policy
 
 The rough print and the fine print. We try to make all our policies as clear, fair, and readable as possible.
 
