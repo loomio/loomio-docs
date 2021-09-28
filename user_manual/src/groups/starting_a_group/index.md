@@ -1,26 +1,8 @@
 # Starting a new group
 
-Starting a new group will depend upon your Loomio service:
-
-**On loomio.org - available globally**
-
-You can start a new Loomio group at any time on a free trial at:
-- loomio.com - click on the **Try Loomio for Free** button, or,
-- sidebar menu - click on **New group**.
-
-**On a regional service - limited availability**
-
-Loomio service running on local secure servers is available in some regions.  See loomio.com/pricing for current details.
-
-Contact us to start a new Loomio group on a regional service.
-
-**On a private or self-hosted service**
-
 You can start a new Loomio group at any time from the sidebar menu - click on **New group**.
 
 ## Group details
-
-You can always return to change these by visiting **Edit group settings** on the **Settings** tab of your group page.
 
 ### Group name
 
@@ -60,6 +42,8 @@ Your Loomio **group page** is a place to store all of the information, links, an
 
 Uploading a photo or image that has some meaning to your group significantly improves the sense of belonging. You can also add a logo which will appear alongside your group name in the sidebar menu.  Click on the image and logo to upload your file.
 
-TODO: Resolution 
+The ideal pixel resolution for the group image is 2048 x 512. But any image with aspect ratio of 4:1 will fit. 
 
 ![](edit_group_photo.png)
+
+You can always return to change these by visiting **Edit group settings** on the **Settings** tab of your group page.
