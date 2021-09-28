@@ -4,3 +4,7 @@ language = "en"
 multilingual = false
 src = "src"
 title = "Loomio Policies"
+
+[output.html]
+no-section-label = true
+edit-url-template = "https://github.com/loomio/loomio-docs/edit/main/policy/{path}"

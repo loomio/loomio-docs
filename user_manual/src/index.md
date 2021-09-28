@@ -1,4 +1,4 @@
-# User Manual
+# Loomio User Manual
 
 A simple guide to introduce Loomio and explain how the app works.
 
@@ -18,9 +18,9 @@ Read **Groups** to learn how to start, configure and administer a Loomio group o
 
 **Threads** has everything you need to know about starting discussions, attach files, link to documents and videos, formatting tools and inviting people to your discussion.  It also includes help to quickly find your way around a thread, see participation and reorganize threads to keep discussions on track.
 
-## Voting 
+## Decisions
 
-Read **Voting** to learn how to use **Proposal** and **Poll** decision-making tools to take a discussion through to a clear outcome. Includes information about Proposal options and the wide range of Poll types, how to start a Proposal and Poll and how to deliver an outcome.
+Read **Decisions** to learn how to use **Proposal** and **Poll** decision-making tools to take a discussion through to a clear outcome. Includes information about Proposal options and the wide range of Poll types, how to start a Proposal and Poll and how to deliver an outcome.
 
 ## Your Profile
 
@@ -31,4 +31,3 @@ Read **Voting** to learn how to use **Proposal** and **Poll** decision-making to
 Loomio can send notifications to Slack, Microsoft Teams and Mattermost about new events.  Read **Integrations** for help in configuration to your chat tool.
 
 Loomio can also be configured for Single Sign On (SSO) on private hosted services. Contact the Loomio team for more information.
-

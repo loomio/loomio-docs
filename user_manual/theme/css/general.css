@@ -189,10 +189,6 @@ blockquote {
     font-style: italic;
 }
 
-li.chapter-item strong {
-  display: none !important;
-}
-
 html {
   font-family: "Roboto", sans-serif;
 }
