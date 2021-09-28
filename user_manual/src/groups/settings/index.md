@@ -78,4 +78,26 @@ This allows anyone in your group to start a proposal within a thread. When this 
 
 This allows everyone in your group to state their position on proposals. When it is deselected only group admin will be able to state their position on proposals and polls.
 
-## Threads
+## Thread view settings
+
+Thread **activity** is comprised of all the comments, replies, proposals, polls, votes and other notable things that happen within the thread. There are two ways you can alter how that activity is displayed in order to optimize the experience given a specific thread's purpose:
+
+![](thread_format.png)
+
+### Oldest or Newest first
+
+By default, this activity is 1.) listed with the oldest activity nearest the top, or **oldest first**, and 2.) nested, which means a reply will be displayed just under the comment to which it is responding and the proposals and polls will result in a nice list of responses/positions directly under the area where folks engage with them.
+
+The grey text just under the context will indicate in which order the activity is being listed, along with the number of replies.
+
+To change this setting, click that grey text, choose your preference, and save. _This changes the layout for everyone, not just you._
+
+> **Tip:** Long threads, for example your organization's 'wall' for off-topic sharing, often benefit from the setting **newest first**
+
+### How replies are displayed
+
+The thread can also be set to display chronologically, as a **flat list**, where all activity is displayed in the order that it happened. _Again, this setting is for all thread members as threads are viewed in the same way by everyone._
+
+!["7 replies" and "oldest first" displayed just under the thread context and above the thread activity](thread_format_button.png)
+
+Similar to switching oldest for newest first, change how replies are displayed by clicking the grey text under the context to first open **Thread layout** options, select your preference, and save.
