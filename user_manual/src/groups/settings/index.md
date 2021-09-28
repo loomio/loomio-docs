@@ -80,24 +80,18 @@ This allows everyone in your group to state their position on proposals. When it
 
 ## Thread view settings
 
-Thread **activity** is comprised of all the comments, replies, proposals, polls, votes and other notable things that happen within the thread. There are two ways you can alter how that activity is displayed in order to optimize the experience given a specific thread's purpose:
+Thread **activity** is comprised of all the comments, replies, proposals, polls, votes and other notable things that happen within the thread. You can alter how that activity is displayed in order to optimize the experience for your group. These settings change the default layout for everyone in your group, but can be adjusted for each thread to serve  a specific purpose:
 
-![](thread_format.png)
+![](group-settings-threads.png#width-90#border-solid)
 
 ### Oldest or Newest first
 
-By default, this activity is 1.) listed with the oldest activity nearest the top, or **oldest first**, and 2.) nested, which means a reply will be displayed just under the comment to which it is responding and the proposals and polls will result in a nice list of responses/positions directly under the area where folks engage with them.
+By default, threads are set to **Oldest** listed with the oldest activity nearest the top. You can change the thread flow by switching to **Newest** so that the newest activity is at the top of the thread.
 
-The grey text just under the context will indicate in which order the activity is being listed, along with the number of replies.
+### Flat or Nested replies
 
-To change this setting, click that grey text, choose your preference, and save. _This changes the layout for everyone, not just you._
+The thread can also be set to display chronologically, as a **flat list**, where all activity is displayed in the order that it happened, or as **nested replies** of one or two levels. 
 
-> **Tip:** Long threads, for example your organization's 'wall' for off-topic sharing, often benefit from the setting **newest first**
+Nested replies keeps replies to comments together, and is very helpful to easily see mini-discussions within an overall thread.
 
-### How replies are displayed
-
-The thread can also be set to display chronologically, as a **flat list**, where all activity is displayed in the order that it happened. _Again, this setting is for all thread members as threads are viewed in the same way by everyone._
-
-!["7 replies" and "oldest first" displayed just under the thread context and above the thread activity](thread_format_button.png)
-
-Similar to switching oldest for newest first, change how replies are displayed by clicking the grey text under the context to first open **Thread layout** options, select your preference, and save.
+Click **Save** to exit.
