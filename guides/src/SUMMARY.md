@@ -1,13 +1,18 @@
 # Summary
 
+# Success on Loomio
 - [4 patterns of successful groups](four-patterns-of-success.md)
 - [5 ways to use threads](5_ways_to_use_threads/index.md)
+- [Practical examples](practical_examples.md)
+
+# Decision making
 - [Advice process](advice_process/index.md)
 - [Consent process](consent_process/index.md)
+
+# Governance
 - [Virtual AGM](virtual_agm/index.md)
-- [Virtual board meetings](virtual_board_meetings/index.md)
+- [Virtual Board meetings](virtual_board_meetings/index.md)
 - [Webinars and trainings](webinars_and_trainings/index.md)
-- [Practical examples](practical_examples.md)
 
 # Facilitation
 - [The Facilitator's Guide to Loomio](facilitators_guide/index.md)
