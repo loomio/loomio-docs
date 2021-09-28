@@ -1,11 +1,5 @@
----
-title: Other practical examples
-weight: 110
-description: Best practices for better collaboration on Loomio.
-menu:
-  main:
-    parent: guides
----
+# Other practical examples
+_Best practices for better collaboration on Loomio._
 
 We've tested and documented a number of methods you can use to move forward with your group.
 
