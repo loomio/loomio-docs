@@ -8,3 +8,4 @@ title = "Applying Loomio"
 [output.html]
 no-section-label = true
 edit-url-template = "https://github.com/loomio/loomio-docs/edit/main/guides/{path}"
+site-url = "/en/guides/"
