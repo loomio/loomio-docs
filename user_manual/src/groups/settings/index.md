@@ -1,5 +1,7 @@
 # Group Settings
-_Permissions and advanced group settings._
+_Configuring your Loomio group._
+
+
 
 Only a group's admin can see and edit group settings. As Admin you can change group permissions and configure what members can do in any group or subgroup by:
 
