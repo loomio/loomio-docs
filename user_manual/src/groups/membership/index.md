@@ -1,30 +1,35 @@
 # Managing members
 _How to invite people and manage memberships._
 
-## Inviting people
+## Invite people
 
-To add members to your group…
+Go to your group page and click the **Members** tab to access member management
 
-First, visit your group page and click the **Members** tab to access member management
-
-Second, click one of two options
+Click one of two options
 
 1. **Invite**: If you have their email addresses, you can send invitations to each member of your group.
 2. **Share**: Or you can share the **Reusable invitation link** via email or however your team communicates.
 
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/RGv0Yq6sv8g?rel=0" frameborder="0" allowfullscreen></iframe>
 
+
 ### Invite people to Closed groups
 
-If your group's privacy is **closed** then you can additionally invite people by sharing your `loomio.org/handle`. When people arrive at your group page, they will see the title, the description, and a button **Join group** to request membership. They become a group member when their request is approved.
+If your group's privacy is **closed** then you can invite people by sharing your `loomio.org/handle`. When people arrive at your group page, they will see the title, the description, and a button **Join group** to request membership. As administrator of the group, you will receive an email where you can approve the request.
 
-> Reminder: Closed groups are basically private, but – unlike Secret groups – disclose their Group Name and Group Description publicly.
+> Reminder: Closed groups disclose their Group Name, Group Description with links and file attachments publicly.
 
-### Invite people to subgroups
+Follow up on people who don't make it into the group and give them a nudge. 
+
+If people join but don't begin to participate right away, you might like to welcome them to the group with an @mention, for example:
+
+> “Welcome to the group @Jane, it's great to have you here! Please tell us something about your work and interests.”
+
+### Invite people to Subgroups
 
 You will follow the same process as above.
 
-You can invite people to an organization, or parent group, and one or more subgroups simultaneously when you invite them with the **Invite people** button. Tick the boxes next to the subgroups you want them to immediately be a part of when they join the group. See it demonstrated in the video clip [just above](#inviting-people).
+You can invite people to a 'parent' group, and one or more subgroups simultaneously when you invite them with the **Invite people** button. Tick the boxes next to the subgroups you want them to immediately be a part of when they join the group. See it demonstrated in the video clip [just above](#inviting-people).
 
 ### Getting people on board
 
@@ -65,7 +70,7 @@ To cancel your previous invitation link and generate a new one, click **Share** 
 Managing members is easy. The following management actions are available from the Members tab on your Group page. Just click on the three dots (**⋮**) to the right of the group member you wish to remove, promote or demote from **admin**, or assign a **title**.
 
 ### Admin
-Admin are those with the _most_ permissions in a group. Admin can add and remove members, grant and remove admin permissions and modify group settings.
+Admin are those people with the _most_ permissions in a group. Admin can add and remove members, grant and remove admin permissions and modify group settings.
 
 Click on the three dots (**⋮**) next to the person you want to make an admin, and then choose **Make admin**. You will now see that there is an `Admin` tag to the right of their name. Everyone with this tag is an admin.
 
