@@ -12,7 +12,7 @@
 # Groups
 - [Starting a group](groups/starting_a_group/index.md)
 - [Group Settings](groups/settings/index.md)
-- [Managing members](groups/membership/index.md)
+- [Inviting people](groups/membership/index.md)
 - [Subgroups](groups/subgroups/index.md)
 - [Data export](groups/data_export/index.md)
 - [Deleting your group](groups/deleting_archiving/index.md)
