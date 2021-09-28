@@ -11,6 +11,28 @@ Groups are all about people. So it is advisable to think about the people you ar
 - What objectives do you need to achieve? 
 - What do people need to know to participate effectively?
 
+You can start a new Loomio group at any time from the sidebar menu - click on **New group**.
+
+![](new-group.png#width-50#border-solid)
+
+## Group details
+
+![](new-group-start.png#width-90#border-solid)
+
+### Group name
+
+Type your group name. It's best to keep your group name short and concise.
+
+### Group handle
+
+By default, Loomio will make this `your-group-name` but you can choose any unused, alphanumeric handle (hyphens optional). Navigating to the URL loomio.org/[your-group-handle] will take you directly to your group page.
+
+### Category selection
+
+You may be asked to select a category that best describes your group, so we help you with relevant information.
+
+**Your new group is created!**
+
 ## Group home page
 
 Your Group home page is the first place people will see when they arrive. It should contain a description of your group; it's purpose, an outline of the work you are going to do, and any other information to help people to participate.
