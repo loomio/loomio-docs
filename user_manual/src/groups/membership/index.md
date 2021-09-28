@@ -1,4 +1,4 @@
-# Managing members
+# Inviting people 
 _How to invite people and manage memberships._
 
 ## Invite people
