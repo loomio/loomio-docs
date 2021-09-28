@@ -24,7 +24,7 @@
 - [Navigating threads](threads/navigating_threads/index.md)
 - [Thread admin](threads/thread_admin/index.md)
 
-# Voting
+# Decisions
 - [Poll types](polls/proposal_types/index.md)
 - [Starting proposals](polls/starting_proposals/index.md)
 - [Outcomes](polls/outcomes/index.md)
