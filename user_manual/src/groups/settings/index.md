@@ -1,19 +1,35 @@
 # Group Settings
 _Configuring your Loomio group._
 
+In group settings you can add a group description, upload a photo or image for your group, change group privacy and member permissions, and set thread view default. Only people who are 'admin' can see and edit group settings. 
 
+Go to the **Settings** tab on your group page. Click **Edit Group Settings** and use the form that appears (click save when done). 
 
-Only a group's admin can see and edit group settings. As Admin you can change group permissions and configure what members can do in any group or subgroup by:
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/7z60BLLBLFU?rel=0" frameborder="0" allowfullscreen></iframe>
 
-1. navigating to the **Settings** tab of your group's page
-2. selecting **Edit Group Settings**
-3. clicking a tab (**Privacy** or **Permissions** options are described below)
+## Group profile
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/ye08QEnP1_A?rel=0" frameborder="0" allowfullscreen></iframe>
+### Upload a group photo
+
+Uploading a photo or image that has some meaning to your group significantly improves the sense of belonging. You can also add a logo which will appear alongside your group name in the sidebar menu.  Click on the image and logo to upload your file.
+
+The ideal pixel resolution for the group image is 2048 x 512. But any image with aspect ratio of 4:1 will fit. 
+
+![](settings-profile.png#width-90#border-solid)
+
+### Group description
+
+Write your **Group description**.  Use the formatting tools to format your description, attach documents, add links, embed videos and others.
+
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/7z60BLLBLFU?rel=0" frameborder="0" allowfullscreen></iframe>
+
+---
 
 ## Privacy
 
 Go to the **Settings** tab on your group page. Click **Edit Group Settings** and go to the **Privacy** tab. Click **Update Settings** when done.
+
+![](settings-privacy.png#width-90#border-solid)
 
 Your privacy settings determine who can find your group, who can see the threads in your group, and how people join.
 
@@ -29,9 +45,13 @@ Open groups may contain secret and closed subgroups.
 
 A member of an open group can see the closed subgroup but not the secret ones.
 
+---
+
 ## Permissions
 
 Most of the permissions settings only affect what **members** can do. Members are the users in your group who are _not_ [Admins](#admin).
+
+![](settings-permissions.png#width-90#border-solid)
 
 ### Anyone can join (Open groups)
 
@@ -79,6 +99,8 @@ This allows anyone in your group to start a proposal within a thread. When this 
 ### Vote on proposals
 
 This allows everyone in your group to state their position on proposals. When it is deselected only group admin will be able to state their position on proposals and polls.
+
+---
 
 ## Thread view settings
 
