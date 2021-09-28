@@ -23,6 +23,8 @@ jobs:
       - run: mdbook build guides
       - run: mdbook build policy
       - run: mdbook build oric
+      - run: mkdir ./public
+      - run: cp -R static/* ./public/
       - run: mv ./user_manual/book ./public/en/user_manual
       - run: mv ./guides/book ./public/en/guides
       - run: mv ./policy/book ./public/en/policy
