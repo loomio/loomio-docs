@@ -1,0 +1,245 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>4 patterns of successful groups - Applying Loomio</title>
+                
+
+        <!-- Custom HTML head -->
+        
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+                <link rel="icon" href="favicon.svg">
+                        <link rel="shortcut icon" href="favicon.png">
+                <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+                <link rel="stylesheet" href="css/print.css" media="print">
+        
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+                <link rel="stylesheet" href="fonts/fonts.css">
+        
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+            </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="index.html">home</a></li><li class="chapter-item expanded affix "><li class="part-title">Success on Loomio</li><li class="chapter-item expanded "><a href="four-patterns-of-success.html" class="active">4 patterns of successful groups</a></li><li class="chapter-item expanded "><a href="5_ways_to_use_threads/index.html">5 ways to use threads</a></li><li class="chapter-item expanded "><a href="practical_examples.html">Practical examples</a></li><li class="chapter-item expanded affix "><li class="part-title">Decision making</li><li class="chapter-item expanded "><a href="advice_process/index.html">Advice process</a></li><li class="chapter-item expanded "><a href="consent_process/index.html">Consent process</a></li><li class="chapter-item expanded affix "><li class="part-title">Governance</li><li class="chapter-item expanded "><a href="virtual_agm/index.html">Virtual AGM</a></li><li class="chapter-item expanded "><a href="virtual_board_meetings/index.html">Virtual Board meetings</a></li><li class="chapter-item expanded "><a href="webinars_and_trainings/index.html">Webinars and trainings</a></li><li class="chapter-item expanded affix "><li class="part-title">Facilitation</li><li class="chapter-item expanded "><a href="facilitators_guide/index.html">The Facilitator's Guide to Loomio</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="facilitators_guide/preparation/index.html">Preparation</a></li><li class="chapter-item expanded "><a href="facilitators_guide/commencing/index.html">Commencing</a></li><li class="chapter-item expanded "><a href="facilitators_guide/underway/index.html">Underway</a></li><li class="chapter-item expanded "><a href="facilitators_guide/concluding/index.html">Concluding</a></li><li class="chapter-item expanded "><a href="facilitators_guide/ongoing_practice/index.html">Ongoing Practice</a></li></ol></li></ol>            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                                                <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                                            </div>
+
+                    <h1 class="menu-title">Applying Loomio</h1>
+
+                    <div class="right-buttons">
+                                                <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                                                                                                <a href="https://github.com/loomio/loomio-docs/edit/main/guides/src/four-patterns-of-success.md" title="Suggest an edit" aria-label="Suggest an edit">
+                            <i id="git-edit-button" class="fa fa-edit"></i>
+                        </a>
+                        
+                    </div>
+                </div>
+
+                                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <hr />
+<p>title: Four patterns of high-functioning groups
+weight: 40
+description: How successful groups collaborate to achieve great outcomes.
+author: Michael Elwood-Smith
+categories:</p>
+<ul>
+<li>Articles and Interviews
+date: &quot;2019-06-34T09:56:49Z&quot;
+hidetoc: true
+menu:
+main:
+parent: guides
+name: 4 patterns of success</li>
+</ul>
+<hr />
+<p>Why do some groups succeed, while others fail? This is the underlying question group coordinators and facilitators grapple with as they seek to help people do better work together.</p>
+<p>From volunteer activist groups to companies to governance boards, in our work with people around the world, time and time again we see a few key factors that all successful groups have in common. So, what sets great groups apart from the rest?</p>
+<h2 id="1-successful-groups-know-their-why"><a class="header" href="#1-successful-groups-know-their-why">1. Successful groups know their WHY</a></h2>
+<p>All successful groups share a common purpose that unites members in their contributions. Each member knows the WHY behind their efforts, which motivates them to bring their best selves to work.</p>
+<h4 id="group-spotlight"><a class="header" href="#group-spotlight">Group spotlight</a></h4>
+<p><em>For over 30 years, <a href="https://blog.loomio.org/2019/03/27/helping-uk-cooperatives-thrive/?utm_campaign=guide&amp;utm_term=help">Co-operative Assistance Network (CAN)</a>’s purpose remained the same – helping people work better together through principles of democracy, autonomy, and concern for the community. CAN use Loomio to make collective decisions and to unite the group in their mission. <a href="https://blog.loomio.org/2019/03/27/helping-uk-cooperatives-thrive/?utm_campaign=guide&amp;utm_term=help">Read more…</a></em></p>
+<h2 id="2-they-share-the-same-vision"><a class="header" href="#2-they-share-the-same-vision">2. They share the same vision</a></h2>
+<p>High-functioning groups know exactly what they are set up to achieve and what the outcome looks like when their work is complete. They hold this vision even when they come across speedbumps on their journey.</p>
+<h4 id="group-spotlight-1"><a class="header" href="#group-spotlight-1">Group spotlight</a></h4>
+<p><em><a href="https://blog.loomio.org/2019/07/30/catalyzing-the-zero-waste-movement-in-france/">Zero Waste France’s</a> vision is a sustainable planet without disposable plastic packaging, where citizens and society are mobilized to action.  Zero Waste France use Loomio to organize campaigns, raise awareness and take action, achieving real outcomes in the process. <a href="https://blog.loomio.org/2019/07/30/catalyzing-the-zero-waste-movement-in-france/">Read more…</a></em></p>
+<h2 id="3-they-are-action-oriented"><a class="header" href="#3-they-are-action-oriented">3. They are action-oriented</a></h2>
+<p>Great groups are intentional in their actions. They know exactly what work they need to do, by when, and who they need to help get this work done. They use online platforms like Loomio to stay organized and project management tools to get work done. Members report regularly on steps taken towards their goals and celebrate victories and milestones along the way.</p>
+<h4 id="group-spotlight-2"><a class="header" href="#group-spotlight-2">Group spotlight</a></h4>
+<p><em><a href="https://blog.loomio.org/2019/02/13/leading-italy-into-the-future-of-work/?utm_campaign=guide&amp;utm_term=help">mondora</a>, a cloud software development company practices a culture of openness and transparency,  supporting every employee to fully participate in all aspects of the business. Mondora use Loomio to involve all employees in making decisions that affect the company. <a href="https://blog.loomio.org/2019/02/13/leading-italy-into-the-future-of-work/?utm_campaign=guide&amp;utm_term=help">Read more…</a></em></p>
+<h2 id="4-they-work-on-working-well-together"><a class="header" href="#4-they-work-on-working-well-together">4. They work on working well together</a></h2>
+<p>Like all relationships, maintaining good group dynamics requires hard work. Groups that prioritize their ties with each other tend to perform better than others.</p>
+<p>Successful groups also try to involve all members in discussion. They invite diverse participation as they understand that this helps them to move through complexity.</p>
+<p><strong><a href="https://help.loomio.org/en/guides/governance/?utm_campaign=guide&amp;utm_term=help#supercharge-your-meetings">Get our simple guide for supercharging your meetings</a>.</strong></p>
+<p>They do regular check-ins to make sure that everyone is on the same page and feel heard and validated. They use tools like Loomio to make decisions and come to collective agreements together.</p>
+<h4 id="group-spotlight-3"><a class="header" href="#group-spotlight-3">Group spotlight</a></h4>
+<p><em><a href="https://blog.loomio.org/2019/05/09/uniting-charities-for-a-common-cause/?utm_campaign=guide&amp;utm_term=help">3SG</a> built a community of 200 people in the nonprofit sector, who collaborate on charitable projects. The 3SG team recently used Loomio to engage more members and include the voices of people who would otherwise be too shy to speak up. “It’s more democratic”. <a href="https://blog.loomio.org/2019/05/09/uniting-charities-for-a-common-cause/?utm_campaign=guide&amp;utm_term=help">Read more…</a></em></p>
+<h2 id="work-better-together-with-loomio"><a class="header" href="#work-better-together-with-loomio">Work better together with Loomio</a></h2>
+<p>Groups around the world use Loomio to achieve better outcomes with less time and effort. Loomio is an all-in-one platform where you can discuss, collaborate and make decisions as a team. <a href="https://loomio.org/g/new/?utm_campaign=guide&amp;utm_term=help">Start a group on Loomio</a>.
+<br><br></p>
+<p style="font-size:130%;text-align:center">“Loomio has led to better decisions, higher engagement, fewer meetings, and faster implementation.”</p> <center>—James Bloemendal, Ian Martin Group, Canada</center>
+<hr />
+<p><strong>Tip:</strong>  Use your Loomio group page to describe your vision, why this group was set up (purpose), the outcomes you seek and how you would like people to engage.</p>
+<hr />
+<h3 id="contact-us"><a class="header" href="#contact-us">Contact us</a></h3>
+<p>We love talking to people about the challenges of collaboration to achieve positive outcomes. <a href="https://loomio.org/contact/?utm_campaign=guide&amp;utm_term=help">Get in touch here</a>.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                                                    <a rel="prev" href="index.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+                                                    <a rel="next" href="5_ways_to_use_threads/index.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                                    <a rel="prev" href="index.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+                                    <a rel="next" href="5_ways_to_use_threads/index.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                            </nav>
+
+        </div>
+
+        
+        
+        
+                <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+        
+                <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+        
+    </body>
+</html>

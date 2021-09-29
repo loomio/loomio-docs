@@ -1,0 +1,242 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Key concepts - Loomio User Manual</title>
+                <!--  -->
+
+        <!-- Custom HTML head -->
+        
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+                <link rel="icon" href="../favicon.svg">
+                        <link rel="shortcut icon" href="../favicon.png">
+                <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+                <link rel="stylesheet" href="../css/print.css" media="print">
+        
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+                <link rel="stylesheet" href="../fonts/fonts.css">
+        
+        <!-- roboto -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Roboto:ital,wght@0,300;0,400;0,700;1,400&display=swap" rel="stylesheet">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+            </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="../index.html">Home</a></li><li class="chapter-item expanded affix "><li class="part-title">Getting started</li><li class="chapter-item expanded "><a href="../getting_started/key-concepts.html" class="active">Key concepts</a></li><li class="chapter-item expanded "><a href="../getting_started/sign-in.html">Signing in</a></li><li class="chapter-item expanded "><a href="../getting_started/orientation.html">Tour of the app</a></li><li class="chapter-item expanded "><a href="../getting_started/write-a-comment.html">Write a comment</a></li><li class="chapter-item expanded "><a href="../getting_started/vote.html">Vote</a></li><li class="chapter-item expanded affix "><li class="part-title">Groups</li><li class="chapter-item expanded "><a href="../groups/starting_a_group/index.html">Starting a group</a></li><li class="chapter-item expanded "><a href="../groups/settings/index.html">Group Settings</a></li><li class="chapter-item expanded "><a href="../groups/membership/index.html">Inviting people</a></li><li class="chapter-item expanded "><a href="../groups/subgroups/index.html">Subgroups</a></li><li class="chapter-item expanded "><a href="../groups/data_export/index.html">Data export</a></li><li class="chapter-item expanded "><a href="../groups/deleting_archiving/index.html">Deleting your group</a></li><li class="chapter-item expanded affix "><li class="part-title">Threads</li><li class="chapter-item expanded "><a href="../threads/starting_threads/index.html">Starting a thread</a></li><li class="chapter-item expanded "><a href="../threads/notifying_people/index.html">Notifying people</a></li><li class="chapter-item expanded "><a href="../threads/engaging_with_threads/index.html">Engaging with threads</a></li><li class="chapter-item expanded "><a href="../threads/navigating_threads/index.html">Navigating threads</a></li><li class="chapter-item expanded "><a href="../threads/thread_admin/index.html">Thread admin</a></li><li class="chapter-item expanded affix "><li class="part-title">Decisions</li><li class="chapter-item expanded "><a href="../polls/proposal_types/index.html">Poll types</a></li><li class="chapter-item expanded "><a href="../polls/starting_proposals/index.html">Starting proposals</a></li><li class="chapter-item expanded "><a href="../polls/outcomes/index.html">Outcomes</a></li><li class="chapter-item expanded affix "><li class="part-title">Your Profile</li><li class="chapter-item expanded "><a href="../users/user_profile/index.html">User profile</a></li><li class="chapter-item expanded "><a href="../users/deleting_your_account/index.html">Deleting your account</a></li><li class="chapter-item expanded "><a href="../users/deleting_your_account/index.html">Email settings</a></li><li class="chapter-item expanded "><a href="../users/merge_accounts/index.html">Merge accounts</a></li><li class="chapter-item expanded "><a href="../users/navigation/index.html">Navigation</a></li><li class="chapter-item expanded "><a href="../users/sign_in/index.html">Sign in</a></li><li class="chapter-item expanded affix "><li class="part-title">Integrations</li><li class="chapter-item expanded "><a href="../groups/integrations/slack/index.html">Slack</a></li><li class="chapter-item expanded "><a href="../groups/integrations/microsoft_teams/index.html">Microsoft Teams</a></li><li class="chapter-item expanded "><a href="../groups/integrations/mattermost/index.html">Mattermost</a></li><li class="chapter-item expanded affix "><li class="part-title">Old Getting started (yeowzer!)</li><li class="chapter-item expanded "><a href="../old_getting_started/starting_a_group/index.html">Starting a group</a></li><li class="chapter-item expanded "><a href="../old_getting_started/having_discussions/index.html">Having discussions</a></li><li class="chapter-item expanded "><a href="../old_getting_started/decision_tools/index.html">Decision tools</a></li><li class="chapter-item expanded "><a href="../old_getting_started/activating/index.html">Activating</a></li><li class="chapter-item expanded "><a href="../old_getting_started/notifications_settings/index.html">Notification settings</a></li></ol>            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                                                <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                                            </div>
+
+                    <h1 class="menu-title">Loomio User Manual</h1>
+
+                    <div class="right-buttons">
+                                                <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                                                                                                <a href="https://github.com/loomio/loomio-docs/edit/main/user_manual/src/getting_started/key-concepts.md" title="Suggest an edit" aria-label="Suggest an edit">
+                            <i id="git-edit-button" class="fa fa-edit"></i>
+                        </a>
+                        
+                    </div>
+                </div>
+
+                                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="loomio-key-concepts"><a class="header" href="#loomio-key-concepts">Loomio key concepts</a></h1>
+<p>Loomio is collaborative working space for your organization, focused to help you make decisions to achieve outcomes.</p>
+<h2 id="here-are-some-of-the-key-concepts-to-learn-about-loomio"><a class="header" href="#here-are-some-of-the-key-concepts-to-learn-about-loomio">Here are some of the key concepts to learn about Loomio.</a></h2>
+<p><img src="key-concept.png#border-solid" alt="" /></p>
+<h2 id="group"><a class="header" href="#group">Group</a></h2>
+<p>A Loomio group is a safe place for your organization to meet, have discussions and make decisions about work.</p>
+<p><img src="Groups.png#width-50#border-solid" alt="" /></p>
+<p><strong>Group page</strong>
+Your Group home page is the first place you see when your arrive. It contains a description of your group; it's purpose, an outline of the work you are going to do, and any other information to help you participate.</p>
+<p>Your group will have an image that represents something about your organization.</p>
+<p><strong>Subgroups</strong></p>
+<p>Subgroups are all about people - they provide a place for a group of people to do their work. </p>
+<p><img src="subgroups.png#width-80#border-solid" alt="" /></p>
+<p>Any natural grouping of people who need to focus on specific work together are a candidate for a subgroup. For example use subgroups as a collaborative space for your working team, project or event, a governance board, a subcommittee or stakeholders group.</p>
+<h2 id="thread"><a class="header" href="#thread">Thread</a></h2>
+<p>Threads are where you discuss topics, share information and make decisions together.</p>
+<p><img src="Threads.png#width-50#border-solid" alt="" /></p>
+<p>Threads are used for many purposes.  In a board, you will be invited to Threads to prepare for a board meeting, vote on resolutions, approve minutes, discuss a particular topic, ask questions, share reports and discuss any other information important for the board.</p>
+<p>Threads keep everything about a topic in one place. Over time you’ll create a useful archive of your organization’s discussions and decisions.</p>
+<h2 id="proposal"><a class="header" href="#proposal">Proposal</a></h2>
+<p>One of the key things about Loomio is it's powerful voting tools. These help you take a discussion through to a clear outcome.</p>
+<p>A <strong>Proposal</strong> helps your group progress a discussion towards a decision, where you can have your say by voting.</p>
+<p><img src="Proposals.png#width-50#border-solid" alt="" /></p>
+<p>Simply state what’s being proposed, attach any supporting  documents, set a duration for when responses are required by, and invite people to vote.</p>
+<p>Loomio is set to automatically remind people who haven't voted 24 hours before the proposal closes. (This can be turned off.)</p>
+<p>Proposals help you make clear decisions. They provide a valuable record of the decision, including the discussion that led to the decision.</p>
+<h2 id="other-voting-tools"><a class="header" href="#other-voting-tools">Other voting tools</a></h2>
+<p>There is a range of Poll tools available in Loomio to help you progress a discussion towards an outcome; to ask people to approve something, find a suitable time to meet, or inquire about their preference for options.</p>
+<ul>
+<li><strong>Proposal</strong>: Find agreement on a proposal</li>
+<li><strong>Poll</strong>: Choose from a list of options to find people's preferences</li>
+<li><strong>Check</strong>: Make an offer or ask people to take an action. Think of it as the online equivalent of asking a room of people “Please raise your hand if you…”.</li>
+<li><strong>Time poll</strong>: Time polls make it easy to identify the best time to meet. Enter a selection of times and share the poll with the people involved. Participants tick the times they can attend and the result is a table showing who is available when, so you’re able to pick the best time for your group</li>
+<li><strong>Dot vote</strong>: Prioritise options together by allocating a ‘budget’ of points. This style of poll is useful for groups trying to allocate a limited resource to a number of options (e.g. agenda items, or budget line-items).</li>
+<li><strong>Score poll</strong>: A score poll lets your group express the degree of preference for different options on a scale. People get to express their desire, preference or interest in each option. The poll produces more granular results than a simple majority vote.</li>
+<li><strong>Ranked Choice</strong>: Offers a series of options for people to vote in their preferred order. You can choose the number of votes people can give and rank. Ranked-choice is particularly useful when you have a large number of options or an election to run.</li>
+</ul>
+<p><a href="polls/index.html">Read more</a></p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                                                    <a rel="prev" href="../index.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+                                                    <a rel="next" href="../getting_started/sign-in.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                                    <a rel="prev" href="../index.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+                                    <a rel="next" href="../getting_started/sign-in.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                            </nav>
+
+        </div>
+
+        
+        
+        
+                <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+        
+                <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+        
+    </body>
+</html>

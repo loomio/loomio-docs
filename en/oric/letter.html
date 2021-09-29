@@ -1,0 +1,257 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Letter of invitation to Pilot - ORIC Loomio Guide</title>
+                
+
+        <!-- Custom HTML head -->
+        
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+                <link rel="icon" href="favicon.svg">
+                        <link rel="shortcut icon" href="favicon.png">
+                <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+                <link rel="stylesheet" href="css/print.css" media="print">
+        
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+                <link rel="stylesheet" href="fonts/fonts.css">
+        
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+            </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="index.html">Introduction</a></li><li class="chapter-item expanded "><a href="onboarding.html">Onboarding</a></li><li class="chapter-item expanded "><a href="guide-directors.html">Guide for Directors and Users</a></li><li class="chapter-item expanded "><a href="guide-connectors.html">Guide for Connectors</a></li><li class="chapter-item expanded "><a href="intro-online.html">Introducing a new online tool to your organisation</a></li><li class="chapter-item expanded "><a href="approving-financials.html">Approving financial reports</a></li><li class="chapter-item expanded "><a href="questioning-financials.html">Questioning Financial statements</a></li><li class="chapter-item expanded "><a href="letter.html" class="active">Letter of invitation to Pilot</a></li></ol>            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                                                <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                                            </div>
+
+                    <h1 class="menu-title">ORIC Loomio Guide</h1>
+
+                    <div class="right-buttons">
+                                                <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                                                                                                <a href="https://github.com/loomio/loomio-docs/edit/main/oric/src/letter.md" title="Suggest an edit" aria-label="Suggest an edit">
+                            <i id="git-edit-button" class="fa fa-edit"></i>
+                        </a>
+                        
+                    </div>
+                </div>
+
+                                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="invitation-letter-to-oric-corporations"><a class="header" href="#invitation-letter-to-oric-corporations">Invitation letter to ORIC Corporations</a></h1>
+<p><strong>To: Leaders and directors of Aboriginal and Torre Strait Islander Corporations</strong></p>
+<p>You are invited to join the ORIC Loomio Pilot programme.</p>
+<h2 id="background"><a class="header" href="#background">Background</a></h2>
+<p>Boards are experiencing many challenges to effectively govern their Corporation, such as: </p>
+<ul>
+<li>Getting directors together in-person for meetings</li>
+<li>Technology and internet hurdles for directors to join online video meetings</li>
+<li>Unfamiliar with the use of online tools</li>
+<li>Located remotely where there is poor internet connectivity</li>
+<li>Unsure of governance practices, or they are still forming</li>
+<li>Dealing with a high volume of transactional business (e.g. approving land and financial transactions)</li>
+</ul>
+<p>We would like to help you develop good governance using digital communication tools and have initiated a Pilot programme.</p>
+<p><img src="key-concept.png#border-solid" alt="" /></p>
+<h2 id="loomio-oric-pilot"><a class="header" href="#loomio-oric-pilot">Loomio ORIC Pilot</a></h2>
+<p>Loomio is an online tool for discussion and decision-making that can help you strengthen governance.</p>
+<p>We have set up a special service on Loomio, along with training and support, at no cost to qualifying organisations during the Pilot.</p>
+<p>We expect the project to run for approximately 12 months, until the end of April 2022.</p>
+<p>We have great hopes for the project. We anticipate that using Loomio will:</p>
+<ul>
+<li>save you time—as a channel for the administrative business of directors’ meetings (eg sharing and approving the minutes)</li>
+<li>improve corporation decision-making—as a tool designed to facilitate discussion and decision-making</li>
+<li>increase transparency and accountability to members—as a conduit for key questions and decisions to members</li>
+</ul>
+<h2 id="want-to-learn-more"><a class="header" href="#want-to-learn-more">Want to learn more?</a></h2>
+<p>We run regular online webinar sessions for your Chairperson and/or Chief Executive to learn more about how Loomio can help governance for your Corporation.</p>
+<p><strong>RSVP by registering your interest with Catherine Styles at ORIC.</strong></p>
+<p>Select and book your preferred webinar session:</p>
+<ul>
+<li><input disabled="" type="checkbox"/>
+Wednesday 6 October 2021</li>
+<li><input disabled="" type="checkbox"/>
+Wednesday 13 October 2021</li>
+<li><input disabled="" type="checkbox"/>
+Wednesday 20 October 2021</li>
+<li><input disabled="" type="checkbox"/>
+Wednesday 27 October 2021</li>
+</ul>
+<p>The session is 1 hour duration, via Zoom video call at the following times:</p>
+<ul>
+<li>9am AWST</li>
+<li>10.30am ACST</li>
+<li>11am AEST</li>
+<li>1pm New Zealand</li>
+</ul>
+<h2 id="getting-started-with-loomio"><a class="header" href="#getting-started-with-loomio">Getting started with Loomio</a></h2>
+<p>When you are ready to get started; please identify a person familiar with the IT and technology of your organisation, and the person who takes care of board administration. Send us their name and email addresses (it's ok if they are the same person). </p>
+<p>We will then set up a Loomio group for your Corporation and get in touch to arrange training and onboarding, and book a timeslot in your next board meeting to introduce Loomio to directors. </p>
+<p>We ask you to spend 10 minutes responding to a baseline survey about your corporation’s current governance.</p>
+<p>And we expect you to actively use Loomio tools for your board decision-making. </p>
+<p>If you have a question or concern, contact either your trained administrator or Loomio for support.</p>
+<h2 id="data-sovereignty"><a class="header" href="#data-sovereignty">Data sovereignty</a></h2>
+<p>Aboriginal and Torres Strait Islander corporations participating in this programme will have sovereignty over their data. ORIC will have access to metrics about their use of Loomio, and any quantitative and qualitative data that directors provide as part of evaluating their own governance and the Loomio service. ORIC will have no access to any substantive data about corporations’ deliberations or decisions.</p>
+<p>Loomio takes good care in relation to your <a href="https://help.loomio.org/en/legal/privacy/">privacy</a>, and has set up a private service for this pilot on the Amazon Web Services (AWS) data centre in Sydney, Australia.</p>
+<h2 id="questions"><a class="header" href="#questions">Questions?</a></h2>
+<p>Please ask :-)</p>
+<p>Warm regards, 
+Cath, Michael, Lisa and Rahul</p>
+<p>Contact:</p>
+<ul>
+<li>Catherine Styles, catherine.styles@oric.gov.au</li>
+<li>Michael Elwood-Smith, contact@loomio.org</li>
+</ul>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                                                    <a rel="prev" href="questioning-financials.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+                        
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                                    <a rel="prev" href="questioning-financials.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+                            </nav>
+
+        </div>
+
+        
+        
+        
+                <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+        
+                <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+        
+    </body>
+</html>

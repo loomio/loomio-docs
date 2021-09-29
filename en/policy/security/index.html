@@ -1,0 +1,235 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Security - Loomio Policies</title>
+                
+
+        <!-- Custom HTML head -->
+        
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+                <link rel="icon" href="../favicon.svg">
+                        <link rel="shortcut icon" href="../favicon.png">
+                <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+                <link rel="stylesheet" href="../css/print.css" media="print">
+        
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+                <link rel="stylesheet" href="../fonts/fonts.css">
+        
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+            </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="../privacy/index.html">Privacy Policy</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../privacy/loomio-subprocessors/index.html">Loomio Subprocessors</a></li><li class="chapter-item expanded "><a href="../privacy/company-processors/index.html">Company Processors</a></li></ol></li><li class="chapter-item expanded "><a href="../terms/index.html">Terms of Service</a></li><li class="chapter-item expanded "><a href="../copyright/index.html">Copyright Infringement</a></li><li class="chapter-item expanded "><a href="../ownership/index.html">Ownership</a></li><li class="chapter-item expanded "><a href="../abuse/index.html">Restricted Use Policy</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../abuse/how-we-handle/index.html">How we handle abusive usage</a></li></ol></li><li class="chapter-item expanded "><a href="../refund/index.html">Refund Policy</a></li><li class="chapter-item expanded "><a href="../security/index.html" class="active">Security</a></li><li class="spacer"></li><li class="chapter-item expanded "><a href="../subscriptions/pricing.html">Pricing</a></li><li class="chapter-item expanded "><a href="../subscriptions/management/index.html">Subscriptions</a></li><li class="chapter-item expanded "><a href="../subscriptions/pro_support/index.html">Pro support</a></li><li class="chapter-item expanded "><a href="../subscriptions/referral_code/index.html">Referrals</a></li></ol>            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                                                <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                                            </div>
+
+                    <h1 class="menu-title">Loomio Policies</h1>
+
+                    <div class="right-buttons">
+                                                <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                                                                                                <a href="https://github.com/loomio/loomio-docs/edit/main/policy/src/security/index.md" title="Suggest an edit" aria-label="Suggest an edit">
+                            <i id="git-edit-button" class="fa fa-edit"></i>
+                        </a>
+                        
+                    </div>
+                </div>
+
+                                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <hr />
+<h2>title: Security overview
+description: Keeping customer data safe and secure is a huge responsibility and a top priority for us. Here’s how we make it happen.</h2>
+<h3 id="practices-we-have-at-loomio"><a class="header" href="#practices-we-have-at-loomio">Practices we have at Loomio</a></h3>
+<ul>
+<li>We never have and never will sell customer data.</li>
+<li>We don’t run ads for other services in our products.</li>
+<li>We limit the data we collect: if we don’t need it, we don’t ask for it.</li>
+<li>We put a lot of security measures into place including in-transit encryption and encryption at-rest.</li>
+</ul>
+<h1 id="security-overview"><a class="header" href="#security-overview">Security overview.</a></h1>
+<h2 id="trustworthy-staff"><a class="header" href="#trustworthy-staff">Trustworthy staff</a></h2>
+<p>Employee and contractor agreements for people working at Loomio include confidentiality clauses to protect Loomio and customer confidential information. We treat all customer information and data as confidential, except for situations where a customer has explicitly made the information publicly accessible.</p>
+<h2 id="we-protect-your-data"><a class="header" href="#we-protect-your-data">We protect your data.</a></h2>
+<p>All data are written to multiple disks instantly, backed up daily, and stored in multiple locations. Files that our customers upload are stored on servers that use modern techniques to remove bottlenecks and points of failure.</p>
+<p>TODO - rewrite this page, heavily reusing https://help.loomio.org/en/user_manual/privacy/</p>
+<p>Loomio is open source software</p>
+<p>This means the code is open to view, but your data is not. There are many benefits including that many people have read our code and review changes as they go in. We've got nothing to hide - there are no backdoors in Loomio.</p>
+<p>Loomio.org
+Hosted service provider</p>
+<p>Heroku is a cloud application platform used by organizations of all sizes to deploy and operate applications throughout the world. Heroku’s platform provides infrastructure management, scaling, security, monitoring and backups.</p>
+<p>Heroku applies security best practices and manages platform security, protecting customers from threats. Heroku applies security controls at every layer from physical to application, isolating applications and data, and rapidly deploys security updates without customer interaction or service interruption.</p>
+<p>More information can be found at Heroku’s security policy.</p>
+<p>Heroku utilises ISO 27001 and FISMA certified data centres managed by Amazon. Information about security at Amazon data centres is available here.
+Backup data and Recovery</p>
+<p>Loomio software and data recovery are managed by Heroku. The software and data is automatically backed up as part of the deployment process on secure, access controlled, and redundant storage. Heroku use these backups to deploy the Loomio software and data across the platform and automatically bring the application back online in the event of an outage.</p>
+<p>More information can be found at Heroku’s security policy.</p>
+<h2 id="your-data-are-sent-using-https"><a class="header" href="#your-data-are-sent-using-https">Your data are sent using HTTPS.</a></h2>
+<p>Whenever your data are in transit between you and us, everything is encrypted, and sent using HTTPS. Within our firewalled private networks, data may be transferred unencrypted.</p>
+<p>Any files which you upload to us are stored and are encrypted at rest. Our application databases are generally not encrypted at rest — the information you add to the applications is active in our databases and subject to the same protection and monitoring as the rest of our systems.</p>
+<h2 id="over-9-years-in-business"><a class="header" href="#over-9-years-in-business">Over 9 years in business.</a></h2>
+<p>We’ve been around the block and we’ve seen a lot of companies come and go. Security isn’t just about technology, it’s about trust. Since 1999, we’ve worked hard to earn the trust of over hundreds of thousands of companies world wide. We’ll continue to work hard every day to maintain that trust. Longevity and stability is core to our mission at Basecamp.</p>
+<h2 id="want-to-know-more"><a class="header" href="#want-to-know-more">Want to know more?</a></h2>
+<p>[We've got three pages of additional details in our security overview](Basecamp Security Overview.pdf) for you. We take even further security steps with HEY. Go to <a href="https://hey.com/security/">https://hey.com/security/</a> to learn more.</p>
+<h2 id="have-a-concern-need-to-report-an-incident"><a class="header" href="#have-a-concern-need-to-report-an-incident">Have a concern? Need to report an incident?</a></h2>
+<p>Have you noticed abuse, misuse, an exploit, or experienced an incident with your account? Please visit our <a href="response/index.html">security response page</a> for details on how to securely submit a report.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                                                    <a rel="prev" href="../refund/index.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+                                                    <a rel="next" href="../subscriptions/pricing.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                                    <a rel="prev" href="../refund/index.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+                                    <a rel="next" href="../subscriptions/pricing.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                            </nav>
+
+        </div>
+
+        
+        
+        
+                <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+        
+                <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+        
+    </body>
+</html>

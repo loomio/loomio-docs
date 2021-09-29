@@ -1,0 +1,1675 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Loomio User Manual</title>
+                <meta name="robots" content="noindex" />
+                <!--  -->
+
+        <!-- Custom HTML head -->
+        
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+                <link rel="icon" href="favicon.svg">
+                        <link rel="shortcut icon" href="favicon.png">
+                <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+                <link rel="stylesheet" href="css/print.css" media="print">
+        
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+                <link rel="stylesheet" href="fonts/fonts.css">
+        
+        <!-- roboto -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Roboto:ital,wght@0,300;0,400;0,700;1,400&display=swap" rel="stylesheet">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+            </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="index.html">Home</a></li><li class="chapter-item expanded affix "><li class="part-title">Getting started</li><li class="chapter-item expanded "><a href="getting_started/key-concepts.html">Key concepts</a></li><li class="chapter-item expanded "><a href="getting_started/sign-in.html">Signing in</a></li><li class="chapter-item expanded "><a href="getting_started/orientation.html">Tour of the app</a></li><li class="chapter-item expanded "><a href="getting_started/write-a-comment.html">Write a comment</a></li><li class="chapter-item expanded "><a href="getting_started/vote.html">Vote</a></li><li class="chapter-item expanded affix "><li class="part-title">Groups</li><li class="chapter-item expanded "><a href="groups/starting_a_group/index.html">Starting a group</a></li><li class="chapter-item expanded "><a href="groups/settings/index.html">Group Settings</a></li><li class="chapter-item expanded "><a href="groups/membership/index.html">Inviting people</a></li><li class="chapter-item expanded "><a href="groups/subgroups/index.html">Subgroups</a></li><li class="chapter-item expanded "><a href="groups/data_export/index.html">Data export</a></li><li class="chapter-item expanded "><a href="groups/deleting_archiving/index.html">Deleting your group</a></li><li class="chapter-item expanded affix "><li class="part-title">Threads</li><li class="chapter-item expanded "><a href="threads/starting_threads/index.html">Starting a thread</a></li><li class="chapter-item expanded "><a href="threads/notifying_people/index.html">Notifying people</a></li><li class="chapter-item expanded "><a href="threads/engaging_with_threads/index.html">Engaging with threads</a></li><li class="chapter-item expanded "><a href="threads/navigating_threads/index.html">Navigating threads</a></li><li class="chapter-item expanded "><a href="threads/thread_admin/index.html">Thread admin</a></li><li class="chapter-item expanded affix "><li class="part-title">Decisions</li><li class="chapter-item expanded "><a href="polls/proposal_types/index.html">Poll types</a></li><li class="chapter-item expanded "><a href="polls/starting_proposals/index.html">Starting proposals</a></li><li class="chapter-item expanded "><a href="polls/outcomes/index.html">Outcomes</a></li><li class="chapter-item expanded affix "><li class="part-title">Your Profile</li><li class="chapter-item expanded "><a href="users/user_profile/index.html">User profile</a></li><li class="chapter-item expanded "><a href="users/deleting_your_account/index.html">Deleting your account</a></li><li class="chapter-item expanded "><a href="users/deleting_your_account/index.html">Email settings</a></li><li class="chapter-item expanded "><a href="users/merge_accounts/index.html">Merge accounts</a></li><li class="chapter-item expanded "><a href="users/navigation/index.html">Navigation</a></li><li class="chapter-item expanded "><a href="users/sign_in/index.html">Sign in</a></li><li class="chapter-item expanded affix "><li class="part-title">Integrations</li><li class="chapter-item expanded "><a href="groups/integrations/slack/index.html">Slack</a></li><li class="chapter-item expanded "><a href="groups/integrations/microsoft_teams/index.html">Microsoft Teams</a></li><li class="chapter-item expanded "><a href="groups/integrations/mattermost/index.html">Mattermost</a></li><li class="chapter-item expanded affix "><li class="part-title">Old Getting started (yeowzer!)</li><li class="chapter-item expanded "><a href="old_getting_started/starting_a_group/index.html">Starting a group</a></li><li class="chapter-item expanded "><a href="old_getting_started/having_discussions/index.html">Having discussions</a></li><li class="chapter-item expanded "><a href="old_getting_started/decision_tools/index.html">Decision tools</a></li><li class="chapter-item expanded "><a href="old_getting_started/activating/index.html">Activating</a></li><li class="chapter-item expanded "><a href="old_getting_started/notifications_settings/index.html">Notification settings</a></li></ol>            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                                                <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                                            </div>
+
+                    <h1 class="menu-title">Loomio User Manual</h1>
+
+                    <div class="right-buttons">
+                                                <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                                                                        
+                    </div>
+                </div>
+
+                                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="loomio-user-manual"><a class="header" href="#loomio-user-manual">Loomio User Manual</a></h1>
+<p>A simple guide to introduce Loomio and explain how the app works.</p>
+<p>If you are new to Loomio, see <strong>Getting Started</strong> first.</p>
+<h2 id="getting-started"><a class="header" href="#getting-started">Getting Started</a></h2>
+<p>An introduction to Loomio, outlining key concepts of how your organization meet, discuss and make decisions together.</p>
+<p><strong>Getting Started</strong> provides all you need to know to participate in discussions and decisions in your organization.  It includes help to sign in to Loomio, a tour of the app, how to write a comment and how to vote in your first decision.</p>
+<h2 id="groups"><a class="header" href="#groups">Groups</a></h2>
+<p>Read <strong>Groups</strong> to learn how to start, configure and administer a Loomio group or subgroup as an administrator. It includes information about group privacy and permissions settings for members, ways to invite people, and how to manage group members.  <strong>Groups</strong> shows how to set up category tags so members can easily find threads or decisions, shows you how to export data from your group, and how to delete the group when it is time to end.</p>
+<h2 id="threads"><a class="header" href="#threads">Threads</a></h2>
+<p><strong>Threads</strong> has everything you need to know about starting discussions, attach files, link to documents and videos, formatting tools and inviting people to your discussion.  It also includes help to quickly find your way around a thread, see participation and reorganize threads to keep discussions on track.</p>
+<h2 id="decisions"><a class="header" href="#decisions">Decisions</a></h2>
+<p>Read <strong>Decisions</strong> to learn how to use <strong>Proposal</strong> and <strong>Poll</strong> decision-making tools to take a discussion through to a clear outcome. Includes information about Proposal options and the wide range of Poll types, how to start a Proposal and Poll and how to deliver an outcome.</p>
+<h2 id="your-profile"><a class="header" href="#your-profile">Your Profile</a></h2>
+<p><strong>Your Profile</strong> is where you can configure personal settings to suit the way you like to work. Set how you would like to be known in your use of Loomio and the level of email notifications you want to receive.  It includes help to sign in to Loomio, merging user accounts and deleting your Loomio user account.</p>
+<h2 id="integrations"><a class="header" href="#integrations">Integrations</a></h2>
+<p>Loomio can send notifications to Slack, Microsoft Teams and Mattermost about new events.  Read <strong>Integrations</strong> for help in configuration to your chat tool.</p>
+<p>Loomio can also be configured for Single Sign On (SSO) on private hosted services. Contact the Loomio team for more information.</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="loomio-key-concepts"><a class="header" href="#loomio-key-concepts">Loomio key concepts</a></h1>
+<p>Loomio is collaborative working space for your organization, focused to help you make decisions to achieve outcomes.</p>
+<h2 id="here-are-some-of-the-key-concepts-to-learn-about-loomio"><a class="header" href="#here-are-some-of-the-key-concepts-to-learn-about-loomio">Here are some of the key concepts to learn about Loomio.</a></h2>
+<p><img src="getting_started/key-concept.png#border-solid" alt="" /></p>
+<h2 id="group"><a class="header" href="#group">Group</a></h2>
+<p>A Loomio group is a safe place for your organization to meet, have discussions and make decisions about work.</p>
+<p><img src="getting_started/Groups.png#width-50#border-solid" alt="" /></p>
+<p><strong>Group page</strong>
+Your Group home page is the first place you see when your arrive. It contains a description of your group; it's purpose, an outline of the work you are going to do, and any other information to help you participate.</p>
+<p>Your group will have an image that represents something about your organization.</p>
+<p><strong>Subgroups</strong></p>
+<p>Subgroups are all about people - they provide a place for a group of people to do their work. </p>
+<p><img src="getting_started/subgroups.png#width-80#border-solid" alt="" /></p>
+<p>Any natural grouping of people who need to focus on specific work together are a candidate for a subgroup. For example use subgroups as a collaborative space for your working team, project or event, a governance board, a subcommittee or stakeholders group.</p>
+<h2 id="thread"><a class="header" href="#thread">Thread</a></h2>
+<p>Threads are where you discuss topics, share information and make decisions together.</p>
+<p><img src="getting_started/Threads.png#width-50#border-solid" alt="" /></p>
+<p>Threads are used for many purposes.  In a board, you will be invited to Threads to prepare for a board meeting, vote on resolutions, approve minutes, discuss a particular topic, ask questions, share reports and discuss any other information important for the board.</p>
+<p>Threads keep everything about a topic in one place. Over time you’ll create a useful archive of your organization’s discussions and decisions.</p>
+<h2 id="proposal"><a class="header" href="#proposal">Proposal</a></h2>
+<p>One of the key things about Loomio is it's powerful voting tools. These help you take a discussion through to a clear outcome.</p>
+<p>A <strong>Proposal</strong> helps your group progress a discussion towards a decision, where you can have your say by voting.</p>
+<p><img src="getting_started/Proposals.png#width-50#border-solid" alt="" /></p>
+<p>Simply state what’s being proposed, attach any supporting  documents, set a duration for when responses are required by, and invite people to vote.</p>
+<p>Loomio is set to automatically remind people who haven't voted 24 hours before the proposal closes. (This can be turned off.)</p>
+<p>Proposals help you make clear decisions. They provide a valuable record of the decision, including the discussion that led to the decision.</p>
+<h2 id="other-voting-tools"><a class="header" href="#other-voting-tools">Other voting tools</a></h2>
+<p>There is a range of Poll tools available in Loomio to help you progress a discussion towards an outcome; to ask people to approve something, find a suitable time to meet, or inquire about their preference for options.</p>
+<ul>
+<li><strong>Proposal</strong>: Find agreement on a proposal</li>
+<li><strong>Poll</strong>: Choose from a list of options to find people's preferences</li>
+<li><strong>Check</strong>: Make an offer or ask people to take an action. Think of it as the online equivalent of asking a room of people “Please raise your hand if you…”.</li>
+<li><strong>Time poll</strong>: Time polls make it easy to identify the best time to meet. Enter a selection of times and share the poll with the people involved. Participants tick the times they can attend and the result is a table showing who is available when, so you’re able to pick the best time for your group</li>
+<li><strong>Dot vote</strong>: Prioritise options together by allocating a ‘budget’ of points. This style of poll is useful for groups trying to allocate a limited resource to a number of options (e.g. agenda items, or budget line-items).</li>
+<li><strong>Score poll</strong>: A score poll lets your group express the degree of preference for different options on a scale. People get to express their desire, preference or interest in each option. The poll produces more granular results than a simple majority vote.</li>
+<li><strong>Ranked Choice</strong>: Offers a series of options for people to vote in their preferred order. You can choose the number of votes people can give and rank. Ranked-choice is particularly useful when you have a large number of options or an election to run.</li>
+</ul>
+<p><a href="getting_started/polls/index.html">Read more</a></p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="youve-been-invited"><a class="header" href="#youve-been-invited">You've been invited!</a></h1>
+<p>Signing up to Loomio is easy - you don’t need a password, and your computer will remember you in future.</p>
+<p><strong>Invitation via email</strong></p>
+<p>Your invitation to join your Loomio group will arrive in your email inbox and look something like this:</p>
+<p><img src="getting_started/invitation.png#width-50#border-solid" alt="" /></p>
+<p>Click the <strong>Accept invitation</strong> button at the centre of the email.</p>
+<p>The link will take you to the internet browser on your computer, tablet or smartphone and open a page where you are invited to create an account on the service at decisions.oric.gov.au.</p>
+<p>On your computer you will see:</p>
+<p><img src="getting_started/sign-in.png#width-80#border-solid" alt="" /></p>
+<p>Click the <strong>CONTINUE WITH EMAIL</strong> button at the centre of the screen.</p>
+<p>You will be taken to this page to create your Loomio user account.</p>
+<p><img src="getting_started/create-account.png#width-80#border-solid" alt="" /></p>
+<p>Type in your name, so people in your group will recognise you.</p>
+<p>Click the <strong>CREATE ACCOUNT</strong> button at the bottom right hand corner of the screen.</p>
+<p>A Loomio user account will then be created for you.</p>
+<h2 id="upload-profile-photo-optional"><a class="header" href="#upload-profile-photo-optional">Upload profile photo (Optional)</a></h2>
+<p>We encourage you to upload a profile picture which will be displayed whenever you make a comment. This is helpful for other members to easily identify you. This step is optional.</p>
+<p>If you don’t want to add a photo now: Click 'Use initials'</p>
+<p><img src="getting_started/select-photo.png#width-80#border-solid" alt="" /></p>
+<p>Click <strong>Upload new photo</strong>.</p>
+<p>Select a suitable photo file from your computer.</p>
+<p><img src="getting_started/upload-photo.png#width-80#border-solid" alt="" /></p>
+<p>Click <strong>Open</strong> to upload your photo.</p>
+<hr />
+<p>That's it! You should now be in your Loomio group.</p>
+<p>When you return to Loomio, in most cases you browser will remember you and automatically sign you in.<br />
+However if you have reset your computer or are accessing Loomio from another device, you will be need to sign in again.  The simplest way to do this is to sign in via email and follow the prompts.</p>
+<p>Read on for a tour of Loomio and how to write your first comment.</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="a-quick-tour-of-loomio"><a class="header" href="#a-quick-tour-of-loomio">A quick tour of Loomio</a></h1>
+<p>Lets take an orientation tour to help you quickly understand how to participate in discussions and decisions in your group.</p>
+<h2 id="group-page"><a class="header" href="#group-page">Group page</a></h2>
+<p>Your group home page is the first place people see when they arrive. It contains a description of why the group exists, what you will use it for, and any other information that may help you participate.</p>
+<p>You can add an image that represents something of your organization and place.</p>
+<p><img src="getting_started/group-page-threadview.png#width-80#border-solid" alt="" /></p>
+<h3 id="tabs"><a class="header" href="#tabs">Tabs</a></h3>
+<p>Under the group description you will see tabs. Clicking on each tab displays information about:</p>
+<p><strong>Threads</strong> - A list of discussion threads showing the author, the thread title, category tag, along with some other useful information about the recent activity in the thread. </p>
+<p><strong>Polls</strong> - A list of the polls and proposals active in your group.</p>
+<p><strong>Members</strong> - Where you can see a list of the people who are members of the group.</p>
+<p><strong>Files</strong> - Files and documents that have been uploaded to your group.</p>
+<p><strong>Subgroups</strong> - A list of subgroups that you are a member of. A subgroup is the collaborative space for a working team, project or event, a governance board, a subcommittee or stakeholders group.</p>
+<p><strong>Settings</strong> - Where administrators of the group can set and change group privacy and member permissions.</p>
+<p>Below the tabs there is a search bar, with filters such as open or closed threads and category tags. The filters help you view a reduced set of information.</p>
+<p>If the threads tab is selected, the thread list shows the title of the thread, author, number of replies, and when last active.</p>
+<h2 id="sidebar"><a class="header" href="#sidebar">Sidebar</a></h2>
+<p>The sidebar menu is accessible from the (☰) menu icon at screen top left, where you can see:</p>
+<p><img src="getting_started/sidebar-menu.png#width-80#border-solid" alt="" /></p>
+<ul>
+<li><strong>Dashboard</strong> - Open Polls and Proposals and recently active Threads.</li>
+<li><strong>Unread threads</strong> - A list of Threads you have yet to read.</li>
+<li><strong>Invite-only threads</strong> - Private Threads that do not belong to a group.</li>
+<li><strong>Start a new thread</strong> - Where you can start a new private Thread. </li>
+<li><strong>Your Loomio groups</strong> - Where you can easily find your Loomio groups and subgroups.</li>
+</ul>
+<h3 id="user-settings"><a class="header" href="#user-settings">User settings</a></h3>
+<p>Click the down arrow ( ∨ ) to open your user settings.</p>
+<p><img src="getting_started/profile-edit.png#width-50#border-solid" alt="" /></p>
+<p>The most useful settings when getting started are:</p>
+<ul>
+<li><strong>Edit profile</strong> - Where you can edit name, email address, upload your photo, introduce yourself, add your location.</li>
+<li><strong>Notification settings</strong> - Set what emails you want to receive from Loomio.</li>
+<li><strong>Help</strong> - Access Loomio Help documentation.</li>
+<li><strong>Contact support</strong> - Where you can connect with the Loomio customer support team.</li>
+</ul>
+<h2 id="notifications"><a class="header" href="#notifications">Notifications</a></h2>
+<h3 id="in-app-notifications"><a class="header" href="#in-app-notifications">In app notifications</a></h3>
+<p>The bell icon in the top-right is where notifications are accessed within Loomio.</p>
+<p><img src="getting_started/notifications.png#width-80#border-solid" alt="" /></p>
+<h3 id="email-notifications"><a class="header" href="#email-notifications">Email notifications</a></h3>
+<p>Loomio sends emails to keep you updated on the activity in your groups. </p>
+<p>Emails Loomio may send you include:</p>
+<ul>
+<li><strong>Mention and Replies</strong> - When someone @mentions you in a comment or replies to you, you will receive a notification email.</li>
+<li><strong>Subscribe on participation</strong> - If selected, when you participate in a thread you will receive emails for all further activity. Not recommended for most people.</li>
+<li><strong>Catch-up summary email</strong> - The 'Yesterday on Loomio' email includes activity from all your groups and threads that you have not read yet.</li>
+<li><strong>Invitations to threads, polls and proposals</strong> - You may receive an email when invited to a new thread, poll or proposal.</li>
+<li><strong>Reminders and Outcomes</strong> - If you have not voted in a poll or proposal, you may receive a reminder 24 hours before close. You may also receive an email stating the outcome of a poll or proposal.</li>
+</ul>
+<p>These emails are to help you participate effectively with your group. The default settings are to help you stay up to date with activity on Loomio but should not overload your email inbox.</p>
+<p>If you are receiving too many emails from Loomio, you can change the default email settings. Talk to your group administrator to get the balance right for you.</p>
+<p><img src="getting_started/profile.png#width-50#border-solid" alt="" /></p>
+<p><img src="getting_started/email-settings.png#width-80#border-solid" alt="" /></p>
+<p><img src="getting_started/notification-preferences.png#width-80#border-solid" alt="" /></p>
+<p>When you receive an email from Loomio, you can reply directly from your email inbox and your reply will be posted into the Loomio thread. This works for everything except the Catch-up summary email.</p>
+<h2 id="finding-information-quickly"><a class="header" href="#finding-information-quickly">Finding Information Quickly</a></h2>
+<p>There are several tools included within Loomio to help you find the information you are looking for quickly.</p>
+<h3 id="search"><a class="header" href="#search">Search</a></h3>
+<p>You can use the Search bar at the top of almost every page to search for content relevant to that page.</p>
+<p>For example, on the Threads page typing 'decision' in the search bar brings up two threads with the work 'decision'.</p>
+<p><img src="getting_started/search.png#width-80#border-solid" alt="" /></p>
+<h3 id="category-tags"><a class="header" href="#category-tags">Category Tags</a></h3>
+<p>Category Tags make it easy to find threads of a certain type or topic. </p>
+<p>Tags can be applied when starting or editing a Thread, Poll or Proposal.</p>
+<p><img src="getting_started/search-tags.png#width-80#border-solid" alt="" /></p>
+<h2 id="thread-page"><a class="header" href="#thread-page">Thread page</a></h2>
+<p>From your group page, click on a thread to read the thread.</p>
+<p><img src="getting_started/thread-robotics-roadshow.png#width-80#border-solid" alt="" /></p>
+<p>The thread title is prominent, and you can see thread content and comments from other members. </p>
+<p>The thread page includes everything you need to know about the thread;</p>
+<ul>
+<li>the group name, and subgroup name, that the thread belongs to</li>
+<li>category tags applied to the thread</li>
+<li>author and thread privacy</li>
+<li><strong>Seen by</strong> to see who has seen the thread</li>
+<li><strong>Notified</strong> to see who has been notified</li>
+<li>comments, replies, reactions and any polls</li>
+<li>timeline of key events in the thread, such as polls or proposals</li>
+</ul>
+<h3 id="thread-context"><a class="header" href="#thread-context">Thread context</a></h3>
+<p>The thread context is used to introduce the topic. It will often include background information, attached files or links to online documents, to help you participate in the discussion - just as you would attach a file to an email. The context always stays at the top of the thread.</p>
+<p><img src="getting_started/thread-context.png#width-80#border-solid" alt="" /></p>
+<h3 id="thread-activity"><a class="header" href="#thread-activity">Thread activity</a></h3>
+<p><strong>Seen by</strong> shows who has read the thread, and when.</p>
+<p><img src="getting_started/seen-by.png#width-80#border-solid" alt="" /></p>
+<p><strong>Notified</strong> shows who has been notified about the thread, and if read or email opened.</p>
+<p><img src="getting_started/thread-notification.png#width-80#border-solid" alt="" /></p>
+<h3 id="comments"><a class="header" href="#comments">Comments</a></h3>
+<p>As you scroll down the thread page, you will see comments and replies from other group members.</p>
+<p><img src="getting_started/thread-comments.png#width-80#border-solid" alt="" /></p>
+<h3 id="timeline"><a class="header" href="#timeline">Timeline</a></h3>
+<p>The thread timeline builds with key activity in the threads.  Use timeline to quickly go to decisions or important comments pinned to the timeline.</p>
+<p><img src="getting_started/thread-timeline.png#width-50#border-solid" alt="" /></p>
+<h2 id="poll-page"><a class="header" href="#poll-page">Poll page</a></h2>
+<p>From your group page, select the POLLS tab to see your list of polls and proposals. Alongside the poll name, there is an active icon that changes as the poll progresses, and indicates your vote.</p>
+<p><img src="getting_started/polls-page.png#width-80#border-solid" alt="" /></p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="write-a-comment"><a class="header" href="#write-a-comment">Write a comment</a></h1>
+<p>You can write a Comment in a Thread, and people can reply, react or post their own comment to continue the discussion.</p>
+<p>When you have written your text as a Comment in the thread, use <strong>Post Comment</strong> to instantly publish the comment. Your comment will be visible to anyone who has permission to see the thread. If you want to change anything you can edit the comment.</p>
+<p><img src="getting_started/comment.png#width-80#border-solid" alt="" /></p>
+<h2 id="get-someones-attention-with-mention"><a class="header" href="#get-someones-attention-with-mention">Get someone's attention with @mention</a></h2>
+<p>You can notify people when you write a comment.</p>
+<p><img src="getting_started/mention.png#width-80#border-solid" alt="" /></p>
+<h2 id="reply-to-a-comment"><a class="header" href="#reply-to-a-comment">Reply to a comment</a></h2>
+<p>You can reply to someone's comment.  Your reply is published in the thread and an email is sent to the author of the comment.</p>
+<p><img src="getting_started/reply.png#width-80#border-solid" alt="" /></p>
+<h2 id="reactions"><a class="header" href="#reactions">Reactions</a></h2>
+<p>Reacting to a comment is a great way to encourage and acknowledge a comment by letting the comment author know how you feel.  It is a quick and light-weight way to participate that does not require any text, nor send an email.</p>
+<p><img src="getting_started/react.png#width-80#border-solid" alt="" /></p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="voting"><a class="header" href="#voting">Voting</a></h1>
+<p>You will receive an invitation to vote via email or by notification in Loomio. Click on the link to have your say.</p>
+<p>Voting in a Proposal or Poll is easy, just click or tap on the icon of your choice.</p>
+<p>You can vote to <strong>Agree</strong>, <strong>Abstain</strong> or <strong>Disagree</strong> to the proposal. Other options may be available.</p>
+<p><img src="getting_started/proposal-vote.png#width-80#border-solid" alt="" /></p>
+<h2 id="state-a-reason"><a class="header" href="#state-a-reason">State a reason</a></h2>
+<p>When voting, you can also leave a <strong>Reason</strong> to say why you have voted this way. This is optional.</p>
+<p><img src="getting_started/reason.png#width-80#border-solid" alt="" /></p>
+<p>Up until the proposal closes, you can change your vote.</p>
+<p>There are many reasons why you might want to change your vote. For example if new information emerges it may cause you to rethink your decision, and change your vote.</p>
+<h3 id="changing-your-vote"><a class="header" href="#changing-your-vote">Changing your vote</a></h3>
+<p>You can <strong>change your vote</strong>, up until the proposal closes.</p>
+<p><img src="getting_started/update-vote.png#width-80#border-solid" alt="" /></p>
+<p>There are many reasons why you might want to change your vote. For example if new information emerges it may cause you to rethink your decision, and change your vote.</p>
+<p>Once again, you can leave a reason - to say why you have changed your vote.</p>
+<h2 id="results"><a class="header" href="#results">Results</a></h2>
+<p>Results of the proposal are updated as people vote, so you can see how a proposal is trending.</p>
+<p><img src="getting_started/results.png#width-80#border-solid" alt="" /></p>
+<p>In a controversial proposal it is common to see mixed results, however this does not mean the proposal has failed.</p>
+<p>Often the new information revealed during the proposal helps form a better proposal that is more likely to pass.</p>
+<h2 id="outcome"><a class="header" href="#outcome">Outcome</a></h2>
+<p>When the proposal closes, the author is prompted to state the <strong>Outcome</strong>.</p>
+<p>This is an important final step to record the result of the decision and let everyone know what will happen next.</p>
+<p><img src="getting_started/outcome.png#width-80#border-solid" alt="" /></p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="starting-a-new-group"><a class="header" href="#starting-a-new-group">Starting a new group</a></h1>
+<p>A Loomio group is a safe place for your organization to meet, have discussions and make decisions about work. </p>
+<p><img src="groups/starting_a_group/Groups.png#width-50#border-solid" alt="" /></p>
+<p>Groups are all about people. So it is advisable to think about the people you are going to invite; </p>
+<ul>
+<li>Who are they? </li>
+<li>What is the purpose of your group? </li>
+<li>What work are you going to do together? </li>
+<li>What objectives do you need to achieve? </li>
+<li>What do people need to know to participate effectively?</li>
+</ul>
+<p>You can start a new Loomio group at any time from the sidebar menu - click on <strong>New group</strong>.</p>
+<p><img src="groups/starting_a_group/new-group.png#width-50#border-solid" alt="" /></p>
+<h2 id="group-details"><a class="header" href="#group-details">Group details</a></h2>
+<p><img src="groups/starting_a_group/new-group-start.png#width-90#border-solid" alt="" /></p>
+<h3 id="group-name"><a class="header" href="#group-name">Group name</a></h3>
+<p>Type your group name. It's best to keep your group name short and concise.</p>
+<h3 id="group-handle"><a class="header" href="#group-handle">Group handle</a></h3>
+<p>By default, Loomio will make this <code>your-group-name</code> but you can choose any unused, alphanumeric handle (hyphens optional). Navigating to the URL loomio.org/[your-group-handle] will take you directly to your group page.</p>
+<h3 id="category-selection"><a class="header" href="#category-selection">Category selection</a></h3>
+<p>You may be asked to select a category that best describes your group, so we help you with relevant information.</p>
+<p><strong>Your new group is created!</strong></p>
+<h2 id="group-home-page"><a class="header" href="#group-home-page">Group home page</a></h2>
+<p>Your Group home page is the first place people will see when they arrive. It should contain a description of your group; it's purpose, an outline of the work you are going to do, and any other information to help people to participate.</p>
+<ol>
+<li>
+<p>In the Group description box write a clear purpose for why you have set up this group and a reason why people should join. </p>
+</li>
+<li>
+<p>What will you use Loomio for? <em>For example; &quot;We will use this online place for our team to progress our work between meetings, have discussions and make decisions. It will help us engage more effectively and operate transparently, and save time in meetings and replace confusing email chains.&quot;</em></p>
+</li>
+<li>
+<p>Consider what kind of decisions or outcomes you will achieve in this group. Is there a project time-frame you are working to? <em>For example; “We will use Loomio to prioritize our work and to reach agreement on a way forwards. Our aim is to prepare a draft document to share with stakeholders in the next month, and have a new document agreed by the end of the quarter.&quot;</em></p>
+</li>
+<li>
+<p>Consider who is involved and what you expect of each other. <em>For example; “This is a private group initially for just our team. We may open the group to stakeholders, or set up a new subgroup for engaging with stakeholders. We encourage you to contribute on threads, and raise new topics by starting a new thread.&quot;</em></p>
+</li>
+<li>
+<p>Consider how Loomio will complement your existing processes. <em>For example; “We will use Loomio to prepare for and agree agenda items for meetings, prepare and upload draft papers and documents, agree actions and approve minutes, and progress discussions on issues we do not have time to cover during meetings.&quot;</em></p>
+</li>
+</ol>
+<h3 id="your-group-home-page-is-also-a-resource-hub"><a class="header" href="#your-group-home-page-is-also-a-resource-hub">Your group home page is also a resource hub</a></h3>
+<p>Your Loomio group page is a place to store all of the information, links, and files that everyone in your group needs. Update the Group description field and attach files from your computer or from the cloud.</p>
+<p><img src="groups/starting_a_group/group_description.png" alt="" /></p>
+<p><strong>Tip:</strong> Group descriptions are a great place to include reasons why you're using Loomio. Saying why you're introducing Loomio can help motivate people engage.</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="group-settings"><a class="header" href="#group-settings">Group Settings</a></h1>
+<p><em>Configuring your Loomio group.</em></p>
+<p>In group settings you can add a group description, upload a photo or image for your group, change group privacy and member permissions, and set thread view default. Only people who are 'admin' can see and edit group settings. </p>
+<p>Go to the <strong>Settings</strong> tab on your group page. Click <strong>Edit Group Settings</strong> and use the form that appears (click save when done). </p>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/7z60BLLBLFU?rel=0" frameborder="0" allowfullscreen></iframe>
+<h2 id="group-profile"><a class="header" href="#group-profile">Group profile</a></h2>
+<h3 id="upload-a-group-photo"><a class="header" href="#upload-a-group-photo">Upload a group photo</a></h3>
+<p>Uploading a photo or image that has some meaning to your group significantly improves the sense of belonging. You can also add a logo which will appear alongside your group name in the sidebar menu.  Click on the image and logo to upload your file.</p>
+<p>The ideal pixel resolution for the group image is 2048 x 512. But any image with aspect ratio of 4:1 will fit. </p>
+<p><img src="groups/settings/settings-profile.png#width-90#border-solid" alt="" /></p>
+<h3 id="group-description"><a class="header" href="#group-description">Group description</a></h3>
+<p>Write your <strong>Group description</strong>.  Use the formatting tools to format your description, attach documents, add links, embed videos and others.</p>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/7z60BLLBLFU?rel=0" frameborder="0" allowfullscreen></iframe>
+<hr />
+<h2 id="privacy"><a class="header" href="#privacy">Privacy</a></h2>
+<p>Go to the <strong>Settings</strong> tab on your group page. Click <strong>Edit Group Settings</strong> and go to the <strong>Privacy</strong> tab. Click <strong>Update Settings</strong> when done.</p>
+<p><img src="groups/settings/settings-privacy.png#width-90#border-solid" alt="" /></p>
+<p>Your privacy settings determine who can find your group, who can see the threads in your group, and how people join.</p>
+<p>The recommended privacy setting for new groups is <strong>Secret</strong>. This means everything is private to those invited members of the group. No one will know about this group (or subgroup) unless you invite them.</p>
+<p>If you want the content of your discussions and decisions to be public, change your group privacy to <strong>Open</strong>. The members list will only be visible to other members.</p>
+<p>Many groups also use <strong>Closed</strong>, to allow people to find your group and ask to join. The <strong>Name</strong> and <strong>Group description</strong> as well as links and attached files are publicly accessible in Closed groups.</p>
+<p><strong>NOTE:</strong> If you have a <strong>Closed</strong> or <strong>Secret</strong> group and change it to <strong>Open</strong>, all threads will become public. Changing an <strong>Open</strong> group to <strong>Closed</strong> or <strong>Secret</strong> will make all threads private.</p>
+<p>Open groups may contain secret and closed subgroups.</p>
+<p>A member of an open group can see the closed subgroup but not the secret ones.</p>
+<hr />
+<h2 id="permissions"><a class="header" href="#permissions">Permissions</a></h2>
+<p>Most of the permissions settings only affect what <strong>members</strong> can do. Members are the users in your group who are <em>not</em> <a href="groups/settings/index.html#admin">Admins</a>.</p>
+<p><img src="groups/settings/settings-permissions.png#width-90#border-solid" alt="" /></p>
+<h3 id="anyone-can-join-open-groups"><a class="header" href="#anyone-can-join-open-groups">Anyone can join (Open groups)</a></h3>
+<p>In <em>open groups</em> you can use the option, <strong>Anyone can join</strong>, in order for the public to be able to join without any action by any member of the group.</p>
+<h3 id="requiring-approval-of-membership-requests-open-groups"><a class="header" href="#requiring-approval-of-membership-requests-open-groups">Requiring approval of membership requests (Open groups)</a></h3>
+<p>If you select this option, rather than letting people walk in the door voluntarily (self-select to join your group), then admin will have the option to approve or ignore people's requests to join.</p>
+<ul>
+<li>You can also give group members the permission to approve requests, also in the <strong>Permissions</strong> tab of Group Settings.</li>
+</ul>
+<h3 id="allow-members-of-parent-group-to-see-threads"><a class="header" href="#allow-members-of-parent-group-to-see-threads">Allow members of parent group to see threads</a></h3>
+<p>In <em>closed subgroups</em> you can allow members of the parent group to see discussions within the subgroup.
+Select, <strong>Members of [parent group] can see private threads</strong> to enable this feature. This feature is off by default. For more on subgroups, <a href="groups/settings/../subgroups">see here</a>.</p>
+<h3 id="members-can-invite-people-and-approve-requests-to-join"><a class="header" href="#members-can-invite-people-and-approve-requests-to-join">Members can invite people and approve requests to join</a></h3>
+<p>This allows everyone in your group to invite new people in, and approve any membership requests. When it is deselected only group admin will be able to invite and approve new members.</p>
+<h3 id="members-can-notify-everyone-in-group"><a class="header" href="#members-can-notify-everyone-in-group">Members can notify everyone in group</a></h3>
+<p>When ticked, any Member will be able to use <strong>notify</strong> and <a href="groups/settings/../../threads/notifying_people/#send-thread"><strong>invite people</strong></a>, sending notifications immediately to some, or all, of the group. Unless your group is very big, Loomio recommends you leave this on.</p>
+<h3 id="create-subgroups"><a class="header" href="#create-subgroups">Create subgroups</a></h3>
+<p>This allows everyone in your group to create subgroups. When it is deselected only group admin will be able to create subgroups.</p>
+<h3 id="start-threads"><a class="header" href="#start-threads">Start threads</a></h3>
+<p>This allows everyone in your group to start new threads. When it is deselected only group admin will be able to start discussions.</p>
+<h3 id="edit-the-context-of-any-thread-in-the-group"><a class="header" href="#edit-the-context-of-any-thread-in-the-group">Edit the context of any thread in the group</a></h3>
+<p>This allows everyone in your group to edit the context of any thread. When it is deselected only group admin and the thread author will be able to edit the thread context.</p>
+<h3 id="edit-their-comments-at-any-time"><a class="header" href="#edit-their-comments-at-any-time">Edit their comments at any time</a></h3>
+<p>This allows everyone in your group to edit their comments at any time. When it is deselected, a comment can only be edited until someone else participates in the thread.</p>
+<h3 id="raise-proposals"><a class="header" href="#raise-proposals">Raise proposals</a></h3>
+<p>This allows anyone in your group to start a proposal within a thread. When this box is deselected only group admin will be able to raise proposals and polls.</p>
+<h3 id="vote-on-proposals"><a class="header" href="#vote-on-proposals">Vote on proposals</a></h3>
+<p>This allows everyone in your group to state their position on proposals. When it is deselected only group admin will be able to state their position on proposals and polls.</p>
+<hr />
+<h2 id="thread-view-settings"><a class="header" href="#thread-view-settings">Thread view settings</a></h2>
+<p>Thread <strong>activity</strong> is comprised of all the comments, replies, proposals, polls, votes and other notable things that happen within the thread. You can alter how that activity is displayed in order to optimize the experience for your group. These settings change the default layout for everyone in your group, but can be adjusted for each thread to serve  a specific purpose:</p>
+<p><img src="groups/settings/group-settings-threads.png#width-90#border-solid" alt="" /></p>
+<h3 id="oldest-or-newest-first"><a class="header" href="#oldest-or-newest-first">Oldest or Newest first</a></h3>
+<p>By default, threads are set to <strong>Oldest</strong> listed with the oldest activity nearest the top. You can change the thread flow by switching to <strong>Newest</strong> so that the newest activity is at the top of the thread.</p>
+<h3 id="flat-or-nested-replies"><a class="header" href="#flat-or-nested-replies">Flat or Nested replies</a></h3>
+<p>The thread can also be set to display chronologically, as a <strong>flat list</strong>, where all activity is displayed in the order that it happened, or as <strong>nested replies</strong> of one or two levels. </p>
+<p>Nested replies keeps replies to comments together, and is very helpful to easily see mini-discussions within an overall thread.</p>
+<p>Click <strong>Save</strong> to exit.</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="inviting-people"><a class="header" href="#inviting-people">Inviting people</a></h1>
+<p><em>How to invite people and manage memberships.</em></p>
+<h2 id="invite-people"><a class="header" href="#invite-people">Invite people</a></h2>
+<p>Go to your group page and click the <strong>Members</strong> tab to access member management</p>
+<p>Click one of two options</p>
+<ol>
+<li><strong>Invite</strong>: If you have their email addresses, you can send invitations to each member of your group.</li>
+<li><strong>Share</strong>: Or you can share the <strong>Reusable invitation link</strong> via email or however your team communicates.</li>
+</ol>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/RGv0Yq6sv8g?rel=0" frameborder="0" allowfullscreen></iframe>
+<h3 id="invite-people-to-closed-groups"><a class="header" href="#invite-people-to-closed-groups">Invite people to Closed groups</a></h3>
+<p>If your group's privacy is <strong>closed</strong> then you can invite people by sharing your <code>loomio.org/handle</code>. When people arrive at your group page, they will see the title, the description, and a button <strong>Join group</strong> to request membership. As administrator of the group, you will receive an email where you can approve the request.</p>
+<blockquote>
+<p>Reminder: Closed groups disclose their Group Name, Group Description with links and file attachments publicly.</p>
+</blockquote>
+<p>Follow up on people who don't make it into the group and give them a nudge. </p>
+<p>If people join but don't begin to participate right away, you might like to welcome them to the group with an @mention, for example:</p>
+<blockquote>
+<p>“Welcome to the group @Jane, it's great to have you here! Please tell us something about your work and interests.”</p>
+</blockquote>
+<h3 id="invite-people-to-subgroups"><a class="header" href="#invite-people-to-subgroups">Invite people to Subgroups</a></h3>
+<p>You will follow the same process as above.</p>
+<p>You can invite people to a 'parent' group, and one or more subgroups simultaneously when you invite them with the <strong>Invite people</strong> button. Tick the boxes next to the subgroups you want them to immediately be a part of when they join the group. See it demonstrated in the video clip <a href="groups/membership/index.html#inviting-people">just above</a>.</p>
+<h3 id="getting-people-on-board"><a class="header" href="#getting-people-on-board">Getting people on board</a></h3>
+<p>Follow up on people who don't make it into the group and give them a nudge. You don't want to leave people out of key conversations or decisions. You can see pending invitations – when people have yet to accept the invitation you sent – by clicking the drop down that reads  <strong>everyone</strong> by default, and then click <strong>invitations</strong>.</p>
+<p>If people join but don't begin to participate right away, you might like to welcome them to the group with an @mention, for example:</p>
+<blockquote>
+<p>“Welcome to the group @Jane :) It's great to have you here! Would you saying a little bit about your work in this space?”</p>
+</blockquote>
+<h2 id="invite-people-via-their-email"><a class="header" href="#invite-people-via-their-email">Invite people via their email</a></h2>
+<p>Clicking <strong>Invite people</strong> on the Member tab of your group page will send a <em>single-use</em> link allowing the recipient to start an account in your group or associate an existing account to your group.</p>
+<p>You only need to be sure that they go into their email inbox (or Loomio account) to receive the invitation, it does not need to go to their &quot;best&quot; email address (eg, to the email they may already use for Loomio). The invite is not fixed to the email address you sent it to. So if someone already has a Loomio account and you send them an invitation to another email address, they can accept the invitation with their existing account.</p>
+<h3 id="invite-many-at-once"><a class="header" href="#invite-many-at-once">Invite many at once</a></h3>
+<p>You can send multiple invitations by entering (or copy pasting) multiple email addresses into the who to invite field (separated by commas or spaces). When you submit the form (ie, click <strong>Send</strong>) an email will be sent to each of the email addresses you supplied, containing a unique invitation link that can only be used once. This email will be sent in your current language.</p>
+<h2 id="managing-invitations"><a class="header" href="#managing-invitations">Managing invitations</a></h2>
+<p>To manage invitations, open the filter/ drop down from the Members tab of your Group page and select <strong>invitations</strong>; choose the three dots to the right of the invitation/ person in question.</p>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/BH0x494sZlU?rel=0" frameborder="0" allowfullscreen></iframe>
+<p>You can also make people coordinators or set their title (eg, &quot;IT Support&quot;) within the group before they accept their invitation.</p>
+<h3 id="cancelling-invitations"><a class="header" href="#cancelling-invitations">Cancelling invitations</a></h3>
+<p>If you entered the wrong email address, or have changed your mind about inviting someone, you can cancel an invitation from the Members tab on your Group page. Select <strong>Cancel Invitation</strong> from the same drop down (<strong>⋮</strong>) as demonstrated <a href="groups/membership//#managing-invitations">just above</a>. To cancel invitations shared by <strong>reusable invitation link</strong>…</p>
+<h3 id="reset-invitation-link"><a class="header" href="#reset-invitation-link">Reset invitation link</a></h3>
+<p>To cancel your previous invitation link and generate a new one, click <strong>Share</strong> and then <strong>Reset</strong>. This will disallow any further people from joining using that previous link. You can share the new <a href="groups/membership/index.html#inviting-people">reusable invitation link</a> as before.</p>
+<h2 id="managing-memberships"><a class="header" href="#managing-memberships">Managing memberships</a></h2>
+<p><img src="groups/membership/remove_from_group.png" alt="" /></p>
+<p>Managing members is easy. The following management actions are available from the Members tab on your Group page. Just click on the three dots (<strong>⋮</strong>) to the right of the group member you wish to remove, promote or demote from <strong>admin</strong>, or assign a <strong>title</strong>.</p>
+<h3 id="admin"><a class="header" href="#admin">Admin</a></h3>
+<p>Admin are those people with the <em>most</em> permissions in a group. Admin can add and remove members, grant and remove admin permissions and modify group settings.</p>
+<p>Click on the three dots (<strong>⋮</strong>) next to the person you want to make an admin, and then choose <strong>Make admin</strong>. You will now see that there is an <code>Admin</code> tag to the right of their name. Everyone with this tag is an admin.</p>
+<p>We recommend that you share the coordinator permission with everyone who is trusted to look after the group.</p>
+<h4 id="coordinating-subgroups"><a class="header" href="#coordinating-subgroups">Coordinating subgroups</a></h4>
+<p>If you are the admin of a parent group, or organization, you have additional permissions with regards to any <strong>closed</strong> subgroups.</p>
+<p>You will be able to join any closed subgroup by clicking the &quot;Join Group&quot; button on the left of the Subgroup page in question (just under the tabs).</p>
+<p><img src="groups/membership/join_group_button.png" alt="" /></p>
+<p>Once you have joined the subgroup, you will also be able to make yourself the admin of that subgroup, just as you would promote anyone to admin (<a href="groups/membership/index.html#admin">see above</a>).</p>
+<p><em><strong>Note:</strong></em> <em>these permissions do not extend to</em> <em><strong>secret</strong></em> <em>subgroups.</em></p>
+<h3 id="removing-group-members"><a class="header" href="#removing-group-members">Removing group members</a></h3>
+<p>When you click <strong>Remove from group</strong> you'll be asked to confirm the removal. Upon removal, this user will no longer have access to the group's pages, threads, polls, or proposals. They will, of course, still have access to any emails they had been sent via Loomio up to this date, but they will receive no further emails of group activity.</p>
+<p><img src="groups/membership/remove_from_group.png" alt="" /></p>
+<h3 id="leaving-a-group"><a class="header" href="#leaving-a-group">Leaving a group</a></h3>
+<p>To leave a group go to the Group page's <strong>Settings</strong> tab and click <strong>Leave group</strong>.</p>
+<p><img src="groups/membership/leave_group.png" alt="" /></p>
+<h3 id="assigning-titles"><a class="header" href="#assigning-titles">Assigning titles</a></h3>
+<p>You can name the role someone has within the group, or identify which organization they represent using the <strong>title</strong> feature. You or an admin can change yours by clicking <strong>set title</strong> from the dropdown near your name in the desired group's Members tab.
+<img width="1119" alt="image" src="https://user-images.githubusercontent.com/486367/115946965-c520ee80-a518-11eb-9212-5c3236a4e05b.png"></p>
+<p>You can even have different titles in different subgroups.</p>
+<h2 id="membership-requests"><a class="header" href="#membership-requests">Membership requests</a></h2>
+<p>If your group's <a href="groups/membership/../settings/#advanced-settings">advanced settings</a> allow people to join your group <strong>by request</strong>, an admin will need to approve each membership request. Group coordinators will receive an email each time there is a new membership request. The link in the notification email will take you to the <strong>Requests</strong> page, where you can approve or decline the request.</p>
+<p>To find pending requests for memberships, navigate to the Members tab of your Group page and click the <strong>Requests</strong> button on the right.</p>
+<p><img src="groups/membership/requests_button.png" alt="" /></p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="subgroups"><a class="header" href="#subgroups">Subgroups</a></h1>
+<p><em>Subgroups help you organize in teams.</em></p>
+<p>Subgroups help you organize your communications and members so that the right people are engaged in their work together.</p>
+<p>For example, you can use subgroups for your organization's</p>
+<ul>
+<li>governance board</li>
+<li>working team or a project working group</li>
+<li>a topic (such as 'strategy' or 'learning')</li>
+</ul>
+<p>Unlike tags, subgroups create a separate space for a specific group of people. <a href="groups/subgroups//en/user_manual/threads/thread_admin/#using-category-tags">Tags</a> are a way to organize your threads. Subgroups allows you to change the permissions, notifications, and more for a set of threads and people.</p>
+<p>Subgroups work just like groups do, but are located within your group/organization, which we call the &quot;parent group&quot;. Most of the features and settings are the same as what you encounter in your parent group. This also means that someone can be part of your subgroup (eg, your board) but not your parent group.</p>
+<h2 id="add-a-subgroup"><a class="header" href="#add-a-subgroup">Add a subgroup</a></h2>
+<p>To add a subgroup in your group, go to the <strong>Subgroups</strong> tab.</p>
+<p><img src="groups/subgroups/subgroups_tab.png" alt="" /></p>
+<p>Click the <strong>New subgroup</strong> button, give it a meaningful title and decide on the desired <a href="groups/subgroups//en/guides/getting_started/starting_a_group/#privacy">privacy</a>) setting, and click <strong>Start subgroup</strong>. You can now start threads and invite people in.</p>
+<p>However, similar to <a href="groups/subgroups//en/guides/getting_started/starting_a_group">starting a group</a>, you may want to 'prepare the space,' so to speak, for those you will soon invite. A group description, and adjusting any settings including the banner image, can help people feel comfortable in the Loomio group and with the others who will be participating here. Again, this supports psychological safety – proven to improve performance.</p>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/U4qmHlEMq8E?rel=0" frameborder="0" allowfullscreen></iframe>
+<p><a href="groups/subgroups//en/guides/getting_started/starting_a_group/#invite-people">Invite people</a> just like you would in a group.</p>
+<h3 id="who-can-see-it"><a class="header" href="#who-can-see-it">Who can see it</a></h3>
+<p>The <a href="groups/subgroups//en/guides/getting_started/starting_a_group/#privacy">privacy</a> settings for subgroups follow the same logic as that of any group. A <strong>secret subgroup</strong> will not be visible to group members who are not invited to the subgroup.</p>
+<p><strong>Closed subgroups</strong> will be listed in the Subgroups tab of the relevant parent group, and, by default, members of the parent group can request and – upon approval by an admin – join them.</p>
+<p>See below for more on privacy.</p>
+<h2 id="manage-your-subgroups"><a class="header" href="#manage-your-subgroups">Manage your subgroups</a></h2>
+<h3 id="permissions-1"><a class="header" href="#permissions-1">Permissions</a></h3>
+<p>Subgroups can operate independently of the main group. For example, if the subgroup privacy setting is set to <strong>Secret</strong>, then only invited members can find this subgroup, see who is in it, and see threads.</p>
+<p>Subgroups can have their own coordinators, and, thus, the coordinators of a subgroup may not be the same as the coordinators of the parent group.</p>
+<p>Any coordinator of the parent group may independently make themselves coordinator of any subgroups therein.</p>
+<h3 id="privacy-1"><a class="header" href="#privacy-1">Privacy</a></h3>
+<p><strong>Closed</strong> subgroups have an additional <strong>Advanced setting</strong> that allow members of its parent group to see private threads, or not.</p>
+<p>Otherwise, the privacy settings are the same as those for groups; <a href="groups/subgroups//en/guides/getting_started/starting_a_group/#privacy">learn anything else you need to know here</a>.</p>
+<p><img src="groups/subgroups/parent_group_can_see_private_threads.png" alt="arrow pointing to the option for &quot;Members of [Group name] can see private threads&quot;" /></p>
+<h3 id="invitations"><a class="header" href="#invitations">Invitations</a></h3>
+<p>Invite people just like you would invite them into a group. If they're already in your parent group you can just type their name. You can also quickly select everyone from the parent group.</p>
+<h4 id="simultaneously-invite-people-to-subgroups-and-parent-group"><a class="header" href="#simultaneously-invite-people-to-subgroups-and-parent-group">Simultaneously invite people to subgroups and parent group</a></h4>
+<p>If you use the <strong>Invite people</strong> button from your parent group's <strong>Members</strong> tab, you can invite people to multiple subgroups at the same time by ticking the boxes of those you would like them to join immediately.</p>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/EZzTe6jJL7c?rel=0" frameborder="0" allowfullscreen></iframe>
+<h3 id="deactivate-a-subgroup"><a class="header" href="#deactivate-a-subgroup">Deactivate a subgroup</a></h3>
+<p>Coordinators can deactivate a subgroup in the same way they would a group. Learn <a href="groups/subgroups//en/user_manual/groups/deleting_archiving">how to deactivate groups</a>.</p>
+<h3 id="other-group-options"><a class="header" href="#other-group-options">Other group options</a></h3>
+<p>Export data, set up your Slack integration, and in all other ways use this subgroup just like you would a group; check our <a href="groups/subgroups//en/user_manual/groups/">help articles on <strong>groups</strong> for more</a>.</p>
+<h2 id="are-subgroups-for-my-organization"><a class="header" href="#are-subgroups-for-my-organization">Are subgroups for my organization?</a></h2>
+<p>Does your organization have a number of working groups, committees, or task forces? Are there times when you want to alert or ask a question of a department or specific set of people who have responsibility, or are experts, in a certain area?</p>
+<p>If you answered yes, then you probably will find subgroups useful.</p>
+<p>Subgroups help if you want to…</p>
+<ul>
+<li>Keep a conversation private to a smaller number of people in your group</li>
+<li>Keep people from being bothered by conversations that don't matter to them; <em>bonus: subgroups have their own <a href="groups/subgroups//en/user_manual/users/email_settings">notification settings</a></em></li>
+<li>Make sure to notify <em>all</em> the people related to a specific topic, project, expertise… <em>every</em> time</li>
+</ul>
+<h2 id="group-page-shows-subgroup-threads"><a class="header" href="#group-page-shows-subgroup-threads">Group page shows subgroup threads</a></h2>
+<p>By default, when you go to your parent group you will see a list of its threads and the threads of its subgroups <em>that you are in</em>.</p>
+<p>If you wish to see <em>only</em> threads that were started or belong to the parent group, click the <strong>Subgroups</strong> tab and select the first option (<strong>…without subgroups</strong>).</p>
+<p><img src="groups/subgroups/parent_group_without_subgroups.png" alt="" /></p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="group-data-export"><a class="header" href="#group-data-export">Group data export</a></h1>
+<p>How to export your group data.</p>
+<p>A simple way to export all of your group's data. You can export it to a CSV, HTML, or JSON file.</p>
+<h2 id="export"><a class="header" href="#export">Export</a></h2>
+<p>Open the <strong>Settings</strong> tab on the group page and select <strong>Export Group Data</strong>.</p>
+<p><img src="groups/data_export/settings_tab.png" alt="" /></p>
+<h3 id="export-group-data-as-csv"><a class="header" href="#export-group-data-as-csv">Export group data as CSV</a></h3>
+<p><em>For working with the group data in a spreadsheet, such as with MS Excel or Google Sheets.</em></p>
+<p>You'll be prompted to choose a destination on your computer for the CSV file.</p>
+<h3 id="export-group-data-as-html"><a class="header" href="#export-group-data-as-html">Export group data as HTML</a></h3>
+<p><em>For when you want to save the data for archival purposes.</em></p>
+<p>This will open the HTML file in another tab in your browser. If you want to save the file, right-click anywhere on the page and click &quot;Save as&quot;.</p>
+<h3 id="export-group-data-as-json"><a class="header" href="#export-group-data-as-json">Export group data as JSON</a></h3>
+<p><em>For when you want to move your group data to a self-hosted Loomio instance.</em></p>
+<p>You'll shortly receive an email with a link to downloading the JSON file.</p>
+<h2 id="import"><a class="header" href="#import">Import</a></h2>
+<p>If you are hosting your own Loomio deployment, and would like to import your exported data:</p>
+<p>Copy the .json file to the container instance's <code>import</code> folder:</p>
+<p><code>scp your-group-data.json username@some-domain.org:loomio-deploy/import</code></p>
+<p>Access the running Rails console:</p>
+<p><code>docker exec -ti loomio-app rails console</code></p>
+<p>Call the service:</p>
+<p><code>GroupExportService.import('/import/your-group-data.json')</code></p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="deleting-your-group"><a class="header" href="#deleting-your-group">Deleting your group</a></h1>
+<p>From the <strong>Settings</strong> tab of your group page you can use the <strong>Delete group</strong> option to remove access and eventually delete all the data from our records. When you delete group, it will be archived from view immediately and is scheduled for permanent deletion in 2 weeks. You and your users will immediately lose access, but may contact us within that two week period if a mistake was made.</p>
+<p>Select Delete group from the group's Settings tab, and type the name of your group (<em>case sensitive</em>) as suggested by form's grey, pre-populated text to delete your group.</p>
+<p>Deleting your group will also cancel it's Loomio subscription.</p>
+<h3 id="when-a-group-is-deleted"><a class="header" href="#when-a-group-is-deleted">When a group is deleted</a></h3>
+<p>Two weeks after you use <strong>delete group</strong>, all the threads, polls, files and other group content will be permanently deleted. <em><strong>This is non-reversible!</strong></em> It is recommended that you <a href="groups/deleting_archiving/../data_export">export</a> the group data and manually download any important files you have uploaded before you continue.</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="starting-threads"><a class="header" href="#starting-threads">Starting threads</a></h1>
+<p><em>Get a discussion or decision going.</em></p>
+<h2 id="new-thread"><a class="header" href="#new-thread">New thread</a></h2>
+<p>You can start a thread by clicking <strong>New thread</strong> from a group page. When you start the thread, it will be visible to all of that group's members.</p>
+<p><img src="threads/starting_threads/new_thread1.png" alt="start new thread button" /></p>
+<p>Give your thread a title; try to keep it short and to the point. You can always update the title of the thread later.</p>
+<p>Use the thread <strong>context</strong> to introduce the topic. Give background information or links that people will need to participate, and explain what kind of participation you're looking for. The context will always stay at the top of the thread, above the thread's comments, proposals and polls.</p>
+<h2 id="thread-privacy"><a class="header" href="#thread-privacy">Thread privacy</a></h2>
+<p>If your group privacy is <strong>Closed</strong> or <strong>Secret</strong> then your threads will be <strong>private</strong>. Private means that only members of the group are able to view the threads started in this group (<em>except</em> when you <strong>invite people</strong> such as an expert or any guest not currently part of your group).</p>
+<p><img src="threads/starting_threads/private_thread_label.png" alt="" /></p>
+<p>If your group is &quot;Open&quot; then all your threads will be public, meaning that anyone with the URL can view the thread.</p>
+<p><img src="threads/starting_threads/open_thread_label.png" alt="" /></p>
+<p>For more on this subject… <a href="threads/starting_threads//en/guides/getting_started/starting_a_group/#privacy">→ Group privacy</a></p>
+<h2 id="category-tags-1"><a class="header" href="#category-tags-1">Category tags</a></h2>
+<p><strong>Category tags</strong> (or just “tags”) let you group any number of threads by categories that you define. You can use them to make it easy to find threads of a certain type or topic.</p>
+<p>You can apply tags upon starting your thread.</p>
+<p><img src="threads/starting_threads/category_tag_discussions.png" alt="" /></p>
+<p>Clicking the <strong>add tag</strong> button allows you to edit, order, color, and <strong>add new</strong> tags.</p>
+<p><img src="threads/starting_threads/organize_with_category_tags.png" alt="" /></p>
+<p><a href="https://help.loomio.org/en/guides/getting_started/having_discussions/#keep-the-title-and-context-relevant">Edit</a> threads to add or remove tags after they're started.</p>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/ntauplSLsQE?rel=0" frameborder="0" allowfullscreen></iframe>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="notifying-people"><a class="header" href="#notifying-people">Notifying people</a></h1>
+<p><em>Catalyze interactions.</em></p>
+<p>Effective use of Loomio means knowing how and when to get attention from the group, group members, and even external people your group wants to engage in Loomio to keep everything in one place.</p>
+<p>If you ask for attention when it's really important, and avoid it when it's not, people will keep paying attention.</p>
+<h2 id="within-a-thread"><a class="header" href="#within-a-thread">Within a thread</a></h2>
+<h3 id="mentioning-people"><a class="header" href="#mentioning-people">Mentioning people</a></h3>
+<p>If you want to get the attention of a specific person, type <strong>@</strong>, start typing their name, and then select the user you want to <strong>mention</strong>. Click post or start. You can mention people in comments, threads, or even decisions. They will be notified that you’ve mentioned them.</p>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/VzM1AWnNP7c?rel=0" frameborder="0" allowfullscreen></iframe>
+<h3 id="replies"><a class="header" href="#replies">Replies</a></h3>
+<p>When you reply to a comment, you will notify the user you replied to. Find the <strong>reply</strong> button on the bottom of the comment to which you wish to associate your reply (it will indented or nested under the comment you replied to, by default).</p>
+<p><img src="threads/notifying_people//reply.png" alt="where to click reply on a comment" /></p>
+<p><em>Note: You can also <a href="threads/notifying_people/../engaging_with_threads/#comments-and-replies">reply to yourself</a>, but it does not send a notification.</em></p>
+<h3 id="reactions-1"><a class="header" href="#reactions-1">Reactions</a></h3>
+<p>On any comment or thread's context you can <strong><a href="threads/notifying_people//en/user_manual/threads/engaging_with_threads/#reactions">react</a></strong> to quickly respond with an apt emoji.</p>
+<p>Reactions send a notification within Loomio, but do not send an email.</p>
+<h3 id="start-a-decision"><a class="header" href="#start-a-decision">Start a decision</a></h3>
+<p>The most powerful way to get attention from your group. Ensure that you have a clear decision description so people know how to participate. Loomio will notify everyone you choose (the whole group, everyone in the thread, or selected individuals) about new decisions, <em>although you can choose not to notify people and let them find it on their own time.</em></p>
+<h2 id="starting-a-thread"><a class="header" href="#starting-a-thread">Starting a thread</a></h2>
+<h3 id="notify"><a class="header" href="#notify">Notify</a></h3>
+<p>When you start a discussion, you can choose to select all members of a group, or a select number of them. When you select the whole group, you can assume it will get everyone's attention. People you invite will get a notification immediately.</p>
+<p>You can also invite guests now (or later, as described just below).</p>
+<h3 id="invite-people-1"><a class="header" href="#invite-people-1">Invite People</a></h3>
+<p>When you start a thread, your whole group can access it immediately. If you want more people's participation, or want their participation sooner, you can additionally send them an alert via the box that immediately appears when you start the thread. You can also alert people in this way later on via the <strong><a href="threads/notifying_people//en/user_manual/threads/thread_admin/#invite-guests-to-thread">members</a></strong> button at the thread context's bottom. Exactly like <strong>notify</strong>, invited parties will immediately receive a notification.</p>
+<p>If, for example, the thread is an important announcement and contains information that's ready for the whole group to take notice of, then <strong>notify</strong> them when you start the thread.</p>
+<p><em><strong>Tip:</strong></em> <em>We've made it quick to select all of the members of the relevant group; click the link with your group's name.</em></p>
+<p>Use <strong>invite people</strong> to invite guests or experts from outside your group to a specific thread; <a href="threads/notifying_people/../thread_admin/#invite-guests-to-thread">learn more</a>.</p>
+<h3 id="notify-the-right-people-every-time"><a class="header" href="#notify-the-right-people-every-time">Notify the right people every time</a></h3>
+<p>Subgroups are a great way to make it simple to send notifications to a specific set of people. If I click <strong>invite people</strong> from a thread in a subgroup, I can simply select <strong>Members of <code>Subgroup Name</code></strong>.</p>
+<p>It's great to remind your working group when there hasn't been much interaction with a thread. To increase the chances of good engagement, check that the <a href="threads/notifying_people//en/guides/getting_started/having_discussions/#keep-the-topic-concise">thread context and title include a clear invitation</a>, specifying how to participate.</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="engaging-with-threads"><a class="header" href="#engaging-with-threads">Engaging with threads</a></h1>
+<p><em>Comments and tools such as thread translation and thread emails.</em></p>
+<h2 id="thread-context-1"><a class="header" href="#thread-context-1">Thread context</a></h2>
+<p>The thread <strong>context</strong> has special status within a thread. It's always at the top, and it's always visible on the page.</p>
+<p><img src="threads/engaging_with_threads/context_panel.png" alt="" /></p>
+<p>Like a comment, you can format your text and attach files or images. Unlike a comment, anyone in the group can update the context (and the title of the thread) by default. This means you can enable anyone to pitch in and help keep things easy to understand and easy to find.</p>
+<blockquote>
+<p><strong>Tip:</strong> As the thread grows, update the context with key understandings and information so new people can catch up and participate easily.</p>
+</blockquote>
+<p>The context is like the whiteboard in your meeting room, where you can write the agenda, the hopeful outcomes and how you aim to get there, and take group notes. <em>Learn more about preparing threads and groups for success <a href="threads/engaging_with_threads//en/facilitators_guide">in our Facilitator's Guide</a>.</em></p>
+<h3 id="add-attachments"><a class="header" href="#add-attachments">Add attachments</a></h3>
+<p>Use the paper clip icon, just below the text form, to add attachments from your computer.</p>
+<h3 id="remove-attachments"><a class="header" href="#remove-attachments">Remove attachments</a></h3>
+<p>While editing the context, click the <strong>X</strong> to the right of the attachment's name.</p>
+<p><img src="threads/engaging_with_threads/delete_context_attachment.png" alt="" /></p>
+<h2 id="comments-and-replies"><a class="header" href="#comments-and-replies">Comments and replies</a></h2>
+<p>The most common activity in a thread is commenting. Comments are shared with everyone in the thread – usually this is just the members of your group. First look for <strong>Comment</strong> and your user photo (or initials).</p>
+<p><img src="threads/engaging_with_threads/comments_and_facilitation_box.png" alt="" />
+<em>Make sure that Comment is highlighted, not Proposal or Poll.</em></p>
+<p>Write your comment and press <strong>Post</strong> to have your say.</p>
+<p>Replies are like comments except in that the author of the original comment will be notified of your reply. Click <strong>reply</strong> on the comment you would like to associate your comment with, as it will be nested underneath theirs – by default – in the thread in which you replied.</p>
+<p>You can reply to your <em>own</em> comment in order to nest your reply underneath the comment. Click the three horizontal dots (<strong>⋯</strong>) to find <strong>reply</strong> in this case.</p>
+<p>If Loomio has emailed you a comment and says you can reply to the email, you can reply directly from your email and your message will appear in the thread.</p>
+<h2 id="formatting-comments"><a class="header" href="#formatting-comments">Formatting comments</a></h2>
+<p>Use the formatting tools underneath the space in which you write (any form). Hover the mouse/cursor over each item to know what it is. There's a number of format options listed below, and a few are explained in more detail further down.</p>
+<ul>
+<li>stylize (bold, italics, code block…)</li>
+<li>create lists (eg, checklists)</li>
+<li>turn text into hyperlinks - <em>links icon</em></li>
+<li>add attachments (from your device) - <em>paper clip icon</em></li>
+<li>embed video - <em>play button icon</em></li>
+<li>create and modify tables - <em>icon with four squares</em>.</li>
+</ul>
+<h3 id="embed-videos"><a class="header" href="#embed-videos">Embed videos</a></h3>
+<p>Click the video icon from the formatting tools listed underneath any form (comment, thread…) and paste the link of most modern video hosting websites (ie, Youtube, Vimeo…).</p>
+<p><img src="threads/engaging_with_threads/embed_video.png" alt="" /></p>
+<h3 id="markdown"><a class="header" href="#markdown">Markdown</a></h3>
+<p>To revert to markdown editing, click <strong>M↓</strong>. <em>If you click this while there is text in the form, some formatting may be lost upon conversion.</em></p>
+<h4 id="wysiwyg"><a class="header" href="#wysiwyg">WYSIWYG</a></h4>
+<p>Click <strong>WYSIWYG</strong> to return to the formatting tools. This will convert any text and markdown formatting to display how it will appear when posted. <em><strong>PREVIEW</strong></em> <em>also shows you how your text will appear, but without converting.</em></p>
+<h3 id="checklist"><a class="header" href="#checklist">Checklist</a></h3>
+<p>From the lists dropdown, choose <strong>Checklist</strong>.</p>
+<p><img src="threads/engaging_with_threads/lists.png" alt="" /></p>
+<p>Click on the checklist/ tick boxes in order to cross out that to-do from the edit form of any context or thread you have permission to edit. <em>I.e., you cannot tick boxes in someone elses comment.</em></p>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/uWNHwl7_gPo?rel=0" frameborder="0" allowfullscreen></iframe>
+<h2 id="editing-comments"><a class="header" href="#editing-comments">Editing comments</a></h2>
+<p>If you've made a typo, or want to add a bit more information to your comment shortly after you've posted it, click <strong>edit</strong> on your comment. Editing does not take anyone else's attention with notifications nor unread signals.</p>
+<p><img src="threads/engaging_with_threads/edit_comment.png" alt="" /></p>
+<p>Changes you've made will be visible <em>to others</em> via the <strong>edited</strong> button, so you can see what people have changed in their comment.</p>
+<p><img src="threads/engaging_with_threads/comment_history_button.png" alt="" /></p>
+<p><img src="threads/engaging_with_threads/comment_history_modal.png" alt="" /></p>
+<p>If you have new information or are coming back after an extended period of time, just make a new comment, then people who have already read your comment will see that there is new information.</p>
+<h2 id="reactions-2"><a class="header" href="#reactions-2">Reactions</a></h2>
+<p><img src="threads/engaging_with_threads/reactions.png" alt="" />
+Click <strong>react</strong> on any thread context or comment to share how a comment made you feel, or acknowledge something someone has said, without writing a comment. They're a light-weight way to participate without interrupting the conversation, and they only send a notification within the app (not by email).</p>
+<h2 id="automatic-translation"><a class="header" href="#automatic-translation">Automatic translation</a></h2>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/ZI_ZxJKoiy0?rel=0" frameborder="0" allowfullscreen></iframe>
+<p>Loomio can translate user content (eg, votes, comments…) from one language into another automatically (with the help of Google Translate). If the author of a comment uses a language other than yours, <strong>Translate comment</strong> will be available in the drop-down options of the comment in question, from the three horizontal dots (<strong>⋯</strong>).</p>
+<h2 id="facilitation-and-decision-tools"><a class="header" href="#facilitation-and-decision-tools">Facilitation and Decision tools</a></h2>
+<p><img src="threads/engaging_with_threads/facilitation_tools_tabs.png" alt="" />
+There are a selection of <strong>facilitation tools</strong> and <strong>decision tools</strong> available to you from within the thread.</p>
+<ul>
+<li>Proposals are there to help you see if there is agreement about a statement or course of action, and surface the disagreement if that's what needs to happen. Often, you can use proposals to bring the discussion to conclusion.</li>
+<li>Polls are useful to understand preferences of the group.</li>
+<li>Use a time poll if you need to get everyone together, and want to find the best time for that meeting to happen.</li>
+</ul>
+<p>Find out more about <a href="threads/engaging_with_threads/en/guides/getting_started/decision_tools">decision tools</a>.</p>
+<h2 id="email-notifications-1"><a class="header" href="#email-notifications-1">Email notifications</a></h2>
+<p>By default</p>
+<ul>
+<li>you will receive an email with everything you missed the day before as a daily digest</li>
+<li>you will receive immediately emails for all activity in threads in which you have participated</li>
+</ul>
+<p>To change these defaults and more… <a href="threads/engaging_with_threads//en/user_manual/users/email_settings">→ Notifications</a></p>
+<h3 id="setting-email-notifications-for-individual-threads"><a class="header" href="#setting-email-notifications-for-individual-threads">Setting email notifications for individual threads</a></h3>
+<p>You can adjust your email settings per thread, so that you can mute conversations that will never matter to you and get all activity immediately for those critical to you (and everything in between).</p>
+<p>To do this, use the <strong>subscribe</strong> button at the bottom of the thread's context. If you want to see this or learn more about email settings… <a href="threads/engaging_with_threads//en/user_manual/users/email_settings/#thread-email-settings-subscribe">→ Thread email settings &amp; Subscribe</a></p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="navigating-in-threads"><a class="header" href="#navigating-in-threads">Navigating in threads</a></h1>
+<p><em>Find what you need, when you need it, in a thread.</em></p>
+<h2 id="context"><a class="header" href="#context">Context</a></h2>
+<p>The thread <strong>context</strong> has special status within a thread. It's always at the top, and it's always visible on the page. It's typically used to frame the discussion or decision and provide necessary context. Learn more about engaging with the thread context <a href="threads/navigating_threads/../engaging_with_threads/#thread-context">here</a>.</p>
+<h2 id="timeline-1"><a class="header" href="#timeline-1">Timeline</a></h2>
+<p>The timeline helps you and your group to quickly access content (conversations, questions, decisions…). It is a visual, interactive history of key events, processes, or milestones that helps your group to understand how a conversation evolved over time or to review how a given outcome came about.</p>
+<p><img src="https://help.loomio.org/en/user_manual/whats_new_loomio_2/new_timeline.png" alt="timeline with key meetup dates by month" /></p>
+<p>To facilitate this, comments with headers, proposals, and polls are automatically added to the timeline as links. Clicking these links take you directly to this item in the thread. Learn how to edit timeline items <a href="threads/navigating_threads/../thread_admin/#pin-to-timeline">here</a>.</p>
+<p>The date of the earliest thread activity, and the latest, are not blue but <strong>can be clicked to quickly navigate, too!</strong> Click on the dates or &quot;<strong>Context</strong>&quot; to navigate to the earliest or latest comment or to the top (the context).</p>
+<h2 id="navigating-activity-and-thread-format"><a class="header" href="#navigating-activity-and-thread-format">Navigating activity and Thread format</a></h2>
+<p>Thread <strong>activity</strong> is comprised of all the comments, replies, proposals, polls, votes and other notable things that happen within the thread. There are two ways you can alter how that activity is displayed in order to optimize the experience given a specific thread's purpose:</p>
+<h3 id="oldest-or-newest-first-1"><a class="header" href="#oldest-or-newest-first-1">Oldest or Newest first</a></h3>
+<p>By default, this activity is 1.) listed with the oldest activity nearest the top, or <strong>oldest first</strong>, and 2.) nested, which means a reply will be displayed just under the comment to which it is responding and the proposals and polls will result in a nice list of responses/positions directly under the area where folks engage with them.</p>
+<p>The grey text just under the context will indicate in which order the activity is being listed, along with the number of replies.</p>
+<p>To change this setting, click that grey text, choose your preference, and save. <em>This changes the layout for everyone, not just you.</em></p>
+<blockquote>
+<p><strong>Tip:</strong> Long threads, for example your organization's 'wall' for off-topic sharing, often benefit from the setting <strong>newest first</strong></p>
+</blockquote>
+<h3 id="how-replies-are-displayed"><a class="header" href="#how-replies-are-displayed">How replies are displayed</a></h3>
+<p>The thread can also be set to display chronologically, as a <strong>flat list</strong>, where all activity is displayed in the order that it happened. <em>Again, this setting is for all thread members as threads are viewed in the same way by everyone.</em></p>
+<p><img src="threads/navigating_threads/thread_format_button.png" alt="&quot;7 replies&quot; and &quot;oldest first&quot; displayed just under the thread context and above the thread activity" /></p>
+<p>Similar to switching oldest for newest first, change how replies are displayed by clicking the grey text under the context to first open <strong>Thread layout</strong> options, select your preference, and save.</p>
+<p><img src="threads/navigating_threads/thread_format.png" alt="" /></p>
+<h2 id="unread-activity"><a class="header" href="#unread-activity">Unread activity</a></h2>
+<p>When you open a thread on Loomio you will first be taken to unread (or unseen) activity. When activity items are displayed on your screen, Loomio will take note that they have been read, <em>just like if you see the activity via an email.</em> Unread content is displayed with a yellow stripe on the left side and threads with unread content display bold within thread lists.</p>
+<h2 id="finding-the-right-thread"><a class="header" href="#finding-the-right-thread">Finding the right thread</a></h2>
+<p>If you're looking for a thread of the same kind, try clicking the <a href="threads/navigating_threads/../thread_admin/#category-tags">Category tag</a> if there is one to the right of the title of the thread.</p>
+<p>Otherwise, you can always use the <a href="threads/navigating_threads/../../users/navigation/#search">search</a>.</p>
+<hr />
+<p><strong>Not certain which thread to look in?</strong> … <a href="threads/navigating_threads/../../users/navigation">→ Navigating Loomio</a></p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="thread-administration--tracking-engagement"><a class="header" href="#thread-administration--tracking-engagement">Thread administration &amp; Tracking engagement</a></h1>
+<p><em>Manage your threads and the information therein.</em></p>
+<p>To get the most out of the effectiveness and efficiency that Loomio offers, you may want to manage the discussion threads and the communications they contain.</p>
+<p>While some of these actions are taken from <em>within</em> threads, we'll start outside the threads, on any page where threads are listed (Group, Unread threads, or Recent threads page).</p>
+<h2 id="understanding-thread-previews"><a class="header" href="#understanding-thread-previews">Understanding thread previews</a></h2>
+<p>To help you stay on top of everything, the thread preview is a quick glance at the some important details about a thread. Thread previews appear on any page that lists threads.</p>
+<p><img src="threads/thread_admin/thread_preview.png" alt="" /></p>
+<p>It shows</p>
+<ul>
+<li>The title</li>
+<li>Who first authored it - <em>the picture or initials to the left of the title</em></li>
+<li>If it has an active proposal or poll - <em>a relevant visual/graph will replace the author</em></li>
+</ul>
+<blockquote>
+<p><em>Note:</em> your participation (eg, Agree) is superimposed on this graph. A question mark indicates you have not participated</p>
+</blockquote>
+<ul>
+<li>What group or subgroup it is in - <em>just below the title</em></li>
+<li>How many comments or votes - <em>X replies</em></li>
+<li>If there has been activity that you haven't seen yet - <em>yellow stripe on the left</em></li>
+<li>How many of these you have yet to see - <em>Y unread</em></li>
+<li>When the last comment or vote was submitted - <em>Last active Z ago</em></li>
+</ul>
+<h1 id="top-level-options"><a class="header" href="#top-level-options">Top-level options</a></h1>
+<p>You can access a number of options by selecting the three horizontal dots (<strong>⋯</strong>) to the right of a thread's title , opening the <strong>thread preview options</strong>. The following administrative actions are taken from those options (only on pages that list threads).</p>
+<h3 id="pin-thread"><a class="header" href="#pin-thread">Pin thread</a></h3>
+<p>If you are a coordinator, you can pin comments to order them and make them easier to find. Pinned threads will appear above your other threads and will be ordered by latest activity within their group and organization.</p>
+<p>You can easily  <strong>pin</strong> or <strong>un-pin</strong> from the thread preview options, but <strong>only from the Group page</strong>.</p>
+<p><img src="threads/thread_admin/pin_thread.png" alt="" /></p>
+<h3 id="close-thread"><a class="header" href="#close-thread">Close thread</a></h3>
+<p>To keep the list of discussions on your group page relevant, you can close threads which people don't need to see.</p>
+<p><img src="threads/thread_admin/close_thread.png" alt="" /></p>
+<p>To view closed threads, first navigate to the relevant <strong>group page</strong>. You will need to use the drop-down just under the Threads tab to change the thread filter from its default of <strong>open</strong>.</p>
+<p><img src="threads/thread_admin/sort_threads_on_group_page.png" alt="" /></p>
+<p>Choose &quot;closed&quot; to view all your closed threads in the thread filter.</p>
+<p><img src="threads/thread_admin/closed_threads.png" alt="" /></p>
+<h4 id="re-open-thread"><a class="header" href="#re-open-thread">Re-open thread</a></h4>
+<p>Re-opening a closed thread is done from within the thread's page – again, the three horizontal dots (<strong>⋯</strong>). See <a href="threads/thread_admin/index.html#thread-options-and-organizing-threads">organizing threads</a> for a depiction.</p>
+<h3 id="category-tags-2"><a class="header" href="#category-tags-2">Category tags</a></h3>
+<p><strong>Category tags</strong> (or just &quot;tags&quot;) let you group any number of threads by categories that you define. Use the thread context's <strong>edit</strong> button to add or remove tags once a thread has been started. Add tags as you start the thread, <a href="threads/thread_admin/../starting_threads/#category-tags">learn all about it</a>.</p>
+<h4 id="navigating-using-category-tags"><a class="header" href="#navigating-using-category-tags">Navigating using category tags</a></h4>
+<p>You can click on tags from within threads or use them from your group page; learn more about <a href="threads/thread_admin/../../users/navigation/#Category-Tags-help-you-sort-threads">sorting threads by tag</a>.</p>
+<h1 id="options-within-threads"><a class="header" href="#options-within-threads">Options within threads</a></h1>
+<h2 id="thread-context-2"><a class="header" href="#thread-context-2">Thread context</a></h2>
+<p>Threads are easily updated and edited by those with permission to by clicking <strong>edit</strong>.</p>
+<blockquote>
+<p><strong>Tip:</strong> Double-clicking a thread context also opens the context editor.</p>
+</blockquote>
+<p>Learn more about thread contexts <a href="threads/thread_admin/../engaging_with_threads/#thread-context">here</a>.</p>
+<h2 id="thread-options-and-organizing-threads"><a class="header" href="#thread-options-and-organizing-threads">Thread Options and Organizing threads</a></h2>
+<p>The following administrative actions may be taken from within the thread, and in some cases from pages that list threads (thread preview options). To find these options, go to the page of the thread in question and use the <strong>⋯</strong> three horizontal dots to the right of the basic thread actions at the bottom of the context.</p>
+<p><img src="threads/thread_admin/options_from_thread_context.png" alt="" /></p>
+<h3 id="move-thread"><a class="header" href="#move-thread">Move thread</a></h3>
+<p>You may want to move threads between groups and subgroups to keep things organised. To do this, select <strong>move to group</strong> from the additional options</p>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/59T3xCK-jys?rel=0" frameborder="0" allowfullscreen></iframe>
+<h3 id="delete-thread"><a class="header" href="#delete-thread">Delete thread</a></h3>
+<p>If you're the admin of a group you can delete any thread – or comments in any of the threads – in the group.</p>
+<p>If you started a thread, you can delete that thread, but only your comments within it.</p>
+<h2 id="invite-guests-to-thread"><a class="header" href="#invite-guests-to-thread">Invite guests to thread</a></h2>
+<p>Consult an expert or external party while keeping relevant communications all in one place: Invite them to a specific thread by clicking <strong>members</strong>, at the bottom of the thread's context. They won't get access to any other threads in your group, just this one. They do not need to already have a Loomio account, and they can participate by email just like all Loomio users.  <em>If you</em> do <em>want them to be in the group, then invite them to join from the group page.</em></p>
+<p>You can remove them (or give them permissions) by clicking the dots to the right of their name, again from the context's <strong>members</strong> button.</p>
+<h2 id="administering-comments-and-decisions"><a class="header" href="#administering-comments-and-decisions">Administering comments and decisions</a></h2>
+<p>The following are achieved from any comment by first clicking on the three horizontal dots (<strong>⋯</strong>) at the bottom-right of the comment, proposal, or poll in question.</p>
+<h3 id="deleting-comments"><a class="header" href="#deleting-comments">Deleting comments</a></h3>
+<p>You can delete your own comments at any time.</p>
+<p>Again, an admin can delete any comment.</p>
+<p>Select <strong>delete</strong> from the comment's options (<strong>⋯</strong>).</p>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/cGc8_1zWrzE?rel=0" frameborder="0" allowfullscreen></iframe>
+<h3 id="move-items"><a class="header" href="#move-items">Move items</a></h3>
+<p>Sometimes a comment is useful, but off-topic for the thread; <em>it may be a short conversation took place that would have been better held in another thread or subgroup.</em> In this case you will want to move one or more related comment(s) and replies by selecting <strong>move item</strong> in the comment's options (<strong>⋯</strong>). This will allow you to select any number of thread items, <em>including</em> polls or proposals. You can then add them to a pre-existing thread of your choice, or start a new thread.</p>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/qaaQkA2myRc?rel=0" frameborder="0" allowfullscreen></iframe>
+<h3 id="pin-to-timeline"><a class="header" href="#pin-to-timeline">Pin to timeline</a></h3>
+<p>The timeline helps you and your group to quickly access content (conversations, questions, decisions…). It is a visual, interactive history of key events, processes, or milestones that helps your group to understand how a conversation evolved over time or to review how a given outcome came about.</p>
+<p><img src="https://help.loomio.org/en/user_manual/whats_new_loomio_2/new_timeline.png" alt="timeline with key meetup dates by month" /></p>
+<p>To facilitate this, comments with headers, proposals, and polls are automatically added to the timeline as links. Clicking these links take you directly to this item in the thread.</p>
+<h4 id="add-remove-or-edit-timeline-items"><a class="header" href="#add-remove-or-edit-timeline-items">Add, remove, or edit timeline items</a></h4>
+<p>To add, remove, or edit timeline items, either click the word <strong>pin</strong> or <strong>unpin</strong> at the bottom-right of any comment, proposal, or poll.</p>
+<p>To edit the words used in the timeline: unpin and then pin it again; this will give you the opportunity to reword the text that appears as a link in the timeline.</p>
+<blockquote>
+<p><strong>Tip:</strong> Highlight the words that you would like to use as the text in the timeline</p>
+</blockquote>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/Dy8Hi_QM-Gw?rel=0" frameborder="0" allowfullscreen></iframe>
+<h2 id="archiving-threads"><a class="header" href="#archiving-threads">Archiving threads</a></h2>
+<p>In addition to <a href="threads/thread_admin/index.html#close-thread">closing threads</a> or <a href="threads/thread_admin/index.html#move-thread">moving threads</a>, you can also archive the thread to your local device:</p>
+<h3 id="print-thread"><a class="header" href="#print-thread">Print thread</a></h3>
+<p>From the <a href="threads/thread_admin/index.html#Thread-Options-and-Organizing-threads">thread options</a> (<strong>⋯</strong>), choose <strong>print</strong>. Then use your browser's ability to &quot;save to pdf&quot;, or copy and paste it into the file or repository of your choosing.</p>
+<h2 id="tracking-engagement"><a class="header" href="#tracking-engagement">Tracking engagement</a></h2>
+<h3 id="seen-by"><a class="header" href="#seen-by">Seen by</a></h3>
+<p>Just under the thread context you can click <strong>members</strong> to see who has or has not seen the thread.</p>
+<p><img src="threads/thread_admin/thread_member_management.png" alt="" /></p>
+<h3 id="notification-history"><a class="header" href="#notification-history">Notification history</a></h3>
+<p>You can check if someone has been sent an email notification about a thread, decision, or comment. Additionally, you can see if they have <em>opened</em> this notification email or if they saw it on Loomio.</p>
+<h4 id="for-comments-and-threads"><a class="header" href="#for-comments-and-threads">For comments and threads</a></h4>
+<p>In the extra options you find from the three horizontal dots (<strong>⋯</strong>), click <strong>See notifications</strong>.</p>
+<h4 id="for-proposals-and-polls"><a class="header" href="#for-proposals-and-polls">For proposals and polls</a></h4>
+<p>Click on the dots (<strong>⋯</strong>) under the Results section of your proposal or poll, and then click <strong>See notifications</strong> to see who has been invited to – and who has viewed the notification of – your proposal or poll.</p>
+<p>Here's how it looks if you sent some notifications:</p>
+<p><img src="https://miro.medium.com/max/2000/0*-fhId7QsU-rFM982.jpg" alt="" /></p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="polls-and-proposals"><a class="header" href="#polls-and-proposals">Polls and Proposals</a></h1>
+<p><em>Loomio's <strong>proposals</strong> and <strong>polls</strong> are desgined to help you move a discussion through to clear outcomes</em></p>
+<p>There are a number of different types of polls. Below the thread context, switch from the <strong>Comment</strong> box to the <strong>Poll</strong> to see the variety of unique ways to get your group's input and/or visualise where the group stands on a given topic or question.</p>
+<p><img src="https://i.imgur.com/3l100CM.jpg" alt="" /></p>
+<p>The <strong>Proposal</strong> tool also has a variety of options that allow you to run a number of distinct processes (eg, a 'questions &amp; comments round'), as covered <a href="polls/proposal_types/index.html#proposals">below</a>.</p>
+<h2 id="time-poll"><a class="header" href="#time-poll">Time poll</a></h2>
+<p><em>Find a time to meet</em></p>
+<p><img src="https://i.imgur.com/cmde9LX.jpg" alt="" /></p>
+<p>Time poll makes it easy to identify when is the best time to meet.</p>
+<p>Enter a selection of times and share the poll with the people involved. Participants tick the times they can attend and the result is a table showing who is available when, so you're able to pick the best time for the group.</p>
+<p>So that you can arrange calls with people in other parts of the world, Loomio adjusts times so they are correct when displayed for each participant.</p>
+<p>When you are selecting your times, Loomio will display your team’s most used time zones so you can quickly propose times that suit most members.</p>
+<p><img src="https://i.imgur.com/M9L6byc.jpg" alt="" /></p>
+<p>If the times don't work, participants can suggest alternatives using the message field. You can then update the poll with new times.</p>
+<h2 id="check"><a class="header" href="#check">Check</a></h2>
+<p><em>Count how many people have completed a task, or ask for volunteers</em></p>
+<p><img src="polls/proposal_types/check.png" alt="" /></p>
+<p>Make an offer or ask people to take some action. Think of it as the online equivalent of asking a room of people &quot;Please raise your hand if you…&quot;.</p>
+<p>There are many ways you can use a check, but only one or two ways to respond: a Tick (✔), meaning affirmative, or an X mark (✘) meaning no or unsure.</p>
+<p>You can choose to use just one or the other if that makes more sense; <em>eg, it may not help to receive</em> <em><strong>No</strong></em> <em>responses for an opt-in or volunteer opportunity, in which case you will select the</em> <em><strong>Yes</strong></em> <em>option only</em></p>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/b28F7mciATA?rel=0" frameborder="0" allowfullscreen></iframe>
+<p>Other examples:</p>
+<ul>
+<li>I've checked my contact details are correct</li>
+<li>I've read the document and left my feedback</li>
+<li>I'm coming to the event</li>
+<li>I'll join the working group.</li>
+</ul>
+<p>A benefit of Count is that it automatically notifies those people who forget to participate, giving people a little encouragement to get the job done.</p>
+<h2 id="poll"><a class="header" href="#poll">Poll</a></h2>
+<p><em>Measure popularity or offer a choice</em></p>
+<p><img src="polls/proposal_types/poll.png" alt="" /></p>
+<p>Enter a question and provide some options for people to choose from. People vote for one or more options - depending on if you allow single or multiple choice.</p>
+<p>Write any details about the options all together in the details field, then just enter the name of the option in each poll option field.</p>
+<p>Examples:</p>
+<ul>
+<li>Where should we have our Christmas party?</li>
+<li>Which catering company should we use?</li>
+<li>What size t-shirt would you like?</li>
+<li>If we ran a workshop, how likely are you to attend?</li>
+</ul>
+<h3 id="multiple-choice"><a class="header" href="#multiple-choice">Multiple choice</a></h3>
+<p>Select the tick box, <strong>Multiple choice</strong>, if you wish for people to be able to choose multiple options rather than just a single choice off of the list of options.</p>
+<h2 id="score-poll"><a class="header" href="#score-poll">Score Poll</a></h2>
+<p><em>Express the degree of preference for each option</em></p>
+<p><img src="https://i.imgur.com/kLXKujG.jpg" alt="" /></p>
+<p>The score poll is commonly used for general surveys or 'temperature checks', in which electing a single 'winning' option is not necessarily the point.</p>
+<p><img src="polls/proposal_types/score_poll_results.png" alt="" /></p>
+<p>People get to express their desire, preference or interest in each option. The poll produces more granular results than a simple majority vote.</p>
+<p>Examples:</p>
+<ul>
+<li>How would you rate your interest in these topics for the next meeting agenda?</li>
+<li>How important is each of these principles to you when considering our team vision?</li>
+<li>How much would you like to see each of the following speakers at the next conference?</li>
+</ul>
+<h2 id="dot-vote"><a class="header" href="#dot-vote">Dot vote</a></h2>
+<p><em>Prioritise options together by allocating a 'budget' of points</em></p>
+<p>This style of poll is useful for groups trying to allocate a limited resource (even time) to a number of options (eg, agenda items, or budget line-items)</p>
+<p><img src="polls/proposal_types/dot-vote.png" alt="" /></p>
+<p>Everyone gets a number of dots to allocate against a set of options to represent their priorities. This can build a more detailed picture than a simple poll.</p>
+<p>Examples:</p>
+<ul>
+<li>You're given $100 to spend on the business; how would you spend it?</li>
+</ul>
+<p>See <a href="http://dotmocracy.org/">dotmocracy.org</a> for more tips and resources about this voting method.</p>
+<h2 id="ranked-choice"><a class="header" href="#ranked-choice">Ranked choice</a></h2>
+<p><em>Rank options in the order of preference.</em></p>
+<p><img src="https://i.imgur.com/4zU6t7Z.jpg" alt="" /></p>
+<p>Offers a series of options for people to vote in their preferred order. You can choose the number of votes people can give and rank. This decision-making type allows people to express their opinion in more detail than traditional polls.</p>
+<p>Ranked choice is particularly useful when you have a large number of options or an election setting, where you are concerned with two somewhat similar options 'stealing' votes from one another, resulting in a less popular option gaining the plurality.</p>
+<p>Examples:</p>
+<ul>
+<li>What would you like to eat at the company summer party?</li>
+<li>Who should be our next deputy mayor?</li>
+</ul>
+<h2 id="proposals"><a class="header" href="#proposals">Proposals</a></h2>
+<p><em>Seek collective agreement</em></p>
+<p><img src="polls/proposal_types/proposal.png" alt="" /></p>
+<p>Proposals are great for bringing a discussion to a clear outcome, developing or adopting policy, approving applications, and making decisions with input from others.</p>
+<p>With good participation, a proposal creates support within the group to take action.</p>
+<p>Participants can indicate their <strong>position</strong> and give a statement to explain why they chose it.</p>
+<h3 id="change-which-positions-can-be-submitted"><a class="header" href="#change-which-positions-can-be-submitted">Change which positions can be submitted</a></h3>
+<p>You can change the positions, or options, that proposal participants will have to choose from. There are several configurations for you to choose from.</p>
+<p><img src="polls/proposal_types//en/user_manual/whats_new_loomio_2/flexible_proposals1.png" alt="" /></p>
+<p><em>For example,</em> you might decide to take a period of time for 'questions &amp; comments' before you ask people to respond to the final proposal. In this case, you may even choose to have <strong>No voting</strong>. While you could invite questions &amp; comments without a proposal, the proposal can be a useful way to create a very clear time box and invitation to comment on <em>this</em> proposal. Using a proposal for questions &amp; comments can also help remind people to participate with the notification sends 24 hours before the poll closes.</p>
+<p><em>Another example:</em> If your group doesn't use a variant of <a href="polls/proposal_types//en/guides/consent_process/#glossary">consent-based decision making</a> then you may choose to use a configuration without the &quot;block&quot; or &quot;objection&quot;.</p>
+<h3 id="ways-of-using-proposals"><a class="header" href="#ways-of-using-proposals">Ways of using proposals</a></h3>
+<p>Don't hesitate to start a proposal just because you're not sure everyone will agree - proposals are not only for when you have consensus, they're designed to surface issues that need resolving and are useful for clarifying disagreements.</p>
+<h4 id="uncover-the-controversy"><a class="header" href="#uncover-the-controversy">Uncover the controversy</a></h4>
+<p><em>E.g. Let's put a bike stand next to the front desk</em></p>
+<p>If there are two or more competing ideas, propose supporting one. Controversial topics might require a series of proposals to build shared understanding.</p>
+<h4 id="series-of-small-yess"><a class="header" href="#series-of-small-yess">Series of small Yes's</a></h4>
+<p><em>E.g. We host the conference; dates and venue to be confirmed later</em></p>
+<p>Break down a complex issue into smaller parts and agree on them piece by piece.</p>
+<h4 id="polarising-minority"><a class="header" href="#polarising-minority">Polarising Minority</a></h4>
+<p><em>E.g. Share our pay rates publicly</em></p>
+<p>Sometimes loud voices can seem like they are representing more of the group than they really are. Raise a proposal to put their views in perspective.</p>
+<h4 id="temperature-check"><a class="header" href="#temperature-check">Temperature Check</a></h4>
+<p><em>E.g. Temperature Check: we should change the privacy policy</em></p>
+<p>A temperature check is a way to test how the group feels without concluding a fully realized proposal. Use it when you want to survey opinions, or test a hunch, rather than advocate for a particular position.</p>
+<h4 id="on-disagreement"><a class="header" href="#on-disagreement">On disagreement</a></h4>
+<p>'Disagree' and 'block' are often controversial positions to take. We encourage you to see them as opportunities to understand where communication has been inadequate, points of view are under-represented, or as a source of valuable insight.</p>
+<p>If things feel tense on a personal level, we recommend that you talk (one-on-one) with the person to hear their concerns.</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="using-proposals-or-polls"><a class="header" href="#using-proposals-or-polls">Using proposals or polls</a></h1>
+<p><em>Basics, tips, and tricks for writing and using decision tools.</em></p>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/O-laa4di8kI" frameborder="0" allowfullscreen></iframe>
+<p>There are a number of <a href="polls/starting_proposals/../starting_proposals">types of proposals</a>, but the basics remain the same for all of them.</p>
+<h2 id="step-by-step-for-all-decision-tools"><a class="header" href="#step-by-step-for-all-decision-tools">Step-by-step for all decision tools</a></h2>
+<ol>
+<li>You choose to use a poll or proposal (within a thread)</li>
+<li>You name it, describe the question or proposal it represents, and set its duration</li>
+<li>You notify group members (typically all, but you may select none or specific...)</li>
+<li>Group members participate and share a tweet-length message with their selection</li>
+<li>They can change their minds as understanding develops; live results are available</li>
+<li>A reminder is sent out the day before closing</li>
+<li>The poll closes, and everyone can see the results</li>
+<li>The author sets an <a href="polls/starting_proposals/../outcomes">outcome</a>, notifying everyone of what will happen next.</li>
+</ol>
+<h2 id="title-and-details"><a class="header" href="#title-and-details">Title and Details</a></h2>
+<p><strong>Writing proposals</strong></p>
+<p>Include enough details so everyone knows what it means to agree or disagree.</p>
+<p>Avoid combining a range of ideas in one proposal, because people might agree to some aspects but not others and be unsure how to respond. You can break complex decisions down into multiple proposals.</p>
+<p>When making a proposal, state your expectations and describe the impact the proposal will have if adopted. If it's a formal or binding proposal it's often worth describing what a 'disagree' or 'block' means.</p>
+<p>You might want to explore a few <a href="polls/starting_proposals/../proposal_types/#ways-of-using-proposals">ways of using proposals</a>, for some guidance and inspiration.</p>
+<h2 id="attachments"><a class="header" href="#attachments">Attachments</a></h2>
+<p>You can attach files to decisions using the paperclip icon, just underneath the details form. You will be prompted to select a file from your device.</p>
+<h2 id="dates-and-duration"><a class="header" href="#dates-and-duration">Dates and Duration</a></h2>
+<p>When you choose a <strong>Closing time</strong>, Loomio will let you know the length of time in which participants will be able to participate in the proposal or poll. During this window, people can submit their position or choice and leave a reason, and they can also edit these if they think on it again or receive new information or ideas, perhaps from others' votes.</p>
+<p>Consider how the proposal closing time will affect engagement from your group members, and choose accordingly. You might want to time the proposal so it closes before a meeting, or avoid closing over a weekend.</p>
+<p>Beyond considerations of inclusion (enough time) and urgency (deadlines), you may want to give additional consideration to the date and time the poll closes, as Loomio will send a reminder <code>24 hours</code> before it closes. You can sometimes improve engagement if your group members receive this at a time when they can respond right away.</p>
+<p>You can extend the deadline of an open proposal. This can be a good idea if engagement is active and people are working through the issue, or if engagement has been sparse and you'd like to prompt more participation before concluding. To do so, edit the poll or proposal to change the closing time.</p>
+<h2 id="invite-members"><a class="header" href="#invite-members">Invite Members</a></h2>
+<p>It's good to let people know when you're taking a poll or a vote. After you start your proposal you will see a box allowing you to <strong>Invite to vote</strong>, where you will have the opportunity to select <strong>Members of group</strong> or <strong>Members of thread</strong>, or input the names of some of your group. You can select all and then remove some people from the list. This will send a notification to all those listed.</p>
+<p><img src="polls/starting_proposals/invite_people_to_vote_modal.png" alt="" /></p>
+<h3 id="invite-guests-or-experts"><a class="header" href="#invite-guests-or-experts">Invite guests or experts</a></h3>
+<p>Similar to the <strong>invite people</strong> feature, if you input the email of someone outside your group in the <strong>invite people to vote</strong> form they will be given permission to participate in <em>only</em> that proposal or poll; <em>however</em>, they will be able to see the <em>whole</em> thread in which their participation has been invited (but <em>not</em> any of the group's content beyond that). They will not be able to comment or participate in other proposals or polls even though they can see those that are in the same thread.</p>
+<h3 id="reopen"><a class="header" href="#reopen">Reopen</a></h3>
+<p>If a poll closes earlier than what is ideal for your group arriving to a clear shared outcome, you might want to <strong>reopen</strong> it, setting a new closing time.</p>
+<p><img src="polls/starting_proposals/reopen.png" alt="" /></p>
+<h3 id="close"><a class="header" href="#close">Close</a></h3>
+<p>Similarly, if you no longer need to let the poll or proposal continue, you can choose <strong>close</strong> to end it before its closing date. Don't forget to <a href="polls/starting_proposals/../outcomes">set an outcome</a> so everyone is clear on where you got to and/or what's next!</p>
+<h2 id="proposal-options"><a class="header" href="#proposal-options">Proposal options</a></h2>
+<p>There are some universal options that apply to most of the proposals and polls that Loomio offers. If you're interested in a specific tool's options (eg, the time poll's <strong>if need be</strong> option) see the section on the relevant tool… <a href="polls/starting_proposals/../proposal_types">→ Types of proposals and polls</a></p>
+<h3 id="anonymous-voting"><a class="header" href="#anonymous-voting">Anonymous voting</a></h3>
+<p>If you tick the <strong>Anonymous voters</strong> box, participant information will not be recorded with each response. This means that you will never know who chose which positions or shared which responses.</p>
+<p>You can be certain the box was ticked by you, or the person who started it, when you see the text, &quot;<strong>Votes are anonymous</strong>&quot;.</p>
+<h3 id="notify-me-when-people-participate"><a class="header" href="#notify-me-when-people-participate">Notify me when people participate</a></h3>
+<p>When selected, you will be notified whenever someone participates – within the app, and by email (by default).</p>
+<h3 id="voters-may-add-options"><a class="header" href="#voters-may-add-options">Voters may add options</a></h3>
+<p>For all polls except the <strong>Count</strong>. When selected, participants may add their own options when voting.</p>
+<p>When users add options the person who created the poll will be notified.</p>
+<h3 id="hide-results-until-closed"><a class="header" href="#hide-results-until-closed">Hide results until closed</a></h3>
+<p>Select this option if you want results to be hidden until the poll or proposal closes.</p>
+<img src="polls/starting_proposals/results_hidden_until_closed_option.png" class=border-orange width=300px height=auto>
+<p>The poll will appear as below until the poll closes.</p>
+<img src="polls/starting_proposals/results_hidden_until_closed.png" class=border-orange>
+<p>Once the poll is closed, you will see the results and be invited to leave an <a href="polls/starting_proposals/../outcomes">outcome</a> as normal.</p>
+<h2 id="export-poll"><a class="header" href="#export-poll">Export poll</a></h2>
+<p>Export the stances and outcome of a poll as a spreadsheet (.csv) file. Click the three horizontal dots (<strong>⋯</strong>) at the bottom of the poll or proposal – you will find it to the right of <strong>invite people to vote</strong> – and click <strong>Export</strong>.</p>
+<img class="border-orange" width=250 src="polls/starting_proposals/export_poll.png">
+<h2 id="proposals-can-help-in-many-situations"><a class="header" href="#proposals-can-help-in-many-situations">Proposals can help in many situations</a></h2>
+<p>Don't hesitate to start a proposal just because you're not sure everyone will agree - proposals are not only for when you have consensus, they're designed to surface issues that need resolving and are useful for clarifying disagreements. We have identified a number of ways to take advantage and step towards clear, shared outcomes, from a 'series of small yeses' to 'temperature checks'… <a href="polls/starting_proposals/../proposal_types/#ways-of-using-proposals">→ Ways of using proposals</a></p>
+<hr />
+<p>To keep learning how to best use proposals and polls, read on…</p>
+<ul>
+<li><a href="polls/starting_proposals/../outcomes">Using outcomes</a></li>
+<li><a href="polls/starting_proposals/../proposal_types">Types of proposals and polls</a></li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="outcomes"><a class="header" href="#outcomes">Outcomes</a></h1>
+<p><em>Record your decisions and share what's next by setting outcomes.</em></p>
+<p>When your proposal closes, you’ll be prompted to set a proposal outcome.</p>
+<p>In Loomio, it's not assumed that majority wins - the outcome or conclusion of a decision is up to you to define on behalf of the group. Sometimes it makes sense to go with the majority, but sometimes even one dissenting voice means it's a no.</p>
+<center><img src="polls/outcomes/share_outcome.png" alt="" width="80%"></center>
+<p>Group members can be notified of the <em>outcome</em>—see how in the screenshot below—so it's a very useful tool for keeping people in the loop. You can clearly define next steps and name specific actions, or summarize what was learned from the process.</p>
+<p>To give a poll or proposal some closure with <strong>Share outcome</strong>, click on the decision in <em>Previous decisions</em> or from the <em>Decisions</em> page, or when prompted.</p>
+<br>
+**Example outcomes**:
+<blockquote>
+<p><em>This proposal did not reach consensus because several people were concerned about budget impacts. George and Jimena will do some financial modelling and raise a new proposal next week.</em></p>
+</blockquote>
+<p>or</p>
+<blockquote>
+<p><em>I've taken on board everyone's input. As the project manager, this is my call to make and I've decided we are going to extend the timeline by 10 days.</em></p>
+</blockquote>
+<br>
+Setting outcomes makes your decision archive easy to search, because you have a succinct statement for each proposal.
+<p>After you select <strong>Share outcome</strong>, you will have the ability to alert group members and/or voters as depicted below.</p>
+<center><img src="polls/outcomes/share_outcome_notification.png" alt="" width="80%"></center>
+<p>You can always click on the <strong>X</strong>, if you are happy for people to encounter the outcome on their own time. Outcomes, like comments, will cause a thread to indicate it is unread.</p>
+<hr />
+<p>To keep learning how to best use proposals and polls, read on… <a href="polls/outcomes/../proposal_types">→ Types of proposals and polls</a></p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="your-profile-1"><a class="header" href="#your-profile-1">Your Profile</a></h1>
+<p><em>Configuring your online appearance and profile in Loomio.</em></p>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/0Mb2_D74ktM?rel=0" frameborder="0" allowfullscreen></iframe>
+<h2 id="your-profile-2"><a class="header" href="#your-profile-2">Your profile</a></h2>
+<p>Your profile page lets you customize your Loomio identity. To visit your profile page select the <strong>Edit profile</strong> option in the user menu, which is found by clicking on your name at the top of the sidebar; <em>if sidebar is closed, click on the menu icon</em> (<strong>☰</strong>) <em>to open it.</em></p>
+<h2 id="uploading-a-profile-photo"><a class="header" href="#uploading-a-profile-photo">Uploading a profile photo</a></h2>
+<p>When you first create a Loomio account, your initials will be the default image associated with your profile. You can upload a profile photo by clicking on your picture on the profile page. If you have a <a href="https://en.gravatar.com/">Gravatar</a> you can set that as your profile picture by selecting <strong>Use Gravatar</strong>. You can also choose for Loomio to use the photo you use for other common platforms/tools.</p>
+<h2 id="update-your-personal-info"><a class="header" href="#update-your-personal-info">Update your personal info</a></h2>
+<p>You can update:</p>
+<ul>
+<li><strong>Your name</strong></li>
+<li><strong>Your email address</strong> - this email receives your Loomio notifications (on, by default)</li>
+<li><strong>Your username</strong> - your username is a name people can use to alert you with an @mention in threads</li>
+<li><strong>Your introduction</strong> - a few lines to let others in your group know more about you</li>
+<li><strong>Your location</strong> - useful for distributed or remote groups so people can get an idea of where others are.</li>
+</ul>
+<h2 id="language-settings"><a class="header" href="#language-settings">Language settings</a></h2>
+<p>Loomio is developed in English, but <a href="https://www.loomio.org/g/cpaM3Hsv/loomio-community-translation">is translated by volunteers into many languages</a>.</p>
+<p>Loomio will detect your browser’s language settings, but you can manually set your preferred language from the profile page.</p>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/0llDGzowrXU?rel=0" frameborder="0" allowfullscreen></iframe>
+<h2 id="resetting-your-password"><a class="header" href="#resetting-your-password">Resetting your password</a></h2>
+<p>You can change your password by visiting your profile page and clicking <strong>Reset Password</strong>.</p>
+<p><img src="users/user_profile/reset_password.png" alt="" /></p>
+<h2 id="deactivating-your-account"><a class="header" href="#deactivating-your-account">Deactivating your account</a></h2>
+<p>If you no longer want to receive notifications from Loomio, but think that you may want to access your account again some time in the future, you can deactivate your account.</p>
+<p>To deactivate your account</p>
+<ol>
+<li>Login to loomio with the email address of the account you wish to deactivate</li>
+<li>Visit the &quot;Edit profile&quot; page from the user menu (top right corner of the screen).</li>
+<li>Scroll to the bottom of the page and click &quot;Deactivate account&quot;</li>
+<li>Confirm you wish to deactivate.</li>
+</ol>
+<p>Once your account has been deactivated:</p>
+<ul>
+<li>you will no longer be listed as a member of any groups</li>
+<li>comments, proposals and discussions you’ve made will remain but your name will be removed from them</li>
+<li>you will no longer receive Loomio-related emails</li>
+</ul>
+<h2 id="reactivating-your-account"><a class="header" href="#reactivating-your-account">Reactivating your account</a></h2>
+<p>If you login to your account with your email address you'll reactivate your account and regain access to your groups.</p>
+<h2 id="permanently-deleting-your-account"><a class="header" href="#permanently-deleting-your-account">Permanently deleting your account</a></h2>
+<p>Go to the section on <a href="users/user_profile/../deleting_your_account">Deleting Your Loomio Account</a></p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="deleting-your-loomio-account"><a class="header" href="#deleting-your-loomio-account">Deleting your Loomio account</a></h1>
+<p><em>How to delete your user account.</em></p>
+<h2 id="to-delete-your-account-entirely"><a class="header" href="#to-delete-your-account-entirely">To delete your account entirely:</a></h2>
+<ol>
+<li>Login to Loomio, and click on your account avatar or initials, at the top right of your screen.</li>
+<li>Scroll to the bottom, and click on DELETE ACCOUNT.</li>
+<li>A pop up will appear - click on YES, DELETE MY ACCOUNT.</li>
+</ol>
+<p><img src="users/deleting_your_account/delete_your_account.png" alt="" /></p>
+<h2 id="ive-deleted-my-account---what-does-this-mean"><a class="header" href="#ive-deleted-my-account---what-does-this-mean">I've deleted my account - what does this mean?</a></h2>
+<p>Deleting your account will <em>not</em> cancel your subscription; to stop your payments see <a href="users/deleting_your_account//en/subscriptions/management">Subscriptions</a>.</p>
+<p><strong>Loomio takes privacy and data protection very seriously</strong>. Here is a link to our <a href="https://www.loomio.org/privacy">policy</a> - if you have any questions about our policy, you can <a href="https://www.loomio.org/contact">get in touch</a> with us.</p>
+<p>When your account is deleted, we remove all of your personal information, permanently. Comments, proposals and discussions you’ve made will remain but your name will be removed from them. We do this because we have an obligation to groups to keep threads and proposals coherent.</p>
+<p>It is important that you understand that copies of the data you have generated on Loomio have likely been emailed to everyone in the group - Loomio has no ability to delete those.</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="deleting-your-loomio-account-1"><a class="header" href="#deleting-your-loomio-account-1">Deleting your Loomio account</a></h1>
+<p><em>How to delete your user account.</em></p>
+<h2 id="to-delete-your-account-entirely-1"><a class="header" href="#to-delete-your-account-entirely-1">To delete your account entirely:</a></h2>
+<ol>
+<li>Login to Loomio, and click on your account avatar or initials, at the top right of your screen.</li>
+<li>Scroll to the bottom, and click on DELETE ACCOUNT.</li>
+<li>A pop up will appear - click on YES, DELETE MY ACCOUNT.</li>
+</ol>
+<p><img src="users/deleting_your_account/delete_your_account.png" alt="" /></p>
+<h2 id="ive-deleted-my-account---what-does-this-mean-1"><a class="header" href="#ive-deleted-my-account---what-does-this-mean-1">I've deleted my account - what does this mean?</a></h2>
+<p>Deleting your account will <em>not</em> cancel your subscription; to stop your payments see <a href="users/deleting_your_account//en/subscriptions/management">Subscriptions</a>.</p>
+<p><strong>Loomio takes privacy and data protection very seriously</strong>. Here is a link to our <a href="https://www.loomio.org/privacy">policy</a> - if you have any questions about our policy, you can <a href="https://www.loomio.org/contact">get in touch</a> with us.</p>
+<p>When your account is deleted, we remove all of your personal information, permanently. Comments, proposals and discussions you’ve made will remain but your name will be removed from them. We do this because we have an obligation to groups to keep threads and proposals coherent.</p>
+<p>It is important that you understand that copies of the data you have generated on Loomio have likely been emailed to everyone in the group - Loomio has no ability to delete those.</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="merging-your-accounts"><a class="header" href="#merging-your-accounts">Merging your accounts</a></h1>
+<p><em>How to merge two accounts together</em></p>
+<h2 id="i-have-two-loomio-accounts-under-two-different-email-addresses-and-i-would-like-to-merge-them-into-a-single-account"><a class="header" href="#i-have-two-loomio-accounts-under-two-different-email-addresses-and-i-would-like-to-merge-them-into-a-single-account">I have two Loomio accounts under two different email addresses, and I would like to merge them into a single account</a></h2>
+<ol>
+<li>Login to Loomio <strong>on the account you wish to replace</strong></li>
+<li>Open the sidebar &gt; Click your name &gt; Edit profile</li>
+<li>Enter in your preferred email address, i.e. the email address corresponding with the account you want to keep
+<img src="users/merge_accounts/merge_accounts.gif" alt="" /></li>
+<li>A verification email will be sent to your preferred email address, and all you need to do is follow the prompts from there</li>
+</ol>
+<p><strong>This action is irreversible, but you will have the opportunity to make a final confirmation before it occurs</strong></p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="navigating-loomio"><a class="header" href="#navigating-loomio">Navigating Loomio</a></h1>
+<p><em>How to find what you're looking for in Loomio.</em></p>
+<h2 id="top-level"><a class="header" href="#top-level">Top level</a></h2>
+<p>There are 4 top level navigation tools within Loomio.</p>
+<ul>
+<li>Search</li>
+<li>Notifications</li>
+<li>Sidebar</li>
+<li>User menu</li>
+</ul>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/Q7L9NiG79gM?rel=0" frameborder="0" allowfullscreen></iframe>
+<p>When you first arrive or log in you will arrive to your <strong>Group page</strong>, or – if you are a member of multiple groups or subgroups – you will arrive to the <strong>Recent threads</strong> page described below.</p>
+<h2 id="search-1"><a class="header" href="#search-1">Search</a></h2>
+<p>The search field is easy to find above the list of discussion threads where you first arrive or on most pages. It will display threads containing your keyword(s) in their context, comments or decisions.</p>
+<p><strong>From a Group page:</strong> If you are on your group or subgroup's page, you can search <em>within</em> that group. The search will exclude results from other groups or subgroups. _If you are unsure how to get to your Group page</p>
+<p><strong>From Recent threads:</strong> You can search for comments, decisions, or threads from any group or subgroup. Enter one or more key words to find the information you're looking for. <em>If you are unsure how to get to this page, see the video above or <a href="users/navigation/index.html#recent-threads">Recent threads</a>, below.</em></p>
+<h2 id="notifications-1"><a class="header" href="#notifications-1">Notifications</a></h2>
+<p>The 🔔 bell icon, which lives on the top-right, will show all activities in threads you've started or participated in and all @mentions. Just click on one of them to see details or participate. If you check only one thing, check this.</p>
+<p>When someone wants to get your attention, they'll send you a notification. This could be via an @mention or an invitation to participate in a thread or poll. <a href="users/navigation//en/user_manual/threads/notifying_people/">More on <em>notifying people</em> here</a>.</p>
+<p>If you have unread notifications we'll display the number that are unread over the top of the bell-shaped notifications menu button.</p>
+<h2 id="sidebar-1"><a class="header" href="#sidebar-1">Sidebar</a></h2>
+<p>The sidebar is where you find your discussions, groups, and User menu. It will be collapsed by default, but can be opened or closed via the using the ☰ horizontal bars icon in the top-left of the screen.</p>
+<h3 id="pin-sidebar"><a class="header" href="#pin-sidebar">Pin sidebar</a></h3>
+<p>If you pin the sidebar open, then it will be open when you first arrive to any Loomio page, and will reopen (if you have closed it) upon navigation to any other page or tab.</p>
+<p><strong>Pin sidebar</strong> can be toggled on or off from the User menu (you will see the pushpin icon).</p>
+<h2 id="user-menu"><a class="header" href="#user-menu">User menu</a></h2>
+<p>The User menu is where you can access your user profile page, change your email preferences, find a link to this help manual, and sign out. Find it by clicking your name in the sidebar (see <a href="users/navigation/index.html#top-level">video above</a> for reference, you may have to first open the sidebar by clicking the ☰ icon in the top-left).</p>
+<ul>
+<li>
+<p>You can view and update your user profile via <strong>Edit profile</strong>. Read the <a href="users/navigation/../user_profile">User profile</a> page for more information.</p>
+</li>
+<li>
+<p>You can change your email preferences via <strong>Email settings</strong>. Read the <a href="users/navigation/../email_settings">Email settings</a> page to find out how to set things up to your liking.</p>
+</li>
+<li>
+<p>You'll also find a link to all our help resources, including this user manual.</p>
+</li>
+<li>
+<p>You can log out of Loomio, <em>which is recommended if you're not using a personal device to access it.</em></p>
+</li>
+</ul>
+<h1 id="easy-ways-to-keep-track"><a class="header" href="#easy-ways-to-keep-track">Easy ways to keep track</a></h1>
+<p>While search can be a quick way to navigate directly to something, there's a number of pages that will make it easy to navigate all of your threads, groups, and information</p>
+<ul>
+<li>Recent threads</li>
+<li>Unread threads</li>
+<li>Group pages</li>
+</ul>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/s_q8zyzlnJw?rel=0" frameborder="0" allowfullscreen></iframe>
+<p>These can all be accessed from the sidebar, and each display a different list of threads, or more specifically, <strong>Thread previews</strong>; learn more about the previews and high-level actions you can use to manage these <a href="users/navigation/index.html#understanding-thread-previews">below</a>, as it's important to first understand the different pages that help with navigation:</p>
+<h2 id="recent-threads"><a class="header" href="#recent-threads">Recent threads</a></h2>
+<p>The <strong>Recent threads</strong> page gives you an overview of the most recent activity happening in your groups. You can access this page via the sidebar. If you are a member of multiple groups, the Recent threads page will be your landing page when you sign into Loomio <em>unless you are only a member of a single group.</em></p>
+<p>The Recent Threads page displays content from your groups in an ordered list. Open proposals are at the top, followed by all of the threads from your groups, sorted by most recent activity (Today, Yesterday, This week, This month, Older than a month).</p>
+<p>If a thread or proposal title is highlighted with a yellow line along its left border, then new activity has taken place since you last visited and this thread is considered <strong>unread</strong>.</p>
+<h2 id="unread-threads"><a class="header" href="#unread-threads">Unread threads</a></h2>
+<p>The <strong>Unread threads</strong> page shows all threads and proposals that have new content since you last visited, sorted by group. You can access this page via the sidebar. You can clear unread items without reading them by hovering over the thread preview and clicking <strong>mark as read</strong>.</p>
+<h2 id="group-pages"><a class="header" href="#group-pages">Group pages</a></h2>
+<p>Because Loomio is a place for your group, we have designed the <strong>Group page</strong> to be the hub and dashboard for your group.</p>
+<p>Group pages are where you start threads, where most of the action happens.</p>
+<p><img src="users/navigation/new_thread.png" alt="" /></p>
+<p>By default, your group page lists all of the open threads in your group. You can use the thread filter on the left to show…</p>
+<ul>
+<li>threads that are archived or <a href="users/navigation/../../threads/thread_admin/#close-thread">closed</a></li>
+<li>only the unread threads</li>
+<li>all of the threads, open or closed.</li>
+</ul>
+<p><img src="users/navigation/../../threads/thread_admin/sort_threads_on_group_page.png" alt="" /></p>
+<h3 id="category-tags-help-you-sort-threads"><a class="header" href="#category-tags-help-you-sort-threads">Category Tags help you sort threads</a></h3>
+<p>View all the threads that belong to a category by using the other thread filter. These options are created when people <a href="users/navigation/../../threads/thread_admin/#category-tags">tag threads</a>.</p>
+<p><img src="users/navigation/sort_by_category.png" alt="" /></p>
+<p>You can also access this filtered view from within any tagged thread; simply click the tag (the category you're interested in) from the thread's <a href="users/navigation/../../threads/navigating_threads/#finding-the-right-thread">page</a>.</p>
+<p>You can always select <strong>All tags</strong> to exit the filtered view you accessed by choosing a tag from the filter menu.</p>
+<h3 id="search-in-your-group"><a class="header" href="#search-in-your-group">Search in your group</a></h3>
+<p>You can search the threads and polls in your group; read <a href="users/navigation/index.html#search">more above</a>.</p>
+<h2 id="viewing-your-groups"><a class="header" href="#viewing-your-groups">Viewing your groups</a></h2>
+<p>All the groups you belong to are listed in the sidebar on the left-hand side. This allows you to easily navigate to or between them by clicking their name or logo.</p>
+<p>Subgroups will not have a logo, but will appear directly under the organization, or parent group, that they belong to. Click their name to see their page just like you would for a group.</p>
+<h2 id="understanding-thread-previews-1"><a class="header" href="#understanding-thread-previews-1">Understanding thread previews</a></h2>
+<p>To help you stay on top of everything, the thread preview gives you the most important context for the thread; learn more… <a href="users/navigation//en/user_manual/threads/thread_admin/">→ Thread administration</a>.</p>
+<h2 id="navigating-threads"><a class="header" href="#navigating-threads">Navigating threads</a></h2>
+<p>There's a number of features that can help you in… <a href="users/navigation//en/user_manual/threads/engaging_with_threads">→ Engaging with threads</a></p>
+<h1 id="exploring-public-groups"><a class="header" href="#exploring-public-groups">Exploring public groups</a></h1>
+<p>You can explore, and request membership to, public Loomio groups by visiting the <strong>Explore groups</strong> page; click on this option in the sidebar to get involved.</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="sign-into-loomio"><a class="header" href="#sign-into-loomio">Sign into Loomio</a></h1>
+<p><em>Creating an Account, signing in, and troubleshooting.</em></p>
+<p>Creating a new user account and signing into an existing account both start from the sign-in form:</p>
+<p><img src="users/sign_in/sign_in_form.png" alt="sign-in form" /></p>
+<h2 id="user-accounts-are-identified-by-email-address"><a class="header" href="#user-accounts-are-identified-by-email-address">User accounts are identified by email address</a></h2>
+<p>Loomio user accounts are identified by an email address. If you sign in via a third party such as Google, we'll use the email address of your Google account.</p>
+<p>This means you can login via email even if you login via a third party to begin with.</p>
+<h2 id="creating-a-new-user-account"><a class="header" href="#creating-a-new-user-account">Creating a new user account</a></h2>
+<p>It's recommended to sign in via Google or Facebook (if you use those services) because for most people it's faster, more secure, and less complex than using a password. Another benefit is that you won't need to manually upload a profile photo. Loomio does not read other information from your sign in provider (see our <a href="https://www.loomio.org/privacy">privacy policy</a>).</p>
+<p>If using a third party sign in isn't right for you, signing in via email is well supported too. Use the email address that you want to receive Loomio notifications with.</p>
+<h2 id="sign-in-via-email"><a class="header" href="#sign-in-via-email">Sign in via email</a></h2>
+<p>When you sign in via email, you'll be sent an email with a link (or a code) to sign in.</p>
+<p><img src="users/sign_in/sign_in_email.png" alt="sign-in email" /></p>
+<h2 id="forgot-your-password"><a class="header" href="#forgot-your-password">Forgot your password?</a></h2>
+<ol>
+<li>Go to the sign-in, put in your email address.</li>
+<li>Click <strong>Sign in with email</strong></li>
+<li>Click <strong>Send sign in email</strong></li>
+<li>Retrieve the code that Loomio sends to your email (Subject, &quot;Sign in to Loomio&quot;) and paste that into the form that appeared.<br> <em><strong>Now you're logged in. Change your password by…</strong></em></li>
+<li>Go to <a href="https://www.loomio.org/profile" title="open in new tab">edit profile</a> and change your password; you can <a href="https://help.loomio.org/en/guides/getting_started/notifications_settings/#resetting-your-password">follow these instructions</a>.</li>
+</ol>
+<p><img src="users/sign_in/forgot_my_password.png" alt="" /></p>
+<h2 id="tips-for-a-better-experience"><a class="header" href="#tips-for-a-better-experience">Tips for a better experience</a></h2>
+<h3 id="set-a-password"><a class="header" href="#set-a-password">Set a password</a></h3>
+<p>If you don't want to check your email to sign in, you can easily set a password. To do this, take the same steps you would to <a href="users/sign_in/../user_profile/#resetting-your-password">change your password</a>.</p>
+<h3 id="dont-create-more-than-one-user-account"><a class="header" href="#dont-create-more-than-one-user-account">Don't create more than one user account</a></h3>
+<p>Remember to use the same email address each time you login, or you may end up with two user accounts, which will cause permission errors when you're checking notifications.</p>
+<p>Sometimes people think they need two Loomio accounts because they have two groups and they want to keep things separated; However, Loomio is designed to support belonging to multiple groups with one user account.</p>
+<h4 id="merging-user-accounts"><a class="header" href="#merging-user-accounts">Merging user accounts</a></h4>
+<p>If you do find yourself with more than one user account, you can <a href="users/sign_in/../merge_accounts">merge them</a>.</p>
+<h3 id="you-can-accept-an-invitation-sent-to-another-email-address"><a class="header" href="#you-can-accept-an-invitation-sent-to-another-email-address">You can accept an invitation sent to another email address</a></h3>
+<p>Invitations are not tied to the email they are sent to. If someone sends you an invitation to an email address other than the one you use for your Loomio user account, you do not need to create a new user account or get the invitation re-sent.</p>
+<p>Just click the invitation link and replace the text in the email form with the email address you would like to use, or the email address of your existing account, as you proceed.</p>
+<h3 id="you-can-sign-in-with-email-even-if-you-first-signed-in-via-google"><a class="header" href="#you-can-sign-in-with-email-even-if-you-first-signed-in-via-google">You can sign in with email even if you first signed in via Google</a></h3>
+<p>After creating an account via a third party (eg: Google), you can still sign in with email. Just enter the email address associated with your Google account into the Email address field and <strong>Sign in with email</strong>.</p>
+<h3 id="linking-a-third-party-to-an-existing-user-account"><a class="header" href="#linking-a-third-party-to-an-existing-user-account">Linking a third party to an existing user account</a></h3>
+<p>If you want to sign in with a third party (eg: Google) but you already have a Loomio account with another email address, you can link your accounts. To do this, just sign in via your preferred third party, Loomio will recognize it's your first time using that sign-in method. Enter the email address of your existing account and <strong>Link accounts</strong> when you have the choice between this (don't click <strong>Create account</strong>).</p>
+<h2 id="troubleshooting"><a class="header" href="#troubleshooting">Troubleshooting</a></h2>
+<h3 id="i-cant-see-any-of-my-groups"><a class="header" href="#i-cant-see-any-of-my-groups">I can't see any of my groups!</a></h3>
+<p>To fix this: Sign out then sign in again with the email address you normally use Loomio with.</p>
+<p>Why does this happen? This can happen because you participated in a poll when you were not signed in; Loomio creates a guest user, so you can participate without signing in. When you sign in later, we confirm the authenticity of your vote and connect it to your registered user.</p>
+<h3 id="every-time-i-visit-loomio-i-have-to-sign-in"><a class="header" href="#every-time-i-visit-loomio-i-have-to-sign-in">Every time I visit Loomio I have to sign in!</a></h3>
+<p>Ensure your browser is not deleting cookies. If you find that you're logged out of Loomio every time you visit, your browser may be configured to delete cookies when you close the browser window. Cookies are the way we recognize you when you use Loomio, so deleting them means you need to identify yourself (ie: sign in) every time you visit.</p>
+<p>Here are screenshots of what correct cookie settings look like:</p>
+<p>Chrome cookie settings
+<img src="users/sign_in/chrome_cookie_settings.png" alt="chrome cookie settings" /></p>
+<p>Firefox cookie settings
+<img src="users/sign_in/firefox_cookie_settings.png" alt="firefox cookie settings" /></p>
+<p>Safari cookie settings
+<img src="users/sign_in/safari_cookie_settings.png" alt="safari cookie settings" /></p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="slack-integration"><a class="header" href="#slack-integration">Slack integration</a></h1>
+<p><em>Connect your Loomio group notifications to Slack.</em></p>
+<p>Loomio can send notifications into your Slack channels when new discussions, proposals, comments, votes, and outcomes occur. Get key updates, at the right time, on important discussions and decisions.</p>
+<p>After choosing the Slack channels where you want to receive notifications, and from which Loomio groups or subgroups, you will choose which kinds of events you want that channel to be notified of (comments, polls, outcomes... <a href="groups/integrations/slack/index.html#select-notifications">see below</a>). Read on for step-by-step instructions for integrating.</p>
+<p><em>These webhook integrations are currently in public beta testing, we would like to hear your <a href="https://loomio.org/contact/?utm_campaign=slack-integration-help&amp;utm_term=help">feedback</a> about how it works for your group.</em></p>
+<hr />
+<p>Start by visiting <a href="https://api.slack.com">https://api.slack.com</a>, signing in if you are not already, then clicking Create New App</p>
+<p><img src="groups/integrations/slack/s1.png" alt="" /></p>
+<p>Give your Slack app a name</p>
+<p><img src="groups/integrations/slack/s2.png" alt="" /></p>
+<p>Add incoming webhooks support</p>
+<p><img src="groups/integrations/slack/s3.png" alt="" /></p>
+<p>Then enable the function</p>
+<p><img src="groups/integrations/slack/s4.png" alt="" /></p>
+<p>Then add a new webhook</p>
+<p><img src="groups/integrations/slack/s5.png" alt="" /></p>
+<p>Select a channel</p>
+<p><img src="groups/integrations/slack/s6.png" alt="" /></p>
+<p>Copy the webhook URL to your clipboard</p>
+<p><img src="groups/integrations/slack/s7.png" alt="" /></p>
+<p>Go to Webhooks in your Loomio group settings</p>
+<p><img src="groups/integrations/slack/s8.png" alt="" /></p>
+<p>Select Slack, give it a name, paste the URL, and save. You're done!</p>
+<p><img src="groups/integrations/slack/s9.png" alt="" /></p>
+<h2 id="select-notifications"><a class="header" href="#select-notifications">Select notifications</a></h2>
+<p>Along with the ability to choose which events in Loomio will create a post in your chosen Slack channel, you can also choose whether you'd like a snippet of the text from the comment, proposal, outcome, etc. by using the first option.</p>
+<p><img src="groups/integrations/slack/../slack_teams_notifications_from_loomio.png" alt="" /></p>
+<p><em>Loomio is not created by, affiliated with, or supported by Slack.</em></p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="microsoft-teams-integration"><a class="header" href="#microsoft-teams-integration">Microsoft Teams integration</a></h1>
+<p><em>Connect your Loomio group notifications to Microsoft Teams.</em></p>
+<p>Loomio can send notifications into your Microsoft Teams when new discussions, proposals, comments, votes, and outcomes occur. Get key updates, at the right time, on important discussions and decisions.</p>
+<p>After choosing where you want to receive notifications in Teams, and from which Loomio groups or subgroups, you will choose which kinds of events you want that channel to be notified of (comments, polls, outcomes... <a href="groups/integrations/microsoft_teams/index.html#select-notifications">see below</a>). Read on for step-by-step instructions for integrating.</p>
+<p><em>These webhook integrations are currently in public beta testing, we would like to hear your <a href="https://loomio.org/contact/?utm_campaign=teams-integration-help&amp;utm_term=help">feedback</a> about how it works for your group.</em></p>
+<hr />
+<p>Visit <a href="https://teams.microsoft.com">https://teams.microsoft.com</a> then click Apps
+<img src="groups/integrations/microsoft_teams/t1.png" alt="" /></p>
+<p>Search for &quot;webhook&quot; in the search field, then click Incoming Webhook
+<img src="groups/integrations/microsoft_teams/t2.png" alt="" /></p>
+<p>Click &quot;Add to a team&quot;
+<img src="groups/integrations/microsoft_teams/t3.png" alt="" /></p>
+<p>Type and select the channel you want Loomio notifications to appear within.
+<img src="groups/integrations/microsoft_teams/t4.png" alt="" /></p>
+<p>Give it a name, such as &quot;Loomio notifications&quot;, then click &quot;Create&quot;
+<img src="groups/integrations/microsoft_teams/t5.png" alt="" /></p>
+<p>Copy the URL it gives you, you'll paste it into Loomio in the last step.
+<img src="groups/integrations/microsoft_teams/t6.png" alt="" /></p>
+<p>Go to your Loomio group Settings then click Webhooks
+<img src="groups/integrations/microsoft_teams/t7.png" alt="" /></p>
+<p>Select Microsoft Teams, give it a name, paste the URL, and click Save.
+<img src="groups/integrations/microsoft_teams/t8.png" alt="" /></p>
+<h2 id="select-notifications-1"><a class="header" href="#select-notifications-1">Select notifications</a></h2>
+<p>Along with the ability to choose which events in Loomio will create a post in your chosen channel, you can also choose whether you'd like a snippet of the text from the comment, proposal, outcome, etc. by using the first option.</p>
+<p><img src="groups/integrations/microsoft_teams/../slack_teams_notifications_from_loomio.png" alt="" /></p>
+<p><em>Loomio is not created by, affiliated with, or supported by Microsoft.</em></p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="mattermost-integration"><a class="header" href="#mattermost-integration">Mattermost integration</a></h1>
+<p><em>Connecting your Loomio group notifications to your Mattermost team chat.</em></p>
+<p>Loomio can send notifications into your Mattermost channels when new discussions, proposals, comments, votes, and outcomes occur. Get key updates, at the right time, on important discussions and decisions.</p>
+<p>After choosing the Mattermost channels where you want to receive notifications, and from which Loomio groups or subgroups, you will choose which kinds of events you want that channel to be notified of (comments, polls, outcomes... <a href="groups/integrations/mattermost/index.html#select-notifications">see below</a>). Read on for step-by-step instructions for integrating.</p>
+<p><em>These webhook integrations are currently in public beta testing, we would like to hear your <a href="https://loomio.org/contact/?utm_campaign=mattermost-integration-help&amp;utm_term=help">feedback</a> about how it works for your group.</em></p>
+<hr />
+<p>Start from your Mattermost team in your browser. Then open the Integrations settings page.
+<img src="groups/integrations/mattermost/mm1.png" alt="" /></p>
+<p>Click &quot;Incoming Webhooks&quot;
+<img src="groups/integrations/mattermost/mm2.png" alt="" /></p>
+<p>Then click  &quot;Add Incoming Webhook&quot;
+<img src="groups/integrations/mattermost/mm3.png" alt="" /></p>
+<p>Give it a simple name, select the channel for notifications to appear within, and click Save
+<img src="groups/integrations/mattermost/mm4.png" alt="" /></p>
+<p>Copy the Webhook URL to your clipboard, you're going to need it the next step.
+<img src="groups/integrations/mattermost/mm5.png" alt="" /></p>
+<p>Visit your Loomio group Settings page, then click Webhooks, then Add Webhook.
+<img src="groups/integrations/mattermost/mm6.png" alt="" /></p>
+<p>Select &quot;Markdown (For Mattermost..)&quot;, give it a name, paste your URL from above, and click Save.
+<img src="groups/integrations/mattermost/mm7.png" alt="" /></p>
+<h2 id="select-notifications-2"><a class="header" href="#select-notifications-2">Select notifications</a></h2>
+<p>Along with the ability to choose which events in Loomio will create a post in your chosen channel, you can also choose whether you'd like a snippet of the text from the comment, proposal, outcome, etc. by using the first option.</p>
+<p><img src="groups/integrations/mattermost/../slack_teams_notifications_from_loomio.png" alt="" /></p>
+<p><em>Loomio is not created by, affiliated with, or supported by Mattermost.</em></p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="starting-a-group"><a class="header" href="#starting-a-group">Starting a group</a></h1>
+<p><em>Create your Loomio group and ensure everyone is ready to participate.</em></p>
+<p>Getting started on Loomio means getting everyone signed up, familiar with the tool, and comfortable communicating or coordinating with one another. When done well, the group will come to life as people take the initiative to participate and engage.</p>
+<p>Most Loomio groups need a champion to help them get going, and then they build their own momentum. If you're reading this, that champion is probably you!</p>
+<h2 id="want-setup-help-from-someone-who-has-done-this"><a class="header" href="#want-setup-help-from-someone-who-has-done-this">‍Want setup help from someone who has done this?</a></h2>
+<p>No one wants to spin their wheels, and sometimes its important to get it right the first time. Don't worry, we've done this before. We offer a streamlined experience of getting started delivered by Loomio experts:</p>
+<p><a href="https://loomio.org/contact">Ask about our bespoke, guided onboarding.</a></p>
+<h2 id="introduce-loomio"><a class="header" href="#introduce-loomio">Introduce Loomio</a></h2>
+<p>Have a discussion with your group about using Loomio.</p>
+<ul>
+<li><strong>What problem</strong> are you trying to solve with a new tool? <em>Eg, reducing meetings</em></li>
+<li><strong>What is Loomio for?</strong> How will you use it, <em>eg, forum, decisions, or just input?</em></li>
+<li><strong>Who's involved?</strong> Who will facilitate or support conversations to be productive?</li>
+<li>What kind of <strong>behaviour</strong> is welcome, and what's not ok?</li>
+<li>How will Loomio complement your <strong>existing processes</strong>?</li>
+</ul>
+<p>Some people will be apprehensive about adopting a new piece of software for online decision making. Talk to people in your group to work through any concerns.</p>
+<ul>
+<li>Starting simple can help, especially with pre-existing <strong>routines</strong></li>
+<li>Agree on the <strong>scope</strong> and trial it; offer a date when it will be reviewed.</li>
+</ul>
+<h1 id="starting-a-new-group-1"><a class="header" href="#starting-a-new-group-1">Starting a new group</a></h1>
+<p>When you first start, you'll create a new <strong>organization</strong>. At this stage, organization is basically another way of saying &quot;your group.&quot; The first thing to do is enter a name and a description for your group.</p>
+<h2 id="group-details-1"><a class="header" href="#group-details-1">Group details</a></h2>
+<p>You can always return to change these by visiting <strong>Edit group settings</strong> on the <strong>Settings</strong> tab of your group page.</p>
+<h3 id="group-name-1"><a class="header" href="#group-name-1">Group name</a></h3>
+<p>It's best to keep your group name short and concise.</p>
+<h3 id="group-handle-1"><a class="header" href="#group-handle-1">Group handle</a></h3>
+<p>By default, Loomio will make this <code>your-group-name</code> but you can choose any unused, alphanumeric handle (hyphens optional). Navigating to the URL loomio.org/[your-group-handle] will take you directly to your group page.</p>
+<p><img src="old_getting_started/starting_a_group/new_group_handle.png" alt="" /></p>
+<h3 id="group-description-1"><a class="header" href="#group-description-1">Group description</a></h3>
+<p>It's important to add a description to help people settle in and get engaged.</p>
+<p>The description should give members a clear understanding of the purpose or scope of the group. Some examples:</p>
+<p>&quot;<em>A public group for us to approve requests for use of the gallery space</em>&quot;</p>
+<p>&quot;<em>The space for our board members to consider budget proposals</em>&quot;</p>
+<p><strong>Add a Group description</strong> by navigating to the <strong>Settings</strong> tab on your group page. Click <strong>Edit Group Settings</strong> and use the form that appears (click save when done). If you're having trouble finding it from Edit Group Settings, double-check that you haven't switched tabs (&quot;Profile&quot; should be highlighted in yellow).</p>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/7z60BLLBLFU?rel=0" frameborder="0" allowfullscreen></iframe>
+<p>With a clear purpose, people can make judgment calls about what's best for the group. Understanding group context helps people get oriented.</p>
+<h3 id="group-description-is-also-a-resource-hub"><a class="header" href="#group-description-is-also-a-resource-hub">Group description is also a Resource hub</a></h3>
+<p>Your Loomio <strong>group page</strong> is a place to store all of the information, links, and files that everyone in your group needs. Update the Group description field and attach files from your computer or from the cloud.</p>
+<p><img src="old_getting_started/starting_a_group/group_description.png" alt="" /></p>
+<p><strong>Tip:</strong> Group descriptions are a great place to include reasons why you're using Loomio. Sharing why you're implementing Loomio can help motivate people to adopt it.</p>
+<h2 id="privacy-2"><a class="header" href="#privacy-2">Privacy</a></h2>
+<p>Your privacy settings determine who can find your group, who can see the threads in your group, and how people join.</p>
+<p>The recommended privacy setting for new groups is <strong>Secret</strong>. This means everything is private to those invited members of the group. No one will know about this group (or subgroup) unless you tell/ invite them.</p>
+<p>If you want the content of your discussions and decisions to be public, change your group privacy to <strong>Open</strong>. The members list will only be visible to other members.</p>
+<p>Many groups also use <strong>Closed</strong>, because – while it is almost entirely private like Secret – it allows people to find your group and ask to join. Closed groups' <strong>Name</strong> and <strong>Group description</strong> – including links and attachments – are publicly accessible in Closed groups.</p>
+<p><strong>NOTE:</strong> If you have a <strong>Closed</strong> or <strong>Secret</strong> group and change it to <strong>Open</strong>, all threads will become public. Changing an <strong>Open</strong> group to <strong>Closed</strong> or <strong>Secret</strong> will make all threads private.</p>
+<p>Open groups may contain secret and closed subgroups.</p>
+<p><em>Member of an open group can see the closed subgroup but not the secret ones.</em></p>
+<p><code>TODO: Screenshots</code></p>
+<h2 id="upload-a-profile-photo"><a class="header" href="#upload-a-profile-photo">Upload a profile photo</a></h2>
+<p>Seeing someone's face next to the text they've written can make it feel more human. It's especially important if you're the one welcoming everyone in.</p>
+<p>Upload your <a href="old_getting_started/starting_a_group//en/guides/getting_started/notifications_settings">profile photo</a> before sending invitations to join the group, so that your friendly image is included.</p>
+<h2 id="upload-a-group-photo-1"><a class="header" href="#upload-a-group-photo-1">Upload a group photo</a></h2>
+<p>Uploading a photo that has some meaning to your group significantly improves the sense of belonging. You can customize both the small square photo (eg, with a logo), and the big cover image (eg, with a group photo) by clicking on the placeholder images. <em>You can always change it again by going to Group Settings.</em></p>
+<p><img src="old_getting_started/starting_a_group/edit_group_photo.png" alt="" /></p>
+<h2 id="invite-people-2"><a class="header" href="#invite-people-2">Invite people</a></h2>
+<p>You're ready to invite people into the group! Loomio is a group collaboration tool, so this is an important step.</p>
+<p>First, visit your group page and click the <strong>Members</strong> tab to access member management</p>
+<p>Second, click one of two options</p>
+<ol>
+<li><strong>Invite</strong>: If you have their email addresses, you can send invitations to each member of your group.</li>
+<li><strong>Share</strong>: Or you can share the <strong>Reusable invitation link</strong> via email or however your team communicates.</li>
+</ol>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/RGv0Yq6sv8g?rel=0" frameborder="0" allowfullscreen></iframe>
+<p>If your group's privacy is <strong>closed</strong> then you can additionally invite people by sharing your <code>loomio.org/handle</code>. When people arrive at your group page, they will see the title, the description, and a button <strong>Join group</strong> to request membership. They become a group member when their request is approved.</p>
+<blockquote>
+<p>Reminder: Closed groups are basically private, but – unlike Secret groups – disclose their Group Name and Group Description publicly.</p>
+</blockquote>
+<p>Follow up on people who don't make it into the group and give them a nudge. You don't want to leave people out of key conversations or decisions. (<em>You can get a sense of who is participating by looking at your thread's <a href="old_getting_started/starting_a_group//en/user_manual/threads/thread_admin/#seen-by">Seen by</a>, and many elements of Loomio have <a href="old_getting_started/starting_a_group//en/user_manual/threads/thread_admin/#notification-history">Notification history</a></em>.)</p>
+<p>If people join but don't begin to participate right away, you might like to welcome them to the group with an @mention, for example:</p>
+<blockquote>
+<p>“Welcome to the group @Jane :) It's great to have you here! Would you saying a little bit about your work in this space?”</p>
+</blockquote>
+<h2 id="champion-the-use-of-loomio"><a class="header" href="#champion-the-use-of-loomio">Champion the use of Loomio</a></h2>
+<p>If you model behavior for others  to emulate, your group will be more inclusive and engaging. You can help deliberation/communications progress constructively.</p>
+<p>For example:</p>
+<blockquote>
+<ul>
+<li>“@Jane that could be a good idea, why don’t you raise a proposal so we can see if the rest of the group agrees?”</li>
+</ul>
+</blockquote>
+<ul>
+<li>“We haven’t heard from @Bill and @Ngaire … what are your thoughts?”</li>
+<li>“We might be getting off topic here. I've started another Loomio discussion about that <a href="http://www.loomio.org">here</a>. Let's bring this back to the original focus.”</li>
+</ul>
+<h2 id="developing-a-productive-loomio-habit"><a class="header" href="#developing-a-productive-loomio-habit">Developing a productive Loomio habit</a></h2>
+<p><strong>If discussions happen via email,</strong> remind the group you've agreed to use Loomio and request people move the discussion over there. Sometimes it can be helpful to copy and paste what's been said so far and directly give everyone the Loomio link.</p>
+<p><strong>If decisions are being made in-person,</strong> invite the group to move the discussion online before concluding the decision with an outcome.</p>
+<p>It's good to name one or more reasons <em>why</em> you're moving back to Loomio. A couple common reasons:</p>
+<ul>
+<li>to include people who aren't in the room</li>
+<li>to create documentation for future reference.</li>
+</ul>
+<p><strong>Raising the stakes</strong> is another strategy for accelerating the adoption of Loomio. An example illustrates it best: <em>&quot;Want to participate in the decision? You'll have to voice your position on Loomio&quot;</em>. When taking this approach it is, of course, good to accompany this candor with <em>care</em>. Kindness – <em>and, again, a reminder of the reason you're using Loomio</em> – can help at most steps of your journey.</p>
+<h2 id="next-up"><a class="header" href="#next-up">Next up</a></h2>
+<p>Now that you're on Loomio, how to get those clear outcomes… <a href="old_getting_started/starting_a_group/../having_discussions">→ Having discussions</a></p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="having-discussions"><a class="header" href="#having-discussions">Having discussions</a></h1>
+<p><em>Tips for inclusive and effective discussions on Loomio.</em></p>
+<p>Use Loomio's <strong>threads</strong> to have discussions that result in clear outcomes.</p>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/1qxGl8MBA88?rel=0" frameborder="0" allowfullscreen></iframe>
+<p><strong>Facilitation</strong> means “to make easier, to help forward.&quot; You don't have to be a pro facilitator to help your group have productive discussions. In fact, anyone in a group can make little acts of facilitation. There are many ways to improve your online communications and collaboration. We've also written about the <a href="old_getting_started/having_discussions//en/guides/5_ways_to_use_threads">5 different ways to use threads</a>. This article is a 101 course on Loomio's discussion threads and facilitation.</p>
+<h2 id="what-makes-up-a-thread"><a class="header" href="#what-makes-up-a-thread">What makes up a thread</a></h2>
+<p>At the top of the thread you can always find the <strong>title</strong> and <strong>context</strong>. The context is where you share all the information, links, and prompts that will support group members to interact productively with it. Sometimes it's useful to think of the context like an agenda that you would write up on the wall, or the handout that makes a certain conversation possible.</p>
+<p>Below these elements, you will find the comments, where most of the action will happen as people share their thoughts and feelings, alert one another, and use the facilitation tools such as the poll and proposal.</p>
+<p>You can always navigate back to your group or subgroup by clicking their names, the links above the thread's title.</p>
+<h2 id="keep-the-topic-concise"><a class="header" href="#keep-the-topic-concise">Keep the topic concise</a></h2>
+<p>Making the thread title and context clear and engaging is the best way to ensure a productive discussion. Take a little time to consider what contribution you would like from the group. For example:</p>
+<ul>
+<li>Will a decision be made within the thread?</li>
+<li>Over what time frame will the discussion take place?</li>
+<li>Are you calling for personal experiences or asking for thoughts about some information?</li>
+</ul>
+<p>Make an invitation of thread/group participants, letting them know the quickest way to engage and where it goes next.</p>
+<h2 id="getting-attention"><a class="header" href="#getting-attention">Getting attention</a></h2>
+<p>Effective use of Loomio means knowing how and when to get attention from the group, group members, and even external people your group wants to engage in Loomio to keep everything in one place.</p>
+<p>If you ask for attention when it's really important, and avoid it when it's not, people will keep paying attention.</p>
+<p>Loomio has many features for getting attention; <a href="old_getting_started/having_discussions//en/user_manual/threads/notifying_people">learn about them all</a>.</p>
+<p><em><a href="old_getting_started/having_discussions/../decision_tools">Proposals and polls</a> are a special way to get attention and get group input.</em></p>
+<h2 id="disagreement"><a class="header" href="#disagreement">Disagreement</a></h2>
+<p>Disagreement is an indicator that someone wants to be listened to, and typically gives valuable information that can lead to new thinking. It's useful to give them an opportunity to explain themselves, whether you reach out in the thread or more privately. Remember, everyone can change their mind while a decision is still open.</p>
+<h2 id="maintain-a-safe-environment"><a class="header" href="#maintain-a-safe-environment">Maintain a safe environment</a></h2>
+<blockquote>
+<p>A <a href="https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/">study of more than 180 teams within Google</a> tells us that the number one factor in team performance is <strong>psychological safety</strong>.</p>
+</blockquote>
+<p>Respectful disagreement is essential to finding the best solution for the group, but it can be challenging work. For real discussion to happen, you must hold space for differing opinions. Help people express themselves, in a way that allows others to express themselves too.</p>
+<p><strong>Raise the bandwidth:</strong> If someone is distressed, being too disruptive, or is in a minority opinion they feel strongly about, it’s a good indication that a phone conversation – or, even better, a face-to-face – might help.</p>
+<p>For more guidance, see the section of our handbook on <a href="https://loomio.coop/conflict_resolution.html/?utm_campaign=having-discussions-help-pg&amp;utm_term=help">conflict</a>.</p>
+<h2 id="whos-not-present"><a class="header" href="#whos-not-present">Who's not present?</a></h2>
+<p>If someone's missing, invite them!</p>
+<p>Bring group members into a specific discussion by getting their attention (eg, @mentioning them). Try to notice people who have not participated and invite their input.</p>
+<p>High quality decisions come from gathering the right inputs. Are there other people the decision affects, who have not shared an opinion?</p>
+<p><strong>Inviting diverse participation</strong></p>
+<p>Remember to look out for those people who tend to be quiet. Don't just call them out, but consider how best to bring their perspective in, and why they might be participating or vocalizing less than others.</p>
+<h2 id="keep-the-title-and-context-relevant"><a class="header" href="#keep-the-title-and-context-relevant">Keep the title and context relevant</a></h2>
+<p>Loomio threads are designed to evolve with a discussion, which is why the title and context box are editable. The thread context always remains at the top of the thread in order to frame and guide the conversation or decision. Make it easy for people have a clear, shared understanding of where things are at, or to catch up, by updating the thread context and title with the latest info. This also helps you later if you want to refer back to a previous discussion and quickly remind yourself what happened.</p>
+<p>Double-clicking on the context is the quickest way to edit a thread context and title.</p>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/eD4NyVJEjB0?rel=0" frameborder="0" allowfullscreen></iframe>
+<h3 id="example"><a class="header" href="#example">Example</a></h3>
+<p>Below, the facilitator has made a note so that</p>
+<ol>
+<li>those coming late to this thread know that the agenda is basically finalized</li>
+<li>contributors understand what happened as a result of their agenda suggestions.</li>
+</ol>
+<p><img src="old_getting_started/having_discussions/update_context.png" alt="" /></p>
+<h2 id="break-down-complex-issues"><a class="header" href="#break-down-complex-issues">Break down complex issues</a></h2>
+<p><strong>Mutiple threads or sequential proposals</strong></p>
+<p>If a complex discussion is raised, think about breaking it down into multiple threads, one for each different aspect. Or, you might want to raise a series of proposals in the same thread to address different smaller decisions in the same topic. That way, all the context stays in one place.</p>
+<p><strong>Working Groups or Committees</strong></p>
+<p>Sometimes an issue is helped by delegating a small group to do background research, frame options, or summarize data. They can work together and then come back to the larger group when they're ready to present a decision. Or you can decide to mandate them to move forward autonomously. <em>Think about using</em> <em><strong>subgroups</strong></em>…</p>
+<p><strong>Subgroups</strong></p>
+<p>If you have an area of collaboration requiring many threads and ongoing collaboration, but it only affects certain people, you can create a <a href="old_getting_started/having_discussions/../../groups/subgroups">subgroup</a>. For example, offices in different geographical locations, teams working on different projects, or groups with a specific mandate like a governance board.</p>
+<h2 id="scaffolding-productive-discussions"><a class="header" href="#scaffolding-productive-discussions">Scaffolding productive discussions</a></h2>
+<p>See <a href="old_getting_started/having_discussions//en/guides/5_ways_to_use_threads"><strong>5 different ways to use threads</strong></a> to learn about tried and true templates and best practices for conversations that lead to better outcomes.</p>
+<h2 id="next-up-1"><a class="header" href="#next-up-1">Next up</a></h2>
+<p>The best tool for making decisions is good discussion; it's the best way to frame the topic, seek input, and gather ideas. Often you'll find that you can make progress with comments and replies. Other times, in order to bring the discussion to a clear outcome, you will want the clear calls to engagement and facilitation support of… <br><a href="old_getting_started/having_discussions/../decision_tools">→ Proposals and polls</a></p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="proposals-and-polls"><a class="header" href="#proposals-and-polls">Proposals and polls</a></h1>
+<p><em>Loomio's facilitation tools to move towards clear outcomes.</em></p>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/O-laa4di8kI" frameborder="0" allowfullscreen></iframe>
+<p>Facilitation tools and decision tools are used within <strong>threads</strong>. Loomio does not make decisions for you; rather, the tool is designed to</p>
+<ul>
+<li><strong>clarify how the group feels or thinks</strong> about a topic, question or proposal</li>
+<li>communicate what decision is being made</li>
+<li>simplify and make it easy to participate</li>
+<li>highlight agreement and surface disagreement</li>
+<li>build shared understanding</li>
+<li>and keep people informed of progress.</li>
+</ul>
+<p>It's up to each group to decide how to interpret the results. For instance, <a href="https://handbook.enspiral.com/agreements/decisions.html">here's the decision-making protocol for the Enspiral community</a>. They have defined specific criteria for three different types of decision, e.g., how long the decision must be open for input, and what percentage of the group must participate to make a binding decision.</p>
+<h2 id="all-loomio-decision-tools-follow-a-common-pattern"><a class="header" href="#all-loomio-decision-tools-follow-a-common-pattern">All Loomio decision tools follow a common pattern</a></h2>
+<p>If you need some support to move a conversation to a clear outcome, you might…</p>
+<ol>
+<li>Choose to use a poll or proposal (within a thread)</li>
+<li>Name it, describe the question or proposal it represents, and set its duration</li>
+<li>Notify group members (typically all, but you may select none or specific...)</li>
+<li>Group members participate and share a tweet-length message with their selection</li>
+<li>They can change their minds as understanding develops; live results are available</li>
+<li>A reminder is sent out the day before closing</li>
+<li>The poll closes, and everyone can see the results</li>
+<li>The author sets an outcome, notifying everyone of what will happen next.</li>
+</ol>
+<h2 id="a-range-of-tools"><a class="header" href="#a-range-of-tools">A range of tools</a></h2>
+<p>Loomio provides a variety of polls and proposals to support your group's decision making. Read about them <a href="old_getting_started/decision_tools//en/user_manual/polls">and learn more here</a>.</p>
+<p><img src="old_getting_started/decision_tools/decision-types.png" alt="" /></p>
+<h2 id="next-up-2"><a class="header" href="#next-up-2">Next up</a></h2>
+<p>With these new powers that help get clear outcomes, let's make sure your group members are comfortably on board... <a href="old_getting_started/decision_tools/../notifications_settings">→ Email and User settings</a></p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="adopting-loomio--onboarding-resources"><a class="header" href="#adopting-loomio--onboarding-resources">Adopting Loomio &amp; Onboarding Resources</a></h1>
+<p><em>Get everyone on board and get your group's first outcome on Loomio.</em></p>
+<h1 id="a-helping-hand-with-a-human-face"><a class="header" href="#a-helping-hand-with-a-human-face">A helping hand (with a human face)</a></h1>
+<p>No one wants to spin their wheels, and sometimes its important to get it right the first time. Don't worry, we've done this before. We offer a streamlined experience of getting started delivered by Loomio experts:</p>
+<p><a href="https://loomio.org/contact">Ask about our bespoke, guided onboarding.</a></p>
+<h3 id="loomio-basics-video-series"><a class="header" href="#loomio-basics-video-series">Loomio Basics video series</a></h3>
+<p>Review and share key lessons from the <a href="old_getting_started/activating//en/guides/getting_started">Getting Started guide</a> to bring newcomers up to speed in as little as 15 minutes with these <a href="old_getting_started/activating//en/overview-and-how-tos"><strong>videos</strong></a>.</p>
+<h2 id="adopting-loomio"><a class="header" href="#adopting-loomio">Adopting Loomio</a></h2>
+<p>Top tips &amp; tricks for adoption:</p>
+<ul>
+<li>
+<p><em><strong>Agree on the scope,</strong></em> <strong>and trial it</strong></p>
+</li>
+<li>
+<p>How are we going to use Loomio? (eg, discussion, decisions, input, or just reporting?)</p>
+</li>
+<li>
+<p>What shall we first use Loomio for, and when will we evaluate success?</p>
+</li>
+<li>
+<p><em><strong>Start small,</strong></em> <strong>routine tasks</strong> (eg, approve minutes) can be a great start</p>
+</li>
+<li>
+<p><em><strong>Raise the stakes,</strong></em> <strong>move the action:</strong> want to participate? Join Loomio</p>
+</li>
+<li>
+<p><em><strong>Recall why,</strong></em> <strong>remind the group</strong> you’ve agreed to use Loomio, and why</p>
+</li>
+<li>
+<p>Conversation by e-mail? Copy &amp; paste discussion back into Loomio</p>
+</li>
+<li>
+<p>Deciding in person? Invite the group to move the decision online</p>
+</li>
+</ul>
+<h2 id="foundational-lessons"><a class="header" href="#foundational-lessons">Foundational lessons</a></h2>
+<h3 id="a-hrefold_getting_startedactivatingenguidesfour-patterns-of-successfour-keys-to-high-performing-groupsa"><a class="header" href="#a-hrefold_getting_startedactivatingenguidesfour-patterns-of-successfour-keys-to-high-performing-groupsa"><a href="old_getting_started/activating//en/guides/four-patterns-of-success">Four keys to high-performing groups</a></a></h3>
+<p>How successful groups collaborate to achieve great outcomes.</p>
+<h2 id="for-all-else"><a class="header" href="#for-all-else">For all else</a></h2>
+<p>If your questions aren't covered in our <a href="old_getting_started/activating//">User Manual</a> or these <a href="old_getting_started/activating//en/guides">guides</a>, then <a href="https://loomio.org/contact?utm_campaign=getting_started_guide_help&amp;utm_term=help" title="opens in new tab">contact us</a>.</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="email-and-user-settings"><a class="header" href="#email-and-user-settings">Email and User settings</a></h1>
+<p><em>Set your basic profile and email notification preferences.</em></p>
+<h2 id="configure-your-email-settings"><a class="header" href="#configure-your-email-settings">Configure your email settings</a></h2>
+<p>Email notifications are an important way for Loomio to keep people updated on what's happening in your group.</p>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/0Mb2_D74ktM?rel=0" frameborder="0" allowfullscreen></iframe>
+<p>When you (or your group members) start your account, by <em>default,</em> Loomio will:</p>
+<ul>
+<li>send you a <strong>daily summary email</strong> of everything you missed the day before</li>
+<li>let you know when someone's trying to get your attention via <strong>mentions &amp; replies</strong></li>
+<li><strong>subscribe upon participation</strong>, sending emails for every comment on threads you're interested in.</li>
+<li>immediately email you <strong>when someone asks for your attention</strong>: notifications of polls or proposals or thread invitations</li>
+</ul>
+<p>This helps to keep people engaged in the early stages of a group. We set this default assuming that you and your group members will not yet have a habit of using Loomio regularly. For this reason, the default makes it easier for you to stay up to date via your email inbox.</p>
+<p>To change these settings, go to your <a href="https://www.loomio.org/email_preferences">notification settings</a>. This is where you can change your notification preferences for all groups at once. <a href="old_getting_started/notifications_settings//en/user_manual/users/email_settings/#group-email-preferences">Learn more</a>.</p>
+<p>You can also set notification settings specific to any group or subgroup.</p>
+<ol>
+<li>Click on your group page</li>
+<li>Click on the tab, <strong>Settings</strong></li>
+<li><strong>Email settings</strong> will be the first listed</li>
+</ol>
+<p>You can apply this setting to the <strong>organization</strong> (a.k.a. parent group) alone <em>or</em> to the parent group and all of its subgroups.</p>
+<h2 id="profile-settings"><a class="header" href="#profile-settings">Profile settings</a></h2>
+<p>Your profile page lets you customize your Loomio identity. To visit your profile page select the <strong>edit profile</strong> option in the user menu.</p>
+<p><img src="old_getting_started/notifications_settings/edit_profile.png" alt="" /></p>
+<h2 id="uploading-a-profile-photo-1"><a class="header" href="#uploading-a-profile-photo-1">Uploading a profile photo</a></h2>
+<p>It helps people to know who they are speaking to, and put a face to a name. In getting started, you will want to choose or upload a <a href="old_getting_started/notifications_settings//en/user_manual/users/user_profile/#uploading-a-profile-photo">profile photo</a>.</p>
+<h2 id="update-your-personal-info-1"><a class="header" href="#update-your-personal-info-1">Update your personal info</a></h2>
+<p>Updating your <a href="old_getting_started/notifications_settings//en/user_manual/users/user_profile/#update-your-personal-info">introduction</a>, perhaps including skills or roles, and your location (especially for remote teams) can help build your teams.</p>
+<h2 id="language-settings-1"><a class="header" href="#language-settings-1">Language settings</a></h2>
+<p>Loomio is developed in English, but <a href="https://www.loomio.org/g/cpaM3Hsv/loomio-community-translation">is translated by volunteers into many languages</a>.</p>
+<p>Loomio will detect your browser’s language settings, but you can manually <a href="old_getting_started/notifications_settings//en/user_manual/users/user_profile/#language-settings">set your preferred language</a> from the profile page.</p>
+<h2 id="setting-a-password"><a class="header" href="#setting-a-password">Setting a password</a></h2>
+<p>You can set or change your password by visiting your profile page and clicking <a href="old_getting_started/notifications_settings//en/user_manual/users/user_profile/#resetting-your-password"><strong>Reset Password</strong></a>.</p>
+<hr />
+<h2 id="to-recap"><a class="header" href="#to-recap">To recap</a></h2>
+<p>Check out the <a href="old_getting_started/notifications_settings//en/overview-and-how-tos">Loomio Basics <strong>video</strong> series</a> and review most of the Getting Started Guide in as little as 15 minutes.</p>
+<h2 id="convincing-your-group"><a class="header" href="#convincing-your-group">Convincing your group</a></h2>
+<p>Our <a href="old_getting_started/notifications_settings/../../activating">onboarding resources</a> can help you get everyone on board to adopt Loomio.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                        
+                        
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                
+                            </nav>
+
+        </div>
+
+        
+        
+        
+                <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+        
+                <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+                        <script type="text/javascript">
+        window.addEventListener('load', function() {
+            window.setTimeout(window.print, 100);
+        });
+        </script>
+                
+    </body>
+</html>
