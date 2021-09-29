@@ -14,7 +14,7 @@ Click on the links below to go to the guide you are interested in.
 - [Onboarding to Loomio](onboarding.md)
 - [Guide for Director users](guide-directors.md)
 - [Guide for Connectors](guide-connectors.md)
-- [Loomio key concepts](/en/user_manual/getting_started/key-concepts.html)
+- [Loomio key concepts](key-concepts.md)
 
 See your Loomio Demo Group for templates and examples for preparing board meetings, follow up minutes and actions, voting on resolutions, and enabling subcommittees to make recommendations or decisions.
 
@@ -41,5 +41,3 @@ Use these guides to help improve governance in your organisation:
 ## Letter of invitation to Pilot
 An invitation to the ORIC Loomio Pilot programme and to join a first call via Zoom.
 - [Letter of invitation](letter.md)
-
----

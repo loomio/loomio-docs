@@ -47,7 +47,7 @@ Signing into Loomio is easy - you don’t need a password, and your computer wil
 
 Your invitation to join your Loomio group will arrive in your email inbox and look something like this:
 
-![](https://i.imgur.com/IlZNt4K.png)
+![](invitation-email.png)
 
 
 
@@ -57,18 +57,18 @@ The link will take you to the internet browser on your computer, tablet or smart
 
 On your computer you will see:
 
-![](https://i.imgur.com/xnAfdVb.png)
+![](sign-in.png)
 
 On your smartphone you will see:
 
-![](https://i.imgur.com/HU4lNbi.png)
+![](sign-in-mobile.png)
 
 
 * Click the **CONTINUE WITH EMAIL** button at the centre of the screen.
 
 You will be taken to this page to create your Loomio user account.
 
-![](https://i.imgur.com/hXZlxUW.png)
+![](sign-up.png)
 
 Type in your name, so people in your group will recognise you.
 
@@ -80,16 +80,16 @@ An account on decisions.oric.gov.au will then be created for you.
 
 We encourage you to upload a profile picture which will be displayed whenever you make a comment. This is helpful for other members to easily identify you. This step is optional.
 
-If you don’t want to add a photo now: Click the **x** at top right of the card. 
+If you don’t want to add a photo now: Click the **x** at top right of the card.
 
-![](https://i.imgur.com/BXeh6Jp.png)
+![](set-profile-photo.png)
 
 
 * Click **Upload new photo**.
 
 Select a suitable photo file from your computer.
 
-![](https://i.imgur.com/4MYpUUD.png)
+![](upload-photo.png)
 
 * Click **Open** to upload your photo.
 
@@ -99,7 +99,7 @@ Select a suitable photo file from your computer.
 # Threads and Comments
 Loomio discussion 'threads' are the place where you will discuss topics. You will be invited to participate in discussion threads for your board, and you can find these on your group page which will look something like this:
 
-![](https://i.imgur.com/ejpYWmh.png)
+![](thread.png)
 
 
 You will be invited to write a comment in a discussion thread.
@@ -110,7 +110,7 @@ Make sure that the **Comment** tab is highlighted and write in the space alongsi
 
 * Write your comment and click **Post Comment** to have your say.
 
-![](https://i.imgur.com/N6DgVJw.png)
+![](comment.png)
 
 
 ---
@@ -125,14 +125,14 @@ The invitation will often arrive via email as below.
 
 Here is an example of a typical Poll:
 
-![](https://i.imgur.com/0Nu4TSL.png)
+![](poll-email.png)
 
 **To vote**
 * Click on the Option you wish to vote.
     * Optional: Leave a reason or comment about your vote.
 * Click Submit Vote
 
-![](https://i.imgur.com/GE76Hn1.png)
+![](vote-form.png)
 
 ---
 
@@ -160,7 +160,7 @@ A. No, you don’t need a password, however you can use one if you like. A passw
 # Troubleshooting
 
 **Problem: I can’t receive email**
-Solution: Your Loomio user account is linked to your preferred email address.  If you cannot access your email, you will need to sign into Loomio with a password. 
+Solution: Your Loomio user account is linked to your preferred email address.  If you cannot access your email, you will need to sign into Loomio with a password.
 
 [Contact Loomio support](https://decisions.oric.gov.au/contact) if you need a password set for you.
 

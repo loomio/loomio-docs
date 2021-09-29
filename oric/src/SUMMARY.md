@@ -1,5 +1,6 @@
 # ORIC Guides
 - [Introduction](index.md)
+- [Key concepts](key-concepts.md)
 - [Onboarding](onboarding.md)
 - [Guide for Directors and Users](guide-directors.md)
 - [Guide for Connectors](guide-connectors.md)
