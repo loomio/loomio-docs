@@ -101,7 +101,6 @@ h6:target::before {
   margin-top: 28px;
   margin-bottom: 28px;
   border: 1px solid #333;
-  max-width: 90%;
 }
 .content .header:link,
 .content .header:visited {
@@ -219,4 +218,5 @@ img[src*="#width-50"] {
 
 img[src*="#border-none"] {
   border: none;
+  box-shadow: none;
 }
