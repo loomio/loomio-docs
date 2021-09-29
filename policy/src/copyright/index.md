@@ -1,8 +1,3 @@
----
-title: Copy that?
-description: How Loomio handles copyright infringement claims.
----
-
 # Copyright Infringement Claims
 
 ## Notification of Copyright Infringement Claims

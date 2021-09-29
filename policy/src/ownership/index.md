@@ -1,8 +1,3 @@
----
-title: 'Loomio Group Ownership and Management'
-description: 'Who owns and manages Loomio groups and subscriptions.'
----
-
 # Loomio group Ownership & Management Policy
 
 Loomio groups are owned by the organization detailed during signup, if this is a legal entity. If the organization is unincorporated, the account is owned by the individual who signed up for the account.

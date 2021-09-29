@@ -1,8 +1,3 @@
----
-title: Privacy Regulations Reference
-description: Privacy laws are in a lot of flux. Here’s info you should know.
----
-
 # Privacy Regulations Reference
 
 *Last updated: December 4, 2020*

@@ -1,8 +1,3 @@
----
-title: How we handle abusive usage
-description: Guiding principles and process for investigating abuse reports
----
-
 # How we handle abusive usage
 
 *Last updated: January 19, 2021*

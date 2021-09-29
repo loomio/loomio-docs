@@ -1,6 +1,6 @@
 # Summary
 
-- [home](index.md)
+- [Introduction](index.md)
 
 # Success on Loomio
 - [4 patterns of successful groups](four-patterns-of-success.md)

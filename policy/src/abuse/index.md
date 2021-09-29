@@ -1,8 +1,3 @@
----
-title: Loomio Restricted Use Policy
-description: It is not okay to use Loomio products for these restricted purposes.
----
-
 # Use Restrictions
 
 *Last updated: 2021-02-12*

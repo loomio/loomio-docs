@@ -1,6 +1,6 @@
 # Summary
 
-[Home](index.md)
+[Introduction](index.md)
 
 # Getting started
 - [Key concepts](getting_started/key-concepts.md)

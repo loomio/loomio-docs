@@ -1,13 +1,8 @@
----
-title: Loomio Subprocessors
-description: All the third-party subprocessors that we use to run Loomio.
----
-
 # Loomio subprocessors
 
 We use third party subprocessors, such as cloud computing providers and customer support software, to run Basecamp (the service). We establish GDPR-compliant data processing agreements with each subprocessor, extending [GDPR safeguards](../regulations/index.md) everywhere personal data is processed.
 
-The following is a list of personal data subprocessors we use. 
+The following is a list of personal data subprocessors we use.
 
 - [Amazon Web Services](https://aws.amazon.com/compliance/gdpr-center/) - Cloud computing services
 - [Chargify](https://help.chargify.com/my-account/gdpr.html) - Billing and subscription management
