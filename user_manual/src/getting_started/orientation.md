@@ -8,7 +8,7 @@ Your group home page is the first place people see when they arrive. It contains
 
 You can add an image that represents something of your organization and place.
 
-![](group-page-threadview.png#width-80#border-solid)
+![](group-page-threadview.png#width-80)
 
 ### Tabs
 
@@ -34,7 +34,7 @@ If the threads tab is selected, the thread list shows the title of the thread, a
 
 The sidebar menu is accessible from the (☰) menu icon at screen top left, where you can see:
 
-![](sidebar-menu.png#width-80#border-solid)
+![](sidebar-menu.png#width-80)
 
 * **Dashboard** - Open Polls and Proposals and recently active Threads.
 * **Unread threads** - A list of Threads you have yet to read.
@@ -46,7 +46,7 @@ The sidebar menu is accessible from the (☰) menu icon at screen top left, wher
 
 Click the down arrow ( ∨ ) to open your user settings.
 
-![](profile-edit.png#width-50#border-solid)
+![](profile-edit.png#width-50)
 
 The most useful settings when getting started are:
 
@@ -61,7 +61,7 @@ The most useful settings when getting started are:
 
 The bell icon in the top-right is where notifications are accessed within Loomio.
 
-![](notifications.png#width-80#border-solid)
+![](notifications.png#width-80)
 
 ### Email notifications
 
@@ -79,11 +79,11 @@ These emails are to help you participate effectively with your group. The defaul
 
 If you are receiving too many emails from Loomio, you can change the default email settings. Talk to your group administrator to get the balance right for you.
 
-![](profile.png#width-50#border-solid)
+![](profile.png#width-50)
 
-![](email-settings.png#width-80#border-solid)
+![](email-settings.png#width-80)
 
-![](notification-preferences.png#width-80#border-solid)
+![](notification-preferences.png#width-80)
 
 When you receive an email from Loomio, you can reply directly from your email inbox and your reply will be posted into the Loomio thread. This works for everything except the Catch-up summary email.
 
@@ -97,7 +97,7 @@ You can use the Search bar at the top of almost every page to search for content
 
 For example, on the Threads page typing 'decision' in the search bar brings up two threads with the work 'decision'.
 
-![](search.png#width-80#border-solid)
+![](search.png#width-80)
 
 ### Category Tags
 
@@ -105,13 +105,13 @@ Category Tags make it easy to find threads of a certain type or topic.
 
 Tags can be applied when starting or editing a Thread, Poll or Proposal.
 
-![](search-tags.png#width-80#border-solid)
+![](search-tags.png#width-80)
 
 ## Thread page
 
 From your group page, click on a thread to read the thread.
 
-![](thread-robotics-roadshow.png#width-80#border-solid)
+![](thread-robotics-roadshow.png#width-80)
 
 The thread title is prominent, and you can see thread content and comments from other members. 
 
@@ -128,32 +128,32 @@ The thread page includes everything you need to know about the thread;
 
 The thread context is used to introduce the topic. It will often include background information, attached files or links to online documents, to help you participate in the discussion - just as you would attach a file to an email. The context always stays at the top of the thread.
 
-![](thread-context.png#width-80#border-solid)
+![](thread-context.png#width-80)
 
 ### Thread activity
 
 **Seen by** shows who has read the thread, and when.
 
-![](seen-by.png#width-80#border-solid)
+![](seen-by.png#width-80)
 
 **Notified** shows who has been notified about the thread, and if read or email opened.
 
-![](thread-notification.png#width-80#border-solid)
+![](thread-notification.png#width-80)
 
 ### Comments
 
 As you scroll down the thread page, you will see comments and replies from other group members.
 
-![](thread-comments.png#width-80#border-solid)
+![](thread-comments.png#width-80)
 
 ### Timeline
 
 The thread timeline builds with key activity in the threads.  Use timeline to quickly go to decisions or important comments pinned to the timeline.
 
-![](thread-timeline.png#width-50#border-solid)
+![](thread-timeline.png#width-50)
 
 ## Poll page
 
 From your group page, select the POLLS tab to see your list of polls and proposals. Alongside the poll name, there is an active icon that changes as the poll progresses, and indicates your vote.
 
-![](polls-page.png#width-80#border-solid)
+![](polls-page.png#width-80)

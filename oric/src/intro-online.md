@@ -71,7 +71,7 @@ Typical subgroups for Indigenous Corporations include:
 * An industry-specific subgroup, such as "Property"
 * Membership
 
-![](board-subgroups.png#border-solid)
+![](board-subgroups.png)
 
 You may also want to set up a subgroup to share information and engage with Corporation membership. 
 
@@ -103,7 +103,7 @@ For example, typical work processes of a board include:
 * *attach or link documents and other necessary materials*
 * *summarise actions and invite directors to update on their tasks*
 
-![](prepare-meeting1.png#border-solid)
+![](prepare-meeting1.png)
 
 *Use a Loomio **Time Poll** to find the next meeting date.*
 

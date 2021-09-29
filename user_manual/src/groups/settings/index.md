@@ -15,7 +15,7 @@ Uploading a photo or image that has some meaning to your group significantly imp
 
 The ideal pixel resolution for the group image is 2048 x 512. But any image with aspect ratio of 4:1 will fit. 
 
-![](settings-profile.png#width-90#border-solid)
+![](settings-profile.png#width-90)
 
 ### Group description
 
@@ -29,7 +29,7 @@ Write your **Group description**.  Use the formatting tools to format your descr
 
 Go to the **Settings** tab on your group page. Click **Edit Group Settings** and go to the **Privacy** tab. Click **Update Settings** when done.
 
-![](settings-privacy.png#width-90#border-solid)
+![](settings-privacy.png#width-90)
 
 Your privacy settings determine who can find your group, who can see the threads in your group, and how people join.
 
@@ -51,7 +51,7 @@ A member of an open group can see the closed subgroup but not the secret ones.
 
 Most of the permissions settings only affect what **members** can do. Members are the users in your group who are _not_ [Admins](#admin).
 
-![](settings-permissions.png#width-90#border-solid)
+![](settings-permissions.png#width-90)
 
 ### Anyone can join (Open groups)
 
@@ -106,7 +106,7 @@ This allows everyone in your group to state their position on proposals. When it
 
 Thread **activity** is comprised of all the comments, replies, proposals, polls, votes and other notable things that happen within the thread. You can alter how that activity is displayed in order to optimize the experience for your group. These settings change the default layout for everyone in your group, but can be adjusted for each thread to serve  a specific purpose:
 
-![](group-settings-threads.png#width-90#border-solid)
+![](group-settings-threads.png#width-90)
 
 ### Oldest or Newest first
 

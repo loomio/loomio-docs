@@ -1,4 +1,4 @@
-# Guide for Connectors 
+# Guide for Connectors
 
 This guide is for Connectors - people with administrator access to your Loomio group.
 
@@ -11,7 +11,7 @@ This guide is for Connectors - people with administrator access to your Loomio g
 **Initial objectives**
 Our aim is to encourage directors to join and participate in your Loomio group. They should be easily able to:
 * Sign in to Loomio ( decisions.oric.gov.au )
-* Read and comment on threads 
+* Read and comment on threads
 * Vote in polls and proposals
 * See how your governance practices work in Loomio
 
@@ -64,14 +64,14 @@ Please review each of the following settings and change to suit your organizatio
 
 **Group name**: The name of your organization is the default. Do you want to change this?
 
-**Handle**: A simplified label for your group that you can share with others, *e.g. decisions.oric.gov.au/aboriginal-corporation*. 
+**Handle**: A simplified label for your group that you can share with others, *e.g. decisions.oric.gov.au/aboriginal-corporation*.
 	Tip: Short names work best for your handle.
 
-**Cover image**: Upload an image that represents your organization. *(Replace the stock image.)* 
+**Cover image**: Upload an image that represents your organization. *(Replace the stock image.)*
 
 **Logo**: Upload your logo to appear alongside your group name when people visit your group.
 
-![](https://i.imgur.com/lMpyr2K.png)
+![](https://i.imgur.com/lMpyr2K.png#border-none)
 
 
 
@@ -79,14 +79,14 @@ Please review each of the following settings and change to suit your organizatio
 
 **Group Description**: The group description is the first place people see when they arrive into your group. This helps new people as they join your group to understand the purpose of the group, what work you are going to do, and provide any other information that helps people as they participate.
 
-A template description for your group is provided. You can edit or replace with your own text, upload or link to any relevant documents. A wide range of formatting tools are available to help you. 
+A template description for your group is provided. You can edit or replace with your own text, upload or link to any relevant documents. A wide range of formatting tools are available to help you.
 
 * **Attach files**: Use the paper clip icon, just below the group description box, to attach files from your computer.
 * **Insert link**: Go to the internet page you want to link to, copy the link to your clipboard. Highlight the text that you want to link. Click Insert link and paste the link and click Apply.
 
 **Group Description Template**
 
-![](https://i.imgur.com/fPZieoj.png)
+![](https://i.imgur.com/fPZieoj.png#border-none)
 
 ---
 
@@ -94,13 +94,13 @@ A template description for your group is provided. You can edit or replace with 
 
 **Privacy**: Check your group privacy is set to **Secret**. *Only invited people can find the group. All threads are private.*
 
-![](https://i.imgur.com/EXGZqWY.png)
+![](https://i.imgur.com/EXGZqWY.png#border-none)
 
 ---
 
 **Permissions**: As group administrator you can modify what members of your group can do.  The initial permissions are set for the safety of your group while allowing members to use the main features of Loomio.
 
-![](https://i.imgur.com/fHiM0NC.png)
+![](https://i.imgur.com/fHiM0NC.png#border-none)
 
 ---
 **Category Tags**: Use tags to make it easy to find threads of a certain type or topic. Tags can be applied when starting or editing a Thread, Poll or Proposal.
@@ -129,40 +129,40 @@ Template
 
 Tags are visible under the Thread tab by clicking on **tags**. The number beside the tag name shows the number of items that have been tagged.
 
-![](https://i.imgur.com/Lwz23oc.png)
+![](https://i.imgur.com/Lwz23oc.png#border-none)
 
 ---
 Add tags when you start a new Thread, Poll or Proposal.
 
-![](https://i.imgur.com/1tGXeFO.png)
+![](https://i.imgur.com/1tGXeFO.png#border-none)
 
 ---
 Add your own tags by clicking on the **Add tag** icon and **New tag**.
 
-![](https://i.imgur.com/ydlPlCm.png)
+![](https://i.imgur.com/ydlPlCm.png#border-none)
 
 ---
 # 2. Set up your personal profile
 
 Your personal profile will help members of your group easily identify you, and have confidence that the messages they receive from you actually come from you.
 
-* Click on the menu icon (☰) at top left to open the sidebar menu. 
+* Click on the menu icon (☰) at top left to open the sidebar menu.
 * Click on your name at the top of the sidebar to open the user menu.
-* Select **Edit profile** option. 
+* Select **Edit profile** option.
 
-![](https://i.imgur.com/V1nuE7U.png)
+![](https://i.imgur.com/V1nuE7U.png#border-none)
 
 ---
 
 **Upload a profile photo**
 Your initials will be the default image associated with your profile. To upload your profile photo:
 
-* Click on your picture on the profile page 
+* Click on your picture on the profile page
 * Select **Upload new photo**
 
-*Example:* 
+*Example:*
 
-![](https://i.imgur.com/JKZo4w7.png)
+![](https://i.imgur.com/JKZo4w7.png#border-none)
 
 ---
 
@@ -179,7 +179,7 @@ Note that your email address is not displayed to other users. Your email address
 
 *Example:*
 
-![](https://i.imgur.com/NuUSliG.png)
+![](https://i.imgur.com/NuUSliG.png#border-none)
 
 ---
 
@@ -194,7 +194,7 @@ You can remind people you have invited with **Resend invitation**, give anyone a
 
 *Example:*
 
-![](https://i.imgur.com/HCYpv6O.png)
+![](https://i.imgur.com/HCYpv6O.png#border-none)
 
 ---
 
@@ -214,7 +214,7 @@ You can add an optional message to encourage people to click the invitation butt
 
 *Example:*
 
-![](https://i.imgur.com/v0JCp0y.png)
+![](https://i.imgur.com/v0JCp0y.png#border-none)
 
 ---
 
@@ -227,7 +227,7 @@ We can use this thread to introduce Loomio to directors, and invite them to post
 * On your group home page, go to the **Threads** tab.
 * Click **New Thread**.
 
-![](https://i.imgur.com/ednBbOD.png)
+![](https://i.imgur.com/ednBbOD.png#border-none)
 
 **Thread**
 
@@ -243,7 +243,7 @@ You can also select ‘**Invite-only thread (no group)**’ if you want to have 
 
 **Title** - Give your thread a title; this is usually announcing a topic or asking a question. Keep it short and to the point.  A thread title is like the subject line in an email.
 
-**Notify** - You can choose to notify people by sending them an email of the thread via Loomio. You can select any group or subgroup of people. 
+**Notify** - You can choose to notify people by sending them an email of the thread via Loomio. You can select any group or subgroup of people.
 
 * Click on the group name to see individual people to notify.  
 * Click the X beside a person’s name to remove a person from the notification list.
@@ -254,7 +254,7 @@ You can also select ‘**Invite-only thread (no group)**’ if you want to have 
 
 **First thread suggestion**
 
-![](https://i.imgur.com/FFVFkCd.png)
+![](https://i.imgur.com/FFVFkCd.png#border-none)
 
 ---
 
@@ -269,7 +269,7 @@ You can start a Poll or Proposal from within a Thread.
 * Go to the thread that you wish to start your **Poll** and click on the Poll tab.
 * Select the type of poll you want to use. Let’s start with **Check**.
 
-![](https://i.imgur.com/Vq5DB6A.png)
+![](https://i.imgur.com/Vq5DB6A.png#border-none)
 
 
 ---
@@ -304,18 +304,18 @@ You can also choose voters to be anonymous. The default is that everyone in the 
 
 **Check poll suggestion**
 
-![](https://i.imgur.com/SpLVTMc.png)
+![](https://i.imgur.com/SpLVTMc.png#border-none)
 
-**Invite to vote** - You can choose to invite people by sending them an email of the poll via Loomio. You can select any group or subgroup of people. 
+**Invite to vote** - You can choose to invite people by sending them an email of the poll via Loomio. You can select any group or subgroup of people.
 
-* Click on the group name to see individual people to notify. 
+* Click on the group name to see individual people to notify.
 * Click the X beside a person’s name to remove a person from the notification list.
 
 **Voting**
 
 Here is what people will see when responding to a Poll request to vote:
 
-![](https://i.imgur.com/KalAqvJ.png)
+![](https://i.imgur.com/KalAqvJ.png#border-none)
 
 ---
 
@@ -335,7 +335,7 @@ Typical subgroups for Indigenous Corporations include:
 * Risks & Audits
 * Industry-specific subgroup such as Property
 
-![](board-subgroups.png)
+![](board-subgroups.png#border-none)
 
 ---
 
@@ -345,7 +345,7 @@ On your group home page, go to the **Subgroups** tab and click **New Subgroup**.
 
 Follow a similar process as Step 1 to set up your subgroup.
 
-![](https://i.imgur.com/loeydDj.png)
+![](https://i.imgur.com/loeydDj.png#border-none)
 
 ---
 **Permissions**
@@ -356,7 +356,7 @@ On your subgroup home page, go to the **Settings** tab and click **Edit group se
 
 Change permissions by ticking or un-ticking the check box.
 
-![](https://i.imgur.com/oE4iOeo.png)
+![](https://i.imgur.com/oE4iOeo.png#border-none)
 
 ---
 
@@ -371,9 +371,8 @@ Loomio is an online place for the board to have discussions and make decisions t
 
 Push admin tasks onto Loomio to free up meeting time for discussions that matter:
 
-* Arrive at meetings prepared and in context 
+* Arrive at meetings prepared and in context
 * Push topics that require further discussion and info back into Loomio
 * Record minutes and progress actions
 
 It is an opportunity to align and integrate your governance and cultural practices with Loomio.
-

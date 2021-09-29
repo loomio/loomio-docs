@@ -2,7 +2,7 @@
 
 The following chart summarises the onboarding training, Loomio group set up and Guides made available to support Corporations as they get started with Loomio:
 
-![](onboarding-overview.png#border-solid)
+![](onboarding-overview.png)
 
 
 **Letter of invitation** 

@@ -2,7 +2,7 @@
 
 A Loomio group is a safe place for your organization to meet, have discussions and make decisions about work. 
 
-![](Groups.png#width-50#border-solid)
+![](Groups.png#width-50)
 
 Groups are all about people. So it is advisable to think about the people you are going to invite; 
 - Who are they? 
@@ -13,11 +13,11 @@ Groups are all about people. So it is advisable to think about the people you ar
 
 You can start a new Loomio group at any time from the sidebar menu - click on **New group**.
 
-![](new-group.png#width-50#border-solid)
+![](new-group.png#width-50)
 
 ## Group details
 
-![](new-group-start.png#width-90#border-solid)
+![](new-group-start.png#width-90)
 
 ### Group name
 

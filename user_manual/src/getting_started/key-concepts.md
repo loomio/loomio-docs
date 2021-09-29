@@ -4,13 +4,13 @@ Loomio is collaborative working space for your organization, focused to help you
 
 ## Here are some of the key concepts to learn about Loomio.
 
-![](key-concept.png#border-solid)
+![](key-concept.png)
 
 ## Group
 
 A Loomio group is a safe place for your organization to meet, have discussions and make decisions about work.
 
-![](Groups.png#width-50#border-solid)
+![](Groups.png#width-50)
 
 **Group page**
 Your Group home page is the first place you see when your arrive. It contains a description of your group; it's purpose, an outline of the work you are going to do, and any other information to help you participate.
@@ -21,7 +21,7 @@ Your group will have an image that represents something about your organization.
 
 Subgroups are all about people - they provide a place for a group of people to do their work. 
 
-![](subgroups.png#width-80#border-solid)
+![](subgroups.png#width-80)
 
 Any natural grouping of people who need to focus on specific work together are a candidate for a subgroup. For example use subgroups as a collaborative space for your working team, project or event, a governance board, a subcommittee or stakeholders group.
 
@@ -29,7 +29,7 @@ Any natural grouping of people who need to focus on specific work together are a
 
 Threads are where you discuss topics, share information and make decisions together.  
 
-![](Threads.png#width-50#border-solid)
+![](Threads.png#width-50)
 
 Threads are used for many purposes.  In a board, you will be invited to Threads to prepare for a board meeting, vote on resolutions, approve minutes, discuss a particular topic, ask questions, share reports and discuss any other information important for the board.
 
@@ -41,7 +41,7 @@ One of the key things about Loomio is it's powerful voting tools. These help you
 
 A **Proposal** helps your group progress a discussion towards a decision, where you can have your say by voting.
 
-![](Proposals.png#width-50#border-solid)
+![](Proposals.png#width-50)
 
 Simply state what’s being proposed, attach any supporting  documents, set a duration for when responses are required by, and invite people to vote.
 

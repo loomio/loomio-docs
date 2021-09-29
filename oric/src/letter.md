@@ -15,7 +15,7 @@ Boards are experiencing many challenges to effectively govern their Corporation,
 
 We would like to help you develop good governance using digital communication tools and have initiated a Pilot programme.
 
-![](key-concept.png#border-solid)
+![](key-concept.png)
 
 ## Loomio ORIC Pilot
 Loomio is an online tool for discussion and decision-making that can help you strengthen governance.
