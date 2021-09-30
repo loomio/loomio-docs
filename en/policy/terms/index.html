@@ -37,8 +37,11 @@
         <!-- Custom theme stylesheets -->
         
                 <script>
-            !function(t,e){var o,n,p,r;e.__SV||(window.posthog=e,e._i=[],e.init=function(i,s,a){function g(t,e){var o=e.split(".");2==o.length&&(t=t[o[0]],e=o[1]),t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}}(p=t.createElement("script")).type="text/javascript",p.async=!0,p.src=s.api_host+"/static/array.js",(r=t.getElementsByTagName("script")[0]).parentNode.insertBefore(p,r);var u=e;for(void 0!==a?u=e[a]=[]:a="posthog",u.people=u.people||[],u.toString=function(t){var e="posthog";return"posthog"!==a&&(e+="."+a),t||(e+=" (stub)"),e},u.people.toString=function(){return u.toString(1)+".people (stub)"},o="capture identify alias people.set people.set_once set_config register register_once unregister opt_out_capturing has_opted_out_capturing opt_in_capturing reset isFeatureEnabled onFeatureFlags".split(" "),n=0;n<o.length;n++)g(u,o[n]);e._i.push([i,s,a])},e.__SV=1)}(document,window.posthog||[]);
-            posthog.init('phc_B1Epz0SEP3hev4f2oARjeH3FxWKS1dgnZrswc5i4KOB',{api_host:'https://hog.loomio.io'})
+            var localAddrs = ["localhost", "127.0.0.1", ""];
+            if (localAddrs.indexOf(document.location.hostname) === -1) {
+              !function(t,e){var o,n,p,r;e.__SV||(window.posthog=e,e._i=[],e.init=function(i,s,a){function g(t,e){var o=e.split(".");2==o.length&&(t=t[o[0]],e=o[1]),t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}}(p=t.createElement("script")).type="text/javascript",p.async=!0,p.src=s.api_host+"/static/array.js",(r=t.getElementsByTagName("script")[0]).parentNode.insertBefore(p,r);var u=e;for(void 0!==a?u=e[a]=[]:a="posthog",u.people=u.people||[],u.toString=function(t){var e="posthog";return"posthog"!==a&&(e+="."+a),t||(e+=" (stub)"),e},u.people.toString=function(){return u.toString(1)+".people (stub)"},o="capture identify alias people.set people.set_once set_config register register_once unregister opt_out_capturing has_opted_out_capturing opt_in_capturing reset isFeatureEnabled onFeatureFlags".split(" "),n=0;n<o.length;n++)g(u,o[n]);e._i.push([i,s,a])},e.__SV=1)}(document,window.posthog||[]);
+              posthog.init('phc_B1Epz0SEP3hev4f2oARjeH3FxWKS1dgnZrswc5i4KOB',{api_host:'https://hog.loomio.io'})
+            }
         </script>
     </head>
     <body>
@@ -90,8 +93,16 @@
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
             <div class="sidebar-scrollbox">
-                <ol class="chapter"><li class="chapter-item expanded "><a href="../privacy/index.html">Privacy Policy</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../privacy/loomio-subprocessors/index.html">Loomio Subprocessors</a></li><li class="chapter-item expanded "><a href="../privacy/company-processors/index.html">Company Processors</a></li></ol></li><li class="chapter-item expanded "><a href="../terms/index.html" class="active">Terms of Service</a></li><li class="chapter-item expanded "><a href="../copyright/index.html">Copyright Infringement</a></li><li class="chapter-item expanded "><a href="../ownership/index.html">Ownership</a></li><li class="chapter-item expanded "><a href="../abuse/index.html">Restricted Use Policy</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../abuse/how-we-handle/index.html">How we handle abusive usage</a></li></ol></li><li class="chapter-item expanded "><a href="../refund/index.html">Refund Policy</a></li><li class="chapter-item expanded "><a href="../security/index.html">Security</a></li><li class="spacer"></li><li class="chapter-item expanded "><a href="../subscriptions/pricing.html">Pricing</a></li><li class="chapter-item expanded "><a href="../subscriptions/management/index.html">Subscriptions</a></li><li class="chapter-item expanded "><a href="../subscriptions/pro_support/index.html">Pro support</a></li><li class="chapter-item expanded "><a href="../subscriptions/referral_code/index.html">Referrals</a></li></ol>                <a href="/">Back to Loomio Help</a>
-            </div>
+
+
+                <a style="display: flex; align-items: center; text-decoration: none; color: #DCA034" href="/">
+                  <i class="fa fa-chevron-left" style="margin-right: 8px; " ></i>
+                  Loomio Help
+                  <!-- <img style="width: 50%; margin: 8px 0 " src="https://www.loomio.org/brand/logo_gold.svg"> -->
+                </a>
+                <hr style="border: 0.5px solid #ccc; margin: 1em 0;">
+                <strong>Loomio Policies</strong>
+                <ol class="chapter"><li class="chapter-item expanded "><a href="../privacy/index.html">Privacy Policy</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../privacy/loomio-subprocessors/index.html">Loomio Subprocessors</a></li><li class="chapter-item expanded "><a href="../privacy/company-processors/index.html">Company Processors</a></li></ol></li><li class="chapter-item expanded "><a href="../terms/index.html" class="active">Terms of Service</a></li><li class="chapter-item expanded "><a href="../copyright/index.html">Copyright Infringement</a></li><li class="chapter-item expanded "><a href="../ownership/index.html">Ownership</a></li><li class="chapter-item expanded "><a href="../abuse/index.html">Restricted Use Policy</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../abuse/how-we-handle/index.html">How we handle abusive usage</a></li></ol></li><li class="chapter-item expanded "><a href="../refund/index.html">Refund Policy</a></li><li class="chapter-item expanded "><a href="../security/index.html">Security</a></li><li class="spacer"></li><li class="chapter-item expanded "><a href="../subscriptions/pricing.html">Pricing</a></li><li class="chapter-item expanded "><a href="../subscriptions/management/index.html">Subscriptions</a></li><li class="chapter-item expanded "><a href="../subscriptions/pro_support/index.html">Pro support</a></li><li class="chapter-item expanded "><a href="../subscriptions/referral_code/index.html">Referrals</a></li></ol>            </div>
             <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
         </nav>
 
