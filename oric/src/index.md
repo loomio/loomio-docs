@@ -39,4 +39,5 @@ Click on these links for template examples in the Demo group:
 - [Processing Applications for Membership - Template](https://decisions.oric.gov.au/d/lTZv4K2f/processing-applications-for-membership-template)
 - [Thread for an out-of-session decision - Template](https://decisions.oric.gov.au/d/3wRYMFUg/thread-for-an-out-of-session-decision)
 
-
+---
+*We acknowledge the traditional custodians throughout Australia; recognise their continuing connection to land, waters and culture; and pay our respects to elders past, present and emerging.*
