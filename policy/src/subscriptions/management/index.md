@@ -1,12 +1,5 @@
----
-title: Subscription management
-description: How to upgrade, manage or cancel your Loomio subscription.
-weight: 10
-menu:
-  main:
-    parent: subscriptions
-    name: Management
----
+# Subscription management
+_How to upgrade, manage or cancel your Loomio subscription._
 
 ## Introduction
 Loomio uses the Chargify billing and subscription management service to manage subscription records, initiate payments, process upgrades and cancellations.
@@ -90,5 +83,5 @@ Your group data and membership remain and you can continue to comment on existin
 You can reinstate the subscription at any time. If you no longer require the group, you may deactivate it.
 
 ## Refunds
-When it comes to refunds, we treat our customers how we ourselves would like to be treated, and assess requests fairly. 
+When it comes to refunds, we treat our customers how we ourselves would like to be treated, and assess requests fairly.
 To process a refund, we must receive a request within 30 days of the date payment was made.

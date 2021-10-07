@@ -1,12 +1,5 @@
----
-title: Subscription pricing
-description: How we price Loomio to make it available to everyone.
-weight: 10
-menu:
-  main:
-    parent: subscriptions
-    name: Pricing
----
+# Subscription pricing
+_How we price Loomio to make it available to everyone._
 
 # Overview
 Loomio exists to make it easy for anyone, anywhere, to participate in decisions that affect their lives.

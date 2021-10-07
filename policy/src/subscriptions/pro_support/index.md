@@ -1,13 +1,5 @@
----
-title: Bespoke Implementation Packages & Pro
-description: Get a tailored implementation experience with a dedicated Loomio expert – ensure key users are up to speed and you are set for success with Pro priority support.
-hidetoc: true
-weight: 10
-menu:
-  main:
-    parent: subscriptions
-    name: Win with Loomio (Pro plus…)
----
+# Bespoke Implementation Packages & Pro
+_Get a tailored implementation experience with a dedicated Loomio expert – ensure key users are up to speed and you are set for success with Pro priority support._
 
 ## What is Loomio Pro support?
 With the purchase of a Loomio Pro plan you will receive a dedicated Loomio expert to interact with for any ongoing support you might need.

@@ -9,7 +9,5 @@ The rough print and the fine print. We try to make all our policies as clear, fa
 * [Refund policy](refund/index.md)
 * [Use Restrictions policy](abuse/index.md)
 * [Security overview](security/index.md)
-* [Until the End of the Internet](until-the-end-of-the-internet/index.md)
-* [Taxes](taxes/index.md)
 * [Service Level Agreement (SLA) for Loomio Big](sla/index.md)
 * [Loomio group Ownership and Management Policy](ownership/index.md)

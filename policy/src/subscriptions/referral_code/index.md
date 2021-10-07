@@ -1,12 +1,5 @@
----
-title: Referral code
-description: Pro plan customers can give a friend $199 credit on any new Loomio plan.
-hideTOC: true
-weight: 30
-menu:
-  main:
-    parent: subscriptions
----
+# Referral code
+_Pro plan customers can give a friend $199 credit on any new Loomio plan._
 
 Many people share the benefits of Loomio with their friends in other organizations.
 
