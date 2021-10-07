@@ -1,14 +1,14 @@
 # Privacy policy
 
-*Last updated: 2021-02-21*
+*Last updated: 2021-10-08*
 
-The privacy of your data — and it is your data, not ours! — is a big deal to us. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights to your data. We promise we never sell your data: never have, never will.
+The privacy of your data — and it is your data, not ours — is a big deal to us. In this policy, we lay out what data we collect and why, how your data is handled, and your rights to your data. We promise we never sell your data: never have, never will.
 
 This policy applies to all services built and maintained by Loomio Limited.
 
 ## What we collect and why
 
-Our guiding principle is to collect only what we need. Here’s what that means in practice:
+Our guiding principle is to collect only what we need. Here’s what that means in practice.
 
 ### Identity & access
 
@@ -64,7 +64,7 @@ Our default practice is to not access your information. The only times we’ll e
 
 **When required under applicable law.**
 
-Loomio Limited, is a New Zealand registered company, however our data infrastructure are located in the United States, European Union and New Zealand.
+Loomio Limited, is a New Zealand registered company, however our data infrastructure are located in the United States, European Union, Australia and New Zealand.
 
 * If law enforcement authorities have the necessary warrant, criminal subpoena, or court order requiring we share or preserve data, we have to comply. Otherwise, we reject requests from local and federal law enforcement when they seek data. And unless we’re legally prevented from it, we’ll always inform you when such requests are made. In the event a government authority outside New Zealand approaches Loomio with a request, our default stance is to refuse unless the New Zealand government compels us to comply through procedures outlined in a mutual legal assistance treaty or agreement.
 * If we get an informal request from any person, organization, or entity, we do not assist. If you are an account owner who wants to export data from their accounts, you can do so directly by following [these instructions](https://help.loomio.org/en/user_manual/groups/data_export/).
@@ -111,7 +111,7 @@ Data deletion requests may be made to the data protection officer via email (dpo
 
 ## Location of site and data
 
-Our products and other web properties are operated in the United States (loomio.org), European Union (loomio.eu) and Australia (loomio.nz). If you are using one of our services located outside of the country you reside, **please be aware that any information you provide to us will be transferred to and stored in the location of the regional service**. By using our Site, participating in any of our services and/or providing us with your information, you consent to this transfer.
+Our products and other web properties are operated in the United States, European Union, Australia and New Zealand. If you are using one of our services located outside of the country you reside, **please be aware that any information you provide to us will be transferred to and stored in the location of the regional service**. By using our service, participating in any of our services and/or providing us with your information, you consent to this transfer.
 
 ## When transferring personal data from the EU
 
