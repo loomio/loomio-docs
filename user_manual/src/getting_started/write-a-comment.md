@@ -23,5 +23,3 @@ You can reply to someone's comment.  Your reply is published in the thread and a
 Reacting to a comment is a great way to encourage and acknowledge a comment by letting the comment author know how you feel.  It is a quick and light-weight way to participate that does not require any text, nor send an email.
 
 ![](react.png#width-80)
-
-[Read more](vote.md)
