@@ -35,11 +35,7 @@ We run regular online webinar sessions for your Chairperson and/or Chief Executi
 **RSVP by registering your interest with Catherine Styles at ORIC.**
 
 Select and book your preferred webinar session:
-- [ ] Wednesday 6 October 2021
-- [ ] Wednesday 13 October 2021
-- [ ] Wednesday 20 October 2021
-- [ ] Wednesday 27 October 2021
-
+- TBA
 
 The session is 1 hour duration, via Zoom video call at the following times:
 * 9am AWST

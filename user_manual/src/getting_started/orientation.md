@@ -8,7 +8,7 @@ Your group home page is the first place people see when they arrive. It contains
 
 You can add an image that represents something of your organization and place.
 
-![](group-page-threadview.png#width-80)
+![](group-page-threadview.png)
 
 ### Tabs
 

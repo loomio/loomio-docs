@@ -51,4 +51,5 @@ That's it! You should now be in your Loomio group.
 When you return to Loomio, in most cases you browser will remember you and automatically sign you in.  
 However if you have reset your computer or are accessing Loomio from another device, you will be need to sign in again.  The simplest way to do this is to sign in via email and follow the prompts.
 
-Read on for a tour of Loomio and how to write your first comment.
+
+
