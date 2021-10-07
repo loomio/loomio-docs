@@ -12,6 +12,7 @@
 - [Consent process](consent_process/index.md)
 
 # Governance
+- [Bringing your board processes into Loomio](board-processes/index.md)
 - [Virtual AGM](virtual_agm/index.md)
 - [Virtual Board meetings](virtual_board_meetings/index.md)
 - [Webinars and trainings](webinars_and_trainings/index.md)
