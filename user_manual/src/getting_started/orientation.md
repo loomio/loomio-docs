@@ -157,3 +157,5 @@ The thread timeline builds with key activity in the threads.  Use timeline to qu
 From your group page, select the POLLS tab to see your list of polls and proposals. Alongside the poll name, there is an active icon that changes as the poll progresses, and indicates your vote.
 
 ![](polls-page.png#width-80)
+
+[Read more](write-a-comment.md)
