@@ -12,8 +12,8 @@ Here are some examples of how you can apply common board processes in Loomio.
 **Board work process:**
 * follow up and talk to directors about actions
 * ensure the focus of the meeting is about the most important things
-* documents and materials
-* actions from previous meeting
+* documents, materials and board papers
+* progress of actions from previous meeting
 * notify directors and send board papers
 * agree a date/time for the next meeting
 
