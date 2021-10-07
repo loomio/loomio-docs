@@ -40,7 +40,6 @@ Loomio software and data recovery are managed by Heroku. The software and data i
 
 More information can be found at Heroku’s security policy.
 
-
 ## Your data are sent using HTTPS.
 
 Whenever your data are in transit between you and us, everything is encrypted, and sent using HTTPS. Within our firewalled private networks, data may be transferred unencrypted.
