@@ -1,6 +1,5 @@
----
-title: Refund policy
-description: "Bad refund policies are infuriating. We never want our customers to feel that way, so our refund policy is simple: If you're ever unhappy with our products for any reason, we'll take care of you."
+# Refund policy
+_Bad refund policies are infuriating. We never want our customers to feel that way, so our refund policy is simple: If you're ever unhappy with our products for any reason, we'll take care of you._
 ---
 
 # A fair refund policy.
@@ -22,5 +21,3 @@ Bad refund policies are infuriating. You feel like the company is just trying to
 ## Get in touch
 
 At the end of the day, nearly everything on the edges comes down to a case-by-case basis. Send us a note to contact@loomio.org, tell us what's up, and we'll work with you to make sure you’re happy.
-
-

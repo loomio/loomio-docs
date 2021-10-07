@@ -1,9 +1,5 @@
----
-title: Terms of Service
-description: All the terms that you agree to when you sign up for a Loomio product.
----
-
 # Terms of Service
+_All the terms that you agree to when you sign up for a Loomio product._
 
 *Last updated: 2021-04-10*
 
@@ -59,11 +55,11 @@ We want satisfied customers, not hostages. That’s why we make it easy for you 
 
 ## Uptime, Security, and Privacy
 
-1. Your use of the Services is at your sole risk. We provide these Services on an “as is” and “as available” basis. If you require a Service Level Agreement please [contact us](https://www.loomio.org/contact). 
+1. Your use of the Services is at your sole risk. We provide these Services on an “as is” and “as available” basis. If you require a Service Level Agreement please [contact us](https://www.loomio.org/contact).
 2. We reserve the right to temporarily disable your account if your usage significantly exceeds the average usage of other customers of the Services. Of course, we'll reach out to the account owner before taking any action except in rare cases where the level of use may negatively impact the performance of the Service for other customers.
 3. We take many measures to protect and secure your data through backups, redundancies, and encryption. We enforce encryption for data transmission from the public Internet. There are some edge cases where we may send your data through our network unencrypted. Please refer to our [Security Overview](../security/index.md) for full details and our [Security Response page](../security/response/index.md) for how to report a security incident or threat.
 4. When you use our Services, you entrust us with your data. We take that trust to heart. You agree that Loomio may process your data as described in our [Privacy Policy](../privacy/index.md) and for no other purpose. We as humans can access your data for the following reasons:
-  - **To help you with support requests you make.** If you contact us with a support inquiry, we may need to access your account to help resolve a problem. 
+  - **To help you with support requests you make.** If you contact us with a support inquiry, we may need to access your account to help resolve a problem.
   - **On the rare occasions when an error occurs that stops an automated process partway through.** We get automated alerts when such errors occur. When we can fix the issue and restart automated processing without looking at any personal data, we do. In rare cases, we have to look at a minimum amount of personal data to fix the issue. In these rare cases, we aim to fix the root cause as much as possible to avoid the errors from reoccurring.
   - **To safeguard Loomio.** We'll look at logs and metadata as part of our work to ensure the security of your data and the Services as a whole. If necessary, we may also access accounts as part of an [abuse report investigation](../abuse/how-we-handle/index.md).
   - **To the extent required by applicable law.** As a New Zealand based company with data infrastructure located in the US, EU and NZ we only preserve or share customer data if compelled by a US government authority with a legally binding order or proper request under the Stored Communications Act. If a non-US authority approaches Loomio for assistance, our default stance is to refuse unless the order has been approved by the US government, which compels us to comply through procedures outlined in an established mutual legal assistance treaty or agreement mechanism. If Loomio is audited by a tax authority, we only share the bare minimum billing information needed to complete the audit.
@@ -113,13 +109,13 @@ Our total aggregate liability to you in any circumstances is limited to the tota
 ## Indemnity
 You indemnify us against all losses, costs (including legal costs), expenses, demands or liability that we incur arising out of, or in connection with, a third-party claim against us relating to your use of our services or any third-party product (except as far as we’re at fault).  
 
-Exception: The indemnity clause does not apply to New Zealand Government agencies and departments. 
+Exception: The indemnity clause does not apply to New Zealand Government agencies and departments.
 
 ## Disclaimer of warranties
 The Company and its suppliers and licensors hereby disclaim all warranties of any kind, express or implied, including, without limitation, the warranties of merchantability, fitness for a particular purpose and non-infringement. Neither the Company nor its suppliers and licensors, make any warranty that the Services will be error free or that access thereto will be continuous or uninterrupted. You understand that you access, download from, or otherwise obtain content or services through, the Service at your own discretion and risk.
 
 ## General Representation and Warranty
-You represent and warrant that: 
+You represent and warrant that:
 1. Your use of the Service will be in strict accordance with the Loomio Privacy Policy, with this Agreement and with all applicable laws and regulations (including without limitation any local laws or regulations in your country, state, city, or other governmental area, regarding online conduct and acceptable content), and
 2. Your use of the Service will not infringe or misappropriate the intellectual property rights of any third party.
 
@@ -134,6 +130,6 @@ This Agreement constitutes the entire agreement between the Company and you conc
 
 ## Applicable law
 
-The relationship we have with you under these terms is governed by New Zealand law. 
+The relationship we have with you under these terms is governed by New Zealand law.
 
 If you have a question about any of the Terms of Service, please [contact our Support team](https://www.loomio.org/contact).

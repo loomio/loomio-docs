@@ -1,7 +1,5 @@
----
-title: Security overview
-description: Keeping customer data safe and secure is a huge responsibility and a top priority for us. Here’s how we make it happen.
----
+# Security overview
+_Keeping customer data safe and secure is a huge responsibility and a top priority for us. Here’s how we make it happen._
 
 ### Practices we have at Loomio
 
