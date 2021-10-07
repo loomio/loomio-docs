@@ -24,7 +24,7 @@ Here are some examples of how you can apply common board processes in Loomio.
 * *attach or link documents and other necessary materials*
 * *summarise actions and invite directors to update on their tasks*
 
-![](prepare-meeting1.png)
+![](prepare-meeting.png)
 
 *Use a Loomio **Time Poll** to find the next meeting date.*
 
