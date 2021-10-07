@@ -1,6 +1,6 @@
 # How we handle abusive usage
 
-*Last updated: January 19, 2021*
+*Last updated: 2021-10-08*
 
 We build our products* to enable groups of people to make better, more inclusive decisions together. We are proud of that purpose and trust that our customers use our products for appropriate endeavors.
 

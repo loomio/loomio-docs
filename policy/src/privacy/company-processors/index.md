@@ -7,8 +7,10 @@ For the following processors, we have established GDPR-compliant data processing
 * [HelloSign](https://www.hellosign.com/trust/compliance/gdpr). Electronic signature service.
 * [Customer.io](https://customer.io/gdpr.html). Transactional email service.
 * [Google Suite](https://cloud.google.com/security/gdpr). Email and productivity tools.
+* [Pipedrive](https://www.pipedrive.com/en/privacy). CRM
+* [Xero](https://www.xero.com/about/terms/privacy/). Accounting
 
-As a company, we also host a blog, and run occasional events virtually. If you voluntarily engage with us through those media, your personal information may also be collected by the following processors, also all located in the US:
+As a company, we use social media, and run occasional events virtually. If you voluntarily engage with us through those media, your personal information may also be collected by the following processors, also all located in the US:
 
 * [Zoom](https://zoom.us/gdpr). Video conferencing platform.
 * [Twitter](https://gdpr.twitter.com/). Social media platform.
