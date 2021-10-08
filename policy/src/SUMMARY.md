@@ -10,5 +10,5 @@
 - [Security](./security/index.md)
 - [Subscriptions](./subscriptions/management/index.md)
   - [Pricing](./subscriptions/pricing.md)
-  - [Pro support](./subscriptions/pro_support/index.md)
+  - [Training](./subscriptions/pro_support/index.md)
   - [Referrals](./subscriptions/referral_code/index.md)
