@@ -46,15 +46,6 @@ Whenever your data are in transit between you and us, everything is encrypted, a
 
 Any files which you upload to us are stored and are encrypted at rest. Our application databases are generally not encrypted at rest — the information you add to the applications is active in our databases and subject to the same protection and monitoring as the rest of our systems.
 
-
 ## Over 9 years in business.
 
-We’ve been around the block and we’ve seen a lot of companies come and go. Security isn’t just about technology, it’s about trust. Since 1999, we’ve worked hard to earn the trust of over hundreds of thousands of companies world wide. We’ll continue to work hard every day to maintain that trust. Longevity and stability is core to our mission at Basecamp.
-
-## Want to know more?
-
-[We've got three pages of additional details in our security overview](Basecamp Security Overview.pdf) for you. We take even further security steps with HEY. Go to [https://hey.com/security/](https://hey.com/security/) to learn more.
-
-## Have a concern? Need to report an incident?
-
-Have you noticed abuse, misuse, an exploit, or experienced an incident with your account? Please visit our [security response page](response/index.md) for details on how to securely submit a report.
+We’ve been around the block and we’ve seen a lot of companies come and go. Security isn’t just about technology, it’s about trust. Since 1999, we’ve worked hard to earn the trust of over hundreds of thousands of companies world wide. We’ll continue to work hard every day to maintain that trust. Longevity and stability is core to our mission at Loomio.

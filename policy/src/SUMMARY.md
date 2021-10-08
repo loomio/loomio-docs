@@ -7,7 +7,6 @@
 - [Terms of Service](./terms/index.md)
 - [Ownership](./ownership/index.md)
 - [Use restrictions](./abuse/index.md)
-- [Refund Policy](./refund/index.md)
 - [Security](./security/index.md)
 - [Subscriptions](./subscriptions/management/index.md)
   - [Pricing](./subscriptions/pricing.md)
