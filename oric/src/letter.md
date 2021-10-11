@@ -67,4 +67,4 @@ Cath, Michael, Lisa and Rahul
 
 Contact:
 * Catherine Styles, catherine.styles@oric.gov.au
-* Michael Elwood-Smith, contact@loomio.org
+* Michael Elwood-Smith, michael@loomio.org
