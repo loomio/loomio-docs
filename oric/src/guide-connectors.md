@@ -30,7 +30,7 @@ There are a series of steps to the guide. Work through these or navigate to a se
 
 ---
 
-# Self-assessment for board readiness - do this first
+# Self-assessment for board readiness 
 
 Good communication today requires Directors to be able to use a computer or smartphone connected to the internet; capable of sending and receiving email, browsing the web, viewing videos and reading electronic documents.
 
@@ -92,11 +92,15 @@ Here is an example of a group description.
 
 ## Other Group settings
 
-**Privacy**: Check your group privacy is set to **Secret**. *Only invited people can find the group. All threads are private.*
+**Privacy** 
+
+Check your group privacy is set to **Secret**. *Only invited people can find the group. All threads are private.*
 
 ![](https://i.imgur.com/EXGZqWY.png#border-none)
 
-**Permissions**: As group administrator you can modify what members of your group can do.  The initial permissions are set for the safety of your group while allowing members to use the main features of Loomio.
+**Permissions**
+
+As group administrator you can modify what members of your group can do.  The initial permissions are set for the safety of your group while allowing members to use the main features of Loomio.
 
 ![](https://i.imgur.com/fHiM0NC.png#border-none)
 
@@ -107,7 +111,7 @@ Use tags to make it easy to find threads of a certain type or topic. Tags can be
 
 Your Loomio group is pre-configured with the following tags.
 
-Administration, AGM, Board meeting, CEO Report, Guide, Finance, Legal, Members, Minutes, Planning, Policy, Reporting, Resolutions, Rule book, Special meetings, Strategy, Template.
+*Administration, AGM, Board meeting, CEO Report, Guide, Finance, Legal, Members, Minutes, Planning, Policy, Reporting, Resolutions, Rule book, Special meetings, Strategy, Template.*
 
 Tags are visible under the **Thread** tab by clicking on **tags**. 
 
@@ -147,8 +151,6 @@ Your initials will be the default image associated with your profile. To upload 
 
 ![](set-profile-photo1.png#width-80)
 
----
-
 ## Update your personal info
 
 Check and update your profile on Loomio.
@@ -165,9 +167,8 @@ Note that your email address is not displayed to other users. Your email address
 
 ![](update-profile.png#width-80)
 
----
-
 # 3. Invite board members
+
 Now we have prepared our Loomio group, let’s invite directors.
 
 On your group home page, go to the **Members** tab.
@@ -178,15 +179,14 @@ You can remind people you have invited with **Resend invitation**, give anyone a
 
 *Example:*
 
-![](https://i.imgur.com/HCYpv6O.png#border-none)
+![](members-tab.png#width-80)
 
----
+## Invite people
 
-**Invite**
-You can **Invite** people to join the Loomio group either by sending a message to their email address via Loomio, or **Share** an invitation link via your email service or in a newsletter.
+You can invite people to join the Loomio group either by sending a message to their email address via Loomio, or **Share** an invitation link via your email service or in a newsletter.
 
-* Click Invite.
-* Type or copy/paste the email addresses of the directors you want to invite.
+* Click **Invite**
+* Type or copy/paste the email addresses of the directors you want to invite
 
 You can add an optional message to encourage people to click the invitation button:
 
@@ -194,11 +194,11 @@ You can add an optional message to encourage people to click the invitation butt
 
 *Hi, please click on the button below to join our private Loomio group. We use this space to notify directors of meetings, prepare and vote on resolutions, discuss topics between meetings, and to record decisions in a searchable archive.*
 
-**Tip**: If you have a lot of people to invite, you can copy up to 100 email addresses at a time from a list, such as from a spreadsheet column.
+	**Tip**: If you have a lot of people to invite, you can copy up to 100 email addresses at a time from a list, such as from a spreadsheet column.
 
 *Example:*
 
-![](https://i.imgur.com/v0JCp0y.png#border-none)
+![](invite-people.png#width-80)
 
 ---
 
