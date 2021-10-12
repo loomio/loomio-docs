@@ -55,7 +55,7 @@ The link will take you to the internet browser on your computer, tablet or smart
 
 On your computer you will see:
 
-![](accept-invitation#width-80)
+![](accept-invitation.png#width-80)
 
 Click the **CONTINUE WITH EMAIL** button at the centre of the screen.
 
