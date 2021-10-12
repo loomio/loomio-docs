@@ -13,17 +13,14 @@ Click one of two options
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/RGv0Yq6sv8g?rel=0" frameborder="0" allowfullscreen></iframe>
 
 
-### Invite people to Closed groups
+### Allow people to "Request to Join"
 
-If your group's privacy is **closed** then you can invite people by sharing your `loomio.org/handle`. When people arrive at your group page, they will see the title, the description, and a button **Join group** to request membership. As administrator of the group, you will receive an email where you can approve the request.
+If your group's privacy is **closed** then you share your group URL ie: `www.loomio.org/group-name`. When people arrive at your group page, they will see the title, the description, and a button **Join group** to request membership. As administrator of the group, you will receive an email where you can approve the request.
 
-> Reminder: Closed groups disclose their Group Name, Group Description with links and file attachments publicly.
 
-Follow up on people who don't make it into the group and give them a nudge.
+### Invite many at once
 
-If people join but don't begin to participate right away, you might like to welcome them to the group with an @mention, for example:
-
-> “Welcome to the group @Jane, it's great to have you here! Please tell us something about your work and interests.”
+You can send multiple invitations by entering (or copy pasting) multiple email addresses into the who to invite field (separated by commas or spaces). When you submit the form (ie, click **Send**) an email will be sent to each of the email addresses you supplied, containing a unique invitation link that can only be used once. This email will be sent in your current language.
 
 ### Invite people to Subgroups
 
@@ -31,9 +28,11 @@ You will follow the same process as above.
 
 You can invite people to a 'parent' group, and one or more subgroups simultaneously when you invite them with the **Invite people** button. Tick the boxes next to the subgroups you want them to immediately be a part of when they join the group. See it demonstrated in the video clip [just above](#inviting-people).
 
-### Getting people on board
+### Re-send invitations
 
-Follow up on people who don't make it into the group and give them a nudge. You don't want to leave people out of key conversations or decisions. You can see pending invitations – when people have yet to accept the invitation you sent – by clicking the drop down that reads  **everyone** by default, and then click **invitations**.
+Follow up on people who don't make it into the group and give them a nudge. If someone has lost or forgotten about their invitation email, you can re-send it from the dropdown menu beside their name on the Members page.
+
+### Encourage people to particiapte
 
 If people join but don't begin to participate right away, you might like to welcome them to the group with an @mention, for example:
 
@@ -45,10 +44,6 @@ Clicking **Invite people** on the Member tab of your group page will send a _sin
 
 You only need to be sure that they go into their email inbox (or Loomio account) to receive the invitation, it does not need to go to their "best" email address (eg, to the email they may already use for Loomio). The invite is not fixed to the email address you sent it to. So if someone already has a Loomio account and you send them an invitation to another email address, they can accept the invitation with their existing account.
 
-### Invite many at once
-
-You can send multiple invitations by entering (or copy pasting) multiple email addresses into the who to invite field (separated by commas or spaces). When you submit the form (ie, click **Send**) an email will be sent to each of the email addresses you supplied, containing a unique invitation link that can only be used once. This email will be sent in your current language.
-
 ## Managing invitations
 
 To manage invitations, open the filter/ drop down from the Members tab of your Group page and select **invitations**; choose the three dots to the right of the invitation/ person in question.
@@ -58,11 +53,7 @@ To manage invitations, open the filter/ drop down from the Members tab of your G
 You can also make people coordinators or set their title (eg, "IT Support") within the group before they accept their invitation.
 
 ### Cancelling invitations
-If you entered the wrong email address, or have changed your mind about inviting someone, you can cancel an invitation from the Members tab on your Group page. Select **Cancel Invitation** from the same drop down (**⋮**) as demonstrated [just above](/#managing-invitations). To cancel invitations shared by **reusable invitation link**…
-
-### Reset invitation link
-
-To cancel your previous invitation link and generate a new one, click **Share** and then **Reset**. This will disallow any further people from joining using that previous link. You can share the new [reusable invitation link](#inviting-people) as before.
+If you entered the wrong email address, or have changed your mind about inviting someone, you can cancel an invitation from the Members tab on your Group page. Select **Cancel Invitation** from the same drop down (**⋮**) as demonstrated [just above](/#managing-invitations).
 
 ## Managing memberships
 ![](remove_from_group.png)
@@ -78,7 +69,7 @@ We recommend that you share the coordinator permission with everyone who is trus
 
 ![Selecting make admin from the membership dropdown menu](make-admin.png)
 
-#### Coordinating subgroups
+#### Managing subgroups
 If you are the admin of a parent group, or organization, you have additional permissions with regards to any __closed__ subgroups.
 
 You will be able to join any closed subgroup by clicking the "Join Group" button on the left of the Subgroup page in question (just under the tabs).
