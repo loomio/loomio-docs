@@ -40,7 +40,7 @@ Click **Upload new photo**.
 
 Select a suitable photo file from your computer.
 
-![](upload-photo.png#width-80)
+![](upload-photo-new.png#width-80)
 
 Click **Open** to upload your photo.
 
