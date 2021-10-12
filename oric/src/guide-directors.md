@@ -100,7 +100,7 @@ Scroll the thread to read other people's comments until you come to the place wh
 
 Make sure that the **Comment** tab is highlighted and write in the space alongside your user profile image.
 
-* Write your comment and click **Post Comment** to have your say.
+Write your comment and click **POST COMMENT** to have your say.
 
 ![](comment.png#width-80)
 
@@ -124,7 +124,7 @@ Here is an example of a typical Poll:
 Click on the Option you wish to vote.
 (Optional: Leave a reason or comment about your vote.)
 
-Click Submit Vote
+Click **SUBMIT VOTE**
 
 ![](vote-form.png#width-80)
 
