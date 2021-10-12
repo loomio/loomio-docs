@@ -47,7 +47,7 @@ Signing into Loomio is easy - you don’t need a password, and your computer wil
 
 Your invitation to join your Loomio group will arrive in your email inbox and look something like this:
 
-![](invitation-email.png#width-80)
+![](email-invitation.png#width-80)
 
 Click the **Accept invitation** button at the centre of the email.
 
@@ -55,18 +55,13 @@ The link will take you to the internet browser on your computer, tablet or smart
 
 On your computer you will see:
 
-![](sign-in.png#width-80)
-
-On your smartphone you will see:
-
-![](sign-in-mobile.png#width-50)
-
+![](accept-invitation#width-80)
 
 Click the **CONTINUE WITH EMAIL** button at the centre of the screen.
 
 You will be taken to this page to create your Loomio user account.
 
-![](sign-up.png#width-80)
+![](create-account.png#width-80)
 
 Type in your name, so people in your group will recognise you.
 
