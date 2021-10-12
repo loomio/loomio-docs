@@ -22,15 +22,15 @@ If your group's privacy is **closed** then you share your group URL ie: `www.loo
 
 You can send multiple invitations by entering (or copy pasting) multiple email addresses into the who to invite field (separated by commas or spaces). When you submit the form (ie, click **Send**) an email will be sent to each of the email addresses you supplied, containing a unique invitation link that can only be used once. This email will be sent in your current language.
 
+### Re-send invitations
+
+Follow up on people who don't make it into the group and give them a nudge. If someone has lost or forgotten about their invitation email, you can re-send it from the dropdown menu beside their name on the Members page.
+
 ### Invite people to Subgroups
 
 You will follow the same process as above.
 
 You can invite people to a 'parent' group, and one or more subgroups simultaneously when you invite them with the **Invite people** button. Tick the boxes next to the subgroups you want them to immediately be a part of when they join the group. See it demonstrated in the video clip [just above](#inviting-people).
-
-### Re-send invitations
-
-Follow up on people who don't make it into the group and give them a nudge. If someone has lost or forgotten about their invitation email, you can re-send it from the dropdown menu beside their name on the Members page.
 
 ### Encourage people to particiapte
 
