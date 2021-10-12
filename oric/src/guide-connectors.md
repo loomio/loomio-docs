@@ -21,9 +21,9 @@ There are a series of steps to the guide. Work through these or navigate to a se
 
 * [Understanding directors capability to access online tool](https://newhelp.loomio.org/en/oric/guide-connectors.html#self-assessment-for-board-readiness---do-this-first) - do this first
 * [Step 1. Set up your board on Loomio](https://newhelp.loomio.org/en/oric/guide-connectors.html#1-set-up-your-board-on-loomio)
-* [Step 2. Set up your personal profile](https://newhelp.loomio.org/en/oric/guide-connectors.html#2-set-up-your-personal-profile)
-* [Step 3. Invite board members](https://newhelp.loomio.org/en/oric/guide-connectors.html#3-invite-board-members)
-* Step 4. Start a first thread
+* [Step 2. Set up your personal profile](#2-set-up-your-personal-profile)
+* [Step 3. Invite board members](#3-invite-board-members)
+* [Step 4. Start a first thread](#4-start-a-first-thread)
 * Step 5. Start a first poll
 * Step 6. Subgroup
 * Why Loomio?
@@ -67,7 +67,7 @@ Please review each of the following settings and change to suit your organizatio
 
 **Handle**: A simplified label for your group that you can share with others, *e.g. decisions.oric.gov.au/aboriginal-corporation*.
 	
-	**Tip**: Short names work best for your handle.
+***Tip**: Short names work best for your handle.*
 
 **Cover image**: Upload an image that represents your organization. *(Replace the stock image.)*
 
@@ -88,8 +88,6 @@ Here is an example of a group description.
 
 ![](https://i.imgur.com/fPZieoj.png#border-none)
 
----
-
 ## Other Group settings
 
 **Privacy** 
@@ -103,7 +101,6 @@ Check your group privacy is set to **Secret**. *Only invited people can find the
 As group administrator you can modify what members of your group can do.  The initial permissions are set for the safety of your group while allowing members to use the main features of Loomio.
 
 ![](https://i.imgur.com/fHiM0NC.png#border-none)
-
 
 ## Category Tags
 
@@ -127,7 +124,6 @@ Add your own tags by clicking on the **Add tag** icon and **New tag**.
 
 ![](https://i.imgur.com/ydlPlCm.png#border-none)
 
----
 # 2. Set up your personal profile
 
 Your personal profile will help members of your group easily identify you, and have confidence that the messages they receive from you actually come from you.
@@ -137,8 +133,6 @@ Your personal profile will help members of your group easily identify you, and h
 * Select **Edit profile** option.
 
 ![](edit-profile.png#width-50)
-
----
 
 ## Upload a profile photo
 
@@ -192,17 +186,17 @@ You can add an optional message to encourage people to click the invitation butt
 
 *Example:*
 
-*Hi, please click on the button below to join our private Loomio group. We use this space to notify directors of meetings, prepare and vote on resolutions, discuss topics between meetings, and to record decisions in a searchable archive.*
+*Hi, please join our private Loomio group. We use this space to notify directors of meetings, prepare and vote on resolutions, discuss topics between meetings, and to record decisions in a searchable archive.*
 
-	**Tip**: If you have a lot of people to invite, you can copy up to 100 email addresses at a time from a list, such as from a spreadsheet column.
+
+***Tip**: If you have a lot of people to invite, you can copy up to 100 email addresses at a time from a list, such as from a spreadsheet column.*
 
 *Example:*
 
 ![](invite-people.png#width-80)
 
----
-
 # 4. Start a first thread
+
 Start a thread to help directors become familiar with using Loomio.
 We can use this thread to introduce Loomio to directors, and invite them to post a comment.
 
