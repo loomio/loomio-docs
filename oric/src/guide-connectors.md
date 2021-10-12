@@ -19,14 +19,14 @@ Our aim is to encourage directors to join and participate in your Loomio group. 
 
 There are a series of steps to the guide. Work through these or navigate to a section using the table of contents.  Reach out to [Loomio support](https://www.loomio.org/contact) for further help if needed.
 
-* [Understanding directors capability to access online tool](https://newhelp.loomio.org/en/oric/guide-connectors.html#self-assessment-for-board-readiness---do-this-first) - do this first
-* [Step 1. Set up your board on Loomio](https://newhelp.loomio.org/en/oric/guide-connectors.html#1-set-up-your-board-on-loomio)
+* [Understanding directors capability to access online tool](#self-assessment-for-board-readiness) - do this first
+* [Step 1. Set up your board on Loomio](#1-set-up-your-board-on-loomio)
 * [Step 2. Set up your personal profile](#2-set-up-your-personal-profile)
 * [Step 3. Invite board members](#3-invite-board-members)
 * [Step 4. Start a first thread](#4-start-a-first-thread)
-* Step 5. Start a first poll
-* Step 6. Subgroup
-* Why Loomio?
+* [Step 5. Start a first poll](#5-start-a-first-poll)
+* [Step 6. Subgroup](#6-subgroup)
+* [Why Loomio?](#why-loomio?)
 
 ---
 
