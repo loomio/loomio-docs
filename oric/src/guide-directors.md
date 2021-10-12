@@ -92,8 +92,7 @@ Click **Open** to upload your photo.
 # Threads and Comments
 Loomio discussion 'threads' are the place where you will discuss governance topics. You will be invited to participate in discussion threads for your board, and you can find these on your group page which will look something like this:
 
-![](thread.png)
-
+![](thread-robotics-roadshow.png#width-80)
 
 You will be invited to write a comment in a discussion thread.
 
