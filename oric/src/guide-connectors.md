@@ -25,7 +25,7 @@ There are a series of steps to the guide. Work through these or navigate to a se
 * [Step 3. Invite board members](#3-invite-board-members)
 * [Step 4. Start a first thread](#4-start-a-first-thread)
 * [Step 5. Start a first poll](#5-start-a-first-poll)
-* [Step 6. Subgroup](#6-subgroup)
+* [Step 6. Subgroups](#6-subgroups)
 * [Why Loomio?](#why-loomio?)
 
 ---
