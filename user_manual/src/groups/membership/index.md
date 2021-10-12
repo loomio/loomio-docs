@@ -1,4 +1,4 @@
-# Inviting people 
+# Inviting people
 _How to invite people and manage memberships._
 
 ## Invite people
@@ -19,7 +19,7 @@ If your group's privacy is **closed** then you can invite people by sharing your
 
 > Reminder: Closed groups disclose their Group Name, Group Description with links and file attachments publicly.
 
-Follow up on people who don't make it into the group and give them a nudge. 
+Follow up on people who don't make it into the group and give them a nudge.
 
 If people join but don't begin to participate right away, you might like to welcome them to the group with an @mention, for example:
 
@@ -72,9 +72,11 @@ Managing members is easy. The following management actions are available from th
 ### Admin
 Admin are those people with the _most_ permissions in a group. Admin can add and remove members, grant and remove admin permissions and modify group settings.
 
-Click on the three dots (**⋮**) next to the person you want to make an admin, and then choose **Make admin**. You will now see that there is an `Admin` tag to the right of their name. Everyone with this tag is an admin.
+Click on the three dots (**⋮**) next to the person you want to make an admin, and then choose **Make admin**. You will now see that there is an `Admin` tag to the right of their name.
 
-We recommend that you share the coordinator permission with everyone who is trusted to look after the group.
+We recommend that you share the coordinator permission with everyone who is trusted to look after the group. Ideally there is more than one Admin of a group.
+
+![Selecting make admin from the membership dropdown menu](make-admin.png)
 
 #### Coordinating subgroups
 If you are the admin of a parent group, or organization, you have additional permissions with regards to any __closed__ subgroups.
