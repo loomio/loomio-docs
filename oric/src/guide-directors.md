@@ -117,7 +117,7 @@ Click on the link in the message to go to Loomio, where you can read the Poll or
 
 Here is an example of a typical Poll:
 
-![](poll-email.png#width-80)
+![](invitation-to-vote.png#width-80)
 
 **To vote**
 
