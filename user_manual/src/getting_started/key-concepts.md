@@ -1,6 +1,6 @@
 # Loomio key concepts
 
-Loomio is collaborative working space for your organization, focused to help you make decisions to achieve outcomes.
+Loomio is a collaborative working space for your organization, focused to help you make decisions to achieve outcomes.
 
 ## Here are some of the key concepts to learn about Loomio.
 
