@@ -2,7 +2,7 @@
 
 This guide is for Connectors - people with administrator access to your Loomio group.
 
-*A connector is a director or other person who has joined this Loomio project group and is the point of contact for your corporation.*
+*A connector is usually the board administrator for your Corporation, who will set up Loomio for your board and be the primary point of contact.*
 
 ---
 
@@ -17,12 +17,12 @@ Our aim is to encourage directors to join and participate in your Loomio group. 
 
 **Using this Guide**
 
-There are a series of steps to the guide. Work through these or navigate to a section using the table of contents to the left.
+There are a series of steps to the guide. Work through these or navigate to a section using the table of contents.  Reach out to [Loomio support](https://www.loomio.org/contact) for further help if needed.
 
-* Understanding directors capability to access online tool - do this first
-* Step 1. Set up your board on Loomio
-* Step 2. Set up your personal profile
-* Step 3. Invite board members
+* [Understanding directors capability to access online tool](https://newhelp.loomio.org/en/oric/guide-connectors.html#self-assessment-for-board-readiness---do-this-first) - do this first
+* [Step 1. Set up your board on Loomio](https://newhelp.loomio.org/en/oric/guide-connectors.html#1-set-up-your-board-on-loomio)
+* [Step 2. Set up your personal profile](https://newhelp.loomio.org/en/oric/guide-connectors.html#2-set-up-your-personal-profile)
+* [Step 3. Invite board members](https://newhelp.loomio.org/en/oric/guide-connectors.html#3-invite-board-members)
 * Step 4. Start a first thread
 * Step 5. Start a first poll
 * Step 6. Subgroup
@@ -55,17 +55,19 @@ Loomio works with all standard internet browsers such as Google Chrome, Microsof
 
 # 1. Set up your board on Loomio
 
-Your Loomio group is pre-configured to help you get started. As a Connector you have been given administration rights for the group.  This means you can edit group settings.
-Please review each of the following settings and change to suit your organization.
+## Group settings
 
----
+Your Loomio group is pre-configured to help you get started. As a Connector you have been given administration rights for the group.  This means you can edit group settings.
+
+Please review each of the following settings and change to suit your organization.
 
 *On your group home page, go to the **Settings** tab and click **Edit group settings**.*
 
 **Group name**: The name of your organization is the default. Do you want to change this?
 
 **Handle**: A simplified label for your group that you can share with others, *e.g. decisions.oric.gov.au/aboriginal-corporation*.
-	Tip: Short names work best for your handle.
+	
+	**Tip**: Short names work best for your handle.
 
 **Cover image**: Upload an image that represents your organization. *(Replace the stock image.)*
 
@@ -73,70 +75,50 @@ Please review each of the following settings and change to suit your organizatio
 
 ![](https://i.imgur.com/lMpyr2K.png#border-none)
 
-
-
----
-
 **Group Description**: The group description is the first place people see when they arrive into your group. This helps new people as they join your group to understand the purpose of the group, what work you are going to do, and provide any other information that helps people as they participate.
 
 A template description for your group is provided. You can edit or replace with your own text, upload or link to any relevant documents. A wide range of formatting tools are available to help you.
 
-* **Attach files**: Use the paper clip icon, just below the group description box, to attach files from your computer.
+* **Attach files**: Use the paper clip icon to attach files from your computer. *(Find this just below the group description box.)*
 * **Insert link**: Go to the internet page you want to link to, copy the link to your clipboard. Highlight the text that you want to link. Click Insert link and paste the link and click Apply.
 
 **Group Description Template**
+
+Here is an example of a group description.
 
 ![](https://i.imgur.com/fPZieoj.png#border-none)
 
 ---
 
-**Other Group settings...**
+## Other Group settings
 
 **Privacy**: Check your group privacy is set to **Secret**. *Only invited people can find the group. All threads are private.*
 
 ![](https://i.imgur.com/EXGZqWY.png#border-none)
 
----
-
 **Permissions**: As group administrator you can modify what members of your group can do.  The initial permissions are set for the safety of your group while allowing members to use the main features of Loomio.
 
 ![](https://i.imgur.com/fHiM0NC.png#border-none)
 
----
-**Category Tags**: Use tags to make it easy to find threads of a certain type or topic. Tags can be applied when starting or editing a Thread, Poll or Proposal.
+
+## Category Tags
+
+Use tags to make it easy to find threads of a certain type or topic. Tags can be applied when starting or editing a Thread, Poll or Proposal.
 
 Your Loomio group is pre-configured with the following tags.
 
-Administration
-AGM
-Board meeting
-CEO Report
-Guide
-Finance
-Legal
-Members
-Minutes
-Planning
-Policy
-Reporting
-Resolutions
-Rule book
-Special meetings
-Strategy
-Template
+Administration, AGM, Board meeting, CEO Report, Guide, Finance, Legal, Members, Minutes, Planning, Policy, Reporting, Resolutions, Rule book, Special meetings, Strategy, Template.
 
----
+Tags are visible under the **Thread** tab by clicking on **tags**. 
 
-Tags are visible under the Thread tab by clicking on **tags**. The number beside the tag name shows the number of items that have been tagged.
+The tag name shows the number of items that have been tagged.
 
 ![](https://i.imgur.com/Lwz23oc.png#border-none)
 
----
-Add tags when you start a new Thread, Poll or Proposal.
+Add tags when you start a new **Thread**, **Poll** or **Proposal**.
 
 ![](https://i.imgur.com/1tGXeFO.png#border-none)
 
----
 Add your own tags by clicking on the **Add tag** icon and **New tag**.
 
 ![](https://i.imgur.com/ydlPlCm.png#border-none)
@@ -150,28 +132,30 @@ Your personal profile will help members of your group easily identify you, and h
 * Click on your name at the top of the sidebar to open the user menu.
 * Select **Edit profile** option.
 
-![](https://i.imgur.com/V1nuE7U.png#border-none)
+![](edit-profile.png#width-50)
 
 ---
 
-**Upload a profile photo**
+## Upload a profile photo
+
 Your initials will be the default image associated with your profile. To upload your profile photo:
 
-* Click on your picture on the profile page
+* Click on **Change Picture** on the profile page
 * Select **Upload new photo**
 
 *Example:*
 
-![](https://i.imgur.com/JKZo4w7.png#border-none)
+![](set-profile-photo1.png#width-80)
 
 ---
 
-**Update your personal info**
+## Update your personal info
+
 Check and update your profile on Loomio.
 
 * **Name**
 * **Email address** - this email receives your Loomio notifications
-* **Username** - people can use your username to notify you with @mention in threads
+* **Username** - people can use your username to notify you with **@mention** in threads
 * **Introduction** - a few lines to let others in your group know more about you
 * **Location** - so people know where you are
 
@@ -179,7 +163,7 @@ Note that your email address is not displayed to other users. Your email address
 
 *Example:*
 
-![](https://i.imgur.com/NuUSliG.png#border-none)
+![](update-profile.png#width-80)
 
 ---
 
