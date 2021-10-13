@@ -228,8 +228,6 @@ You can also select **Invite-only thread (no group)** if you want to have a priv
 
 **Tag** - Choose a tag for your thread to make it easy to find threads of a certain type or topic, or create a new tag.
 
----
-
 **First thread suggestion**
 
 ![](https://i.imgur.com/FFVFkCd.png#border-none)
@@ -289,8 +287,6 @@ Here is what people will see when responding to a Poll request to vote:
 
 ![](https://i.imgur.com/KalAqvJ.png#border-none)
 
----
-
 # 6. Subgroups
 
 Do you need a subgroup? Subgroups help you organize the work of particular groups of people; for example a subcommittee, working group or project team. You may also set up a subgroup for communicating with membership.
@@ -309,17 +305,14 @@ Typical subgroups for Indigenous Corporations include:
 
 ![](board-subgroups.png#border-none)
 
----
-
-**Set up a subgroup**
+## Set up a subgroup
 
 On your group home page, go to the **Subgroups** tab and click **New Subgroup**.
 
-Follow a similar process as Step 1 to set up your subgroup.
+Follow a similar process as in [Step 1](#1-set-up-your-board-on-loomio) to set up your subgroup.
 
 ![](https://i.imgur.com/loeydDj.png#border-none)
 
----
 **Permissions**
 
 To allow members of your parent group see threads in the subgroup:
@@ -329,8 +322,6 @@ On your subgroup home page, go to the **Settings** tab and click **Edit group se
 Change permissions by ticking or un-ticking the check box.
 
 ![](https://i.imgur.com/oE4iOeo.png#border-none)
-
----
 
 # Why Loomio?
 
