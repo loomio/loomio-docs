@@ -110,7 +110,7 @@ For example, typical work processes of a board include:
 * *list actions and invite directors to comment on their actions*
 * *directors comment in thread and attach files and link to docs and other resources*
 
-![](prepare-board-meeting.png)
+![](prepare-board-meeting.png#width-80)
 
 ### Notify Directors of next board meeting
 **Board work process:**
