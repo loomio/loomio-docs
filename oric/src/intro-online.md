@@ -115,9 +115,14 @@ For example, typical work processes of a board include:
 ### Notify Directors of next board meeting
 **Board work process:**
 * *notify directors about the next meeting*
-* *attach or link documents and other necessary materials*
-* *summarise actions and invite directors to update on their tasks*
+* *attach meeting agenda*
+* *attach board papers*
 
+***On Loomio:***
+*Use a Loomio **Thread** to notify directors and send agenda:*
+* **
+* **
+* **
 
 
 *Use a Loomio **Time Poll** to find the next meeting date.*
