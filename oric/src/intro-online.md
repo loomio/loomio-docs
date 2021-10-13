@@ -106,12 +106,19 @@ For example, typical work processes of a board include:
 
 ***On Loomio:***
 *Use a Loomio **Thread** to prepare for your board meeting:*
+* *invite directors to comment on meeting focus*
+* *list actions and invite directors to comment on their actions*
+* *directors comment in thread and attach files and link to docs and other resources*
+
+![](prepare-board-meeting.png)
+
+### Notify Directors of next board meeting
+**Board work process:**
 * *notify directors about the next meeting*
-* *invite comment about the most important things to focus on*
 * *attach or link documents and other necessary materials*
 * *summarise actions and invite directors to update on their tasks*
 
-![](prepare-meeting1.png)
+
 
 *Use a Loomio **Time Poll** to find the next meeting date.*
 
