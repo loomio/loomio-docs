@@ -241,6 +241,19 @@ Use Loomio Time Poll to find the best time to meet and ask directors to respond.
 ---
 ## When should you use a proposal instead of a poll?
 
+Proposals are a great way to make a decision with your board. For example; approving a financial report, passing a resolution or making an out of session decision.
+
+Here are a few examples of how Proposals are used to make decisions in a board:
+
+* Resolution to approve a funding application
+* Resolution to approve new terms of lease
+* Approve annual financial statements
+* Form a subcommittee
+* Approve statement to shareholders
+* Approve strategic plan
+* Inviting a guest to a board meeting
+* Approving CEO hire
+* Accept insurance quotation
 
 ---
 ## Does the CATSI Act allow us to use Loomio as our statutory obligation?
