@@ -200,7 +200,7 @@ You can add an optional message to encourage people to click the invitation butt
 Start a thread to help directors become familiar with using Loomio.
 We can use this thread to introduce Loomio to directors, and invite them to post a comment.
 
-**Objective: Let’s get each director to post a comment so we know that directors are connected on Loomio and that they know how to write a comment in response to a thread question.**
+**Objective: Let’s get each director to post a comment so we know that directors are connected.**
 
 * On your group home page, go to the **Threads** tab.
 * Click **New Thread**.
@@ -211,13 +211,13 @@ We can use this thread to introduce Loomio to directors, and invite them to post
 
 Threads are where your group can discuss a topic, exchange information and make decisions together. Threads keep everything about a topic in the same place. Over time you’ll create a useful archive of your group’s discussions and decisions.
 
-**Tip**: Use a Loomio thread instead of writing an email
+***Tip**: Use a Loomio thread instead of writing an email.*
 
-All the information, discussion and replies are in one place, where you can see who has read the thread, and nudge people if needed; avoiding email chain confusion.
+*All the information, discussion and replies are in one place, where you can see who has read the thread, and nudge people if needed; avoiding email chain confusion.*
 
 **Group** - Select the group or subgroup you want to post the thread in. When started, your thread will be visible to the members of your group or subgroup.
 
-You can also select ‘**Invite-only thread (no group)**’ if you want to have a private discussion with one or more people, or if you want to draft a thread before posting in your group.
+You can also select **Invite-only thread (no group)** if you want to have a private discussion with one or more people, or if you want to draft a thread before posting in your group.
 
 **Title** - Give your thread a title; this is usually announcing a topic or asking a question. Keep it short and to the point.  A thread title is like the subject line in an email.
 
@@ -234,37 +234,29 @@ You can also select ‘**Invite-only thread (no group)**’ if you want to have 
 
 ![](https://i.imgur.com/FFVFkCd.png#border-none)
 
----
 
 # 5. Start a first Poll
 Let’s start a poll to help directors become familiar with using Loomio.
-We use polls and proposal to make decisions and request a response.
+We use Polls and Proposal to make decisions and request a response.
 
-**Objective: Each director has voted in a poll so we know that directors know how to vote and leave a comment.**
+**Objective: Let's get everyone to vote in a poll, so they're ready when we get to work.**
 
-You can start a Poll or Proposal from within a Thread.
+You start a **Poll** or **Proposal** from within a Thread.
 
-* Go to the thread that you wish to start your **Poll** and click on the Poll tab.
+* Go to the thread that you wish to start your poll and click on the **Poll** tab.
 * Select the type of poll you want to use. Let’s start with **Check**.
 
 ![](https://i.imgur.com/Vq5DB6A.png#border-none)
-
-
----
 
 **Start Check**
 
 A check is a tool with many possible uses but only 2 responses: a tick (✔) or an x mark (✘). Participants will use the tick (✔) to say yes and the x mark (✘) to say no or unsure.
 
-Use it to engage people with an offer, like an RSVP: "I'm coming to the event" or "I'll join the working group".
+Use it to engage people with an offer, like an RSVP: *"I'm coming to the event"*, *"I'll join the subcommittee"* or *"I have completed my actions"*.
 
-Or use it to track completion of a task: "I've checked my contact details are correct", or "I've read the document and left my feedback".
+A day before the check closes, Loomio will remind people who have not participated.
 
-A check has a goal, which is the number of participants you'd like. The goal indicates to the group if something needs more attention or is well subscribed.
-
-A day before the check closes, it will remind those who have not participated to do so - like a digital cat herder.
-
-**Title** - Give your poll a title; this is usually announcing a topic or asking a question. Keep it short and to the point.  
+**Title** - Give your poll a title. Keep it short and to the point.  
 
 **Tags** - Select a tag that will help people easily find this poll when searching.
 
@@ -274,11 +266,13 @@ A day before the check closes, it will remind those who have not participated to
 
 **Closing date and time** - Select the closing date and time for your poll. Give sufficient time for people to vote.  If necessary, you can close the poll early or extend the closing time.
 
-**Reminder** - 24 hours before the poll closes Loomio can send an automatic reminder. Choose if you want to enable this and who to send to.  The default option is ‘Undecided voters’.
+**Reminder** - 24 hours before the poll closes Loomio can send an automatic reminder. Choose if you want to enable this and who to send to.  The default option is **Undecided voters**.
 
-**Who can vote?** - You can decide who is voting, where anyone in your group or only the people you specifically invite.
+**Who can vote?** - You can decide who is voting; anyone in your group or only the people you specifically invite.
 
-You can also choose voters to be anonymous. The default is that everyone in the group can see who has voted.
+The default settings is everyone in the group can see who has voted. However you can select anonymous voting if you want to keep the identity of voters secret. 
+
+***Tip**: Anonymous voting is useful for elections or if you think voters might be influenced by how others vote.
 
 **Check poll suggestion**
 
