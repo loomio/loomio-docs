@@ -8,6 +8,16 @@ There are real benefits of using a digital tool such as Loomio to enhance your c
 
 **Let's explore some key questions below**
 
+* [Why do we need an online place for discussion and decisions?](#why-do-we-need-an-online-place-for-discussion-and-decisions)
+* [How secure is the information?](#how-secure-is-the-information)
+* [How will you structure Loomio to suit your organisation?](#how-will-you-structure-loomio-to-suit-your-organisation)
+* [How do our current work processes adapt to our online practices?](#how-do-our-current-work-processes-adapt-to-our-online-practices)
+* [How quickly do you expect each other to respond?](#how-quickly-do-you-expect-each-other-to-respond)
+* [What protocols do you want to establish in relation to notifying individual people?](#what-protocols-do-you-want-to-establish-in-relation-to-notifying-individual-people)
+* [When is it best to continue a thread and when to start a new one?](#when-is-it-best-to-continue-a-thread-and-when-to-start-a-new-one)
+* [How do you know what kind of poll to use?](#how-do-you-know-what-kind-of-poll-to-use)
+* [When should you use a proposal instead of a poll?](#when-should-you-use-a-proposal-instead-of-a-poll)
+* [Does the CATSI Act allow us to use Loomio as our statutory obligation?](#does-the-catsi-act-allow-us-to-use-loomio-as-our-statutory-obligation)
 
 ---
 
@@ -40,7 +50,7 @@ Loomio offers an opportunity to strengthen governance, to extend collaboration b
 Your group is private, and you are in control of who you invite to the group, and therefore who has access to information in the group.
 
 **Who can access the information?** 
-Only people who are invited to the group.
+Only people who are invited to the group. Click on the **Members** tab to see members of your group.
 
 **Can ORIC access the information?** 
 No. Named Loomio staff members (Michael and Rahul) may be present in your group to help you with set up. They will leave the group when established or you can remove them from the group at any time.
@@ -53,13 +63,11 @@ Yes. You can invite an external person to contribute to a particular Loomio thre
 
 
 ## How will you structure Loomio to suit your organisation?
-Loomio is structured with a 'group' for your board and there are unlimited 'subgroups'.
+A Loomio group comprises a 'parent group' and any number of 'subgroups'. 
 
 Subgroups help you organize the work of particular groups of people; for example a subcommittee, working group or project team. You may also set up a subgroup for communicating with membership.
 
-Subgroups work just like groups and are located within your 'parent' group or organization.
-
-Most of the features and settings of subgroups are the same as in your parent group, and include the ability to allow members of the parent group to see, but not participate in, threads and polls in the subgroup. This is helpful if you want to offer transparency of discussions and decisions to members of the parent group.
+Subgroups work just like groups. Most of the features and settings of subgroups are the same as in your parent group, and include the ability to allow members of the parent group to see, but not participate in, threads and polls in the subgroup. This is helpful if you want to offer transparency of discussions and decisions to members of the parent group.
 
 A person can be a member of your subgroup and not of your parent group.
 
