@@ -122,15 +122,12 @@ For example, typical work processes of a board include:
 *Use a Loomio **Thread** to notify directors, send agenda and attach board papers:*
 * *prepare your thread context as the formal notification to be sent to directors*
 * *attach the meeting agenda document*
-* *attach CEO report, financial statements*
+* *attach CEO report and financial statements*
 * *invite directors to the thread*
 
 ![](notify-directors.png#width-80)
 
-*Use a Loomio **Time Poll** to find the next meeting date.*
-
 ---
-
 
 ### Administrative governance practices
 **Board work process:**
@@ -140,11 +137,14 @@ For example, typical work processes of a board include:
 * investor/stakeholder reports
 
 ***On Loomio:***
-*Use Loomio **Polls**:*
-* *to approve minutes and note matters arising before the meeting.*
-* *to pass CE and Finance reports*
-* *to prepare resolutions in advance of meeting and record votes and outcome*
-* *to approve reports to be published*
+*Use Loomio **Polls** and **Proposals**:*
+* *to approve minutes and note matters arising before the meeting. (Poll)*
+* *to pass CEO and Finance reports. (Proposal)*
+* *to prepare resolutions in advance of meeting and record votes and outcome. (Proposal)*
+* *to approve reports to be published. (Proposal)*
+
+![](admin-practices.png#width-80)
+
 
 
 ---
@@ -171,6 +171,7 @@ For example, typical work processes of a board include:
 * *Use Loomio **Threads** to prepare the information necessary to meet statutory requirements, and attach appropriate documents. Invite directors to question and respond to the information.* 
 * *Use Loomio **Proposal** to approve documents for filing.*
 
+*Use a Loomio **Time Poll** to find the next meeting date.*
 
 ---
 ## How quickly do you expect each other to respond?
