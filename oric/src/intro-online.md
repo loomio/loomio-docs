@@ -112,11 +112,13 @@ For example, typical work processes of a board include:
 
 ![](prepare-board-meeting.png#width-80)
 
+---
+
 ### Notify Directors of next board meeting
 **Board work process:**
-* *notify directors about the next meeting*
-* *attach meeting agenda*
-* *attach board papers*
+* notify directors about the next meeting.
+* attach meeting agenda.
+* attach board papers.
 
 ***On Loomio:***
 *Use a Loomio **Thread** to notify directors, send agenda and attach board papers:*
@@ -131,13 +133,13 @@ For example, typical work processes of a board include:
 
 ### Administrative governance practices
 **Board work process:**
-* approve meeting minutes, along with matters arising
-* pass Chief Executive, Finance and Health & Safety reports
-* prepare resolutions
-* investor/stakeholder reports
+* approve meeting minutes, along with matters arising.
+* pass Chief Executive, Finance and Health & Safety reports.
+* prepare resolutions.
+* investor/stakeholder reports.
 
 ***On Loomio:***
-*Use Loomio **Polls** and **Proposals**:*
+*Use Loomio **Polls** and **Proposals** within the meeting thread:*
 * *to approve minutes and note matters arising before the meeting. (Poll)*
 * *to pass CEO and Finance reports. (Proposal)*
 * *to prepare resolutions in advance of meeting and record votes and outcome. (Proposal)*
@@ -145,19 +147,23 @@ For example, typical work processes of a board include:
 
 ![](admin-practices.png#width-80)
 
-
-
 ---
+
 ### Out of session decision
 **Board work process:**
-* make decisions there was not time for in meeting
-* make decisions that do not require much discussion (e.g. approving annual insurance renewals)
-* build consent for strategic direction. (This may be triggered by external event or a director's particular interest)
+* when there is insufficient time or information available during your meeting, continue the discussion about a topic and make a decision.
+* make administrative decisions. (For example, approving annual insurance renewals.)
+* build consent for strategic direction. (This may be triggered by external event or a director's particular interest.)
 
 ***On Loomio:***
-*Use a Loomio **Thread** to start an out-of-session discussion and a Loomio **Proposal** to make a decision.*
+*Use a Loomio **Thread** in your Loomio group to start an out-of-session discussion and a Loomio **Proposal** within the thread to make a decision.*
+* *Give the thread a title that represents the topic, and provide background information and a question to get the discussion started. Attach files or link to relevant information online.*
+* *Start a Proposal within the thread to make a decision*
+* *Start a thread to open discussion about a strategic topic, and invite directors to contribute their thoughts, questions and comments. Attach files or link to relevant information online.*
 
-*(A Loomio Proposal is a particular type of Poll that asks people to agree to a course of action and records the decision made. It is also useful to clarify disagreement and help you resolve an issue.)*
+![](out-of-session-decision.png#width-80)
+
+*(A Loomio Proposal is a particular type of Poll that asks people to agree to a course of action and records the decision made. It let's everyone know that it is time to make a decision, and is also useful to clarify disagreement and help resolve an issue.)*
 
 ---
 
