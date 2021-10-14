@@ -96,10 +96,10 @@ As a discussion and decision-making tool, Loomio is flexible and can be configur
 For example, typical work processes of a board include:
 
 ### Preparing for the next board meeting
-**Board work process:**
+**Board work processes:**
 * follow up and talk to directors about actions
 * ensure the focus of the meeting is about the most important things
-* documents and materials
+* prepare documents and materials
 * actions from previous meeting
 * notify directors and send board papers
 * agree a date/time for the next meeting
@@ -119,11 +119,13 @@ For example, typical work processes of a board include:
 * *attach board papers*
 
 ***On Loomio:***
-*Use a Loomio **Thread** to notify directors and send agenda:*
-* **
-* **
-* **
+*Use a Loomio **Thread** to notify directors, send agenda and attach board papers:*
+* *prepare your thread context as the formal notification to be sent to directors*
+* *attach the meeting agenda document*
+* *attach CEO report, financial statements*
+* *invite directors to the thread*
 
+![](notify-directors.png#width-80)
 
 *Use a Loomio **Time Poll** to find the next meeting date.*
 
