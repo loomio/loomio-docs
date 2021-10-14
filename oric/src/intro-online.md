@@ -96,7 +96,7 @@ As a discussion and decision-making tool, Loomio is flexible and can be configur
 For example, typical work processes of a board include:
 
 ### Preparing for the next board meeting
-**Board work processes:**
+**Board work process:**
 * follow up and talk to directors about actions
 * ensure the focus of the meeting is about the most important things
 * prepare documents and materials
@@ -169,13 +169,18 @@ For example, typical work processes of a board include:
 
 ### Statutory requirements:
 **Board work process:**
-* Annual General Meeting (AGM)
+* Annual General Meeting (AGM) reporting
 * Tax and annual financial statements
 * ORIC reporting
 
 ***On Loomio:***
 * *Use Loomio **Threads** to prepare the information necessary to meet statutory requirements, and attach appropriate documents. Invite directors to question and respond to the information.* 
-* *Use Loomio **Proposal** to approve documents for filing.*
+* *Use Loomio **Proposal** to approve documents for filing. Directors can agree to approve or disagree to seek more information. When satisfied directors can change their vote to approve.*
+* *When filed, state an **Outcome** of the proposal, along with approved report and statements, so that everyone knows the documents have been filed.*
+
+![](statutory-requirements.png#width-80)
+
+### Finding a meeting date
 
 *Use a Loomio **Time Poll** to find the next meeting date.*
 
