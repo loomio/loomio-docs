@@ -116,16 +116,16 @@ For example, typical work processes of a board include:
 
 ### Notify Directors of next board meeting
 **Board work process:**
-* notify directors about the next meeting.
-* attach meeting agenda.
-* attach board papers.
+* Notify directors about the next meeting.
+* Attach meeting agenda.
+* Attach board papers.
 
 ***On Loomio:***
 *Use a Loomio **Thread** to notify directors, send agenda and attach board papers:*
-* *prepare your thread context as the formal notification to be sent to directors*
-* *attach the meeting agenda document*
-* *attach CEO report and financial statements*
-* *invite directors to the thread*
+* *Prepare your thread context as the formal notification to be sent to directors*
+* *Attach the meeting agenda document*
+* *Attach CEO report and financial statements*
+* *Invite directors to the thread*
 
 ![](notify-directors.png#width-80)
 
@@ -133,17 +133,17 @@ For example, typical work processes of a board include:
 
 ### Administrative governance practices
 **Board work process:**
-* approve meeting minutes, along with matters arising.
-* pass Chief Executive, Finance and Health & Safety reports.
-* prepare resolutions.
-* investor/stakeholder reports.
+* Approve meeting minutes, along with matters arising.
+* Pass Chief Executive, Finance and Health & Safety reports.
+* Prepare resolutions.
+* Investor/stakeholder reports.
 
 ***On Loomio:***
 *Use Loomio **Polls** and **Proposals** within the meeting thread:*
-* *to approve minutes and note matters arising before the meeting. (Poll)*
-* *to pass CEO and Finance reports. (Proposal)*
-* *to prepare resolutions in advance of meeting and record votes and outcome. (Proposal)*
-* *to approve reports to be published. (Proposal)*
+* *To approve minutes and note matters arising before the meeting. (Poll)*
+* *To pass CEO and Finance reports. (Proposal)*
+* *To prepare resolutions in advance of meeting and record votes and outcome. (Proposal)*
+* *To approve reports to be published. (Proposal)*
 
 ![](admin-practices.png#width-80)
 
@@ -151,9 +151,9 @@ For example, typical work processes of a board include:
 
 ### Out of session decision
 **Board work process:**
-* when there is insufficient time or information available during your meeting, continue the discussion about a topic and make a decision.
-* make administrative decisions. (For example, approving annual insurance renewals.)
-* build consent for strategic direction. (This may be triggered by external event or a director's particular interest.)
+* When there is insufficient time or information available during your meeting, and you need to continue the discussion about a topic and make a decision before the next board meeting.
+* Make administrative decisions. (For example, approving annual insurance renewals.)
+* Build consent for strategic direction. (This may be triggered by external event or a director's particular interest.)
 
 ***On Loomio:***
 *Use a Loomio **Thread** in your Loomio group to start an out-of-session discussion and a Loomio **Proposal** within the thread to make a decision.*
