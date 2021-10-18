@@ -86,7 +86,7 @@ A template description for your group is provided. You can edit or replace with 
 
 Here is an example of a group description.
 
-![](https://i.imgur.com/fPZieoj.png#border-none)
+![](group-description-template.png#border-none)
 
 ## Other Group settings
 
