@@ -86,7 +86,7 @@ A template description for your group is provided. You can edit or replace with 
 
 Here is an example of a group description.
 
-![](group-description-template.png)
+![](group-description-template.png#width-90)
 
 ## Other Group settings
 
