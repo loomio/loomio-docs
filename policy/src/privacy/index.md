@@ -2,7 +2,7 @@
 
 *Last updated: 2021-10-08*
 
-The privacy of your data — and it is your data, not ours — is a big deal to us. In this policy, we lay out what data we collect and why, how your data is handled, and your rights to your data. We promise we never sell your data: never have, never will.
+The privacy of your data — and it is your data, not ours — is a big deal to us. In this policy, we lay out what data we collect and why, how your data is handled, and your rights to your data. We promise we never sell your data or use it for advertising purposes.
 
 This policy applies to all services built and maintained by Loomio Limited.
 
@@ -12,7 +12,7 @@ Our guiding principle is to collect only what we need. Here’s what that means 
 
 ### Identity & access
 
-When you sign up for a Loomio product, we typically ask for identifying information such as your name, email address, and maybe a company or group name. That’s just so you can personalize your new account, and we can send you invoices, updates, or other essential information. We sometimes also give you the option to add a profile picture that displays in our products, but we do not normally look at or access that picture. We’ll never sell your personal info to third parties, and we won’t use your name or company in marketing statements without your permission either.
+When you sign up for a Loomio product, we typically ask for identifying information such as your name, email address, and maybe a company or group name. That’s just so you can personalize your new account, and we can send you notices, invoices, updates, or other essential information. We also give you the option to add a profile picture that displays in our products, but we do not normally look at or access that picture. We’ll never sell your personal info to third parties, and we won’t use your name or company in marketing statements without your permission either.
 
 ### Billing information
 
@@ -71,6 +71,22 @@ Loomio Limited, is a New Zealand registered company, however our data infrastruc
 * If we are audited by a tax authority, we may be required to share billing-related information. If that happens, we only share the bare minimum needed such as billing addresses and tax exemption information.
 
 Finally, if Loomio Limited is acquired by or merged with another company — we don’t plan on that, but if it happens — we’ll notify you well before any info about you is transferred and becomes subject to a different privacy policy.
+
+## User Content and Personally Identifiable Information
+
+As a discussion and decision-making platform, Loomio stores and processes "user generated content"; including discussions, comments, proposals, files and images.
+
+We also store and process your “user profile”; including your name, email address, profile photo. This information can make a user personally identifiable, although you can use a pseudonym and anonymous email address to prevent this.
+
+As a member of a Loomio group, your user profile and the content you create or upload to Loomio will be shared with the members of that group. However, your email address will only be available to administrators of the group.
+
+Content including your user profile will be public on the internet if you participate in a public discussion or join a public group.
+
+You may view or correct your personal information at any time via the ‘edit profile’ page within Loomio.
+
+You may *deactivate* your user account. Personally identifying information such as your name, username and profile photo will no longer be associated with content you have posted and Loomio will not contact you again. You can reactivate your account at a later date if you wish.
+
+If you wish to *delete* your user account, your profile information will be permanently deleted from our system. You will not be able to reactivate your account at a later date. 
 
 ## Your rights with respect to your information
 
