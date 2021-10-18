@@ -18,7 +18,7 @@ If you want to get the attention of a specific person, type **@**, start typing 
 
 When you reply to a comment, you will notify the user you replied to. Find the **reply** button on the bottom of the comment to which you wish to associate your reply (it will indented or nested under the comment you replied to, by default).
 
-![where to click reply on a comment](/reply.png)
+![where to click reply on a comment](reply.png)
 
 *Note: You can also [reply to yourself](../engaging_with_threads/#comments-and-replies), but it does not send a notification.*
 
