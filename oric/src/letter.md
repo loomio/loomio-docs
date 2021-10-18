@@ -7,11 +7,12 @@ You are invited to join the ORIC Loomio Pilot programme.
 ## Background
 Boards are experiencing many challenges to effectively govern their Corporation, such as: 
 * Getting directors together in-person for meetings
-* Technology and internet hurdles for directors to join online video meetings
-* Unfamiliar with the use of online tools
+* Unfamiliarity with the use of online tools
 * Located remotely where there is poor internet connectivity
 * Unsure of governance practices, or they are still forming
-* Dealing with a high volume of transactional business (e.g. approving land and financial transactions)
+* Differing levels of engagement and understanding in the board
+* Trying to tackle a high volume of work in time constrained environment 
+* Increasing regulatory reporting pressures and member/stakeholder
 
 We would like to help you develop good governance using digital communication tools and have initiated a Pilot programme.
 
