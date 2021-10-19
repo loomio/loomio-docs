@@ -2,7 +2,7 @@
 
 We as a company use third-party software that may process your information under certain circumstances.
 
-For the following processors, we have established GDPR-compliant data processing agreements, extending [GDPR safeguards](../regulations/index.md) everywhere personal data is processed. These processors are all located in the United States:
+We assess the GDPR-compliant data processing agreements of company processors, extending [GDPR safeguards](../regulations/index.md) everywhere personal data is processed. 
 
 * [HelloSign](https://www.hellosign.com/trust/compliance/gdpr). Electronic signature service.
 * [Customer.io](https://customer.io/gdpr.html). Transactional email service.
