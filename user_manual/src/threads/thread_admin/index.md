@@ -1,36 +1,7 @@
-# Thread administration & Tracking engagement
-_Manage your threads and the information therein._
-
-To get the most out of the effectiveness and efficiency that Loomio offers, you may want to manage the discussion threads and the communications they contain.
-
-While some of these actions are taken from _within_ threads, we'll start outside the threads, on any page where threads are listed (Group, Unread threads, or Recent threads page).
-
-## Understanding thread previews
-
-To help you stay on top of everything, the thread preview is a quick glance at the some important details about a thread. Thread previews appear on any page that lists threads.
-
-![](thread_preview.png)
-
-It shows
-
-- The title
-- Who first authored it - _the picture or initials to the left of the title_
-- If it has an active proposal or poll - _a relevant visual/graph will replace the author_
-
-> _Note:_ your participation (eg, Agree) is superimposed on this graph. A question mark indicates you have not participated
-
-- What group or subgroup it is in - _just below the title_
-- How many comments or votes - _X replies_
-- If there has been activity that you haven't seen yet - _yellow stripe on the left_
-- How many of these you have yet to see - _Y unread_
-- When the last comment or vote was submitted - _Last active Z ago_
-
-# Top-level options
-
-You can access a number of options by selecting the three horizontal dots (**⋯**) to the right of a thread's title , opening the **thread preview options**. The following administrative actions are taken from those options (only on pages that list threads).
+# Thread administration
 
 ### Pin thread
-If you are a coordinator, you can pin comments to order them and make them easier to find. Pinned threads will appear above your other threads and will be ordered by latest activity within their group and organization.
+If you are a coordinator, you can pin comments to order them and make them easier to find. Pinned threads will appear above your other threads on your group page and will be ordered by latest activity within their group and organization.
 
 You can easily  **pin** or **un-pin** from the thread preview options, but **only from the Group page**.
 
@@ -53,14 +24,6 @@ Choose "closed" to view all your closed threads in the thread filter.
 #### Re-open thread
 
 Re-opening a closed thread is done from within the thread's page – again, the three horizontal dots (**⋯**). See [organizing threads](#thread-options-and-organizing-threads) for a depiction.
-
-### Category tags
-
-**Category tags** (or just "tags") let you group any number of threads by categories that you define. Use the thread context's **edit** button to add or remove tags once a thread has been started. Add tags as you start the thread, [learn all about it](../starting_threads/#category-tags).
-
-#### Navigating using category tags
-
-You can click on tags from within threads or use them from your group page; learn more about [sorting threads by tag](../../users/navigation/#Category-Tags-help-you-sort-threads).
 
 # Options within threads
 
