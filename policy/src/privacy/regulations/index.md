@@ -32,8 +32,6 @@ We do work with sub-processors. You can see a list of current sub-processors at 
 
 We have incorporated a Data Processing Addendum (DPA) to our [Terms of Service](../../terms/index.md). You can find the DPA linked within clause 7 of the Uptime, Security and Privacy section. This addendum is in effect when the General Data Protection Regulation applies to your use of Loomio services to process Customer Data as defined in the DPA. The DPA includes the European Commission’s Standard Contractual Clauses (both controller-processor and controller-controller) to extend GDPR privacy principles, rights, and obligations everywhere personal data is processed. If you would like to have a signed copy of the DPA for your records, you may send an email to [contact@loomio.org](mailto:contact@loomio.org) to request a signed copy. We provide the same privacy rights and protection to all customers, regardless of whether they choose to execute a DPA. 
 
-On July 16, 2020, the Court of Justice of the European Union (CJEU) made a ruling, colloquially called “Schrems II”. The CJEU ruled that when you use the Standard Contractual Clauses as the basis for the transfer of personal data from the EU to the US (and a few other countries) on the basis of Standard Contractual Clauses, extra scrutiny and safeguards must be in place. This ruling has opened up a lot of questions, including what qualifies as those extra safeguards. This [crowdsourced webpage](https://iapp.org/resources/article/dpa-and-government-guidance-on-schrems-ii-2/) lists statements made by different Data Protection Authorities to date. Following the Schrems II ruling, we went back over our data flows and our obligations under the Standard Contractual Clauses. We wanted to make sure we can live up to those obligations, and we can. 
-
 ## California Consumer Privacy Act (CCPA)
 
 In the CCPA, there is an important distinction between what are referred to as “service providers”, “businesses”, and “third parties”. You can see how the regulation defines these words by visiting the California Attorney General’s website: https://www.oag.ca.gov/privacy/ccpa.
@@ -44,7 +42,7 @@ The CCPA also grants residents of California with additional rights related to t
 
 ## Loomio Private host and Self-host support services
 
-Loomio offers a Private host and Self-host support services where you can have a private instance of Loomio running on servers of your choice.  All content and personal data is  resident in the country where the server is located.  You can choose a private cloud service such as AWS, or a server within your organization's firewall.
+Loomio offers Private host and Self-host support services where you can have your own private instance of Loomio running on servers of your choice.  All content and personal data is resident in the country where the server is located.  You can choose a private cloud service such as AWS, or a server within your organization's firewall.
 
-If you have any concerns about the use of Loomio cloud-based services and the transfer of data outside the EU, contact us to request information about Loomio's private host or self-hosted support services.
+If you have any concerns about the use of Loomio cloud-based services and the transfer of data outside your country, [contact us](https://www.loomio.com/contact) to request information about Loomio's private host or self-hosted support services.
 
