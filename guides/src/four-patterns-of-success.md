@@ -1,17 +1,6 @@
----
-title: Four patterns of high-functioning groups
-weight: 40
-description: How successful groups collaborate to achieve great outcomes.
-author: Michael Elwood-Smith
-categories:
-  - Articles and Interviews
-date: "2019-06-34T09:56:49Z"
-hidetoc: true
-menu:
-  main:
-    parent: guides
-    name: 4 patterns of success
----
+# Four patterns of high-functioning groups
+_How successful groups collaborate to achieve great outcomes._
+
 
 Why do some groups succeed, while others fail? This is the underlying question group coordinators and facilitators grapple with as they seek to help people do better work together.
 
@@ -47,7 +36,6 @@ Like all relationships, maintaining good group dynamics requires hard work. Grou
 
 Successful groups also try to involve all members in discussion. They invite diverse participation as they understand that this helps them to move through complexity.
 
-**[Get our simple guide for supercharging your meetings](https://help.loomio.org/en/guides/governance/?utm_campaign=guide&utm_term=help#supercharge-your-meetings).**
 
 They do regular check-ins to make sure that everyone is on the same page and feel heard and validated. They use tools like Loomio to make decisions and come to collective agreements together.
 
@@ -58,14 +46,9 @@ They do regular check-ins to make sure that everyone is on the same page and fee
 ## Work better together with Loomio
 
 Groups around the world use Loomio to achieve better outcomes with less time and effort. Loomio is an all-in-one platform where you can discuss, collaborate and make decisions as a team. [Start a group on Loomio](https://loomio.org/g/new/?utm_campaign=guide&utm_term=help).
-<br><br>
-<p style="font-size:130%;text-align:center">“Loomio has led to better decisions, higher engagement, fewer meetings, and faster implementation.”</p> <center>—James Bloemendal, Ian Martin Group, Canada</center>
 
----
 
-__Tip:__  Use your Loomio group page to describe your vision, why this group was set up (purpose), the outcomes you seek and how you would like people to engage.
-
----
+> “Loomio has led to better decisions, higher engagement, fewer meetings, and faster implementation.” —James Bloemendal, Ian Martin Group, Canada
 
 ### Contact us
 
