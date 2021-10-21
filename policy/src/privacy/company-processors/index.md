@@ -14,4 +14,4 @@ As a company, we use social media, and run occasional events virtually. If you v
 * [Twitter](https://gdpr.twitter.com/). Social media platform.
 * [Facebook](https://www.facebook.com/business/gdpr). Social media platform.
 * [LinkedIn](https://privacy.linkedin.com/gdpr). Social media platform.
-* [Eventbrite](https://www.eventbrite.co.nz/support/articles/en_MY/Troubleshooting/eventbrite-eu-data-protection)
+* [Eventbrite](https://www.eventbrite.co.nz/support/articles/en_MY/Troubleshooting/eventbrite-eu-data-protection). Event ticketing service.
