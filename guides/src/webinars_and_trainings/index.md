@@ -1,15 +1,6 @@
----
-title: Recordings and Live Support
-weight: 120
-description: Learn to use Loomio with our friendly experts.
-hidetoc: true
-menu:
-  main:
-    parent: guides
-    name: Recordings & Live Support
----
+# Recordings and Live Support
 
-Want to learn how to use Loomio or introduce it to your group? We're here to help.
+_Want to learn how to use Loomio or introduce it to your group? We're here to help._
 
 ## Recorded trainings
 
