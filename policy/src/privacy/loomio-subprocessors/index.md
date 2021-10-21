@@ -1,6 +1,6 @@
 # Loomio subprocessors
 
-We use third party subprocessors, such as cloud computing providers and customer support software, to run Loomio (the service). We insure each subprocessor has GDPR-compliant data processing agreements, extending [GDPR safeguards](../regulations/index.md) everywhere personal data is processed.
+We use third party subprocessors, such as cloud computing providers and customer support software, to run Loomio (the service). We ensure each subprocessor has GDPR-compliant data processing agreements, extending [GDPR safeguards](../regulations/index.md) everywhere personal data is processed.
 
 The following is a list of personal data subprocessors we use.
 
