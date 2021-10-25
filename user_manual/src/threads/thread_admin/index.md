@@ -1,7 +1,7 @@
 # Thread administration
 
 ### Pin thread
-If you are a coordinator, you can pin comments to order them and make them easier to find. Pinned threads will appear above your other threads on your group page and will be ordered by latest activity within their group and organization.
+If you are a coordinator, you can pin comments to order them and make them easier to find. Pinned threads will appear above your other threads on your group page and will be ordered by the most recently pinned item at the top. You can change position of the pinned thread by pinning and unpinning threads.
 
 You can easily  **pin** or **un-pin** from the thread preview options, but **only from the Group page**.
 
