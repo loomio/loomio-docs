@@ -1,4 +1,4 @@
-# Introduction to guides and templates for the Loomio ORIC pilot program
+# Introduction to guides and templates for the ORIC Loomio pilot programme
 
 *This is an introduction to the ORIC Loomio Governance guides.  It is intended for participants of the ORIC Loomio Pilot programme, however may be of interest to anyone seeking help to use Loomio for good governance.*
 
