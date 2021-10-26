@@ -61,3 +61,23 @@ There is a range of Poll tools available in Loomio to help you progress a discus
 - **Dot vote**: Prioritise options together by allocating a ‘budget’ of points. This style of poll is useful for groups trying to allocate a limited resource to a number of options (e.g. agenda items, or budget line-items).
 - **Score poll**: A score poll lets your group express the degree of preference for different options on a scale. People get to express their desire, preference or interest in each option. The poll produces more granular results than a simple majority vote.
 - **Ranked Choice**: Offers a series of options for people to vote in their preferred order. You can choose the number of votes people can give and rank. Ranked-choice is particularly useful when you have a large number of options or an election to run.
+
+
+## Mapping collaboration tools
+
+Loomio is an asynchronous collaboration tool helping you have discussions, make decisions and build an archive for your organization.  
+
+Loomio is often used alongside real-time and document management collaborative tools.  
+
+Consider the collaboration tools your organization uses.
+
+![](map-tools.png)
+
+**Real-time video call tools** include Jitsi, Zoom or Teams. These are helpful tools for meeting together online and have come to replace many in-person meetings.  
+- Loomio is not a real-time video tool; however you can use Loomio to prepare for your meeting, find a time to meet, upload and link documents, take notes and capture actions, and link to the video recording of the call - all within a 'thread'.
+
+Mattermost, Slack and Teams are **real-time chat tools**; often used by working teams for instant communications like we used to do across the office. Great for immediate feedback when working with team mates on a proejct, but messages can disrupt productive work, leave out team members who are unavailable at a particular time and hard to join the discussion later.  Chat tools are hard to organize into topics and to make a decision.
+- Loomio is not a real-time chat tool; however comments and replies within threads update near-instantly. Threads help keep discussions on topic and to work towards an outcome.  Threads enable members to participate in their time without feeling the pressure to be constantly online.
+
+**Stored documentation tools** such as a wiki, Google docs and OneDrive provide a respository for the important documents of your organization.  Documents are a snapshot in time, and quickly become out of date.  Collaborative editing and comments within the documents works well for two or three people, but challenging when seeking the feedback and approval from many people.
+- Loomio is not a document respository tool; however documents and file can be uploaded, linked and organized in Loomio, so they can be found in context with the work to produce and maintain the documents.  Use a Loomio thread to engage people in creating documents, invite feedback and comments, update document with revisions and seek docuoment approval.
