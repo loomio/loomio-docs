@@ -3,6 +3,7 @@
 - [Introduction](index.md)
 
 # Success on Loomio
+- [Loomio and other collaboration tools](mapping-tools.md)
 - [4 patterns of successful groups](four-patterns-of-success.md)
 - [5 ways to use threads](5_ways_to_use_threads/index.md)
 - [Practical examples](practical_examples.md)
