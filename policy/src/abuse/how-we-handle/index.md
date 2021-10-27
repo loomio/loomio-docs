@@ -10,7 +10,7 @@ Sometimes, though, we discover potential abusive usage as detailed in our [Use R
 
 ### Human oversight
 
-Who’s “we”, you ask? Our internal abuse oversight committee includes our Loomio Cooperative members, and representatives from multiple departments across Loomio Limited. On rare occasions for particularly sensitive situations or if legally required, we may also seek counsel from external experts.
+Who’s “we”, you ask? Our internal abuse oversight team includes our Loomio Cooperative members, and representatives from teams across Loomio Limited. On rare occasions for particularly sensitive situations or if legally required, we may also seek counsel from external experts.
 
 ### Balanced responsibilities
 
@@ -68,4 +68,3 @@ If we terminate an account without notice, the decision is final.
 
 For other cases, we will consider good faith appeals sent to [contact@loomio.org](mailto:contact@loomio.org) by the account owner within 14 calendar days.
 
-**This process applies to any service operated and owned by Loomio Limited.*
