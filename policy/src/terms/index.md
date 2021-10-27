@@ -36,12 +36,12 @@ If you violate any of the terms, we may terminate your account. That's a broad s
 
 We want satisfied customers, not hostages. That’s why we make it easy for you to cancel your account directly.
 
-[Cancel your subscription](https://help.loomio.org/en/subscriptions/management/#cancel-your-plan)
+[Cancel your subscription](https://newhelp.loomio.org/en/policy/subscriptions/management/index.html#cancel-your-plan)
 
 1. Our legal responsibility is to subscription owners, which means we cannot cancel an account at the request of anyone else. If for whatever reason you no longer know who the account owner is, [contact us](contact@loomio.org). We will gladly reach out to any current account owners we have on file.
-2. You are solely responsible for properly canceling your account. You can find instructions for how to cancel your account in our [Subscription help page](https://help.loomio.org/en/subscriptions/management/#cancel-your-plan). An email or phone request to cancel your account is not automatically considered cancellation. If you need help cancelling your account, you can always [contact our Support team](https://www.loomio.org/contact).
+2. You are responsible for properly canceling your account. You can find instructions for how to cancel your account in our [Subscription help page](https://help.loomio.org/en/subscriptions/management/#cancel-your-plan). An email or phone request to cancel your account is not automatically considered cancellation. If you need help canceling your account, you can always [contact our Support team](https://www.loomio.com/contact).
 3. When you cancel, your group data will remain available, however you will not longer be able to start new threads or invite members to the group. After 30 days all content will be deleted from our active systems and you will not longer be able to access the data. If you want to export any data before your account is cancelled, we‘ve provided [instructions](https://help.loomio.org/en/user_manual/groups/data_export/). Retrieving data for a group from a backup isn’t possible, so if you change your mind you’ll need to do it within the first 30 days. **Data can’t be recovered once it has been permanently deleted.**
-4. We won’t bill you again once you cancel. We don’t automatically prorate any unused time you may have left but if you haven’t used your account in months or just started a new billing cycle, [contact us](contact@loomio.org) for a [fair refund](../refund/index.md). We’ll treat you right.
+4. We won’t bill you again once you cancel. We don’t automatically prorate any unused time you may have left but if you haven’t used your account in months or just started a new billing cycle, [contact us](contact@loomio.org) to request a refund.
 
 ### Loomio-initiated cancellations
 
@@ -51,7 +51,7 @@ We want satisfied customers, not hostages. That’s why we make it easy for you 
 
 ## Modifications to the Service and Prices
 
-1. We make a promise to our customers to support our Services [until the end of the Internet](../until-the-end-of-the-internet/index.md). That means when it comes to security, privacy, and customer support, we will continue to maintain any legacy Services. Sometimes it becomes technically impossible to continue a feature or we redesign a part of our Services because we think it could be better or we decide to close new signups of a product. We reserve the right at any time to modify or discontinue, temporarily or permanently, any part of our Services with or without notice.
+1. We make a promise to our customers to support our Services. That means when it comes to security, privacy, and customer support, we will continue to maintain any legacy Services. Sometimes it becomes technically impossible to continue a feature or we redesign a part of our Services because we think it could be better or we decide to close new signups of a product. We reserve the right at any time to modify or discontinue, temporarily or permanently, any part of our Services with or without notice.
 2. Sometimes we change the pricing structure for our products. When we do that, we tend to exempt existing customers from those changes. However, we may choose to change the prices for existing customers. If we do so, we will give at least 30 days notice and will notify you via the email address on record. We may also post a notice about changes on our websites or the affected Services themselves.
 
 ## Uptime, Security, and Privacy
