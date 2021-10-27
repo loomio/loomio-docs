@@ -1,14 +1,22 @@
-# Loomio group Ownership & Administration Policy
+# Loomio Subscription Account Ownership & Group Administration Policy
 
-Loomio groups are owned by the organization named during subscription account signup, if this is a legal entity. If the organization is unincorporated, the account is owned by the individual who signed up for the account.
+## Subscription account owner
 
-Regardless of ownership, the *administration* of the account is done by the Administrator. The person who originally signed up for the account is default designated the primary Administrator, and the role can be reassigned.
+Loomio subscription accounts are owned by the organization named during subscription account signup, if this is a legal entity. If the organization is unincorporated, the account is owned by the individual who signed up for the account.
+
+At signup, the subscription account owner enters customer information (name, organization and email address), billing information (credit or debit card details) and billing address.  At completion of signup, the subscription is activated immediately and the Loomio group automatically upgraded to a paid subscription.  
+
+A tax invoice/statement is generated and sent to the email address provided by the account owner. The statement includes a secure link to the billing portal 'Account Management' at the bottom of the statement, where the account owner can access statements, update card and contact details, and cancel the subscription.  Access to the billing portal is available only to the registered account owner, and may be verified with a link sent to the account owner's email address. 
+
+Card updates and account ownership can be transferred to another person or organization by signing into the billing portal with the 'Account Management' link and editing account owner information.
 
 ## What can Administrators do?
 
+Regardless of ownership, the *administration* of a Loomio group is done by the Administrator. The person who originally started the Loomio group is by default an Administrator, and can grant Administrator priviledges to any member of the group.
+
 Administrators can:
 
-* **Access and export all data in an account:** that means they have the ability to read all content within the Loomio group.
+* **Access and export all data in a group:** that means they have the ability to read all content within the Loomio group.
 * **Manage all aspects of the account’s subscription:** including updating billing information, adding more users, and cancelling an account.
 * **Change account managers:** We encourage customers to designate someone you trust to help co-manage your organization’s HEY account in case the primary Account Manager is out of office. Account managers can add or remove other co-managers directly in HEY. The one exception is: it is not possible within the app to revoke Account Manager permissions from the primary Account Manager who set up the account. In order to make changes to this primary Account Manager, please [email us](mailto:support@hey.com) with the request.
 
