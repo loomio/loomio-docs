@@ -5,7 +5,7 @@
   - [Company Processors](./privacy/company-processors/index.md)
   - [Regulations](./privacy/regulations/index.md)
 - [Terms of Service](./terms/index.md)
-- [Ownership](./ownership/index.md)
+- [Subscription Account Ownership](./ownership/index.md)
 - [Use restrictions](./abuse/index.md)
 - [Security](./security/index.md)
 - [Subscriptions](./subscriptions/management/index.md)
