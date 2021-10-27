@@ -1,8 +1,6 @@
 # Use Restrictions
 
-*Last updated: 2021-02-12*
-
-Hundreds of thousands of organizations use Loomio products*. We are proud to give them a trusted platform to have discussiona and make decisions. We also recognize that however good the maker’s intentions, technology can amplify the ability to cause great harm. That’s why we’ve established this policy. We feel an ethical obligation to counter such harm: both in terms of dealing with instances where Loomio is used (and abused) to further such harm, and to state unequivocally that Loomio is not a safe haven for people who wish to commit such harm. If you have an account with any of our products, you can’t use them for any of the restricted purposes listed below. If we find out you are, [we will take action](how-we-handle/index.md).
+Thousands of organizations use Loomio products. We are proud to give them a trusted platform to have discussions and make decisions. We also recognize that however good the maker’s intentions, technology can amplify the ability to cause great harm. That’s why we’ve established this policy. We feel an ethical obligation to counter such harm: both in terms of dealing with instances where Loomio is used (and abused) to further such harm, and to state unequivocally that Loomio is not a safe haven for people who wish to commit such harm. If you have an account with any of our products, you can’t use them for any of the restricted purposes listed below. If we find out you are, [we will take action](..how-we-handle/index.md).
 
 ## Restricted purposes
 
