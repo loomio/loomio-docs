@@ -27,7 +27,7 @@ Group administrators have access to all settings and permissions for the group.
 Administrators can:
 
 * **Edit group settings including privacy** which means they can change the visibility and access to the Loomio group.
-* **Add and remove members,and set permissions** which means they can change what group members can do in the group.
+* **Add and remove members, and set permissions** which means they can change what group members can do in the group.
 * **Access and export all data in a group:** that means they have the ability to read all content within the Loomio group.
 * **Grant and remove admin permissions:** We encourage customers to share admin rights with someone you trust to help co-administer your Loomio group in the event you are unavailable.
 
