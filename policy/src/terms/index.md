@@ -1,7 +1,7 @@
 # Terms of Service
 _All the terms that you agree to when you sign up for a Loomio product._
 
-*Last updated: 2021-04-10*
+*Last updated: 2021-10-27*
 
 From everyone at Loomio, thank you for using our products! We build them to help you do your best work. There are thousands of people using Loomio products every day. Because we don't know every one of our customers personally, we have to put in place some Terms of Service to help keep the ship afloat.
 
@@ -19,17 +19,18 @@ If you violate any of the terms, we may terminate your account. That's a broad s
 
 ## Account Terms
 
-1. You are responsible for maintaining the security of your account and password. The Company cannot and will not be liable for any loss or damage from your failure to comply with this security obligation.
-2. You may not use the Services for any purpose outlined in our [Use Restrictions policy](../abuse/index.md).
-3. You are responsible for all content posted and activity that occurs under your account. That includes content posted by others who either: (a) have access to your login credentials; or (b) have their own logins under your account.
+1. You are responsible for maintaining the security of your account and password. You must immediately notify Loomio of any unauthorized uses of your account, or any other breaches of security. Loomio cannot and will not be liable for any loss or damage from your failure to comply with this security obligation.
+2. You may not use the Services for any purpose outlined in our [Use Restrictions policy](../abuse/index.md). You must not, in the use of the Service, violate any laws in your jurisdiction (including but not limited to copyright or trademark laws).
+3. You are responsible for all content posted and activity that occurs under your account. That includes content posted by others who either: (a) have access to your login credentials; or (b) have their own logins under your account. 
 4. You must be a human. Accounts registered by “bots” or other automated methods are not permitted.
 
-## Payment, Refunds, and Plan Changes
+## Payment, Automatic Renewal and Refunds
 
-1. For paid Services that offer a free trial, we explain the length of trial when you sign up. After the trial period, you need to pay in advance to keep using the Service. If you do not pay, we will freeze your account and it will be inaccessible until you make payment. If your account has been frozen for a while, we will queue it up for auto-cancellation. See Cancellation and Termination below for more details.
+1. By selecting a subscription you agree to pay Loomio the annual or monthly subscription fees indicated for that service. When payments begin, they will be charged on a pre-pay basis and will cover the use of that service for the following subscription period as indicated. 
 2. If you are upgrading your plan, either from a trial or an existing paid plan, we will charge your card immediately and your billing cycle starts on the day of upgrade.
-3. All fees are exclusive of all taxes, levies, or duties imposed by taxing authorities. Where required, we will collect those taxes on behalf of the taxing authority and remit those taxes to taxing authorities. See our [Taxes policy](../taxes/index.md) for more details. Otherwise, you are responsible for payment of all taxes, levies, or duties.
-4. We process refunds according to our [Fair Refund policy](../refund/index.md).
+3. All fees are exclusive of all taxes, levies, or duties imposed by taxing authorities. Where required, we will collect those taxes on behalf of the taxing authority and remit those taxes to taxing authorities. 
+4. Unless you notify Loomio before the end of the applicable subscription period that you want to cancel a subscription, your subscription will automatically renew and you authorize us to collect the then-applicable fee for such subscription (as well as any taxes) using any credit card or other payment mechanism we have on record for you. Subscriptions can be canceled at any time via the billing portal or emailing contact@loomio.org.
+5. When it comes to refunds, we treat our customers how we ourselves would like to be treated, and assess requests fairly. To process a refund, we must receive a request within 30 days of the date payment was made. Refunds are processed in the currency of the original transaction.
 
 ## Cancellation and Termination
 
@@ -70,9 +71,24 @@ We want satisfied customers, not hostages. That’s why we make it easy for you 
 
 7. These Service Terms incorporate the [Loomio Data Processing Addendum (“DPA”)](../privacy/regulations/dpa/Loomio_Data_Processing_Addendum_v202010.pdf), when the General Data Protection regulation (“GDPR”) applies to your use of Loomio Services to process Customer Data as defined in the DPA. The DPA is effective as of August 10, 2021 and replaces and supersedes any previously agreed data processing addendum between you and the Company relating to the GDPR. If you prefer to have an executed copy of the Data Processing Addendum, you may [sign a copy online](https://app.hellosign.com/s/c0908a3d). Regardless of whether you execute or not, we protect and secure your data to the high standards set out in the addendum.
 
-## Copyright and Content Ownership
+## Content 
 
-1. All content posted on the Services must comply with U.S. copyright law. We provide details on [how to file a copyright infringement claim](../copyright/index.md).
+If you coordinate a group, comment in a discussion, post links in a discussion, or otherwise make (or allow any third party to make) material available through Loomio (any such material, “Content”), you are entirely responsible for the content of, and any harm resulting from, that Content. That is the case regardless of whether the Content in question constitutes text, graphics, an audio or video file, or computer software.
+
+By making Content available, you represent and warrant that:
+
+1. The downloading, copying and use of the Content will not infringe the proprietary rights, including but not limited to the copyright, patent, trademark or trade secret rights, of any third party;
+2. If your employer has rights to intellectual property you create, you have either (i) received permission from your employer to post or make available the Content, including but not limited to any software, or (ii) secured from your employer a waiver as to all rights in or to the Content;
+3. You have fully complied with any third-party licenses relating to the Content, and have done all things necessary to successfully pass through to end users any required terms;
+4. The Content does not contain or install any viruses, worms, malware, Trojan horses or other harmful or destructive content;
+5. The Content is not spam, is not machine- or randomly-generated, and does not contain unethical or unwanted commercial content designed to drive traffic to third party sites or boost the search engine rankings of third party sites, or to further unlawful acts (such as phishing) or mislead recipients as to the source of the material (such as spoofing);
+6. The Content is not pornographic, does not contain threats or incite violence, and does not violate the privacy or publicity rights of any third party;
+7. Your group is not getting advertised via unwanted electronic messages such as spam links on newsgroups, email lists, other groups and web sites, and similar unsolicited promotional methods;
+8. Your group is not named in a manner that misleads your readers into thinking that you are another person or company. For example, your group’s name is not the name of a company other than your own;
+
+### Content Ownership and Copyright
+
+1. All content posted on the Services must comply with copyright law. 
 2. We claim no intellectual property rights over the material you provide to the Services. All materials uploaded remain yours.
 3. We do not pre-screen content, but reserve the right (but not the obligation) in our sole discretion to refuse or remove any content that is available via the Service.
 4. The names, look, and feel of the Services are copyright© to the Company. All rights reserved. You must request permission to use the Company's logo or any Service logos for promotional purposes. Please [contact us](https://www.loomio.org/contact) for requests to use logos. We reserve the right to rescind this permission if you violate these Terms of Service.
