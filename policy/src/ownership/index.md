@@ -12,8 +12,6 @@ A tax invoice/statement is generated and sent to the email address provided by t
 
 Card updates and account ownership can be transferred to another person or organization by signing into the billing portal with the 'Account Management' link and editing account owner information.
 
-## What can subscription account owners do
-
 Subscription account owners can:
 
 * **Manage the account’s subscription:** including updating billing information, changing account owner, and cancelling the subscription account.
