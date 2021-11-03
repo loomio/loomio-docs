@@ -86,9 +86,10 @@ Content including your user profile will be public on the internet if you partic
 
 You may view or correct your personal information at any time via the "edit profile" page within Loomio.
 
-You may *deactivate* your user account. Personally identifying information such as your name, username and profile photo will no longer be associated with content you have posted and Loomio will not contact you again. You can reactivate your account at a later date if you wish.
-
-If you wish to *delete* your user account, your profile information will be permanently deleted from our system. You will not be able to reactivate your account at a later date. 
+You may *delete* your user account. This will permanently delete your profile information including: 
+* Your user account including your name, email address, user id and other personally identifying data will be deleted from our systems.
+* Comments, proposals and discussions you’ve made will remain but your name will be removed from them.
+* You will no longer be listed as a member of any groups.
 
 ## Your rights with respect to your information
 
