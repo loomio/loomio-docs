@@ -71,12 +71,6 @@ Loomio offers direct support for customers self-hosting Loomio.  Contact us for 
 
 Private and Self-host services ensure the highest level of security, configuration and flexibility for your organization.
 
-## Your data are sent using HTTPS.
-
-Whenever your data are in transit between you and us, everything is encrypted, and sent using HTTPS. Within our firewalled private networks, data may be transferred unencrypted.
-
-Any files which you upload to us are stored and are encrypted at rest. Our application databases are generally not encrypted at rest — the information you add to the applications is active in our databases and subject to the same protection and monitoring as the rest of our systems.
-
 ## Over 9 years in business.
 
 We’ve been operating loomio.org since 2013. Security isn’t just about technology, it’s about trust. We’ve worked hard to earn the trust of hundreds of thousands of people world wide in tens of thousands Loomio groups. We’ll continue to work hard every day to maintain that trust. Longevity and stability is core to our mission at Loomio.
