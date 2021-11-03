@@ -61,16 +61,7 @@ The service holds a Tier 3 security status. For more information read New Zealan
 
 **LOOMIO.EU**
 
-*Todo; maybe "A Loomio cloud service operating on servers located within the European Union is under construction. Contact us to request further information."*
-
-**DECISIONS.ORIC.GOV.AU**
-
-decisions.oric.gov.au is a cloud service running on Amazon Web Services (AWS) datacenters in Sydney, Australia. 
-
-This service is available only on request for Aboriginal and Torre Strait Indigenous Corporations as part of the ORIC Loomio pilot program.  
-
-For more information read about the [Pilot program for online decision-making](https://www.oric.gov.au/pilot-program-online-decision-making).
-
+Contact us to request further information.
 
 ### Private host and Self-host Services
 
