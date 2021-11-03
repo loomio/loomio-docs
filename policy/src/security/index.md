@@ -7,38 +7,78 @@ _Keeping customer data safe and secure is a huge responsibility and a top priori
 * We don’t run ads for other services in our products.
 * We limit the data we collect: if we don’t need it, we don’t ask for it.
 * We put a lot of security measures into place including in-transit encryption and encryption at-rest.
-
-# Security overview.
+* We do not access customer data unless granted permission by customer to support resolution of a problem, or if necessary to maintain the service.
 
 ## Trustworthy staff
 
 Employee and contractor agreements for people working at Loomio include confidentiality clauses to protect Loomio and customer confidential information. We treat all customer information and data as confidential, except for situations where a customer has explicitly made the information publicly accessible.
 
+Loomio Limited is a for-profit social enterprise owned by worker-owned Loomio Cooperative. Loomio staff are either cooperative members or on a path to cooperative membership, and share the values and responsibilities of Loomio as business co-owners. [You can read about us here](https://www.loomio.com/about).
+
+Access to data is tightly controlled and protected internally within Loomio. 
+
 ## We protect your data.
 
 All data are written to multiple disks instantly, backed up daily, and stored in multiple locations. Files that our customers upload are stored on servers that use modern techniques to remove bottlenecks and points of failure.
 
-TODO - rewrite this page, heavily reusing https://help.loomio.org/en/user_manual/privacy/
+*TODO - rewrite this page, heavily reusing https://help.loomio.org/en/user_manual/privacy/
 
-Loomio is open source software
+## Loomio is open source software
 
 This means the code is open to view, but your data is not. There are many benefits including that many people have read our code and review changes as they go in. We've got nothing to hide - there are no backdoors in Loomio.
 
-Loomio.org
-Hosted service provider
+Loomio software is licensed under the [GNU Affero General Public License v3.0](https://github.com/loomio/loomio/blob/master/LICENSE.txt)
+
+## Hosted Services
+
+Loomio Limited operate services using Loomio software goverened by our [Terms of Service](../terms/index.md).
+
+### LOOMIO.ORG
+
+[Loomio.org](https://www.loomio.org/) is our most widely used service and available globally.  Loomio.org is hosted on servers based in the USA operated by Heroku.
 
 Heroku is a cloud application platform used by organizations of all sizes to deploy and operate applications throughout the world. Heroku’s platform provides infrastructure management, scaling, security, monitoring and backups.
 
 Heroku applies security best practices and manages platform security, protecting customers from threats. Heroku applies security controls at every layer from physical to application, isolating applications and data, and rapidly deploys security updates without customer interaction or service interruption.
 
-More information can be found at Heroku’s security policy.
+More information can be found at [Heroku’s security policy](https://www.heroku.com/policy/security).
 
-Heroku utilises ISO 27001 and FISMA certified data centres managed by Amazon. Information about security at Amazon data centres is available here.
-Backup data and Recovery
+Heroku utilises ISO 27001 and FISMA certified data centres managed by Amazon. You can read about security at Amazon data centres at [AWS Cloud Security](https://aws.amazon.com/security/).
 
-Loomio software and data recovery are managed by Heroku. The software and data is automatically backed up as part of the deployment process on secure, access controlled, and redundant storage. Heroku use these backups to deploy the Loomio software and data across the platform and automatically bring the application back online in the event of an outage.
+**Backup data and Recovery**
 
-More information can be found at Heroku’s security policy.
+Loomio.org backup and data recovery is managed by Heroku. The software and data is automatically backed up as part of the deployment process on secure, access controlled, and redundant storage. Heroku use these backups to deploy Loomio software and data across the platform and automatically bring the application back online in the event of an outage.
+
+More information can be found at [Heroku’s security policy](https://www.heroku.com/policy/security).
+
+### Regional Services 
+
+**LOOMIO.NZ**
+
+Loomio.nz is a service running on Amazon Web Services (AWS) datacenters in Sydney, Australia. 
+
+This service is available only on request and approved for use for New Zealand Government data processing. 
+
+The service holds a Tier 3 security status. For more information read New Zealand Government cloud services [Security Risk and Assurance](https://marketplace.govt.nz/suppliers/apply-to-be-a-supplier-2/cloud-services-security-risk-and-assurance/).  
+
+**LOOMIO.EU**
+
+*Todo; maybe "A Loomio cloud service operating on servers located within the European Union is under construction. Contact us to request further information."
+
+**DECISIONS.ORIC.GOV.AU
+
+decisions.oric.gov.au is a cloud service running on Amazon Web Services (AWS) datacenters in Sydney, Australia. 
+
+This service is available only on request for Aboriginal and Torre Strait Indigenous Corporations as part of the ORIC Loomio pilot program.  For more information read about the [Pilot program for online decision-making](https://www.oric.gov.au/pilot-program-online-decision-making).
+
+
+### Private host and Self-host Services
+
+Loomio operates private hosted services for organizations around the world.  A private database (non-shared) that is set up on a server and location of customer choice, configured to customer brand, logo and color palette, under customer domain name. 
+
+Loomio offers direct support for customers self-hosting Loomio.  Contact us for more information.
+
+Private and Self-host services ensure the highest level of security, configuration and flexibility for your organization.
 
 ## Your data are sent using HTTPS.
 
@@ -48,4 +88,4 @@ Any files which you upload to us are stored and are encrypted at rest. Our appli
 
 ## Over 9 years in business.
 
-We’ve been around the block and we’ve seen a lot of companies come and go. Security isn’t just about technology, it’s about trust. Since 1999, we’ve worked hard to earn the trust of over hundreds of thousands of companies world wide. We’ll continue to work hard every day to maintain that trust. Longevity and stability is core to our mission at Loomio.
+We’ve been operating loomio.org since 2013. Security isn’t just about technology, it’s about trust. We’ve worked hard to earn the trust of hundreds of thousands of people world wide in tens of thousands Loomio groups. We’ll continue to work hard every day to maintain that trust. Longevity and stability is core to our mission at Loomio.
