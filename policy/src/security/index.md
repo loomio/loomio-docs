@@ -21,8 +21,6 @@ Access to data is tightly controlled and protected internally within Loomio.
 
 All data are written to multiple disks instantly, backed up daily, and stored in multiple locations. Files that our customers upload are stored on servers that use modern techniques to remove bottlenecks and points of failure.
 
-*TODO - rewrite this page, heavily reusing https://help.loomio.org/en/user_manual/privacy/
-
 ## Loomio is open source software
 
 This means the code is open to view, but your data is not. There are many benefits including that many people have read our code and review changes as they go in. We've got nothing to hide - there are no backdoors in Loomio.
@@ -35,7 +33,7 @@ Loomio Limited operate services using Loomio software goverened by our [Terms of
 
 ### LOOMIO.ORG
 
-[Loomio.org](https://www.loomio.org/) is our most widely used service and available globally.  Loomio.org is hosted on servers based in the USA operated by Heroku.
+[loomio.org](https://www.loomio.org/) is our most widely used service and available globally.  Loomio.org is hosted on servers based in the USA operated by Heroku.
 
 Heroku is a cloud application platform used by organizations of all sizes to deploy and operate applications throughout the world. Heroku’s platform provides infrastructure management, scaling, security, monitoring and backups.
 
@@ -55,7 +53,7 @@ More information can be found at [Heroku’s security policy](https://www.heroku
 
 **LOOMIO.NZ**
 
-Loomio.nz is a service running on Amazon Web Services (AWS) datacenters in Sydney, Australia. 
+loomio.nz is a service running on Amazon Web Services (AWS) datacenters in Sydney, Australia. 
 
 This service is available only on request and approved for use for New Zealand Government data processing. 
 
@@ -63,13 +61,15 @@ The service holds a Tier 3 security status. For more information read New Zealan
 
 **LOOMIO.EU**
 
-*Todo; maybe "A Loomio cloud service operating on servers located within the European Union is under construction. Contact us to request further information."
+*Todo; maybe "A Loomio cloud service operating on servers located within the European Union is under construction. Contact us to request further information."*
 
-**DECISIONS.ORIC.GOV.AU
+**DECISIONS.ORIC.GOV.AU**
 
 decisions.oric.gov.au is a cloud service running on Amazon Web Services (AWS) datacenters in Sydney, Australia. 
 
-This service is available only on request for Aboriginal and Torre Strait Indigenous Corporations as part of the ORIC Loomio pilot program.  For more information read about the [Pilot program for online decision-making](https://www.oric.gov.au/pilot-program-online-decision-making).
+This service is available only on request for Aboriginal and Torre Strait Indigenous Corporations as part of the ORIC Loomio pilot program.  
+
+For more information read about the [Pilot program for online decision-making](https://www.oric.gov.au/pilot-program-online-decision-making).
 
 
 ### Private host and Self-host Services
