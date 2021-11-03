@@ -17,13 +17,13 @@ Loomio Limited is a for-profit social enterprise owned by worker-owned Loomio Co
 
 Access to data is tightly controlled and protected internally within Loomio. 
 
-## We protect your data.
+## We protect your data
 
 All data are written to multiple disks instantly, backed up daily, and stored in multiple locations. Files that our customers upload are stored on servers that use modern techniques to remove bottlenecks and points of failure.
 
 ## Loomio is open source software
 
-This means the code is open to view, but your data is not. There are many benefits including that many people have read our code and review changes as they go in. We've got nothing to hide - there are no backdoors in Loomio.
+This means the code is open to view, but your data is not. There are many benefits including that many people have read our code and review changes as they go in. We've got nothing to hide - there are no backdoors in Loomio. We do not hold your data to ransom, you can export your data at any time and run your own Loomio server.
 
 Loomio software is licensed under the [GNU Affero General Public License v3.0](https://github.com/loomio/loomio/blob/master/LICENSE.txt)
 
