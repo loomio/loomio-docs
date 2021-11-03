@@ -1,6 +1,6 @@
 # Privacy Regulations Reference
 
-*Last updated: October 21, 2021*
+*Last updated: November 3, 2021*
 
 The data privacy regulatory landscape is undergoing a lot of change. You probably have heard about the EU General Data Protection Regulation (GDPR) that went into effect on May 25, 2018. There are also other regulations in effect or in the works around the world. We’ve written up this reference document to put helpful information regarding our products and privacy regulations in one place. Please also view our full [Privacy policy](../index.md).
 
@@ -30,7 +30,7 @@ We do work with sub-processors. You can see a list of current sub-processors at 
 
 ### Data processing addendum
 
-We have incorporated a Data Processing Addendum (DPA) to our [Terms of Service](../../terms/index.md). You can find the DPA linked within clause 7 of the Uptime, Security and Privacy section. This addendum is in effect when the General Data Protection Regulation applies to your use of Loomio services to process Customer Data as defined in the DPA. The DPA includes the European Commission’s Standard Contractual Clauses (both controller-processor and controller-controller) to extend GDPR privacy principles, rights, and obligations everywhere personal data is processed. If you would like to have a signed copy of the DPA for your records, you may send an email to [contact@loomio.org](mailto:contact@loomio.org) to request a signed copy. We provide the same privacy rights and protection to all customers, regardless of whether they choose to execute a DPA. 
+We have incorporated a Data Processing Addendum (DPA) to our [Terms of Service](../../terms/index.md). You can find the DPA linked within the Uptime, Security and Privacy section. This addendum is in effect when the General Data Protection Regulation applies to your use of Loomio services to process Customer Data as defined in the DPA. The DPA includes the European Commission’s Standard Contractual Clauses (both controller-processor and controller-controller) to extend GDPR privacy principles, rights, and obligations everywhere personal data is processed. If you prefer to have an executed copy of the Data Processing Addendum, [contact us](https://www.loomio.org/contact) to request a signed DPA with your organization name, and name and email address of the person with authority to sign on behalf of your organization. We provide the same privacy rights and protection to all customers, regardless of whether they choose to execute a DPA. 
 
 ## California Consumer Privacy Act (CCPA)
 
