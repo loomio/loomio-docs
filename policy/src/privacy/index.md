@@ -80,7 +80,7 @@ As a discussion and decision-making platform, Loomio stores and processes user g
 
 We also store and process your “user profile”; including your name, email address, profile photo. This information can make a user personally identifiable, although you can use a pseudonym and anonymous email address to prevent this.
 
-As a member of a Loomio group, your user profile and the content you create or upload to Loomio will be shared with the members of that group. However, your email address will only be available to administrators of the group.
+As a member of a Loomio group, your user profile and the content you create or upload to Loomio will be shared with the members of that group. Your email address will only be available to administrators of the group.
 
 Content including your user profile will be public on the internet if you participate in a public discussion or join a public group.
 
