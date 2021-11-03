@@ -2,7 +2,9 @@
 
 *Last updated: 2021-10-08*
 
-The privacy of your data — and it is your data, not ours — is a big deal to us. In this policy, we lay out what data we collect and why, how your data is handled, and your rights to your data. We promise we never sell your data or use it for advertising purposes.
+The privacy of your data — and it is your data, not ours — is a big deal to us. In this policy, we lay out what data we collect and why, how your data is handled, and your rights to your data. 
+
+We promise we never sell your data or use it for advertising purposes.
 
 This policy applies to all services built and maintained by Loomio Limited.
 
@@ -74,7 +76,7 @@ Finally, if Loomio Limited is acquired by or merged with another company — we 
 
 ## User Content and Personally Identifiable Information
 
-As a discussion and decision-making platform, Loomio stores and processes "user generated content"; including discussions, comments, proposals, files and images.
+As a discussion and decision-making platform, Loomio stores and processes user generated Content; including discussions, comments, proposals, files and images.
 
 We also store and process your “user profile”; including your name, email address, profile photo. This information can make a user personally identifiable, although you can use a pseudonym and anonymous email address to prevent this.
 
@@ -82,7 +84,7 @@ As a member of a Loomio group, your user profile and the content you create or u
 
 Content including your user profile will be public on the internet if you participate in a public discussion or join a public group.
 
-You may view or correct your personal information at any time via the ‘edit profile’ page within Loomio.
+You may view or correct your personal information at any time via the "edit profile" page within Loomio.
 
 You may *deactivate* your user account. Personally identifying information such as your name, username and profile photo will no longer be associated with content you have posted and Loomio will not contact you again. You can reactivate your account at a later date if you wish.
 
@@ -131,9 +133,9 @@ Our products and other web properties are operated in the United States, Europea
 
 ## When transferring personal data from the EU
 
-The GDPR requires that any data transferred out of the EU must be treated with the same level of protection that the EU privacy laws grant. Loomio has offered a data processing addendum and voluntarily participated in the EU-US Privacy Shield Framework as well as the Swiss-US Privacy Shield Framework.
+The GDPR requires that any data transferred out of the EU must be treated with the same level of protection that the EU privacy laws grant. Loomio has offered a data processing addendum.
 
-We have incorporated a Data Processing Addendum to our [Terms of Service](../terms/index.md) that is in effect when the GDPR applies to your use of Loomio Services to process Customer Data as defined in the DPA. The DPA includes the European Commission’s Standard Contractual Clauses (both controller-processor and controller-controller) to extend GDPR privacy principles, rights, and obligations everywhere personal data is processed. The DPA is extensive so to aid our customers, we have provided both a summary of what they mean and how Loomio Limited upholds our responsibilities in our [Privacy Regulation Reference](regulations/index.md). If you prefer to have an executed copy of the Data Processing Addendum, you may [sign a copy online](https://app.hellosign.com/s/c0908a3d). Regardless of whether you execute or not, we protect and secure your data to the high standards set out in the addendum.
+We have incorporated a Data Processing Addendum to our [Terms of Service](../terms/index.md) that is in effect when the GDPR applies to your use of Loomio Services to process Customer Data as defined in the DPA. The DPA includes the European Commission’s Standard Contractual Clauses (both controller-processor and controller-controller) to extend GDPR privacy principles, rights, and obligations everywhere personal data is processed. The DPA is extensive so to aid our customers, we have provided both a summary of what they mean and how Loomio Limited upholds our responsibilities in our [Privacy Regulation Reference](regulations/index.md). If you prefer to have an executed copy of the Data Processing Addendum, [contact us](https://www.loomio.org/contact) to request a signed DPA with your organization name, and name and email address of the person with authority to sign on behalf of your organization. Regardless of whether you execute or not, we protect and secure your data to the high standards set out in the addendum.
 
 There are also a few ad-hoc cases where EU personal data may be transferred to the US related to Loomio Limited operations. Such transfers are only occasional and transferred under the [Article 49(1)(b) derogation](https://gdpr-info.eu/art-49-gdpr/) under GDPR.
 
