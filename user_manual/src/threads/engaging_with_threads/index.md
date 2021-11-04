@@ -55,6 +55,8 @@ Click the video icon from the formatting tools listed underneath any form (comme
 
 ![](embed_video.png)
 
+![](https://www.loom.com/share/5f60cc82754d4254acae41e9268aae96)
+
 ### Markdown
 
 To revert to markdown editing, click **M↓**. _If you click this while there is text in the form, some formatting may be lost upon conversion._
