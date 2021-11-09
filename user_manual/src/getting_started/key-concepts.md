@@ -4,8 +4,7 @@ Loomio is a collaborative working space for your organization, focused to help y
 
 ## What is Loomio?
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/0Mb2_D74ktM?rel=0" frameborder="0" allowfullscreen></iframe>
-
+![](<iframe width="608" height="380" src="https://www.youtube.com/embed/Zlzuqsunpxc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
 
 ## Here are some of the key concepts to learn about Loomio.
 
