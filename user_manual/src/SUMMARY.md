@@ -5,9 +5,9 @@
 # Getting started
 - [Key concepts](getting_started/key-concepts.md)
 - [Signing in](getting_started/sign-in.md)
-- [Tour of the app](getting_started/orientation.md)
 - [Write a comment](getting_started/write-a-comment.md)
 - [Vote](getting_started/vote.md)
+- [Tour of the app](getting_started/orientation.md)
 
 # Groups
 - [Starting a group](groups/starting_a_group/index.md)
