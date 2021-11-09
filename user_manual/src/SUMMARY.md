@@ -25,8 +25,8 @@
 - [Thread admin](threads/thread_admin/index.md)
 
 # Decisions
-- [Poll types](polls/proposal_types/index.md)
 - [Starting proposals](polls/starting_proposals/index.md)
+- [Poll types](polls/proposal_types/index.md)
 - [Outcomes](polls/outcomes/index.md)
 
 # Your Profile
