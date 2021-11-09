@@ -2,39 +2,44 @@
 _How to upgrade, manage or cancel your Loomio subscription._
 
 ## Introduction
-Loomio uses the Chargify billing and subscription management service to manage subscription records, initiate payments, process upgrades and cancellations.
+Loomio uses Chargify billing and subscription management service to manage subscription records, initiate payments, process upgrades and cancellations.
 
 Prices are based on debit/credit card payment via an automated billing portal.
 
 ## Upgrading your group
 To continue to use Loomio beyond your free trial, you can upgrade your group to a paid subscription plan.
 
-You may upgrade your group at any time by clicking the __Buy now__ button.
+You may upgrade your group at any time by clicking the __VIEW PLANS__ button.
 
-![The Buy now button](buy-now.png)
+![The View plans button](view-plans.png)
 
-You'll then be able to choose the right plan for your group's needs and setup a subscription with your credit card.
+Choose the right plan for your organization's needs and click the __BUY NOW__ button.
 
-Complete the required fields to set up your subscription, including:
+In the billing portal complete the required fields to set up your subscription with your credit or debit card, including:
 - Customer Information (name and email address)
 - Billing Information (credit or debit card details)
 - Billing Address (to insure sales taxes are applied correctly)
-- Confirm details and click the ‘Place my order’ button.
+- Confirm details and click the __Place My Order__ button.
 
-The subscription is activated immediately and your group automatically upgraded. You will receive a tax invoice/statement confirming successful payment.
+The subscription is activated immediately and the group automatically upgraded. A tax invoice/statement confirming successful payment will be sent to your email address.
 
 ## Automatic payment and statement generation
-Your credit or debit card details are held securely by our subscription management service provider Chargify, PCI DSS Level 1 Compliant, for future recurring payments.
+Your credit or debit card details are held securely by Chargify, our subscription management service provider, for future recurring payments.  Chargify is PCI DSS Level 1 Compliant.
+
 Monthly or annual payments via Chargify are automatic, and an invoice/statement is issued on successful payment.
-You can access statements, and update card and contact details at any time using the secure Account Management link to the billing portal. Look for the ‘Account Management’ link at the bottom of your statement.
+
+You can access statements, and update card and contact details at any time by visiting **Manage payment details** in your group Settings, or using the secure **Account Management** link at the bottom of your statement.
 
 ## Billing problems
 Chargify may be unable to process a payment to your card when due.
+
 If a payment is unsuccessful, an email notification will be sent to the email address we have on file, along with a link to the billing portal where you can update card details. The billing system will continue to retry the payment once a week, and if payment is not successful after four (4) attempts, the subscription plan will be cancelled (day 28).
+
 Card payment problems are often caused by:
 - Insufficient funds
 - Expired card
 - Bank restrictions on new cards or changes to existing cards. Please make sure your credit or debit card is authorized for “international payments” and “internet transactions” (“Prch” and “Auth”).
+
 The billing system will issue an alert via email when your credit card is nearing expiry.
 
 ## Alternate payment options
@@ -57,31 +62,56 @@ Invoices raised in currencies other than in USD are converted at the daily Teleg
 
 You will see a list of all the groups you belong to.
 
-Find the group you wish to change and click the 'Change' link.
+Find the group you wish to change and click the **Change plan** link.
 
-This link takes you to the Loomio billing portal operated by Chargify where you can change your subscription plan. You may need to enter your email address to receive a secure link to the portal.
+Choose your new plan and click on the **PREVIEW CHANGE** button.
 
-Click on the 'Change Plan' link and select your new plan.
+Any remaining credit on your previous plan will be carried to your new plan.
 
-Check the details of plan, price and payment frequency in the Plan Summary table are correct.
+Check the details of plan, price and payment frequency in the Plan Summary table are correct. 
+
+## Manage billing and payment details
+You can access statements, and update card and billing details at any time.
+
+Go to your Loomio group page and click on the __SETTINGS__ tab.  
+
+In the **Subscription status** panel, click on **Manage payment details** alongside Billing portal. 
+
+You may need to enter your email address to receive a secure link to the portal. 
+
+You can also access the billing portal with the **Account Management** link at the bottom of your statement.
 
 ## Cancel your plan
-If you would like to cancel your Loomio subscription, you can do this via your billing portal. A link to this portal is included at the bottom of your Loomio invoice/statements called ‘Account management’.
+Before cancelling your plan, we recommend that you export your group data. 
 
-Follow that link to the billing portal, then:
+You can cancel your plan via the billing portal.
 
-1. Find ‘Plan Details’, click on ‘Cancel’ (on the right).
+Go to your Loomio group page and click on the __SETTINGS__ tab.  
+
+In the **Subscription status** panel, click on **Manage payment details** alongside Billing portal. 
+
+You may need to enter your email address to receive a secure link to the portal. 
+
+You can also access the billing portal with the **Account Management** link at the bottom of your statement.
+
+In the billing portal:
+
+1. Find **Plan Details**, click **Cancel** (on the right).
 2. Tell us why you are canceling the plan.
-3. Choose 'Cancel Now' or 'Cancel At End of Period'.
+3. Choose **Cancel Now** or **Cancel At End of Period**.
 
-If you’re having issues finding your billing portal link, please contact us.
+If you’re having trouble finding your billing portal link or need help to cancel, or manage any details of your plan, please [contact us](https://www.loomio.org/contact).
 
 ### What happens when a subscription is cancelled?
+Initially when you cancel, your group data will remain available, however you will no longer be able to start new threads or invite members to the group. 
 
-Your group data and membership remain and you can continue to comment on existing threads and vote on existing decisions, however you will no longer be able to start new threads or invite new members to the group.  
+If you have not already done so, we recommend that you export your group data. 
 
-You can reinstate the subscription at any time. If you no longer require the group, you may deactivate it.
+After 30 days from cancellation, your group and all content will be deleted from our active systems and you will no longer be able to access the data. 
 
 ## Refunds
 When it comes to refunds, we treat our customers how we ourselves would like to be treated, and assess requests fairly.
+
+[Contact us](https://www.loomio.org/contact) if you would like a refund. 
+
 To process a refund, we must receive a request within 30 days of the date payment was made.
