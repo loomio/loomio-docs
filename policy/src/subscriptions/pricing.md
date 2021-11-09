@@ -20,7 +20,7 @@ Loomio is open source software, and you are free to set up your own instance of 
 # Loomio subscription plans
 Simple, easy to understand pricing to encourage regular Loomio use and allow your group to grow without restriction.  
 
-A Loomio subscription is one price per group, and there is no limit on the number of subgroups you can have.
+A Loomio subscription is one price per group, and there is no limit on the number of people.
 
 This means you can invite everyone in your organization into your group!
 
@@ -29,7 +29,7 @@ Loomio subscriptions are on a pre-pay basis and cover the use of the service for
 ## Free trial
 All new groups start on a free trial, so you can evaluate Loomio with your group.
 
-Free trials are for 30 days, limited to 20 people and 20 threads.
+Free trials are for 7 days, limited to 10 people and 10 threads.
 
 [Contact us](https://www.loomio.org/contact) if you need to extend your trial.
 
@@ -43,7 +43,7 @@ Price: $US 25.00 per month or $US 199.00 per year.
 Starter plan includes:
 - Loomio standard features
 - Unlimited members
-- Unlimited threads and decisions
+- Unlimited discussions and decisions
 - Unlimited subgroups
 - Integrate Slack and Microsoft Teams
 
@@ -54,8 +54,8 @@ Price: $US 149.00 per month or $US 1,299.00 per year.
 
 Pro plan includes:
 - Everything in Loomio Starter plus
-- Single Sign On (SAML)
-- Online training webinars
+- Dedicated Loomio expert
+- 1 hour implementation call
 - Priority support
 - Premium features (coming soon)
 - 1 x $US 199 Loomio credit for another group of your choice
@@ -71,8 +71,8 @@ Price: $US 75.00 per month or $US 649.00 per year.
 
 Pro Nonprofit plan includes:
 - Everything in Loomio Starter plus
-- Single Sign On (SAML)
-- Online training webinars
+- Dedicated Loomio expert
+- 1 hour implementation call
 - Priority support
 - Premium features (coming soon)
 
@@ -92,7 +92,7 @@ Price: $US 199.00 one-time payment.
 Community Lifetime plan includes:
 - Loomio standard features
 - Unlimited members (Contact us if you need to go over 1,000 members)
-- Unlimited threads and decisions
+- Unlimited discussions and decisions
 - Unlimited subgroups
 
 To access these special rates, apply for our Community Lifetime plan when you upgrade your group.
