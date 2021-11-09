@@ -1,6 +1,8 @@
 # Starting threads
 _Get a discussion or decision going._
 
+<div class="iframe-container"><iframe width="608" height="380" src="https://www.youtube.com/embed/1qxGl8MBA88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 ## New thread
 
 You can start a thread by clicking **New thread** from a group page. When you start the thread, it will be visible to all of that group's members.
