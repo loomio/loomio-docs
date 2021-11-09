@@ -1,7 +1,7 @@
 # Terms of Service
 _All the terms that you agree to when you sign up for a Loomio product._
 
-*Last updated: 2021-11-2*
+*Last updated: 2021-11-09*
 
 From everyone at Loomio, thank you for using our products! We build them to help you do your best work. There are thousands of people using Loomio products every day. Because we don't know every one of our customers personally, we have to put in place some Terms of Service to help keep the ship afloat.
 
