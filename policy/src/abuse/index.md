@@ -2,7 +2,7 @@
 
 *Last updated: 2021-10-27*
 
-Thousands of organizations use Loomio products. We are proud to give them a trusted platform to have discussions and make decisions. We also recognize that however good the maker’s intentions, technology can amplify the ability to cause great harm. That’s why we’ve established this policy. We feel an ethical obligation to counter such harm: both in terms of dealing with instances where Loomio is used (and abused) to further such harm, and to state unequivocally that Loomio is not a safe haven for people who wish to commit such harm. If you have an account with any of our products, you can’t use them for any of the restricted purposes listed below. If we find out you are, [we will take action](how-we-handle/index.md).
+Thousands of organizations use Loomio products. We are proud to give them a trusted platform to have discussions and make decisions. We also recognize that however good the maker’s intentions, technology can amplify the ability to cause great harm. That’s why we’ve established this policy. We feel an ethical obligation to counter such harm: both in terms of dealing with instances where Loomio is used (and abused) to further such harm, and to state unequivocally that Loomio is not a safe haven for people who wish to commit such harm. If you have an account with any of our products, you can’t use them for any of the restricted purposes listed below. If we find out you are, [we will take action](/en/policy/abuse/how-we-handle/index.md).
 
 ## Restricted purposes
 
@@ -23,6 +23,6 @@ For cases of suspected malware, spyware, phishing, spamming, and cybersquatting,
 
 For all other cases, please let us know by emailing [contact@loomio.org](mailto:contact@loomio.org). If you’re not 100% sure if something rises to the level of our use restrictions policy, report it anyway.
 
-Please share as much as you are comfortable with about the account, the content or behavior you are reporting, and how you found it. Sending us a URL or screenshots is super helpful. If you need a secure file transfer, let us know and we will send you a link. We will not disclose your identity to anyone associated with the reported account. 
+Please share as much as you are comfortable with about the account, the content or behavior you are reporting, and how you found it. Sending us a URL or screenshots is super helpful. If you need a secure file transfer, let us know and we will send you a link. We will not disclose your identity to anyone associated with the reported account.
 
 Someone on our team will respond to let you know we’ve begun investigating. We will also let you know the outcome of our investigation (unless you ask us not to, or we are not allowed to under law).
