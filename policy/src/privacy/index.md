@@ -120,9 +120,9 @@ In Loomio most data are not encrypted while they live in our database (since it 
 
 ## What happens when you delete data in your product accounts
 
-We've designed our deletion policy and the features within Loomio based on our experience of supporting a variety of organizations with differeing levels of technical ability and trust.
+We've designed our deletion policy and the features within Loomio based on our experience of supporting a variety of organizations with differing levels of technical competency and trust.
 
-Our design strives to provide:
+Our design has the following goals:
 - __Flexibility__. If you write something then want to change or remove it, you can.
 - __Accountability__. If you write something then change it, there is a record of the changes.
 - __Recovery__ from mistakes and malicious actions. As an admin you can restore accidentally discarded records, and prevent group members from deleting records they should not delete.
@@ -134,6 +134,8 @@ When it comes to discussions, comments, polls, votes, files and other records th
 - __Restore__ can be used to reverse the discard action before the 90 day period has ended, bringing a record back to it's normal state.
 - __Delete__ will immediately and irreversibly delete a record. When a record is deleted, it cannot be restored.
 
+
+## Deleting your user account
 
 If you choose to delete your Loomio user account, we will remove your user profile including your user ID, name, email address, profile photo and other known personally identifying information. However, communication history (such as comments and votes) will be kept to preserve the integrity of discussions and decisions within your groups.
 
