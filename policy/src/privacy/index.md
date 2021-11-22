@@ -2,7 +2,7 @@
 
 *Last updated: 2021-10-08*
 
-The privacy of your data — and it is your data, not ours — is a big deal to us. In this policy, we lay out what data we collect and why, how your data is handled, and your rights to your data. 
+The privacy of your data — and it is your data, not ours — is a big deal to us. In this policy, we lay out what data we collect and why, how your data is handled, and your rights to your data.
 
 We promise we never sell your data or use it for advertising purposes.
 
@@ -86,7 +86,7 @@ Content including your user profile will be public on the internet if you partic
 
 You may view or correct your personal information at any time via the "edit profile" page within Loomio.
 
-You may *delete* your user account. This will permanently delete your profile information including: 
+You may *delete* your user account. This will permanently delete your profile information including:
 * Your user account including your name, email address, user id and other personally identifying data will be deleted from our systems.
 * Comments, proposals and discussions you’ve made will remain but your name will be removed from them.
 * You will no longer be listed as a member of any groups.
@@ -120,7 +120,20 @@ In Loomio most data are not encrypted while they live in our database (since it 
 
 ## What happens when you delete data in your product accounts
 
-When you delete something on Loomio (e.g. a group, discussion, poll or comment), it will be removed from view and scheduled for deletion after 30 days. During this 30 day period we're able to restore the item, if that is required - you'll need to contact us within this time period to restore the data.
+We've designed our deletion policy and the features within Loomio based on our experience of supporting a variety of organizations with differeing levels of technical ability and trust.
+
+Our design strives to provide:
+- __Flexibility__. If you write something then want to change or remove it, you can.
+- __Accountability__. If you write something then change it, there is a record of the changes.
+- __Recovery__ from mistakes and malicious actions. As an admin you can restore accidentally discarded records, and prevent group members from deleting records they should not delete.
+- __Safety and confidence__. If you need something permanently deleted, you can do that.
+
+When it comes to discussions, comments, polls, votes, files and other records that are not user accounts, we have 3 functions available:
+
+- __Discard__ will remove the record from view. Discarded records are automatically deleted 90 days after they were discarded.
+- __Restore__ can be used to reverse the discard action before the 90 day period has ended, bringing a record back to it's normal state.
+- __Delete__ will immediately and irreversibly delete a record. When a record is deleted, it cannot be restored.
+
 
 If you choose to delete your Loomio user account, we will remove your user profile including your user ID, name, email address, profile photo and other known personally identifying information. However, communication history (such as comments and votes) will be kept to preserve the integrity of discussions and decisions within your groups.
 
