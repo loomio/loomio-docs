@@ -122,7 +122,7 @@ In Loomio most data are not encrypted while they live in our database (since it 
 
 We've designed our deletion policy and the features within Loomio based on our experience of supporting a variety of organizations with differing levels of technical competency and trust.
 
-Our design has the following goals:
+Our design strives to provide:
 - __Flexibility__. If you write something then want to change or remove it, you can.
 - __Accountability__. If you write something then change it, there is a record of the changes.
 - __Recovery__ from mistakes and malicious actions. As an admin you can restore accidentally discarded records, and prevent group members from deleting records they should not delete.
