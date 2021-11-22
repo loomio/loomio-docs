@@ -254,6 +254,7 @@
 <li><strong>Restore</strong> can be used to reverse the discard action before the 90 day period has ended, bringing a record back to it's normal state.</li>
 <li><strong>Delete</strong> will immediately and irreversibly delete a record. When a record is deleted, it cannot be restored.</li>
 </ul>
+<p>Our application database has 4 day point-in-time recovery, meaning that 4 days after you delete a record, we have no way to recover it. We do not offer a record recovery from database rollback, if you <strong>discard</strong>, then <strong>delete</strong> a record in Loomio, it's gone.</p>
 <h2 id="deleting-your-user-account"><a class="header" href="#deleting-your-user-account">Deleting your user account</a></h2>
 <p>If you choose to delete your Loomio user account, we will remove your user profile including your user ID, name, email address, profile photo and other known personally identifying information. However, communication history (such as comments and votes) will be kept to preserve the integrity of discussions and decisions within your groups.</p>
 <p>If you wish to have comments or other data deleted from a group that you are not an administrator of, you should contact the group administrator and request deletion of that data.</p>
