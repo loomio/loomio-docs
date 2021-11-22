@@ -128,13 +128,15 @@ Our design strives to provide:
 - __Recovery__ from mistakes and malicious actions. As an admin you can restore accidentally discarded records, and prevent group members from deleting records they should not delete.
 - __Safety and confidence__. If you need something permanently deleted, you can do that.
 
-When it comes to discussions, comments, polls, votes, files and other records that are not user accounts, we have 3 functions available:
+When it comes to discussions, comments, polls, votes, files and other records that are not user accounts, we have three functions available:
 
 - __Discard__ will remove the record from view. Discarded records are automatically deleted 90 days after they were discarded.
-- __Restore__ can be used to reverse the discard action before the 90 day period has ended, bringing a record back to it's normal state.
+- __Restore__ can be used to reverse the discard action before the 90 day period has ended, bringing a record back to its normal state.
 - __Delete__ will immediately and irreversibly delete a record. When a record is deleted, it cannot be restored.
 
-Our application database has 4 day point-in-time recovery, meaning that 4 days after you delete a record, we have no way to recover it. However, to be clear, we do not offer record recovery from this database rollback. If you __discard__, then __delete__ a record in Loomio, we will not access this facility to restore your record.
+Our application database has 4 day point-in-time recovery, meaning that 4 days after you delete a record it has been completely removed from our systems and backups.
+
+If you accidentally delete a record, we do not offer recovery from these backups.
 
 ## Deleting your user account
 
