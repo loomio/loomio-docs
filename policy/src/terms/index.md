@@ -1,7 +1,7 @@
 # Terms of Service
 _All the terms that you agree to when you sign up for a Loomio product._
 
-*Last updated: 2021-11-09*
+*Last updated: 2021-11-22*
 
 From everyone at Loomio, thank you for using our products! We build them to help you do your best work. There are thousands of people using Loomio products every day. Because we don't know every one of our customers personally, we have to put in place some Terms of Service to help keep the ship afloat.
 
@@ -67,7 +67,7 @@ We want satisfied customers, not hostages. That’s why we make it easy for you 
 5. We use third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run the Services. You can see a list of all subprocessors who handle personal data for [Loomio](/en/policy/privacy/loomio-subprocessors/index.md).
 6. You may request data related to your personal account and service. Loomio has the right to refuse repetitive or technically difficult requests. For information about how we collect and share user information please refer to our [Privacy Policy](/en/policy/privacy/index.md).
 7. Under the California Consumer Privacy Act (“CCPA”), Loomio is a “service provider”, not a “business” or “third party”, with respect to your use of the Services. That means we process any data you share with us only for the purpose you signed up for and as described in these Terms of Service, [Privacy policy](/en/policy/privacy/index.md), and [other policies](/en/policy). We do not retain, use, disclose, or sell any of that information for any other commercial purposes unless we have your explicit permission. And on the flip-side, you agree to comply with your requirements under the CCPA and not use Loomio’s Services in a way that violates the regulations.
-8. These Service Terms incorporate the [Loomio Data Processing Addendum (“DPA”)](../privacy/regulations/dpa/Loomio_Data_Processing_Addendum_v202010.pdf), when the General Data Protection regulation (“GDPR”) applies to your use of Loomio Services to process Customer Data as defined in the DPA. The DPA is effective as of August 10, 2021 and replaces and supersedes any previously agreed data processing addendum between you and the Company relating to the GDPR. If you prefer to have an executed copy of the Data Processing Addendum, [contact us](https://www.loomio.org/contact) to request a signed DPA with your organization name, and name and email address of the person with authority to sign on behalf of your organization. Regardless of whether you execute or not, we protect and secure your data to the high standards set out in the addendum.
+8. These Service Terms incorporate the [Loomio Data Processing Addendum (“DPA”)](../privacy/regulations/dpa/Loomio_Data_Processing_Addendum_v202010.pdf), when the General Data Protection regulation (“GDPR”) applies to your use of Loomio Services to process Customer Data as defined in the DPA. The DPA is effective as of November 22, 2021 and replaces and supersedes any previously agreed data processing addendum between you and the Company relating to the GDPR. If you prefer to have an executed copy of the Data Processing Addendum, [contact us](https://www.loomio.org/contact) to request a signed DPA with your organization name, and name and email address of the person with authority to sign on behalf of your organization. Regardless of whether you execute or not, we protect and secure your data to the high standards set out in the addendum.
 
 ## Content
 
