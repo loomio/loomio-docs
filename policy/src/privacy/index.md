@@ -134,6 +134,8 @@ When it comes to discussions, comments, polls, votes, files and other records th
 - __Restore__ can be used to reverse the discard action before the 90 day period has ended, bringing a record back to it's normal state.
 - __Delete__ will immediately and irreversibly delete a record. When a record is deleted, it cannot be restored.
 
+Our application database has 4 day point-in-time recovery, meaning that 4 days after you delete a record, we have no way to recover it. We do not offer a record recovery from database rollback, if you __discard__, then __delete__ a record in Loomio, it's gone.
+
 
 ## Deleting your user account
 
