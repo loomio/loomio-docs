@@ -9,3 +9,6 @@ title = "Loomio User Manual"
 no-section-label = true
 edit-url-template = "https://github.com/loomio/loomio-docs/edit/main/user_manual/{path}"
 site-url = "/en/user_manual/"
+
+[output.html.redirect]
+"privacy" = "/en/policy/privacy"
