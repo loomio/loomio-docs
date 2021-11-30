@@ -90,7 +90,11 @@ Go to your Loomio group page and click on the 3 dots (**...**) menu to the right
 
 ![](manage-subscription.png#width-50)
 
-In the **Subscription status** panel, click on **Manage payment details** alongside Billing portal. 
+Here, you will see your current plan status.
+
+Click on the link to the billing portal in the message:
+
+*Visit the **billing portal** to cancel your plan or change billing details*
 
 You may need to enter your email address to receive a secure link to the portal. 
 
