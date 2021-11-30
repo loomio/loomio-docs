@@ -86,7 +86,9 @@ Before cancelling your plan, we recommend that you export your group data.
 
 You can cancel your plan via the billing portal.
 
-Go to your Loomio group page and click on the __SETTINGS__ tab.  
+Go to your Loomio group page and click on the 3 dots (**...**) menu to the right of the page. 
+
+![](manage-subscription.png#width-50)
 
 In the **Subscription status** panel, click on **Manage payment details** alongside Billing portal. 
 
