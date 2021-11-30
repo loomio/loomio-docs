@@ -88,7 +88,7 @@ You can cancel your plan via the billing portal.
 
 Go to your Loomio group page and click on the 3 dots (**...**) menu to the right of the page. 
 
-![](manage-subscription.png#width-50)
+![](manage-subscription.png)
 
 Here, you will see your current plan status.
 
