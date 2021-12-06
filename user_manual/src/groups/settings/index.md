@@ -1,11 +1,11 @@
 # Group Settings
 _Configuring your Loomio group._
 
-In group settings you can add a group description, upload a photo or image for your group, change group privacy and member permissions, and set thread view default. Only people who are 'admin' can see and edit group settings. 
+In group settings you can change group name, add a group description, upload a photo or image for your group, change group privacy and member permissions, and set thread view default. Only people who are 'admin' can see and edit group settings. 
 
-Go to the **Settings** tab on your group page. Click **Edit Group Settings** and use the form that appears (click save when done). 
+On your group page, find and click on the **Edit group settings** cogwheel icon to open Group settings and use the form that appears (click save when done). 
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/7z60BLLBLFU?rel=0" frameborder="0" allowfullscreen></iframe>
+![](edit-group-name.png#width-90)
 
 ## Group profile
 
@@ -16,6 +16,20 @@ Uploading a photo or image that has some meaning to your group significantly imp
 The ideal pixel resolution for the group image is 2048 x 512. But any image with aspect ratio of 4:1 will fit. 
 
 ![](settings-profile.png#width-90)
+
+You can also upload your logo icon, which will appear alongside your organization or group name in the sidebar menu.
+
+### Change group name
+
+You can edit the name for your organization or group. We recommend short names, particularly if you plan to use subgroups.
+ 
+### Handle
+
+Your group is automatically assigned a 'handle'. This provides a simplified url address for your group that can help you find your group, and that you can share with people to help them find your group.
+
+The simplied url address for your group is loomio.org/your-group-handle.
+
+You can edit the handle.
 
 ### Group description
 
