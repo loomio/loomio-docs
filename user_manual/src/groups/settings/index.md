@@ -27,7 +27,7 @@ You can edit the name for your organization or group. We recommend short names, 
 
 Your group is automatically assigned a 'handle'. This provides a simplified url address for your group that can help you find your group, and that you can share with people to help them find your group.
 
-The simplied url address for your group is loomio.org/your-group-handle.
+The simplied url address for your group is **loomio.org/your-group-handle**.
 
 You can edit the handle.
 
