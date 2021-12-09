@@ -10,6 +10,16 @@ This series of guides and templates is designed to help directors use digital co
 An invitation to the ORIC Loomio Pilot programme and to join a first call via Zoom.
 - [Letter of invitation](letter.md)
 
+## Technology for Governance and Loomio introduction video
+
+Video introduction by Rahul Watson Govindan, CEO Loomio, presenting at the ORIC Governance online forum on 30 November 2021.
+
+Rahul outlines the need and value of technology for good governance and introduces Loomio with a short demonstration.
+
+<div class="iframe-container">
+<iframe width="608" height="380" src="https://youtu.be/8SX17Ici-y4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Guides
 Click on the links below to go to the guide you are interested in.
 - [Loomio key concepts](key-concepts.md)
