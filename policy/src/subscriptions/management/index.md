@@ -73,9 +73,15 @@ Check the details of plan, price and payment frequency in the Plan Summary table
 ## Manage billing and payment details
 You can access statements, and update card and billing details at any time.
 
-Go to your Loomio group page and click on the __SETTINGS__ tab.  
+Go to your Loomio group page and click on the 3 dots (**...**) menu to the right of the page. 
 
-In the **Subscription status** panel, click on **Manage payment details** alongside Billing portal. 
+![](manage-subscription.png)
+
+Here, you will see your current plan status.
+
+Click on the link to the billing portal in the message:
+
+*Visit the **billing portal** to change billing details*
 
 You may need to enter your email address to receive a secure link to the portal. 
 
