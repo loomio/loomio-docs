@@ -49,3 +49,6 @@ Click on these links for template examples in the Demo group:
 
 ---
 *We acknowledge the traditional custodians throughout Australia; recognise their continuing connection to land, waters and culture; and pay our respects to elders past, present and emerging.*
+
+
+Unless specified otherwise, content on this site is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0) 
