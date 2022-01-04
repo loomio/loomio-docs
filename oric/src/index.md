@@ -1,10 +1,10 @@
-# Introduction to guides and templates for the ORIC Loomio pilot programme
+# A guide for Aboriginal and Torres Strait Islander corporations using Loomio for good decision-making
 
-*This is an introduction to the ORIC Loomio Governance guides.  It is intended for participants of the ORIC Loomio Pilot programme, however may be of interest to anyone seeking help to use Loomio for good governance.*
+*This guide is intended for participants of the ORIC–Loomio pilot program, but it may be of interest to anyone seeking help to use Loomio for good governance.*
 
-Loomio offers an opportunity to strengthen governance, to extend collaboration beyond board meetings, to include everyone in open, honest and respectful discussion while documenting everything.
+Loomio offers an opportunity to strengthen governance, to extend collaboration beyond board meetings, and to include everyone in open, honest and respectful discussion—while documenting everything.
 
-This series of guides and templates is designed to help directors use digital communication tools effectively to improve communication and governance.
+This guide—and the templates it contains—is designed to help directors use digital tools effectively to improve communication and governance.
 
 ## Letter of invitation to Pilot
 An invitation to the ORIC Loomio Pilot programme and to join a first call via Zoom.
