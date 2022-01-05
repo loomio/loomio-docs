@@ -20,4 +20,5 @@ This guide—and the templates it contains—will help your board to **communica
 ## Templates and Loomio sandpit
 See the [Board Demo Group](https://decisions.oric.gov.au/loomio-demo-group/) for templates and examples for planning board meetings, drafting minutes, assigning actions, voting on resolutions, and enabling subcommittees to make recommendations or decisions. Think of it as a sandpit. Feel free to play around, respond to a thread or a poll, or create your own. 
 
+---
 Content on this site is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0) 
