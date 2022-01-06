@@ -46,21 +46,21 @@ You only need to be sure that they go into their email inbox (or Loomio account)
 
 ## Managing invitations
 
-To manage invitations, open the filter/ drop down from the Members tab of your Group page and select **invitations**; choose the three dots to the right of the invitation/ person in question.
+To manage invitations, open the filter/ drop down from the Members tab of your Group page and select **Invitations**; click on the three dot menu to the right of the member invitation.
 
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/BH0x494sZlU?rel=0" frameborder="0" allowfullscreen></iframe>
 
-You can also make people coordinators or set their title (eg, "IT Support") within the group before they accept their invitation.
+You can also make people administrators or set their title (eg, "IT Support") within the group before they accept their invitation.
 
 ### Cancelling invitations
-If you entered the wrong email address, or have changed your mind about inviting someone, you can cancel an invitation from the Members tab on your Group page. Select **Cancel Invitation** from the drop down to the right (**⋮**).
+If you entered the wrong email address, or have changed your mind about inviting someone, you can cancel an invitation from the Members tab on your Group page. Select **Cancel Invitation** from the drop down menu to the right of the member invitation (**⋮**).
 
 ![](cancel_invitation.png)
 
 ## Managing memberships
-![](remove_from_group.png)
-
 Managing members is easy. The following management actions are available from the Members tab on your Group page. Just click on the three dots (**⋮**) to the right of the group member you wish to remove, promote or demote from **admin**, or assign a **title**.
+
+![](remove_from_group.png)
 
 ### Admin
 Admin are those people with the _most_ permissions in a group. Admin can add and remove members, grant and remove admin permissions and modify group settings.
