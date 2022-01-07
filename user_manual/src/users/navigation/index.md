@@ -98,23 +98,3 @@ View all the threads that belong to a category by using the other thread filter.
 You can also access this filtered view from within any tagged thread; simply click the tag (the category you're interested in) from the thread's [page](../../threads/navigating_threads/#finding-the-right-thread).
 
 You can always select **All tags** to exit the filtered view you accessed by choosing a tag from the filter menu.
-
-### Search in your group
-
-You can search the threads and polls in your group; read [more above](#search).
-
-## Viewing your groups
-All the groups you belong to are listed in the sidebar on the left-hand side. This allows you to easily navigate to or between them by clicking their name or logo.
-
-Subgroups will not have a logo, but will appear directly under the organization, or parent group, that they belong to. Click their name to see their page just like you would for a group.
-
-## Understanding thread previews
-
-To help you stay on top of everything, the thread preview gives you the most important context for the thread; learn more… [→ Thread administration](/en/user_manual/threads/thread_admin/).
-
-## Navigating threads
-
-There's a number of features that can help you in… [→ Engaging with threads](/en/user_manual/threads/engaging_with_threads)
-
-# Exploring public groups
-You can explore, and request membership to, public Loomio groups by visiting the **Explore groups** page; click on this option in the sidebar to get involved.
