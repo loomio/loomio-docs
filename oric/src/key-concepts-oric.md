@@ -1,4 +1,4 @@
-# Loomio key concepts
+# Loomio key concepts (ORIC)
 
 Loomio is a collaborative working space for your organization, focused to help you make decisions to achieve outcomes.
 
