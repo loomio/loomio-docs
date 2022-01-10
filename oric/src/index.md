@@ -13,7 +13,7 @@ You can use Loomio to strengthen governance: **collaborate** beyond board meetin
 Loomio—and this guide to using it—will help your board to **communicate well**, **make good decisions** and **be accountable**.
 
 ## Within this guide
-- [Loomio key concepts](key-concepts.md)
+- [Loomio key concepts](key-concepts-oric.md)
 - [Guide for directors using Loomio](guide-directors.md)
 - [Guide for connectors managing Loomio for their corporation](guide-connectors.md)
 
