@@ -1,69 +1,66 @@
-# Loomio key concepts (ORIC)
+# What is Loomio and how can it help?
 
-Loomio is a collaborative working space for your organization, focused to help you make decisions to achieve outcomes.
+Loomio is a collaborative working space, shaped for making decisions — to achieve outcomes in line with your purpose.
 
-## What is Loomio?
 <div class="iframe-container">
 <iframe width="608" height="380" src="https://www.youtube.com/embed/Zlzuqsunpxc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-## Here are some of the key concepts to learn about Loomio.
+## Key concepts
 
-![](key-concept.png)
+### Group
 
-## Group
-
-A Loomio group is a safe place for your organization to meet, have discussions and make decisions about work.
+A Loomio group is a safe place for your organisation to meet, discuss and make decisions about work.
 
 ![](Groups.png#width-50)
 
-**Group page**
-Your Group home page is the first place you see when your arrive. It contains a description of your group; it's purpose, an outline of the work you are going to do, and any other information to help you participate.
+**Group home**
 
-Your group will have an image that represents something about your organization.
+Your group home page is the first place you see when you arrive. It contains a title, an image to represent the group, and some text to introduce the group: its purpose, the work you will do, and any other information to help members participate.
 
 **Subgroups**
 
-Subgroups are all about people - they provide a place for a group of people to do their work. 
+Subgroups are a space for a smaller subset of people to focus on a project or committee work.
 
-![](subgroups.png)
+Depending on the settings, the subgroup can be visible to the broader group, or for subgroup members' eyes only.
 
-Any natural grouping of people who need to focus on specific work together are a candidate for a subgroup. For example use subgroups as a collaborative space for your working team, project or event, a governance board, a subcommittee or stakeholders group.
+### Thread
 
-## Thread
-
-Threads are where you discuss topics, share information and make decisions together.  
+Threads are where you share information, discuss, and make decisions.
 
 ![](Threads.png#width-50)
 
-Threads are used for many purposes.  In a board, you will be invited to Threads to prepare for a board meeting, vote on resolutions, approve minutes, discuss a particular topic, ask questions, share reports and discuss any other information important for the board.
+Threads are used for many purposes. In a board, you will use threads to prepare for a board meeting, discuss matters, share reports, ask questions, vote on resolutions, approve minutes, and so on. It's also where your group can develop a consensus or at least a shared understanding of issues important to you.
 
-Threads keep everything about a topic in one place. Over time you’ll create a useful archive of your organization’s discussions and decisions.
+Threads keep everything about a topic in one place. Over time you’ll create a useful archive of your organisation’s discussions and decisions.
 
-## Proposal
+### Proposal
 
-One of the key things about Loomio is it's powerful voting tools. These help you take a discussion through to a clear outcome.
+One of the best things about Loomio is its range of tools for gaining a clear view of where your group stands on any matter. Each tool has a slightly different purpose. The most common one is a proposal. 
 
-A **Proposal** helps your group progress a discussion towards a decision, where you can have your say by voting.
+A **proposal** is for converting a discussion into a clear, practical outcome. Someone suggests a course of action and invites everyone to respond. For example, you might ask group members to either:
+- agree
+- abstain or 
+- disagree. 
+
+Importantly, as well as selecting a response, everyone in the group has a chance to explain what prompted it. You can all see where everyone else stands on the matter, and why. And then, if you want, you can change your response. 
+
+As well as helping your group to convert discussions into outcomes, a proposal creates its own record of how the decision came about.
 
 ![](Proposals.png#width-50)
 
-Simply state what’s being proposed, attach any supporting  documents, set a duration for when responses are required by, and invite people to vote.
+### Other voting tools
 
-Loomio is set to automatically remind people who haven't voted 24 hours before the proposal closes. (This can be turned off.)
+A proposal is good for suggesting a particular path and gauging who wants to take it. But sometimes you might want group members to make a different kind of choice. 
 
-Proposals help you make clear decisions. They provide a valuable record of the decision, including the discussion that led to the decision.
+Loomio offers a range of other poll tools:
 
-## Other voting tools
+- **Poll**: to ask people which option/s they approve
+- **Check**: think of it as asking everyone to (please) 'raise your hand if you…'
+- **Time poll**: to find the best time for the group to do something
+- **Score poll**: to ask people to express the strength of their preference for each option, on a numerical scale
+- **Dot vote**: to ask people to express the strength of their preferences, with a constraint—a fixed number of ‘dots’ to allocate–you can put all your dots in one place or spread them out
+- **Ranked choice**: to rank a subset of options—useful for elections when there are many candidates and few seats
 
-There is a range of Poll tools available in Loomio to help you progress a discussion towards an outcome; to ask people to approve something, find a suitable time to meet, or inquire about their preference for options.
-
-
-- **Proposal**: Find agreement on a proposal
-- **Poll**: Choose from a list of options to find people's preferences
-- **Check**: Make an offer or ask people to take an action. Think of it as the online equivalent of asking a room of people “Please raise your hand if you…”.
-- **Time poll**: Time polls make it easy to identify the best time to meet. Enter a selection of times and share the poll with the people involved. Participants tick the times they can attend and the result is a table showing who is available when, so you’re able to pick the best time for your group
-- **Dot vote**: Prioritise options together by allocating a ‘budget’ of points. This style of poll is useful for groups trying to allocate a limited resource to a number of options (e.g. agenda items, or budget line-items).
-- **Score poll**: A score poll lets your group express the degree of preference for different options on a scale. People get to express their desire, preference or interest in each option. The poll produces more granular results than a simple majority vote.
-- **Ranked Choice**: Offers a series of options for people to vote in their preferred order. You can choose the number of votes people can give and rank. Ranked-choice is particularly useful when you have a large number of options or an election to run.
+The best way to learn what to use when is to have a go. Use your own Loomio group or [create a demo group](https://decisions.oric.gov.au/try). 
 
