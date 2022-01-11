@@ -2,7 +2,7 @@
 - [Introduction](index.md)
 - [Key concepts](key-concepts-oric.md)
 - [Onboarding](onboarding.md)
-- [Guide for Director users](guide-directors.md)
+- [Guide for Director using Loomio](guide-directors.md)
 - [Guide for Connectors](guide-connectors.md)
 - [Introducing a new online tool to your organisation](intro-online.md)
 - [Approving financial reports](approving-financials.md)
