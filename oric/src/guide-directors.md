@@ -69,7 +69,7 @@ Loomio discussion 'threads' are where you will discuss corporation concerns and 
 
 Generally you will have a thread for each large topic or matter. Your group page which list each thread, like this:
 
-![](thread-robotics-roadshow.png#width-80)
+![](thread-list.png#width-80)
 
 You will be invited to write a comment in a discussion thread.
 
