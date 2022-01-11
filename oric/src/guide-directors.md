@@ -37,7 +37,7 @@ We'll also share some:
 
 You will receive an email invitation to join your board's Loomio group. Joining is easy. You don’t need a password, and your computer will remember you (if you let it).
 
-**Respond to the email envitation**
+**Respond to the email invitation**
 
 Your invitation to join a Loomio group will arrive in your email inbox. In the middle of the email is a button to **Accept invitation**. Use it! It will open a webpage where you can create an account on the service at decisions.oric.gov.au.
 
