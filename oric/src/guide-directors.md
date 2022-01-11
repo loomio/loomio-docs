@@ -57,7 +57,9 @@ If you upload a picture of yourself, it will display next to all the comments yo
 
 If you do want to add a photo to your profile, select **Upload new photo**. Browse to a suitable photo file from your computer. (When it displays, it will be small, so a photo of your face is best.)
 
-![](upload-photo.png#width-80). Once you select the photo you want, use the button marked **Open** to upload it.
+![](upload-photo.png#width-80)
+
+Once you select the photo you want, use the button marked **Open** to upload it.
 
 ---
 
