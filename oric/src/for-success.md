@@ -1,111 +1,70 @@
-# Introducing a new online tool to your organisation
+# Setting up for success in Loomio
 
-*This guide is to help you consider how to introduce Loomio to your organisation and make best use of the tools available.*
+*This page will help your board make best use of Loomio's platform and tools.*
 
-Introducing people to a new technology doesn't just happen - it requires some intentional work on the part of everyone to build new patterns of work and behaviour, while respecting the different challenges everyone has in fulfilling their role.
+To successfully shift your board's processes into a new technology platform will take conscious effort. You need to build new patterns of work — as a whole board and as individual directors. 
 
-There are real benefits of using a digital tool such as Loomio to enhance your collaborative work together.
+Using Loomio can save you time and improve your decisions and your accountability. But to reap those rewards, the first step is to agree on how to make best use of the platform and the tools. 'Best use' is not universal; it depends on the circumstances of your corporation and your directors. 
 
-**Let's explore some key questions below**
+**Key questions to consider:**
 
-* [Why do we need an online place for discussion and decisions?](#why-do-we-need-an-online-place-for-discussion-and-decisions)
-* [How secure is the information?](#how-secure-is-the-information)
-* [How will you structure Loomio to suit your organisation?](#how-will-you-structure-loomio-to-suit-your-organisation)
-* [How do our current work processes adapt to our online practices?](#how-do-our-current-work-processes-adapt-to-our-online-practices)
-* [How quickly do you expect each other to respond?](#how-quickly-do-you-expect-each-other-to-respond)
-* [What protocols do you want to establish in relation to notifying individual people?](#what-protocols-do-you-want-to-establish-in-relation-to-notifying-individual-people)
-* [When is it best to continue a thread and when to start a new one?](#when-is-it-best-to-continue-a-thread-and-when-to-start-a-new-one)
-* [How do you know what kind of poll to use?](#how-do-you-know-what-kind-of-poll-to-use)
-* [When should you use a proposal instead of a poll?](#when-should-you-use-a-proposal-instead-of-a-poll)
-* [Does the CATSI Act allow us to use Loomio as our statutory obligation?](#does-the-catsi-act-allow-us-to-use-loomio-as-our-statutory-obligation)
-
----
-
-
-## Why do we need an online place for discussion and decisions?
-
-Good governance exists where an organisation has systems and processes in place that are appropriate to its circumstances, and which enable the organisation to pursue its purpose effectively and meet its obligations under the law.
-
-*“It is participatory, consensus-oriented, accountable, transparent, responsive, effective and efficient, equitable and inclusive and follows the rule of law.”*
-
-Underpinning all of these principles is the need for good communication.
-
-Many directors and boards of Indigenous Corporations experience challenges:
-
-* Getting directors together in person
-* Difficulty for directors to join online video meetings
-* Unfamiliarity with online technology
-* In remote locations with poor internet connectivity
-* Governance practices still forming
-* Dealing with a high volume of transactional business (e.g. approving land and financial transactions)
-
-Loomio offers an opportunity to strengthen governance, to extend collaboration beyond board meetings, to include everyone in open, honest and respectful discussion while documenting everything.
-
+1. [What structure suits our board?](#what-structure-suits-our-board)
+2. [When should we invite outsiders in?](#when-should-we-invite-outsiders-in)
+3. [How will our governance work adapt?](#how-will-our-governance-work-adapt)
+4. [If we do this, will we meet our statutory obligations?](#if-we-do-this-will-we-meet-our-statutory-obligations)
+5. [How quickly do we expect each other to respond?](#how-quickly-do-we-expect-each-other-to-respond)
+6. [When should we notify people of group activity?](#when-should-we-notify-people-of-group-activity)
+7. [When should we start a new thread?](#when-should-we-start-a-new-thread)
+8. [How do we know what kind of poll to use?](#how-do-we-know-what-kind-of-poll-to-use)
+9. [When should we use a proposal instead of a poll?](#when-should-we-use-a-proposal-instead-of-a-poll)
 
 ---
 
-
-## How secure is the information?
-
-Your group is private, and you are in control of who you invite to the group, and therefore who has access to information in the group.
-
-**Who can access the information?** 
-Only people who are invited to the group. Click on the **Members** tab to see members of your group.
-
-**Can ORIC access the information?** 
-No. Named Loomio staff members (Michael and Rahul) may be present in your group to help you with set up. They will leave the group when established or you can remove them from the group at any time.
-
-**Can I invite an adviser or accountant into a particular discussion?**
-Yes. You can invite an external person to contribute to a particular Loomio thread discussion.
-
-
----
-
-
-## How will you structure Loomio to suit your organisation?
+## What structure suits our board?
 A Loomio group comprises a 'parent group' and any number of 'subgroups'. 
 
-Subgroups help you organize the work of particular groups of people; for example a subcommittee, working group or project team. You may also set up a subgroup for communicating with membership.
+Subgroups help focus and contain the work of particular groups of people, such as a committee, advisory group or project team. 
 
-Subgroups work just like groups. Most of the features and settings of subgroups are the same as in your parent group, and include the ability to allow members of the parent group to see, but not participate in, threads and polls in the subgroup. This is helpful if you want to offer transparency of discussions and decisions to members of the parent group.
+Subgroups work just like groups. Most of the features and settings of subgroups are the same as in your parent group. You can keep threads in the subgroup private — that's the default — so that parent group members can't see anything. Or you can allow members of the parent group to see (but not respond to) threads and polls in the subgroup. In that way, the subgroup is readily accountable to the parent group.
 
-A person can be a member of your subgroup and not of your parent group.
+Importantly, you can add people to a subgroup even if they're not a member of your main (parent) group.
 
-Typical subgroups for Indigenous Corporations include:
+An Aboriginal and Torres Strait Islander corporations might have a subgroup for:
+* a finance committee
+* a health & safety committee
+* a risk & audit committee
+* an industry-specific subgroup, such as 'property'
+* members — to share information and engage with your broader membership. 
 
-* Financial subcommittee
-* Health & Safety
-* Risks & Audits
-* An industry-specific subgroup, such as "Property"
-* Membership
+When you create a subgroup, you're asked to set its privacy: **closed** or **secret**. If it's secret, members of the parent group won't even know it exists — unless you invite them into it. If it's closed, non-members can see it and ask to join. (Note that you can change the subgroup's privacy after you create it.)
 
-![](board-subgroups.png)
-
-You may also want to set up a subgroup to share information and engage with Corporation membership. 
-
-Always review subgroup privacy and permissions are set appropriate for the  work of the subgroup. 
-
+Once a subgroup exists, it's important to check the **permissions** asssociated with it. You can tick a box to allow members of the parent group to see threads in the subgroup. Remember, they won't be able to respond, unless you invite them to join the subgroup.
 
 ---
 
+## When should we invite outsiders in?
+There may be times when it would be useful to have someone from outside the corporation, such as an accountant or other adviser, in on a particular discussion. That's no problem; at any time, ou can invite an external person to see and respond to a particular Loomio thread. At the top of every thread is a button to 'invite'. When you hit it, you can add an email address. 
 
-## How do our current work processes adapt to our online practices?
+You might want some protocols for inviting external people. For example:
+- Do you need the board to approve, before you send an invitation — or at least the chair? 
+- Or do you agree as a board that any one of you can use your discretion to invite someone in as they see fit? 
+- Will you want to remove the extra person after a certain time?
 
-As a discussion and decision-making tool, Loomio is flexible and can be configured to suit your current work processes.
+---
 
-For example, typical work processes of a board include:
+## How will our governance work adapt?
 
-### Preparing for the next board meeting
-**Board work process:**
-* follow up and talk to directors about actions
-* ensure the focus of the meeting is about the most important things
-* prepare documents and materials
-* actions from previous meeting
-* notify directors and send board papers
-* agree a date/time for the next meeting
+Loomio is flexible and can be configured to suit your governance processes. Below is a suggestion for how you might perform typical governance tasks in Loomio.
+
+### Preparing for a board meeting
+**Governance tasks:**
+* Ensure the meeting focuses on the most important things.
+* Prepare the notice of meeting, agenda, proposed resolutions, reports and other papers. 
+* Check in with directors about actions assigned to them at the last meeting.
+* Agree on a date/time for the next meeting.
 
 ***On Loomio:***
-*Use a Loomio **Thread** to prepare for your board meeting:*
+*Use a Loomio **thread** to prepare for the meeting:*
 * *invite directors to comment on meeting focus*
 * *list actions and invite directors to comment on their actions*
 * *directors comment in thread and attach files and link to docs and other resources*
@@ -114,7 +73,7 @@ For example, typical work processes of a board include:
 
 ---
 
-### Notify Directors of next board meeting
+### Notify directors of next board meeting
 **Board work process:**
 * Notify directors about the next meeting.
 * Attach meeting agenda.
@@ -185,7 +144,21 @@ For example, typical work processes of a board include:
 *Use a Loomio **Time Poll** to find the next meeting date.*
 
 ---
-## How quickly do you expect each other to respond?
+
+## If we do this, will we meet our statutory obligations?
+
+Yes. Loomio enables documented discussion and decisions in one place.
+
+Whereas some Corporations try to make decisions via email, which can be scattered and difficult to track.
+
+**Can we run an out of session resolution?**
+
+Yes. If you circulate a decision outside of a formal meeting it requires 100% directors to agree to it for the resolution to pass.
+
+Exception: If you delegate a subcommittee to make a decision and report back to the board.
+
+---
+## How quickly do we expect each other to respond?
 Loomio is like email in that you can respond at a time that suits you. However everyone has different work habits, and taking too long to respond is likely to be frustrating for others.
 
 In the early days of using Loomio, it really helps if everyone responds as soon as they can with a comment, vote or reaction.
@@ -200,7 +173,7 @@ If some people are still not responding, raise a discussion at your next board m
 
 
 ---
-## What protocols do you want to establish in relation to notifying individual people?
+## When should we notify people of group activity?
 
 There are many places within Loomio that you can notify people including:
 * Invite to a Thread
@@ -214,7 +187,7 @@ If you are setting up a Thread to notify directors about the next meeting, it ma
 It is a advisable to have a quick discussion with your group to establish a protocol that works for them, so they receive the notifications they need and are not overwhelmed with too many.
 
 ---
-## When is it best to continue a thread and when to start a new one?
+## When should we start a new thread?
 
 Loomio Threads usually focus on a particular topic.  As the discussion progresses on the topic, the thread continues until it reaches an outcome.  
 
@@ -233,7 +206,7 @@ Here are some common types of threads in governance:
 
 
 ---
-## How do you know what kind of poll to use?
+## How do we know what kind of poll to use?
 
 There are several Loomio Polls and they have a wide application. You will likely find the following Polls valuable for Board use.
 
@@ -257,7 +230,7 @@ Set **Accept** and **Review** as the Poll options.
 
 ![](https://i.imgur.com/XwUlnMy.png)
 
-### Time Poll
+### Time poll
 
 Use Loomio Time Poll to find the best time to meet and ask directors to respond. It will enable them to also see other's availability and juggle their calendars if they can. 
 
@@ -265,7 +238,7 @@ Use Loomio Time Poll to find the best time to meet and ask directors to respond.
 
 
 ---
-## When should you use a proposal instead of a poll?
+## When should we use a proposal instead of a poll?
 
 Proposals are a great way to make a decision with your board. For example; approving a financial report, passing a resolution or making an out of session decision.
 
@@ -282,17 +255,7 @@ Here are a few examples of how Proposals are used to make decisions in a board:
 * Accept insurance quotation
 
 ---
-## Does the CATSI Act allow us to use Loomio as our statutory obligation?
 
-Yes. Loomio enables documented discussion and decisions in one place.
-
-Whereas some Corporations try to make decisions via email, which can be scattered and difficult to track.
-
-**Can we run an out of session resolution?**
-
-Yes. If you circulate a decision outside of a formal meeting it requires 100% directors to agree to it for the resolution to pass.
-
-Exception: If you delegate a subcommittee to make a decision and report back to the board.
 
 
 
