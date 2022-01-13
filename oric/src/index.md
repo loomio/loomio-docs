@@ -16,6 +16,7 @@ Loomio—and this guide to using it—will help your board to **communicate well
 - [Loomio key concepts](key-concepts-oric.md)
 - [Guide for directors using Loomio](guide-directors.md)
 - [Guide for connectors managing Loomio for their corporation](guide-connectors.md)
+- [Setting up for success](for-success.md)
 
 ## Sandpit
 If you want to try out a Loomio group—start a thread, comment, create a proposal or poll—with no impact on your real Loomio group, you can [create a temporary demo group](https://decisions.oric.gov.au/try). Think of it as a sandpit. Feel free to play around, respond to a thread or a poll, or create your own. 
