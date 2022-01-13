@@ -2,7 +2,7 @@
 
 *This page will help your board make best use of Loomio's platform and tools.*
 
-To successfully shift your board's processes into a new technology platform will take conscious effort. You need to build new patterns of work — as a whole board and as individual directors. 
+Adopting Loomio will take conscious effort. It means a new way of working—as a whole board and as individual directors. 
 
 Using Loomio can save you time and improve your decisions and your accountability. But to reap those rewards, the first step is to agree on how to make best use of the platform and the tools. 'Best use' is not universal; it depends on the circumstances of your corporation and your directors. 
 
@@ -23,53 +23,42 @@ Using Loomio can save you time and improve your decisions and your accountabilit
 ## What structure suits our board?
 A Loomio group comprises a 'parent group' and any number of 'subgroups'. 
 
-Subgroups help focus and contain the work of particular groups of people, such as a committee, advisory group or project team. 
+Subgroups are separate from the parent group but connected to it, and they work just like groups. Subgroups help focus and contain the work of particular groups of people, such as a committee, council or project team. 
 
-Subgroups work just like groups. Most of the features and settings of subgroups are the same as in your parent group. You can keep threads in the subgroup private — that's the default — so that parent group members can't see anything. Or you can allow members of the parent group to see (but not respond to) threads and polls in the subgroup. In that way, the subgroup is readily accountable to the parent group.
+You can keep a subgroup private, so that parent group members can't see anything in it. But maybe you want the subgroup to be readily accountable to the parent group. If so, you can set it so members of the parent group can see (but not respond to) threads and polls in the subgroup. 
 
-Importantly, you can add people to a subgroup even if they're not a member of your main (parent) group.
-
-An Aboriginal and Torres Strait Islander corporations might have a subgroup for:
+As an Aboriginal and Torres Strait Islander corporation, and depending on your size, you might have a subgroup for:
 * a finance committee
 * a health & safety committee
 * a risk & audit committee
-* an industry-specific subgroup, such as 'property'
-* members — to share information and engage with your broader membership. 
+* industry-specific tasks, such as managing property
 
-When you create a subgroup, you're asked to set its privacy: **closed** or **secret**. If it's secret, members of the parent group won't even know it exists — unless you invite them into it. If it's closed, non-members can see it and ask to join. (Note that you can change the subgroup's privacy after you create it.)
+Importantly, you can add outsiders to a subgroup—such as a lawyer or accountant or staff-member.
 
-Once a subgroup exists, it's important to check the **permissions** asssociated with it. You can tick a box to allow members of the parent group to see threads in the subgroup. Remember, they won't be able to respond, unless you invite them to join the subgroup.
+You could even set up a subgroup for all your members—so as directors you can share information and engage with the broader membership. 
 
 ---
 
 ## When should we invite outsiders in?
-There may be times when it would be useful to have someone from outside the corporation, such as an accountant or other adviser, in on a particular discussion. That's no problem; at any time, ou can invite an external person to see and respond to a particular Loomio thread. At the top of every thread is a button to 'invite'. When you hit it, you can add an email address. 
+There may be times when it would be useful to involve someone from outside the corporation in a particular discussion. As noted above, an external person can be part of a subgroup. In any one thread of the main (parent) group, you also have the option to invite an outsider in—to see and respond. At the top of every thread is a button to 'invite'. When you hit it, you can add an email address. 
 
 You might want some protocols for inviting external people. For example:
 - Do you need the board to approve, before you send an invitation — or at least the chair? 
-- Or do you agree as a board that any one of you can use your discretion to invite someone in as they see fit? 
+- Or do you agree as a board that any one of you can use your discretion to invite someone in as you see fit? 
 - Will you want to remove the extra person after a certain time?
 
 ---
 
 ## How will our governance work adapt?
 
-Loomio is flexible and can be configured to suit your governance processes. Below is a suggestion for how you might perform typical governance tasks in Loomio.
+Below is a suggestion for how you might perform typical governance tasks in Loomio.
 
-### Preparing for a board meeting
-**Governance tasks:**
-* Ensure the meeting focuses on the most important things.
-* Prepare the notice of meeting, agenda, proposed resolutions, reports and other papers. 
-* Check in with directors about actions assigned to them at the last meeting.
-* Agree on a date/time for the next meeting.
+| Prepare for a board meeting                                                          | Create a Loomio thread                                                                                         | Tools to try                                                                                                        |
+|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| **Agree** on a focus for the meeting                    | **New comment**—What's the most important focus for this meeting? You could suggest something, or invite responses to the open question.        | You might reach general agreement through discussion, or use a **proposal** or **poll** to clarify. |
+| **Check** if directors have completed the tasks assigned to them at the last meeting | **New comment**—introduce actions arising from the last meeting and ask people to check them off and/or comment | **Checklist**—add a list of actions noting who is responsible for each                                              |
+| **Distribute** board papers              | **New comment**—share reports and other relevant materials                                     | **Attach or link**—add files and links                                              |
 
-***On Loomio:***
-*Use a Loomio **thread** to prepare for the meeting:*
-* *invite directors to comment on meeting focus*
-* *list actions and invite directors to comment on their actions*
-* *directors comment in thread and attach files and link to docs and other resources*
-
-![](prepare-board-meeting.png#width-80)
 
 ---
 
