@@ -82,9 +82,12 @@ Below we describe how you could perform typical governance tasks in Loomio.
 
 Because Loomio discussions and decisions are always already documented, it provides a robust way to verify all your board's decision-making. You can easily demonstrate what was decided, and when. If directors have discussed and commented, as well as voted on a resolution—you will also know how and why each decision was reached. 
 
-A resolution passed in between meetings is valid if (and only if) *all* eligible directors agree on it. If you have less than 100% agreement, or if some directors have not voted, you will need to take the resolution to your next board meeting (whether online or in person). Then, you can use quorum and majority rules to ratify (formally approve) the decision. The Loomio record will give you a good sense of any issues with the proposed resolution. So it shouldn't take up much of the meeting time to resolve the matter one way or the other. Remember to include the decision in the minutes.
+A resolution passed in between meetings is valid if (and only if) *all* eligible directors agree on it. If you have less than 100% agreement, or if some directors have not voted, you will need to take the resolution to your next board meeting (whether online or in person). Then, you can use quorum and majority rules to ratify (formally approve) the decision. The Loomio record will give you a good sense of any issues with the proposed resolution. So it shouldn't take long to resolve the matter one way or the other. 
+
+Remember to include the decision in the minutes.
 
 ---
+
 ## How quickly do we expect each other to respond?
 Loomio is like email in that you can respond at a time that suits you. But everyone has different work habits, and taking too long to respond is likely to be frustrating for others.
 
@@ -99,6 +102,7 @@ Posting a poll or a proposal can also alert people that things are happening, an
 If some people are still not responding, raise a discussion at your next board meeting and seek agreement on the importance of good communication and commitment to timely response. 
 
 ---
+
 ## When should we notify people of group activity?
 
 There are many places within Loomio that you can notify people including when you:
@@ -162,14 +166,14 @@ Use a time poll to find the best time to meet and ask directors to respond. It w
 ---
 ## When should we use a proposal instead of a poll?
 
-Use a proposal to gain approval for something where there's only really one option on the table. For example, you might use a proposal to gain approval:
+Proposals are best when there's only really one option on the table. For example, you might use a proposal to agree:
 
 * to lodge a funding application
-* for the new terms of a lease
-* for annual financial statements
+* on the new terms of a lease
+* to approve the annual financial statements
 * to form a subcommittee
-* for putting a resolution to members
-* for the strategic plan
+* to put a special resolution to members
+* on a shift in strategic direction
 * to invite a guest to a board meeting
-* of the choice of candidate for CEO 
+* to recruit the preferred candidate for CEO 
 * to accept an insurance quotation
