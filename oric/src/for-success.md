@@ -1,4 +1,4 @@
-# Setting up for success in Loomio
+# Setting up for success
 
 *This page will help your board make best use of Loomio's platform and tools.*
 
@@ -51,167 +51,100 @@ You might want some protocols for inviting external people. For example:
 
 ## How will our governance work adapt?
 
-Below is a suggestion for how you might perform typical governance tasks in Loomio.
-
-| Prepare for a board meeting                                                          | Create a Loomio thread                                                                                         | Tools to try                                                                                                        |
-|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
-| **Agree** on a focus for the meeting                    | **New comment**—What's the most important focus for this meeting? You could suggest something, or invite responses to the open question.        | You might reach general agreement through discussion, or use a **proposal** or **poll** to clarify. |
-| **Check** if directors have completed the tasks assigned to them at the last meeting | **New comment**—introduce actions arising from the last meeting and ask people to check them off and/or comment | **Checklist**—add a list of actions noting who is responsible for each                                              |
-| **Distribute** board papers              | **New comment**—share reports and other relevant materials                                     | **Attach or link**—add files and links                                              |
+Below we describe how you could perform typical governance tasks in Loomio.
 
 
----
+1. You might use a Loomio thread to **take strategic action** ahead of the next board meeting:
 
-### Notify directors of next board meeting
-**Board work process:**
-* Notify directors about the next meeting.
-* Attach meeting agenda.
-* Attach board papers.
+| Strategic activity                                                          | Loomio tools      |
+|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
+| **Start thinking** about the next board meeting                    | **New thread**—Give it a **title** that will make sense to everyone, and add some notes about the **context** for the thread, eg: thinking about the next phase of our governance work       |
+| **Agree on a focus** for the meeting                    | **New comment**—What's the most important focus for this meeting? You could suggest something, or invite responses to the open question. You might reach general agreement through discussion. Or you could use a **proposal** or **poll** to clarify. |
+| Check progress on the **actions arising** from the last meeting | **New comment**—use a **checklist** to post a list of tasks and who they were assigned to, and ask each person to check them off and/or comment.  |
+| **Share** information and ideas to consider in relation to the strategic or business plan            | **New comment**—introduce a report or other material relevant to the strategy or operations, and invite responses. You can **attach a file** or **link** to a published document.                                              |
 
-***On Loomio:***
-*Use a Loomio **Thread** to notify directors, send agenda and attach board papers:*
-* *Prepare your thread context as the formal notification to be sent to directors*
-* *Attach the meeting agenda document*
-* *Attach CEO report and financial statements*
-* *Invite directors to the thread*
 
-![](notify-directors.png#width-80)
+2. When it's time to **get organised for the next meeting**, set up a new thread dedicated to preparing for it:
 
----
-
-### Administrative governance practices
-**Board work process:**
-* Approve meeting minutes, along with matters arising.
-* Pass Chief Executive, Finance and Health & Safety reports.
-* Prepare resolutions.
-* Investor/stakeholder reports.
-
-***On Loomio:***
-*Use Loomio **Polls** and **Proposals** within the meeting thread:*
-* *To approve minutes and note matters arising before the meeting. (Poll)*
-* *To pass CEO and Finance reports. (Proposal)*
-* *To prepare resolutions in advance of meeting and record votes and outcome. (Proposal)*
-* *To approve reports to be published. (Proposal)*
-
-![](admin-practices.png#width-80)
-
----
-
-### Out of session decision
-**Board work process:**
-* When there is insufficient time or information available during your meeting, and you need to continue the discussion about a topic and make a decision before the next board meeting.
-* Make administrative decisions. (For example, approving annual insurance renewals.)
-* Build consent for strategic direction. (This may be triggered by external event or a director's particular interest.)
-
-***On Loomio:***
-*Use a Loomio **Thread** in your Loomio group to start an out-of-session discussion and a Loomio **Proposal** within the thread to make a decision.*
-* *Give the thread a title that represents the topic, and provide background information and a question to get the discussion started. Attach files or link to relevant information online.*
-* *Start a Proposal within the thread to make a decision*
-* *Start a thread to open discussion about a strategic topic, and invite directors to contribute their thoughts, questions and comments. Attach files or link to relevant information online.*
-
-![](out-of-session-decision.png#width-80)
-
-*(A Loomio Proposal is a particular type of Poll that asks people to agree to a course of action and records the decision made. It let's everyone know that it is time to make a decision, and is also useful to clarify disagreement and help resolve an issue.)*
-
----
-
-### Statutory requirements:
-**Board work process:**
-* Annual General Meeting (AGM) reporting
-* Tax and annual financial statements
-* ORIC reporting
-
-***On Loomio:***
-* *Use Loomio **Threads** to prepare the information necessary to meet statutory requirements, and attach appropriate documents. Invite directors to question and respond to the information.* 
-* *Use Loomio **Proposal** to approve documents for filing. Directors can agree to approve or disagree to seek more information. When satisfied directors can change their vote to approve.*
-* *When filed, state an **Outcome** of the proposal, along with approved report and statements, so that everyone knows the documents have been filed.*
-
-![](statutory-requirements.png#width-80)
-
-### Finding a meeting date
-
-*Use a Loomio **Time Poll** to find the next meeting date.*
+| Announcing the next meeting                         | Loomio tools |
+|----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Notice** of meeting                                     | Create a **new thread**. In its **context**, note the date, time and place for the scheduled meeting. You can edit these details if the meeting is moved.                                       |
+| Post the **agenda**                                         | In a **new comment**, list all items on the agenda.                                                  |
+| **Focus discussion** on an agenda item                    | Add a **new comment** to elaborate on an agenda item and focus discussion on it. To ensure it's easy to find this conversation in the thread, **pin it** to the **timeline** (the mini-navigation in the sidebar on the right) |
+| Ask the board to accept the **minutes** of the last meeting. | Add a **check** (yes/no poll) so directors can either approve the minutes or note corrections. Proposals and polls of all kinds are automatically included in the sidebar navigation ('timeline').                                                                                                                            |
+| Add any proposed **resolutions**                             | If you are proposing a resolution, add a **proposal**.                                                                                           |
+| As they become available, add financial **reports** and other board papers          | A **new comment** can introduce financial and other reports and invite discussion. Or you could get straight to the point and add the reports through a **poll or proposal** and ask directors to review the accounts and either accept or question them.                                  |
+| Set a **new date for the meeting** | If you need to postpone the meeting, you can use a **time poll** to suggest a few possible options and invite everyone to mark which dates are doable for them. The result will make it easy to see the best time to meet. |
 
 ---
 
 ## If we do this, will we meet our statutory obligations?
 
-Yes. Loomio enables documented discussion and decisions in one place.
+Because Loomio discussions and decisions are always already documented, it provides a robust way to verify all your board's decision-making. You can easily demonstrate what was decided, and when. If directors have discussed and commented, as well as voted on a resolution—you will also know how and why each decision was reached. 
 
-Whereas some Corporations try to make decisions via email, which can be scattered and difficult to track.
-
-**Can we run an out of session resolution?**
-
-Yes. If you circulate a decision outside of a formal meeting it requires 100% directors to agree to it for the resolution to pass.
-
-Exception: If you delegate a subcommittee to make a decision and report back to the board.
+A resolution passed in between meetings is valid if (and only if) *all* eligible directors agree on it. If you have less than 100% agreement, or if some directors have not voted, you will need to take the resolution to your next board meeting (whether online or in person). Then, you can use quorum and majority rules to ratify (formally approve) the decision. The Loomio record will give you a good sense of any issues with the proposed resolution. So it shouldn't take up much of the meeting time to resolve the matter one way or the other. Remember to include the decision in the minutes.
 
 ---
 ## How quickly do we expect each other to respond?
-Loomio is like email in that you can respond at a time that suits you. However everyone has different work habits, and taking too long to respond is likely to be frustrating for others.
+Loomio is like email in that you can respond at a time that suits you. But everyone has different work habits, and taking too long to respond is likely to be frustrating for others.
 
-In the early days of using Loomio, it really helps if everyone responds as soon as they can with a comment, vote or reaction.
+In the early days of using Loomio, it will really help if everyone responds as soon as they can with a comment, vote or reaction. That way, things can keep moving.
 
-On the other hand, when posting a thread or comment don't expect everyone to respond immediately. Give people time to read and digest the information - particularly on complex or important topics.
+On the other hand, when posting a thread or comment, don't expect instant responses. Give people time to read and digest the information—especially when it's a complex or important matter.
 
-If people are not responding, you can prompt them through Loomio by sending a reminder or with a comment using @mention.
+It's up to you to manage your expectations in relation to response times. There are also tools in Loomio to prompt people to respond. You can send a reminder, or you can @mention someone by name to notify them of your comment.
 
-Use Polls and Proposals so people can see that something is happening, and that now is the time to have their say.
+Posting a poll or a proposal can also alert people that things are happening, and that now is the time to have their say.
 
 If some people are still not responding, raise a discussion at your next board meeting and seek agreement on the importance of good communication and commitment to timely response. 
-
 
 ---
 ## When should we notify people of group activity?
 
-There are many places within Loomio that you can notify people including:
-* Invite to a Thread
-* Invite to a Poll or Proposal
+There are many places within Loomio that you can notify people including when you:
+* invite people to a thread
+* invite people to respond to a poll or proposal
 * @mention a specific person within a comment
 
-When you notify a person, you are sending them an email. So to avoid overloading their inbox, it's usually best to only notify people when something important is happening, or if you need to get their attention.
+When you notify a person, you are sending them an email. So to avoid overloading their inbox, it's usually best to only notify people when something important is happening, or if you really need to get their attention.
 
-If you are setting up a Thread to notify directors about the next meeting, it may include several Polls and Proposals.  Rather than sending notifications to every event, it is usually sufficient to notify people once about the Thread, and ask them to read the information and vote in any Polls or Proposals.  
+If you are setting up a thread to notify directors about the next meeting, it may include several polls and proposals. Rather than sending a notification for each one, it is better to notify people once, about the thread, and ask them to read through, comment and vote in any polls or proposals.  
 
-It is a advisable to have a quick discussion with your group to establish a protocol that works for them, so they receive the notifications they need and are not overwhelmed with too many.
+As a board you might want to establish a protocol that works for you, so you receive the notifications you need and avoid being overwhelmed.
 
 ---
 ## When should we start a new thread?
 
-Loomio Threads usually focus on a particular topic.  As the discussion progresses on the topic, the thread continues until it reaches an outcome.  
+Threads usually focus on a particular topic.  As the discussion progresses on the topic, the thread continues until it reaches an outcome.  
 
 If a new topic is introduced during your discussion in the thread, you may wish to start a new thread.  In the new thread, you can add links to the old thread and even to specific comments, making reference to the previous discussion.
 
 There are tools within Loomio that enable you to copy, edit and move comments to another thread.
 
-Here are some common types of threads in governance:
-* Holding all the information about a particular meeting
-* Reports (e.g. Chief Executive or Financial subcommittee reports)
-* Preparing and agreeing a Resolution
-* Explore an important question
-* Prepare for an event, such as a members meeting
-* Collaborate on a policy document
-
-
+Here are some typical reasons to start a new thread:
+* for all the exchange about an upcoming meeting (for directors or members)
+* to prepare a budget for the next financial year
+* to explore an important question
+* to collaborate on a policy document
 
 ---
 ## How do we know what kind of poll to use?
 
-There are several Loomio Polls and they have a wide application. You will likely find the following Polls valuable for Board use.
+Loomio offers various kinds of poll. They are useful in a wide range of circumstances, and sometimes there's no clear-cut reason for using one over another. 
 
-### Check Poll 
+You will likely find the following polls valuable for governance activity.
 
-A Check is a tool with many possible uses but only 2 responses: a tick (✔) or an x mark (✘). Participants will use the tick (✔) to say yes and the x mark (✘) to say no or unsure.
+### Check  
 
-Help directors get ready for your next meeting with Loomio Check Poll. 
+A check poll has many possible uses but only 2 responses: a tick (✔) or a cross (✘). Participants will use the tick (✔) to say yes and the cross (✘) to say no or unsure.
 
-Checking in with directors to ensure they're prepared and have all the information they need will save a lot of blank looks and confusion during a meeting, and save you precious meeting time.
+Check if directors are ready for the next board meeting. It's good to know that people are prepared, and important to know if someone is missing some important information.  
 
 *Add Check Poll image*
 
 ### Poll
 
-The simple Poll can be useful for approving minutes of a directors meeting.
+A simple poll can be useful for approving minutes of a directors meeting.
 
 If the minutes are in a file (e.g. a Word document), attach the file to the Poll. In the Poll description, ask directors to vote to **Accept** or **Review** if they see anything they would like to discuss.
 
@@ -221,7 +154,7 @@ Set **Accept** and **Review** as the Poll options.
 
 ### Time poll
 
-Use Loomio Time Poll to find the best time to meet and ask directors to respond. It will enable them to also see other's availability and juggle their calendars if they can. 
+Use a time poll to find the best time to meet and ask directors to respond. It will enable them to also see other's availability and juggle their calendars if they can. 
 
 ![](https://i.imgur.com/nYEg4xl.png)
 
@@ -229,23 +162,14 @@ Use Loomio Time Poll to find the best time to meet and ask directors to respond.
 ---
 ## When should we use a proposal instead of a poll?
 
-Proposals are a great way to make a decision with your board. For example; approving a financial report, passing a resolution or making an out of session decision.
+Use a proposal to gain approval for something where there's only really one option on the table. For example, you might use a proposal to gain approval:
 
-Here are a few examples of how Proposals are used to make decisions in a board:
-
-* Resolution to approve a funding application
-* Resolution to approve new terms of lease
-* Approve annual financial statements
-* Form a subcommittee
-* Approve statement to shareholders
-* Approve strategic plan
-* Inviting a guest to a board meeting
-* Approving CEO hire
-* Accept insurance quotation
-
----
-
-
-
-
----
+* to lodge a funding application
+* for the new terms of a lease
+* for annual financial statements
+* to form a subcommittee
+* for putting a resolution to members
+* for the strategic plan
+* to invite a guest to a board meeting
+* of the choice of candidate for CEO 
+* to accept an insurance quotation
