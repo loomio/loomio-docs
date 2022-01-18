@@ -55,7 +55,7 @@ Below we describe how you could perform typical governance tasks in Loomio.
 
 1. You might use a Loomio thread to take strategic action **between board meetings**:
 
-| Strategic activity between meetings                                                          | Loomio tools      |
+| Between-meetings work                                                          | Loomio tools      |
 |--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
 | **Start thinking** about the next board meeting                    | **New thread**—Give it a **title** that will make sense to everyone, and add some notes about the **context** for the thread, eg: thinking about the next phase of our governance work       |
 | **Agree on a focus** for the next meeting                    | **New comment**—What's the most important focus for our next meeting? Either suggest something, or invite responses to the open question. You might reach general agreement through discussion. Or you could use a **proposal** or **poll** to clarify and settle on a priority. |
@@ -139,7 +139,7 @@ Of course, it's up to your board to consider how to manage your discussions so y
 
 Loomio offers various kinds of poll. They are useful in a wide range of circumstances, and sometimes there's no clear-cut reason for using one over another. 
 
-You will likely find the following polls valuable for governance work.
+For your governance work you will likely use the first 3 the most. 
 
 ### Check  
 
@@ -151,21 +151,36 @@ A check poll has only 2 responses: a tick (✔) for 'yes' and a cross (✘) for 
 
 ### Poll
 
-A simple poll has many possible uses. You can set it to be single-choice or multiple-choice. For example, you might use a simple poll to decide where to hold your next in-person meeting. 
+A simple poll is good for when there are several options and you can only choose one. For example, you might use it to decide:
+- where to hold your next in-person meeting
+- which of 3 quotes to accept 
+- who to give an award to
+You can set it to be single-choice or multiple-choice. 
+ 
+*Insert simple-poll-setup.gif and simple-poll-view.gif*
 
-*Insert simple-poll-setup.gif and simple-poll-view.gif
-
-### Time poll
+### Time
 
 Use a time poll to find the best time to meet. Provide a few different options. Everyone marks each time with good, doable or bad. Then, Loomio shows you the best time. From there, you can send a calendar invitation to all your board members.
 
 *Insert time-poll-illustration.gif*
 
+### Dot 
+
+A dot vote could be useful if you want to know, for example, which 3 out of 7 possible options people most want. A person can put all 3 eggs in one basket (if they're really keen on that option and otherwise don't mind) or allocate one vote each to 3 different options.  
+
+### Score
+
+A score poll might be useful in **shortlisting candidates** for a job.
+
+### Ranked choice
+
+A ranked choice poll is good when there are many options and you want people to choose a few and put them in order of preference. You might use it for an election where there are, say, 100 voters, 10 candidates and only 3 positions. It could be a good way to enable your members **to elect the next board of directors**?
+
 ---
 ## When should we use a proposal instead of a poll?
 
-Proposals are best when there's only really one option on the table. For example, you might use a proposal to agree:
-
+Proposals are best when there's only one option on the table. For example, you might use a proposal to agree:
 * to lodge a funding application
 * on the new terms of a lease
 * to approve the annual financial statements
