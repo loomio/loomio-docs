@@ -18,7 +18,7 @@ If using a third party sign in isn't right for you, signing in via email is well
 ## Sign in via email
 When you sign in via email, you'll be sent an email with a link (or a code) to sign in.
 
-![sign-in email](sign_in_email.png)
+![sign-in email](sign_in_email_code.png)
 
 ## Forgot your password?
 
