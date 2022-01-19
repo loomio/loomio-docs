@@ -13,13 +13,16 @@ You can use Loomio to strengthen governance: **collaborate** beyond board meetin
 Loomio—and this guide to using it—will help your board to **communicate well**, **make good decisions** and **be accountable**.
 
 ## Within this guide
+This guide includes the following sections:
 - [Loomio key concepts](key-concepts-oric.md)
 - [Guide for directors using Loomio](guide-directors.md)
 - [Guide for connectors managing Loomio for their corporation](guide-connectors.md)
 - [Setting up for success](for-success.md)
 
+There are also some practical resources, as below.
+
 ## Sandpit
-If you want to try out a Loomio group—start a thread, comment, create a proposal or poll—with no impact on your real Loomio group, you can [create a temporary demo group](https://decisions.oric.gov.au/try). Think of it as a sandpit. Feel free to play around, respond to a thread or a poll, or create your own. The whole group will disappear 24 hours later so no need to worry about making a mess.
+If you want to try out a Loomio group—start a thread, comment, create a proposal or poll—with no impact on your real Loomio group, you can [create a temporary demo group](https://decisions.oric.gov.au/try). Think of it as a sandpit. Feel free to play around, respond to a thread or a poll, or create your own. Please don't worry about making a mess: your whole group will disappear after 24 hours.
 
 ## Templates
 When you create a demonstration group (as above, in the 'sandpit') you'll see examples of threads you might create in your real group for the board of an Aboriginal and Torres Strait Islander corporation. 
