@@ -26,6 +26,8 @@ You can send multiple invitations by entering (or copy pasting) multiple email a
 
 Follow up on people who don't make it into the group and give them a nudge. If someone has lost or forgotten about their invitation email, you can re-send it from the dropdown menu beside their name on the Members page.
 
+![](resend-invitation.png)
+
 ### Invite people to Subgroups
 
 You will follow the same process as above.
