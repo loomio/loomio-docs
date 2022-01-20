@@ -18,12 +18,6 @@ A Loomio group is a safe place for your organization to meet, discuss and make d
 
 Your group home page is the first place you see when you arrive. It contains a title, an image to represent the group, and some text to introduce the group: its purpose, the work you will do, and any other information to help members participate.
 
-**Subgroups**
-
-Subgroups are a space for a smaller subset of people to focus on a project or committee work.
-
-Depending on the settings, the subgroup can be visible to the broader group, or for subgroup members' eyes only.
-
 ### Thread
 
 Threads are where you share information, discuss, and make decisions.
