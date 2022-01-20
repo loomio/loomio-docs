@@ -91,7 +91,7 @@ If you have less than 100% agreement, or if some directors have not voted, you w
 
 Loomio is like email in that you can respond at a time that suits you. But everyone has different work habits, and if some people taking much longer than others to respond, it can frustrate people and hinder progress.
 
-Quick responses and great because they keep things moving. On the other hand, people need time to access, read and digest the information—especially when it's a complex or important matter.
+Quick responses are great because they keep things moving. On the other hand, people need time to access, read and digest the information—especially when it's a complex or important matter.
 
 It's up to your group to **consider what's a reasonable response time** in your circumstances. It's important to discuss it as a board, and reach an agreement. Then, if someone is continually non-responsive, at the next meeting you can refer back to the agreement and ask that director and everyone else how the board should handle the issue. 
 
@@ -155,6 +155,7 @@ A simple poll is good for when there are several options and you can only choose
 - where to hold your next in-person meeting
 - which of 3 quotes to accept 
 - who to give an award to
+
 You can set it to be single-choice or multiple-choice. 
  
 *Insert simple-poll-setup.gif and simple-poll-view.gif*
