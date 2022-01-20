@@ -33,7 +33,25 @@ You can edit the handle.
 
 ### Group description
 
-Write your **Group description**.  Use the formatting tools to format your description, attach documents, add links, embed videos and others.
+Use the group description to help people understand the purpose of the group, what work you are going to do, and include any other information that helps them participate. Use the formatting tools to format text, attach documents, add links, and embed videos.
+
+For example;
+
+1. In the group description box write a clear **purpose** for why you have set up this group and a reason why people should join. 
+
+  *This is a safe space to enjoy discussion, share your perspective and wisdom, and participate in decision-making. It allows us to stay up to date, be involved and work together to achieve our objectives.*  
+
+2. Outline how you intend to **use** Loomio.
+
+  *We use Loomio to discuss and make decisions about issues, work priorities and plans, prepare for meetings, and collaborate on strategic documents.*
+
+3. Consider **who** is in this group, and what you expect of each other? 
+
+  *This is a private group for our working team. Do contribute on threads, vote in proposals and raise new topics by starting a new thread.*
+
+4. How will Loomio complement your existing **processes**? Are you running a particular decision or workflow process?   
+
+  *In our board, we will use Loomio to prepare for meetings and agree agenda items, upload draft papers and documents, agree actions and approve minutes, and progress discussions on issues we do not have time to cover during meetings."*
 
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/7z60BLLBLFU?rel=0" frameborder="0" allowfullscreen></iframe>
 
