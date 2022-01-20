@@ -53,7 +53,7 @@ Use the **CREATE ACCOUNT** button, bottom-right. You will then have an account o
 
 If you upload a picture of yourself, it will display next to all the comments you make. That makes it easy for other directors to see who said what. But if you prefer, you can choose to instead *Use initials* (the first letters of your first and last name).
 
-![](set-profile-photo.png#width-80)
+![](set-profile-photo1.png#width-80)
 
 If you do want to add a photo to your profile, select **Upload new photo**. Browse to a suitable photo file from your computer. (When it displays, it will be small, so a photo of your face is best.)
 
