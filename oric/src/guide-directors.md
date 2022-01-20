@@ -53,7 +53,7 @@ You can add **a picture of yourself**, to display next to all the comments you m
 
 When you first join Loomio, it invites you to add a picture—or to instead use your initials (the first letters of your first and last names).
 
-![](set-profile-photo.png#width-40)
+![](set-profile-photo1.png#width-80)
 
 To add a photo to your profile, tap to **upload new photo**. Browse to a suitable photo file from your computer. (It will show up small, so a photo of your face is best.)
 

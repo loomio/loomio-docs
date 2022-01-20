@@ -1,6 +1,6 @@
 # Voting
 
-You will receive an invitation to vote via email or by notification in Loomio. Click on the link to have your say.
+You may receive an invitation to vote via email or by notification in Loomio. Click on the link to have your say.
 
 Voting in a Proposal or Poll is easy, just click or tap on the icon of your choice.
 
