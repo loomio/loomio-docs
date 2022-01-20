@@ -1,33 +1,49 @@
-# Starting a new group
+# Prepare your group 
 
 A Loomio group is a safe place for your organization to meet, have discussions and make decisions about work. 
 
 ![](Groups.png#width-50)
 
-Groups are all about people. So let's think about the people you are going to invite; 
+Groups are all about people. So think about the people you are going to invite; 
 - Who are they? 
 - What is the purpose of your group? 
 - What work are you going to do together? 
 - What objectives do you need to achieve? 
 - What do people need to know to participate effectively?
 
+## Group home page
+
+The group home page is the first place people will see when they arrive to your group - make them welcome, and make it their home!
+
+Add a cover image and logo that represents your group. Use the group description to help people understand the purpose of the group, what work you are going to do, and include any other information that helps them participate.
+
+### Your group home page is also a resource hub
+
+Your Loomio group page is a place to store all of the information, links and files, that everyone in your group needs. 
+
+![](group_description.png)
+
+**Tip:** Group descriptions are a great place to include reasons why you're using Loomio. Saying why you're introducing Loomio can help motivate people engage.
+
+## Starting a new group
+
 You can start a new Loomio group at any time from the sidebar menu - click on **New group**.
 
 ![](new-group.png#width-50)
 
-## Group details
+### Group details
 
 ![](new-group-start.png#width-90)
 
-### Group name
+#### Group name
 
 Type your group name. It's best to keep your group name short and concise.
 
-### Group handle
+#### Group handle
 
 By default, Loomio will make this `your-group-name` but you can choose any unused, alphanumeric handle (hyphens optional). Navigating to the URL loomio.org/[your-group-handle] will take you directly to your group page.
 
-### Category selection
+#### Category selection
 
 You may be asked to select a category that best describes your group, so we help you with relevant information.
 
@@ -35,33 +51,5 @@ You may be asked to select a category that best describes your group, so we help
 
 ---
 
-## Group home page
 
-Your Group home page is the first place people will see when they arrive. It should contain a description of your group; it's purpose, an outline of the work you are going to do, and any other information to help people to participate.
-
-1. In the Group description box write a clear **purpose** for why you have set up this group and a reason why people should join. 
-
-2. What will you **use** Loomio for? Describe how you intend to use Loomio and how it complements your existing work.
-
-*For example; "We will use this online place for our team to progress our work between meetings, have discussions and make decisions. It will help us engage more effectively and operate transparently, save time in meetings and replace confusing email chains."*
-
-3. Consider what kind of **decisions** or **outcomes** you will achieve in this group. Is there a project time-frame you are working to?  
-
-*For example; “We will use Loomio to prioritize our work and to reach agreement on a way forwards. Our aim is to prepare a draft document to share with stakeholders in the next month, and have a new document agreed by the end of the quarter."*
-
-4. Consider **who** is in this group. Who is involved and what you expect of each other? 
-
-*For example; “This is a private group initially for just our board. We encourage you to contribute on threads, and raise new topics by starting a new thread. We will set up a new subgroup for engaging with stakeholders."*
-
-5. Consider how Loomio will complement your existing **processes**. Are you running a particular decision or workflow process?   
-
-*For example; “In our board, we will use Loomio to prepare for meetings and agree agenda items, upload draft papers and documents, agree actions and approve minutes, and progress discussions on issues we do not have time to cover during meetings."*
-
-### Your group home page is also a resource hub
-
-Your Loomio group page is a place to store all of the information, links and files, that everyone in your group needs. Update the Group description field and attach files from your computer or link to content online.
-
-![](group_description.png)
-
-**Tip:** Group descriptions are a great place to include reasons why you're using Loomio. Saying why you're introducing Loomio can help motivate people engage.
 
