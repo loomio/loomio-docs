@@ -12,12 +12,12 @@
 # Decision making
 - [Advice process](advice_process/index.md)
 - [Consent process](consent_process/index.md)
+- [Webinar recordings](webinars_and_trainings/index.md)
 
 # Governance
 - [Bringing your board processes into Loomio](board_processes/index.md)
 - [Virtual AGM](virtual_agm/index.md)
 - [Virtual Board meetings](virtual_board_meetings/index.md)
-- [Webinars and trainings](webinars_and_trainings/index.md)
 
 # Facilitation
 - [The Facilitator's Guide to Loomio](facilitators_guide/index.md)
