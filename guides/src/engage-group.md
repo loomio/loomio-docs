@@ -1,10 +1,10 @@
 # Let’s get your working group working!
 
-You have set up a new Loomio group and believe it can help your group collaborate on projects ,make decisions and get work done - but members of your group aren’t engaging!
+You have set up a new Loomio group and believe it can help your group collaborate on projects, make decisions and get work done - but members of your group aren’t engaging!
 
 We know that everyone has their favorite tools and work habits, and many people are reluctant to learn a new tool.
 
-Here’s some tips that may help you and your group to actively participate in discussions,  make decisions together and progress work to an outcome.
+Here are some tips that may help you and your group to actively participate in discussions,  make decisions together and progress work to an outcome.
 
 ## Warm up your group
 To warm up, I suggest starting a **thread** with an open question that will get people posting their first **comment**. 
@@ -70,11 +70,14 @@ Use proposals to uncover problems, agree principles first, seek mandate, invite 
 
 Responding to questions from the team via email, chat or phone message? 
 
-Encourage people to post their questions as threads and gain the support of your team for answers.
+Start a "Questions" thread, where people can post their questions as comments, and anyone in the group can respond by replying to the comment.  
 
-- It takes time to break old habits, and nudging people to communicate on Loomio helps everyone to engage, and to find info in the one place - not scattered in snippets of inaccessible email conversations.
-- Shoulder-tap some people to share their question, report, work or information.
+Or encourage members to start their own thread with their question - someone in your group may have a great answer!
+
+- It takes time to break old habits, and nudging people to communicate on Loomio helps everyone to engage, and to find info in the one place - not scattered in snippets of inaccessible email or chat conversations.
+- Shoulder-tap some members to share their question, report, work or information.
 - Encourage and acknowledge people posting with a comment or reaction.
 
 I hope this helps.  Do let us know how you get on, and tell us what works for your group! 
+
 Email contact@loomio.org or [Contact us](https://www.loomio.com/contact).🙂
