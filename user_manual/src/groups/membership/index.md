@@ -1,9 +1,9 @@
 # Inviting people
 _How to invite people and manage group membership._
 
-Inviting people to join your Loomio group is a critical step to success. However everyone is busy, many are reluctant to try a new tool and can be slow to respond to your invitation.  
+Inviting people to join your Loomio group is a critical step to success - however everyone is busy; many people are reluctant to try a new tool and can be slow to respond to your invitation.  
 
-Loomio has tools to help you invite people; but you may also need to reach out to members by phone, text, chat or in a meeting, to tell them **why** you are using Loomio. If your group members resonate with this, it will encourage them to give it a go.
+Loomio includes tools to help you invite people; but you may also need to reach out to members by phone, text, chat or in a meeting, to tell them **why** you are using Loomio. If your group members resonate with this, it will encourage them to give it a go.
 
 For example, your group might need:
 - a safe space where members can find all the info they need and participate in their own time
