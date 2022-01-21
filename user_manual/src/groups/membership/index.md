@@ -32,14 +32,6 @@ If your group's privacy is **closed** then you share your group URL ie: `www.loo
 
 You can send multiple invitations by entering (or copy pasting) multiple email addresses into the who to invite field (separated by commas or spaces). When you submit the form (ie, click **Send**) an email will be sent to each of the email addresses you supplied, containing a unique invitation link that can only be used once. This email will be sent in your current language.
 
-### Re-send invitations
-
-Follow up on people who don't make it into the group and give them a nudge. If someone has lost or forgotten about their invitation email, you can re-send it from the dropdown menu beside their name on the Members page.
-
-Click on the three dots (**⋮**) next to the person you want to resend the invitation to, and then choose **Resend invitation**. 
-
-![](resend-invitation.png)
-
 ### Invite people to Subgroups
 
 You will follow the same process as above.
@@ -65,6 +57,14 @@ To manage invitations, open the filter/ drop down from the Members tab of your G
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/BH0x494sZlU?rel=0" frameborder="0" allowfullscreen></iframe>
 
 You can also make people administrators or set their title (eg, "IT Support") within the group before they accept their invitation.
+
+### Re-send invitations
+
+Follow up on people who don't make it into the group and give them a nudge. If someone has lost or forgotten about their invitation email, you can re-send it from the dropdown menu beside their name on the Members page.
+
+Click on the three dots (**⋮**) next to the person you want to resend the invitation to, and then choose **Resend invitation**. 
+
+![](resend-invitation.png)
 
 ### Cancelling invitations
 If you entered the wrong email address, or have changed your mind about inviting someone, you can cancel an invitation from the Members tab on your Group page. Select **Cancel Invitation** from the drop down menu to the right of the member invitation (**⋮**).
