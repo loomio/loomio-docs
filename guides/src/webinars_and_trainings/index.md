@@ -1,4 +1,4 @@
-# Recordings and Live Support
+# Webinar recordings
 
 _Want to learn how to use Loomio or introduce it to your group? We're here to help._
 
@@ -20,6 +20,6 @@ Or read the written companion [guide](/en/guides/advice_process).
 
 ### Live support
 
-If you have a subscription, [let us know](https://loomio.org/contact/?utm_campaign=webi-trainings-help&utm_term=help) if you are looking for some support or hoping to connect live.
+[Let us know](https://loomio.org/contact/?utm_campaign=webi-trainings-help&utm_term=help) if you are looking for some support or would like to talk with a Loomio expert.
 
 If you are evaluating whether Loomio is for you, [don't hesitate to reach out](https://loomio.org/contact/?utm_campaign=webi-trainings-help&utm_term=help)
