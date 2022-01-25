@@ -53,5 +53,36 @@ That's it! You should now have an active Loomio user account and able to partici
 When you return to Loomio, in most cases you browser will remember you and automatically sign you in.  
 However if you have reset your computer or are accessing Loomio from another device, you will be need to sign in again.  The simplest way to do this is to sign in via email and follow the prompts.
 
+---
+## Add Loomio to your Smartphone home screen
 
+Loomio is a mobile optimized web app and you can add the Loomio icon to your Smartphone home screen.
+
+Follow the instructions below to add a shortcut to Loomio on the home screen of your iPad, iPhone, or Android devices.
+
+### iPhone or iPad
+Launch “Safari” app.  (This does not work from the “Chrome” app.)
+
+Go to [loomio.org](https://www.loomio.org/) and sign in. 
+- Enter your email address and tap 'CONTINUE WITH EMAIL'
+- Tap 'SIGN IN VIA EMAIL'
+- Check your email and type in the 6 digit code. Tap 'SIGN IN'
+
+Tap the 'Share' icon (it has an arrow coming out of a box) to open the share menu.
+
+Find and tap “Add to Home Screen.” The Add to Home box will appear, with Loomio icon and name.
+
+Tap “Add.” Safari will close and the Loomio icon will appear on your home screen.
+
+### Android
+Launch “Chrome” app.
+
+Go to [loomio.org](https://www.loomio.org/) and sign in. 
+- Enter your email address and tap 'CONTINUE WITH EMAIL'
+- Tap 'SIGN IN VIA EMAIL'
+- Check your email and type in the 6 digit code. Tap 'SIGN IN'
+
+Tap the menu icon (3 dots in upper right-hand corner) and tap Add to homescreen.
+
+The Loomio icon will appear on your home screen.
 
