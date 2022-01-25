@@ -64,15 +64,6 @@ Follow the instructions below to add a shortcut to Loomio on the home screen of 
 Launch “Safari” app.  (This does not work from the “Chrome” app.)
 
 Go to [loomio.org/dashboard](https://www.loomio.org/dashboard).
-- Click Share
-- Add to home screen
-- Open Loomio from homescreen
-- Sign in with Code
-- now you'll stay signed in
-
-- Enter your email address and tap 'CONTINUE WITH EMAIL'
-- Tap 'SIGN IN VIA EMAIL'
-- Check your email and type in the 6 digit code. Tap 'SIGN IN'
 
 Tap the 'Share' icon (it has an arrow coming out of a box) to open the share menu.
 
@@ -83,12 +74,20 @@ Tap “Add.” Safari will close and the Loomio icon will appear on your home sc
 ### Android
 Launch “Chrome” app.
 
-Go to [loomio.org](https://www.loomio.org/) and sign in. 
-- Enter your email address and tap 'CONTINUE WITH EMAIL'
-- Tap 'SIGN IN VIA EMAIL'
-- Check your email and type in the 6 digit code. Tap 'SIGN IN'
+Go to [loomio.org/dashboard](https://www.loomio.org/dashboard).
 
 Tap the menu icon (3 dots in upper right-hand corner) and tap Add to homescreen.
 
 The Loomio icon will appear on your home screen.
+
+### Tap the Loomio icon on your homescreen to open Loomio
+
+The first time you do this, you will need to sign in to Loomio.
+- Enter your email address and tap 'CONTINUE WITH EMAIL'
+- Tap 'SIGN IN VIA EMAIL'
+- Check your email and type in the 6 digit code. Tap 'SIGN IN'
+
+You will be taken directly to Loomio where you can read and participate with your group as usual.
+
+Loomio will remember you, so you will be automatically signed in the next time you visit.
 
