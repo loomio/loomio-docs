@@ -63,7 +63,13 @@ Follow the instructions below to add a shortcut to Loomio on the home screen of 
 ### iPhone or iPad
 Launch “Safari” app.  (This does not work from the “Chrome” app.)
 
-Go to [loomio.org](https://www.loomio.org/) and sign in. 
+Go to [loomio.org/dashboard](https://www.loomio.org/dashboard).
+- Click Share
+- Add to home screen
+- Open Loomio from homescreen
+- Sign in with Code
+- now you'll stay signed in
+
 - Enter your email address and tap 'CONTINUE WITH EMAIL'
 - Tap 'SIGN IN VIA EMAIL'
 - Check your email and type in the 6 digit code. Tap 'SIGN IN'
