@@ -67,9 +67,15 @@ Go to [loomio.org/dashboard](https://www.loomio.org/dashboard).
 
 Tap the 'Share' icon (it has an arrow coming out of a box) to open the share menu.
 
+![](share-button.png#width-50)
+
 Find and tap “Add to Home Screen.” The Add to Home box will appear, with Loomio icon and name.
 
+![](add-home-screen.png#width-50)
+
 Tap “Add.” Safari will close and the Loomio icon will appear on your home screen.
+
+![](home-screen.png#width-50)
 
 ### Android
 Launch “Chrome” app.
