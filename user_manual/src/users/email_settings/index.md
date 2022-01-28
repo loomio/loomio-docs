@@ -33,11 +33,13 @@ There are three settings that apply to every group you belong to.
 
 ![email settings](email_settings.png)
 
-* **Daily summary email** - Enabling this setting means each morning you will get an email with any activity that you missed the day before. This email provides an easy routine for staying up to date with Loomio activity.
+* **Mentions & Replies** - Enabling this setting means when someone wants to get your attention, they can @mention your name in a comment, which will notify you. We recommend you leave this setting on, so you'll get an email when this happens. The default setting is 'on'.
 
-* **Subscribe on participation** - Enabling this setting means when you participate in a thread, all further activity will be emailed to you immediately.
+* **Subscribe on participation** - Enabling this setting means when you participate in a thread, all further activity will be emailed to you immediately.  If it is an active thread, you may receive many emails. The default setting is 'off'.
 
-* **Mentions & Replies** - Enabling this setting means when someone wants to get your attention, they can @mention your name in a comment, which will notify you. We recommend you leave this setting on, so you'll get an email when this happens.
+* **Catch-up summary email** - Enabling this setting means you will get an email with any activity that you missed the day, or week, before. This provides an easy routine for staying up to date with Loomio activity.
+
+![catch-up summary setting](catch_up_summary_setting.png)
 
 To adjust these settings, go to [Notification settings](https://www.loomio.org/email_preferences) in the user menu (click your name at the top of the sidebar _if it is closed, click on the menu icon_ (**☰**) _to open it._ Then click the cog icon or **Notification settings**.
 
