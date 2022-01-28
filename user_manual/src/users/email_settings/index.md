@@ -105,6 +105,6 @@ Note that the **subscribe on participation** setting affects your thread email s
 
 To turn off all email notifications go to [Notification settings](https://www.loomio.org/email_preferences/). First, untick all the boxes and **Save changes**. Lastly, choose **no notifications** and then **Update**.
 
-![](turn_off_all_emails.png)
+![](turn_off_all_emails_1.png)
 
 ![](turn_off_all_emails_2.png)
