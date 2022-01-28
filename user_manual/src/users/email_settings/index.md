@@ -31,7 +31,7 @@ For any thread-specific email (that's most except the Yesterday on Loomio email)
 
 There are three settings that apply to every group you belong to.
 
-![email settings](email-settings.png)
+![email settings](email_settings.png)
 
 * **Daily summary email** - Enabling this setting means each morning you will get an email with any activity that you missed the day before. This email provides an easy routine for staying up to date with Loomio activity.
 
