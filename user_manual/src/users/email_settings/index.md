@@ -39,7 +39,7 @@ There are three settings that apply to every group you belong to.
 
 * **Catch-up summary email** - Enabling this setting means you will get an email with any activity that you missed the day, or week, before. This provides an easy routine for staying up to date with Loomio activity.
 
-![catch-up summary setting](catch_up_summary_setting.png)
+![catchup summary email setting](catchup_summary_email_setting.png)
 
 To adjust these settings, go to [Notification settings](https://www.loomio.org/email_preferences) in the user menu (click your name at the top of the sidebar _if it is closed, click on the menu icon_ (**☰**) _to open it._ Then click the cog icon or **Notification settings**.
 
