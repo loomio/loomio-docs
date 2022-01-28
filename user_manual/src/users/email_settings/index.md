@@ -33,45 +33,57 @@ There are three settings that apply to every group you belong to.
 
 ![email settings](email_settings.png)
 
-* **Mentions & Replies** - Enabling this setting means when someone wants to get your attention, they can @mention your name in a comment, which will notify you. We recommend you leave this setting on, so you'll get an email when this happens. The default setting is 'on'.
+### Mentions & Replies
 
-* **Subscribe on participation** - Enabling this setting means when you participate in a thread, all further activity will be emailed to you immediately.  If it is an active thread, you may receive many emails. The default setting is 'off'.
+Enabling this setting means when someone wants to get your attention, they can @mention your name in a comment, which will notify you. We recommend you leave this setting on, so you'll get an email when this happens. The default setting is 'on'.
 
-* **Catch-up summary email** - Enabling this setting means you will get an email with any activity that you missed the day, or week, before. This provides an easy routine for staying up to date with Loomio activity.
+### Subscribe on participation
+
+Enabling this setting means when you participate in a thread, all further activity will be emailed to you immediately.  If it is an active thread, you may receive many emails. The default setting is 'off'.
+
+### Catch-up summary email
+
+Enabling this setting means you will get an email with any activity that you missed the day, or week, before. This provides an easy routine for staying up to date with Loomio activity.  You can choose:
+
+- 'Off' to not receive this email.
+- 'Every day' to receive the email daily.
+- 'Every second day' to receive the email every second day.
+- 'Monday', 'Tuesday'...'Sunday' to receive the email once a week on a particular day.
 
 ![catchup summary email setting](catchup_summary_email_setting.png)
 
-To adjust these settings, go to [Notification settings](https://www.loomio.org/email_preferences) in the user menu (click your name at the top of the sidebar _if it is closed, click on the menu icon_ (**☰**) _to open it._ Then click the cog icon or **Notification settings**.
+### To change Notification settings
+
+To change these settings, go to [Notification settings](https://www.loomio.org/email_preferences) in the user menu (click your name at the top of the sidebar _if it is closed, click on the menu icon_ (**☰**) _to open it._ Then click the cog icon or **Notification settings**.
 
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/VMhTAL5oXI8?rel=0" frameborder="0" allowfullscreen></iframe>
 
 From Notification settings you can also change _all_ of your group email preferences at once.
 
-## Group email preferences
+## Group email Notification settings
 
 You can configure what notification emails you get for each group you belong to.
 
 Notification settings for each specific group are found in your Loomio group. To find them
 
-1. Click on your group page
-2. Click on the tab, **Settings**
-3. **Email settings** will be the first listed
+- Click on your group page
+- Click on the letter envelope icon to open, **Notifications for [group name]**
 
-**There are three settings per group:**
+**When do you want to be notified?**
 
-1. Receive emails **whenever there is activity** (subscribed)
+1. **whenever there is activity** (subscribed)
 
  - If you want the experience of a traditional email mailing list, where you are emailed everything as it happens. You will be emailed whenever there is activity (comments, votes, new threads, proposals, and proposal outcomes) in this group.
 
-2. Use the **normal** setting (**when someone asks for your attention**)
+2. **when someone asks for your attention** (normal)
 
- - When someone invites you to vote or participate in a thread you'll get an email. In these cases someone in your group is choosing to notify you.
+ - When someone invites you to vote or participate in a thread you'll get an email. In these cases someone in your group is choosing to notify you. This is the default setting.
 
-3. Choose to receive **no notifications** (ignore)
+3. **no notifications** (ignore)
 
- - You won't get notification emails about this group. It's up to you to check into Loomio or read your daily summary email to stay updated.
+ - You won't get notification emails about this group. You will need to sign in to Loomio regularly or read your catch-up summary email to stay updated.
 
-You can also apply a particular setting to all of your groups by checking **Apply these settings to all my groups**.
+You can apply a particular setting to all of your groups by checking **Apply to all groups**.
 
 ![Group email settings](group_email_settings.png)
 
@@ -94,3 +106,5 @@ Note that the **subscribe on participation** setting affects your thread email s
 To turn off all email notifications go to [Notification settings](https://www.loomio.org/email_preferences/). First, untick all the boxes and **Save changes**. Lastly, choose **no notifications** and then **Update**.
 
 ![](turn_off_all_emails.png)
+
+![](turn_off_all_emails_2.png)
