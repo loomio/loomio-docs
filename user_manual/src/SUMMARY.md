@@ -32,7 +32,7 @@
 # Your Profile
 - [User profile](users/user_profile/index.md)
 - [Deleting your account](users/deleting_your_account/index.md)
-- [Email settings](users/email_settings/index.md)
+- [Notifications](users/email_settings/index.md)
 - [Merge accounts](users/merge_accounts/index.md)
 - [Navigation](users/navigation/index.md)
 - [Sign in](users/sign_in/index.md)
