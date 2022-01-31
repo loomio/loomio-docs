@@ -46,7 +46,7 @@ Know how to :
 * Send/Receive email, browse the internet and open links to go to web pages
 * If Director is not comfortable using their computer or smart phone, is there a person in the organisation, friend of family member who can help them with these things?
 
-Loomio works with all standard internet browsers such as Google Chrome, Microsoft Edge, Firefox and Apple Safari. Old unsupported browsers are not supported, such as Microsoft Internet Explorer.
+Loomio works with all standard internet browsers such as Google Chrome, Microsoft Edge, Firefox and Apple Safari. Old out-of-date browsers are not supported, such as Microsoft Internet Explorer.
 
 [Contact Loomio support](https://www.loomio.com/contact) to let us know if you have problems with Loomio on your device.
 
@@ -65,9 +65,9 @@ Please review each of the following settings and change to suit your organizatio
 
 **Group name**: The name of your organization is the default. Do you want to change this?
 
-**Handle**: A simplified label for your group that you can share with others, *e.g. decisions.oric.gov.au/aboriginal-corporation*.
+**Handle**: A simplified label for your group that you can share with others, *e.g. decisions.oric.gov.au/loomio*.
 	
-***Tip**: Short names work best for your handle.*
+- ***Tip**: Short names work best for your handle.*
 
 **Cover image**: Upload an image that represents your organization. *(Replace the stock image.)*
 
@@ -77,7 +77,7 @@ Please review each of the following settings and change to suit your organizatio
 
 **Group Description**: The group description is the first place people see when they arrive into your group. This helps new people as they join your group to understand the purpose of the group, what work you are going to do, and provide any other information that helps people as they participate.
 
-A template description for your group is provided. You can edit or replace with your own text, upload or link to any relevant documents. A wide range of formatting tools are available to help you.
+A template description for your group is provided. You can edit or replace with your own text, upload or link to any relevant documents. A wide range of formatting tools are available to help you, including:
 
 * **Attach files**: Use the paper clip icon to attach files from your computer. *(Find this just below the group description box.)*
 * **Insert link**: Go to the internet page you want to link to, copy the link to your clipboard. Highlight the text that you want to link. Click Insert link and paste the link and click Apply.
@@ -86,7 +86,7 @@ A template description for your group is provided. You can edit or replace with 
 
 Here is an example of a group description.
 
-![](group-description-template.png#width-90)
+![](group-description-template-1.png#width-90)
 
 ## Other Group settings
 
