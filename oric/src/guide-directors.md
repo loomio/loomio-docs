@@ -70,7 +70,7 @@ A **thread** is where your board will discuss corporation concerns and make gove
 
 ![](thread-list-a.png#width-40)
 
-Scroll down the thread to read other people's comments. You'll reach a place where you can write your own.
+Tap on a thread to open it, and scroll down the thread to read other people's comments. You'll reach a place where you can write your own.
 
 Make sure that the **comment** tab is highlighted and write in the space alongside your profile image. There are buttons below that space to add documents, images, links—and to format your words (make a heading, bold or italic, list items, and so on).
 
