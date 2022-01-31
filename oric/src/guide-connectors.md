@@ -189,7 +189,7 @@ You can add an optional message to encourage people to click the invitation butt
 *Hi, please join our private Loomio group. We use this space to notify directors of meetings, prepare and vote on resolutions, discuss topics between meetings, and to record decisions in a searchable archive.*
 
 
-***Tip**: If you have a lot of people to invite, you can copy up to 100 email addresses at a time from a list, such as from a spreadsheet column.*
+- ***Tip**: If you have a lot of people to invite, you can copy up to 100 email addresses at a time from a list, such as from a spreadsheet column.*
 
 *Example:*
 
@@ -211,9 +211,9 @@ We can use this thread to introduce Loomio to directors, and invite them to post
 
 Threads are where your group can discuss a topic, exchange information and make decisions together. Threads keep everything about a topic in the same place. Over time you’ll create a useful archive of your group’s discussions and decisions.
 
-***Tip**: Use a Loomio thread instead of writing an email.*
+- ***Tip**: Use a Loomio thread instead of writing an email.*
 
-*All the information, discussion and replies are in one place, where you can see who has read the thread, and nudge people if needed; avoiding email chain confusion.*
+- *All the information, discussion and replies are in one place, where you can see who has read the thread, and nudge people if needed; avoiding email chain confusion.*
 
 **Group** - Select the group or subgroup you want to post the thread in. When started, your thread will be visible to the members of your group or subgroup.
 
@@ -230,7 +230,7 @@ You can also select **Invite-only thread (no group)** if you want to have a priv
 
 **First thread suggestion**
 
-![](https://i.imgur.com/FFVFkCd.png#border-none)
+![](Start_first_thread.png#width-80)
 
 
 # 5. Start a first Poll
