@@ -41,7 +41,7 @@ In the middle of the email is a button to **accept invitation**. Use it! It will
 
 On that webpage you will see a button to **CONTINUE WITH EMAIL**. Use that button and you will land at a page to create your Loomio user account:
 
-![](create-account.png)
+![](create-account.png#width-80)
 
 Type in your name, so people in your group will recognise you.
 
@@ -68,7 +68,7 @@ Here, you can **introduce yourself**, your expertise, interests, affiliations. Y
 ## Threads, comments and other responses
 A **thread** is where your board will discuss corporation concerns and make governance decisions. Your group page will list each thread, like this:
 
-![](thread-list-a.png#width-40)
+![](thread-list-a.png#width-80)
 
 Tap on a thread to open it, and scroll down the thread to read other people's comments. You'll reach a place where you can write your own.
 
@@ -76,7 +76,7 @@ Make sure that the **comment** tab is highlighted and write in the space alongsi
 
 When you are ready, use the button to **POST COMMENT**.
 
-![](comment.png#width-40)
+![](comment.png#width-80)
 
 If you see something you want to change, you can **edit** your comment. To do that, tap the small pencil icon at the bottom-right of a comment.
 
@@ -90,7 +90,7 @@ When someone adds a poll, it appears in the mini-navigation in the right-hand si
 
 Here is an example of a poll:
 
-![](invitation-to-vote.png#width-40)
+![](invitation-to-vote.png#width-80)
 
 **To vote**
 
@@ -98,7 +98,7 @@ Tap on the icon that best matches your response. You can also leave a reason or 
 
 Then **SUBMIT VOTE**
 
-![](vote-form.png#width-40)
+![](vote-form.png#width-80)
 
 
 ## Frequently asked questions from people new to Loomio
