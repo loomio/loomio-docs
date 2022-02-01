@@ -57,7 +57,7 @@ When you first join Loomio, it invites you to add a picture—or to instead use 
 
 To add a photo to your profile, tap to **upload new photo**. Browse to a suitable photo file from your computer. (It will show up small, so a photo of your face is best.)
 
-![](upload-photo.png#width-40)
+![](upload-photo.png#width-80)
 
 Once you select the photo you want, use the button marked **open** to upload it. You can always change it later.
 
