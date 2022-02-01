@@ -13,7 +13,7 @@ From here you can name the task, assign someone with the standard @mention featu
 
 When you have assigned task to someone, or a task is assigned to you, the task will appear on your Tasks page so you can easily keep track of the tasks you’re responsible for.
 
-![](tasklist3.png)
+![](task_list.png)
 ## Set a reminder
 If you click "Add due date", you'll be asked when the task is due, and when to send a reminder to person assigned to the task. The "Task due" notification is sent via email.
 
