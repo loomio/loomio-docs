@@ -23,6 +23,7 @@
 - [Engaging with threads](threads/engaging_with_threads/index.md)
 - [Navigating threads](threads/navigating_threads/index.md)
 - [Thread admin](threads/thread_admin/index.md)
+- [Tasks](threads/thread_admin/tasks.md)
 
 # Decisions
 - [Starting proposals](polls/starting_proposals/index.md)
