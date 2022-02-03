@@ -10,7 +10,7 @@ Loomio is a collaborative working space, shaped for making decisions — to achi
 
 ### Group
 
-A Loomio group is a safe place for your organisation to meet, discuss and make decisions about work.
+A Loomio group is a safe place for your board to meet, discuss and make decisions about your governance work.
 
 ![](Groups.png#width-50)
 
