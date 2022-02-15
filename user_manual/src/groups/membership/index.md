@@ -72,9 +72,11 @@ If you entered the wrong email address, or have changed your mind about inviting
 ![](cancel_invitation.png)
 
 ## Managing memberships
-Managing members is easy. The following management actions are available from the Members tab on your Group page. Just click on the three dots (**⋮**) to the right of the group member you wish to remove, promote or demote from **admin**, or assign a **title**.
+Manage members from the Members tab on your Group page. 
 
-![](remove_from_group.png)
+Click on the three dots (**⋮**) to the right of the group member you wish to **Set title**, **Make admin** or **Demote admin**, or **Remove from group**.
+
+![](members_tab.png)
 
 ### Admin
 There are only two user types in a Loomio group; **member** and **admin**. 
