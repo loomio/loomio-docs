@@ -15,22 +15,29 @@ For example, your group might need:
 
 Go to your group page and click the **Members** tab to access member management
 
-Click one of two options
-
-1. **Invite**: If you have their email addresses, you can send invitations to each member of your group.
-2. **Share**: Or you can share the **Reusable invitation link** via email or however your team communicates.
+You can **Invite** particular people to your group with their email address or **Share** a link to your group via email, newsletter, chat or from your website.
 
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/RGv0Yq6sv8g?rel=0" frameborder="0" allowfullscreen></iframe>
 
+## Invite people via their email
+
+Click **Invite** on the Member tab of your group page to send an email invitation with a _single-use_ link to a person's email address.  The recipient is invited to create a Loomio user account and join your group.  
+
+If the recipient already has a Loomio user account they can still accept the invitation to join your group with their existing account.
+
+![](invite_member.png)
 
 ### Allow people to "Request to Join"
 
-If your group's privacy is **closed** then you share your group URL ie: `www.loomio.org/group-name`. When people arrive at your group page, they will see the title, the description, and a button **Join group** to request membership. As administrator of the group, you will receive an email where you can approve the request.
-
+If your group's privacy is **closed** then you can share your group URL ie: `www.loomio.org/group-name`. When people arrive at your group page, they will see the group title and description, and a button **Join group** where they can request membership. Group admins will receive an email where you can approve or deny the request to join.
 
 ### Invite many at once
 
-You can send multiple invitations by entering (or copy pasting) multiple email addresses into the who to invite field (separated by commas or spaces). When you submit the form (ie, click **Send**) an email will be sent to each of the email addresses you supplied, containing a unique invitation link that can only be used once. This email will be sent in your current language.
+You can send invitations by email to up to 100 people at a time by entering (or copy/pasting) multiple email addresses into the "Who would you like to invite" box. Separate email addresses by comma or space. 
+
+- **Tip**: Copy email addresses from a column in a Google or Excel spreadsheet, and paste into the invitation box.
+
+When you submit the form (ie, click **Send**) an email will be sent to each of the email addresses you supplied, containing a unique invitation link that can only be used once. This email will be sent in your current language.
 
 ### Invite people to Subgroups
 
@@ -43,12 +50,6 @@ You can invite people to a 'parent' group, and one or more subgroups simultaneou
 If people join but don't begin to participate right away, you might like to welcome them to the group with an @mention, for example:
 
 > “Welcome to the group @Jane :) It's great to have you here! Would you saying a little bit about your work in this space?”
-
-## Invite people via their email
-
-Clicking **Invite people** on the Member tab of your group page will send a _single-use_ link allowing the recipient to start an account in your group or associate an existing account to your group.
-
-You only need to be sure that they go into their email inbox (or Loomio account) to receive the invitation, it does not need to go to their "best" email address (eg, to the email they may already use for Loomio). The invite is not fixed to the email address you sent it to. So if someone already has a Loomio account and you send them an invitation to another email address, they can accept the invitation with their existing account.
 
 ## Managing invitations
 
