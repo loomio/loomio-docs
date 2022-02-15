@@ -77,13 +77,17 @@ Managing members is easy. The following management actions are available from th
 ![](remove_from_group.png)
 
 ### Admin
-Admin are those people with the _most_ permissions in a group. Admin can add and remove members, grant and remove admin permissions and modify group settings.
+There are only two user types in a Loomio group; **member** and **admin**. 
 
-Click on the three dots (**⋮**) next to the person you want to make an admin, and then choose **Make admin**. You will now see that there is an `Admin` tag to the right of their name.
+Admins perform administrative tasks for your group including; add and remove members, grant and remove admin permissions, change group privacy and member permission settings, upgrade and manage subscription plans.
 
-We recommend that you share the coordinator permission with everyone who is trusted to look after the group. Ideally there is more than one Admin of a group.
+The person creating a new Loomio group is made admin by default. We recommend to make at least one other person in your group admin, to insure someone can always administer your group. 
 
-![Selecting make admin from the membership dropdown menu](make-admin.png)
+Admins are people you trust to administer your group. You can have as many admins in your group as you wish.
+
+To make a member **admin**, go to the Members tab, find the member and click on the three dots (**⋮**) next to their name. Choose **Make admin**. An `Admin` tag will appear beside their name.
+
+![Selecting make admin from the membership dropdown menu](make_admin.png)
 
 #### Managing subgroups
 If you are the admin of a parent group, or organization, you have additional permissions with regards to any __closed__ subgroups.
