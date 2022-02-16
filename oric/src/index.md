@@ -2,11 +2,14 @@
 
 *This guide was made for Aboriginal and Torres Strait Islander corporations in the ORIC–Loomio ‘connected governance’ program, but it may be of interest to anyone seeking to use Loomio for good governance.*
 
+## Background & introduction
+
 Good governance happens when directors understand their corporation's **context** and set up a system and processes to serve its **purpose** and meet their **obligations** under the law.
 
-*“It is participatory, consensus-oriented, accountable, transparent, responsive, effective and efficient, equitable and inclusive and follows the rule of law.”* That's a [description of good governance](https://www.unescap.org/sites/default/d8files/knowledge-products/good-governance.pdf) from the United Nations Economic and Social Commission for Asia and the Pacific.
+> *“It is participatory, consensus-oriented, accountable, transparent, responsive, effective and efficient, equitable and inclusive and follows the rule of law.”* 
+> [United Nations Economic and Social Commission for Asia and the Pacific](https://www.unescap.org/sites/default/d8files/knowledge-products/good-governance.pdf).
 
-Open communication is at its heart.
+**Open communication** is at its heart.
 
 You can use Loomio to strengthen governance: **collaborate** beyond board meetings, **include everyone** in open, honest and respectful discussion, and **document everything** as you go. Then when directors do come together at the same time, they can ratify all the key decisions.
 
