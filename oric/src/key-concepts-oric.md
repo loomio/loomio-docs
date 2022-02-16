@@ -30,15 +30,21 @@ Threads are where you share information, discuss, and make decisions.
 
 ![](Threads.png#width-50)
 
+> *Threads keep conversations in line, showing you who said what, when.*
+
 Threads are used for many purposes. In a board, you will use threads to prepare for a board meeting, discuss matters, share reports, ask questions, vote on resolutions, approve minutes, and so on. It's also where your group can develop a consensus or at least a shared understanding of issues important to you.
 
-Threads keep everything about a topic in one place. Over time you’ll create a useful archive of your organisation’s discussions and decisions.
+Threads keep everything about a topic in one place. Over time you’ll create a useful archive of your organisation’s discussions and decisions. You can see who has read the thread, and nudge people if needed. A threaded conversation is far less confusing to read than a series of emails from multiple people.
+
+> *Everything in Loomio happens within a thread, so other sections of this guide talk more about threads.*
 
 ### Proposal
 
 One of the best things about Loomio is its range of tools for gaining a clear view of where your group stands on any matter. Each tool has a slightly different purpose. The most common one is a proposal. 
 
 ![](Proposals.png#width-50)
+
+> *To funnel a discussion into a decision, or to gauge your board's response to a new idea, make a proposal.*
 
 A **proposal** is for converting a discussion into a clear, practical outcome. Someone suggests a course of action and invites everyone to respond. For example, you might ask group members to either:
 - agree
@@ -47,7 +53,7 @@ A **proposal** is for converting a discussion into a clear, practical outcome. S
 
 Importantly, as well as selecting a response, everyone in the group has a chance to explain what prompted it. You can all see where everyone else stands on the matter, and why. And then, if you want, you can change your response. 
 
-As well as helping your group to convert discussions into outcomes, a proposal creates its own record of how the decision came about.
+As well as helping your group to convert discussions into outcomes, **a proposal forms a record** of how the decision came about.
 
 ### Other voting tools
 
@@ -62,5 +68,5 @@ Loomio offers a range of other poll tools:
 - **Dot vote**: to ask people to express the strength of their preferences, with a constraint—a fixed number of ‘dots’ to allocate–you can put all your dots in one place or spread them out
 - **Ranked choice**: to rank a subset of options—useful for elections when there are many candidates and few seats
 
-The best way to learn what to use when is to have a go. Use your own Loomio group or [create a demo group](https://decisions.oric.gov.au/try). 
+The best way to learn what to use when is to have a go. Either use your own Loomio group, or create a demo group at [decisions.oric.gov.au/try](https://decisions.oric.gov.au/try). 
 
