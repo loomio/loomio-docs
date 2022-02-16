@@ -11,9 +11,40 @@ Good governance happens when directors understand their corporation's **context*
 
 **Open communication** is at its heart.
 
-You can use Loomio to strengthen governance: **collaborate** beyond board meetings, **include everyone** in open, honest and respectful discussion, and **document everything** as you go. Then when directors do come together at the same time, they can ratify all the key decisions.
+### Office of the Registrar of Indigenous Corporations (ORIC)
 
-Loomio—and this guide to using it—will help your board to **communicate well**, **make good decisions** and **be accountable**.
+Office of the Registrar of Indigenous Corporations (ORIC) knows that boards of Aboriginal and Torres Strait Islander corporations face various challenges. The following are just some examples.
+- Directors live in different places—and they’re busy people—so it’s difficult to arrange to meet regularly in person.
+- Some corporations deal with a high volume of transactional business (such as approvals for land use and financial transactions).
+- Corporations’ governance frameworks and practices may still be forming.
+- In many remote locations around Australia, internet service is poor.
+- Some directors are unfamiliar with online technology, and/or have low literacy.
+- The legacy of historical dispossession, separation and loss means that some corporations struggle with long-standing internal conflicts.
+
+It is ORIC’s role to support corporations to govern in accordance with:
+- the CATSI Act
+- your rule book and
+- your cultural obligations.
+With all those challenges in mind, we looked around for a tool and service that goes farthest to meet the complex needs of Aboriginal and Torres Strait Islander corporations—and we found Loomio.
+
+### Loomio
+
+Loomio is a New Zealand-based cooperative. It offers a collaborative online working space for groups to make decisions. 
+
+<div class="iframe-container">
+<iframe width="608" height="380" src="https://www.youtube.com/embed/Zlzuqsunpxc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+Loomio offers a chance to strengthen governance by enabling your board to:
+- extend collaboration beyond board meetings
+- include everyone in open, honest and respectful discussion
+- document everything as it happens.
+
+We want to set you up for success, not only in using the tools, but to govern well and achieve the objectives of your corporation. We hope that Loomio—and this guide to using it—will help your board to:
+- communicate well
+- make good decisions and
+- be accountable.
 
 ## Within this guide
 This guide includes the following sections:
