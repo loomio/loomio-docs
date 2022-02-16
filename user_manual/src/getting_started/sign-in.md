@@ -83,7 +83,7 @@ Find and tap “Add to Home Screen.” The Add to Home box will appear, with Loo
 
 Tap “Add.” Safari will close and the Loomio icon will appear on your home screen.
 
-![](home-screen.png#width-50)
+![](home_screen.png#width-50)
 
 ### Android
 Launch “Chrome” app.
