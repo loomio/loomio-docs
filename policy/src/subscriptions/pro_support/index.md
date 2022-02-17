@@ -1,13 +1,16 @@
-# Bespoke Implementation Packages & Pro
-_Get a tailored implementation experience with a dedicated Loomio expert – ensure key users are up to speed and you are set for success with Pro priority support._
+# Pro support
+_Access expert support to help you set up Loomio for success. Working with a Loomio expert introduces you to Loomio key features, helps build a plan to implement and rollout in your organization, and provides coaching support for online facilitation and administration._
 
 ## What is Loomio Pro support?
 With the purchase of a Loomio Pro plan you will receive a dedicated Loomio expert to interact with for any ongoing support you might need.
 
 1. When you upgrade, you will be invited to a one-hour implementation session on how to get the most out of Loomio. It’s for you, and the people you would like included, to become confident in using Loomio to meet your needs.
+
 2. Within the first 90 days, having the opportunity to put into practice the steps identified in the first call, you can schedule another time to follow up with your dedicated Loomio expert to refine your use of Loomio.
 
-We’ll keep in contact with you with opportunities to see how Loomio could work better for you, and introduce new features. Pro plan customers enjoy priority support all year round, to answer questions, help onboard new users, and more.
+Delivery of Pro support is usually via video call (say Zoom), email and within Loomio.
+
+We’ll keep in contact with you about opportunities for how Loomio could work better for you, and introduce new features. Pro plan customers receive priority support all year round; to answer questions, help onboard new users, and more.
 
 **[Upgrade to Pro here.](https://loomio.org/upgrade)**
 
