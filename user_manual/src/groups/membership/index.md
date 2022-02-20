@@ -104,9 +104,11 @@ Once you have joined the subgroup, you will also be able to make yourself the ad
 ***Note:*** *these permissions do not extend to* ***secret*** *subgroups.*
 
 ### Removing group members
-When you click **Remove from group** you'll be asked to confirm the removal. Upon removal, this user will no longer have access to the group's pages, threads, polls, or proposals. They will, of course, still have access to any emails they had been sent via Loomio up to this date, but they will receive no further emails of group activity.
+When you click **Remove from group** you'll be asked to confirm the removal. Upon removal, this user will no longer have access to the group's pages, threads, polls, or proposals. They will receive no further emails or notifications of group activity. However, any comments and votes written by the user will remain untouched.
 
 ![](remove_from_group.png)
+
+After you have removed someone from the group, you can add them back to the group later if you wish.
 
 ### Leaving a group
 To leave a group go to the Group page's **Settings** tab and click **Leave group**.
