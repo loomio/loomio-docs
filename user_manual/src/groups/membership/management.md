@@ -1,11 +1,11 @@
-## Managing memberships
+# Member management
 Manage members from the Members tab on your Group page. 
 
 Click on the three dots (**⋮**) to the right of the group member you wish to **Set title**, **Make admin** or **Demote admin**, or **Remove from group**.
 
 ![](members_tab.png)
 
-### Admin
+## Admin
 There are only two user types in a Loomio group; **member** and **admin**. 
 
 Admins perform administrative tasks for your group including; add and remove members, grant and remove admin permissions, change group privacy and member permission settings, upgrade and manage subscription plans.
@@ -18,7 +18,7 @@ To make a member **admin**, go to the Members tab, find the member and click on 
 
 ![Selecting make admin from the membership dropdown menu](make_admin.png)
 
-#### Managing subgroups
+### Managing subgroups
 If you are the admin of a parent group, or organization, you have additional permissions with regards to any __closed__ subgroups.
 
 You will be able to join any closed subgroup by clicking the "Join Group" button on the left of the Subgroup page in question (just under the tabs).
