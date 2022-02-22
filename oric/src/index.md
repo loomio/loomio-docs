@@ -13,7 +13,7 @@ Good governance happens when directors understand their corporation's **context*
 
 ### Office of the Registrar of Indigenous Corporations (ORIC)
 
-Office of the Registrar of Indigenous Corporations (ORIC) knows that boards of Aboriginal and Torres Strait Islander corporations face various challenges. The following are just some examples.
+Office of the Registrar of Indigenous Corporations (ORIC) knows that boards of Aboriginal and Torres Strait Islander corporations face various **challenges**. The following are just some examples.
 - Directors live in different places—and they’re busy people—so it’s difficult to arrange to meet regularly in person.
 - Some corporations deal with a high volume of transactional business (such as approvals for land use and financial transactions).
 - Corporations’ governance frameworks and practices may still be forming.
