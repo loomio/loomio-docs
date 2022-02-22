@@ -158,13 +158,13 @@ Your initials will be the default image associated with your profile. To upload 
 
 Check and update your profile on Loomio.
 
-* **Name**
-* **Email address** - this email receives your Loomio notifications
-* **Username** - people can use your username to notify you with **@mention** in threads
-* **Introduction** - a few lines to let others in your group know more about you
-* **Location** - so people know where you are
+* **Name** - this name will appear next to all your comments
+* **Email address** - your Loomio notifications will go to this address
+* **Username** - can be used to **@mention** you in threads, so that you will be notified
+* **Introduction** - a few lines to let others in your group know more about you, and that you are here to support their connected governance work
+* **Location** - so people know where you (usually) are.
 
-Note that your email address is not displayed to other users. Your email address can only be seen by Administrators of your group in certain circumstances.
+Note that your email address is not displayed to other users. Your email address can only be seen by administrators of your group in certain circumstances.
 
 *Example:*
 
