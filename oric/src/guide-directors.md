@@ -1,12 +1,12 @@
-# Guide for directors using Loomio
+# For directors
 
 Loomio is a private and secure service for your board to **talk about matters, make decisions and keep track** of everything. Using Loomio between meetings means that when you do meet in person, you can focus on what matters most.
 
-This Loomio service is provided by the Office of Registrar of Indigenous Corporations (ORIC), to strengthen governance in Aboriginal and Torres Strait Islander corporations. Your group will be in the following ORIC domain: **[decisions.oric.gov.au](https://decisions.oric.gov.au)** << *(bookmark that address in your browser)*
+This Loomio service is provided by the Office of Registrar of Indigenous Corporations (ORIC), to strengthen governance in Aboriginal and Torres Strait Islander corporations. Your group will be in the following ORIC domain: **[decisions.oric.gov.au](https://decisions.oric.gov.au)** << *(bookmark that address in your browser and/or [create a shortcut on your phone](https://help.loomio.org/en/user_manual/getting_started/sign-in.html#add-loomio-to-your-smartphone-home-screen))*
 
 Know that **no one from ORIC has access** to your group. It's private for your board members and whoever else you invite.
 
-## Minimum requirements
+## Requirements
 
 Loomio works on standard hardware and software. There is no need to download any software or app but you do need:
 
@@ -16,9 +16,9 @@ Loomio works on standard hardware and software. There is no need to download any
 
 Old browsers such as Internet Explorer might not work.
 
-If you have problems seeing Loomio on your device, please contact [Loomio Support](https://www.loomio.org/contact) or email [contact@loomio.org](mailto:contact@loomio.org).
+If you have problems seeing Loomio on your device, please contact [Loomio Support](https://decisions.oric.gov.au/contact) or email [contact@loomio.org](mailto:contact@loomio.org).
 
-## On this page
+## In this section
 
 Read on for how to:
 
@@ -33,7 +33,7 @@ We'll also share some:
 * common problems (and how to fix them)
 
 
-## Create your path into Loomio
+## Your path into Loomio
 
 You will receive an **email invitation** to join your board's Loomio group. You don’t need a password, and your computer will remember you (if you let it).
 
@@ -45,9 +45,9 @@ On that webpage you will see a button to **CONTINUE WITH EMAIL**. Use that butto
 
 Type in your name, so people in your group will recognise you.
 
-Use the **CREATE ACCOUNT** button, bottom-right. You will then have an account on [decisions.oric.gov.au](https://decisions.oric.gov.au). << Bookmark that page in your browser, and/or create a shortcut on your phone. That way, next time you want to enter the Loomio group space, it's just a tap away.
+Use the **CREATE ACCOUNT** button, bottom-right. You will then have an account on [decisions.oric.gov.au](https://decisions.oric.gov.au). 
 
-## Set how you present yourself
+## Your profile in Loomio
 
 You can add **a picture of yourself**, to display next to all the comments you make. That makes it easy for other directors to see who said what. 
 
@@ -63,7 +63,9 @@ Once you select the photo you want, use the button marked **open** to upload it.
 
 You might want to add more detail to your profile, especially if you don't know your other board members very well. At the top left of your screen you'll see your photo or initials. Tap there, and select **edit profile**. 
 
-Here, you can **introduce yourself**, your expertise, interests, affiliations. You can also add your **location**. There's a field to set your language, but sadly, Loomio is not yet translated into any Aboriginal or Torres Strait Islander languages :(
+Here, you can **introduce yourself**, your expertise, interests, affiliations. You can also add your **location**. There's a field to set your language, but sadly, Loomio is not yet translated into any Aboriginal or Torres Strait Islander languages.
+
+> ***Loomio is translated by volunteers.  [Contact Loomio](https://decisions.oric.gov.au/contact) if you would like to contribute to the translation for your language.***
 
 ## Threads, comments and other responses
 A **thread** is where your board will discuss corporation concerns and make governance decisions. Your group page will list each thread, like this:
@@ -80,19 +82,19 @@ When you are ready, use the button to **POST COMMENT**.
 
 If you see something you want to change, you can **edit** your comment. To do that, tap the small pencil icon at the bottom-right of a comment.
 
-## Voting in a poll
-Polls help groups to make decisions. Your board will probably use polls to:
+## Polls and voting
+Polls help directors make decisions as a whole board. They are useful for administrative tasks like finding a time to meet, and approving minutes (or surfacing errors in them). You can also use a poll for deeper matters, such as to gauge what everyone thinks about something, or to pass a resolution.
+
+Your board will probably use polls to:
 - approve minutes
 - pass resolutions and 
 - find times to meet.
-
-When someone adds a poll, it appears in the mini-navigation in the right-hand sidebar of the thread.
 
 Here is an example of a poll:
 
 ![](invitation-to-vote.png#width-80)
 
-**To vote**
+**Voting**
 
 Tap on the icon that best matches your response. You can also leave a reason or comment about why you chose that option.
 
@@ -100,6 +102,18 @@ Then **SUBMIT VOTE**
 
 ![](vote-form.png#width-80)
 
+When you vote, there is an option to add a comment about why you made that choice.
+
+Depending on how the poll has been set up, you can either see the results instantly, or when the poll has closed. By default, you’ll see who voted which way.
+But polls can also be set to anonymous.
+
+If you make a proposal and it fails to pass muster, you’ll have a good sense of why, so you’ll know how to adjust it to gain more support.
+
+**Timeline**
+
+When someone adds a poll, it appears in the ‘timeline’ (navigation tool) in the right-hand sidebar. Each item in the timeline is a link so you can jump directly to that part of the thread.
+
+You can also manually ‘pin’ any post to the timeline. (Note that you cannot pin a reply.) Use the three dots at the bottom-right of a post and select **Pin to timeline**.
 
 ## Frequently asked questions from people new to Loomio
 
@@ -132,14 +146,14 @@ A. No, you don’t need a password, but you can use one if you prefer. If you ha
 
 **Problem: I can’t receive email**
 
-Solution: Your Loomio user account is linked to your preferred email address.  If you cannot access your email, you will need to sign into Loomio with a password.
+Your Loomio user account is linked to your preferred email address.  If you cannot access your email, you will need to sign into Loomio with a password.
 
 If you need a password set up to access Loomio, contact [Loomio support](https://decisions.oric.gov.au/contact).
 
 **Problem: I need my invitation to Loomio sent as a text message to my phone**
 
-Solution: Contact Loomio support so we can generate an SMS text for you. It will look something like:
+Contact [Loomio support](https://decisions.oric.gov.au/contact) so we can generate an SMS text for you. It will look something like:
 
 > *Hi, this is Michael from Loomio. Use the link below to reach your board's page on Loomio. Follow the instructions to set up your user account and tap ‘Sign in via email’. Any problems, just reply to this text. Thanks!*
 > 
-> *[decisions.oric.gov.au](https://decisions.oric.gov.au)*
+> *[decisions.oric.gov.au/your-corporation-name](https://decisions.oric.gov.au)*
