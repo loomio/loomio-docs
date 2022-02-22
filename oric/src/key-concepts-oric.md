@@ -20,9 +20,11 @@ Your group home page is the first place you see when you arrive. It contains a t
 
 **Subgroups**
 
-Subgroups are a space for a smaller subset of people to focus on a project or committee work.
+A subgroup is a space for a smaller subset of people to focus on a project or committee work.
 
 Depending on the settings, the subgroup can be visible to the broader group, or for subgroup members' eyes only.
+
+***For more on subgroups see ["Setting up for success: What structure suits our board?"](https://help.loomio.org/en/oric/for-success.html#what-structure-suits-our-board)***
 
 ### Thread
 
@@ -46,12 +48,14 @@ One of the best things about Loomio is its range of tools for gaining a clear vi
 
 > *To funnel a discussion into a decision, or to gauge your board's response to a new idea, make a proposal.*
 
-A **proposal** is for converting a discussion into a clear, practical outcome. Someone suggests a course of action and invites everyone to respond. For example, you might ask group members to either:
+A proposal can **convert a wide-ranging discussion into a clear, practical outcome**. Someone suggests a course of action and invites everyone to respond. 
+
+For example, you might ask group members to either:
 - agree
 - abstain or 
 - disagree. 
 
-Importantly, as well as selecting a response, everyone in the group has a chance to explain what prompted it. You can all see where everyone else stands on the matter, and why. And then, if you want, you can change your response. 
+Importantly, as well as selecting a response, everyone in the group has a chance to explain what prompted their response. You can all see where everyone else stands on the matter, and why. And then, if you want, you can change your response. 
 
 As well as helping your group to convert discussions into outcomes, **a proposal forms a record** of how the decision came about.
 
