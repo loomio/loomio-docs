@@ -33,14 +33,13 @@ Our aim is to encourage directors to join and participate in your Loomio group. 
 
 There are a series of steps to the guide. Work through these or navigate to a section using the table of contents.  Reach out to [Loomio support](https://decisions.oric.gov.au/contact) for further help if needed.
 
-* [Are your directors ready for connected governance?](#are-your-directors-ready-for-connected-governance?) - see this first
+* [Are your directors ready for connected governance?](#are-your-directors-ready-for-connected-governance) - see this first
 * [Step 1. Adjust group settings for the board](#1-adjust-group-settings-for-the-board)
 * [Step 2. Set up your personal profile](#2-set-up-your-personal-profile)
-* [Step 3. Invite board members](#3-invite-board-members)
-* [Step 4. Start a first thread](#4-start-a-first-thread)
-* [Step 5. Start a first poll](#5-start-a-first-poll)
-* [Step 6. Subgroups](#6-subgroups)
-* [Why Loomio?](#why-loomio)
+* [Step 3. Manage group membership](#3-manage-group-membership)
+* [Step 4. Start a thread](#4-start-a-thread)
+* [Step 5. Start a poll](#5-start-a-poll)
+* [Step 6. Set up a subgroup?](#6-set-up-a-subgroup)
 
 ---
 
@@ -52,9 +51,9 @@ Connected governance requires directors to use a computer or smartphone connecte
 
 Check that each director has all of the following:
 
-* an **up-to-date device**—a computer, tablet or smart phone with email and a modern internet browser
-* **internet service** via WIFI, ethernet cable or mobile data plan (3G or above)
-* **capability** to send and receive email, browse the internet, download documents and play videos.
+- [x] an **up-to-date device**—a computer, tablet or smart phone with email and a modern internet browser
+- [x] **internet service** via WIFI, ethernet cable or mobile data plan (3G or above)
+- [x] **capability** to send and receive email, browse the internet, download documents and play videos.
 
 If a director lacks capability in some areas, is there a person in the corporation—or a friend or family member—who can support them?
 
@@ -170,181 +169,136 @@ Note that your email address is not displayed to other users. Your email address
 
 ![](update-profile.png#width-80)
 
-# 3. Invite board members
+# 3. Manage group membership
 
-Now we have prepared our Loomio group, let’s invite directors.
+Next, make sure all your directors have been invited to the group.
 
 On your group home page, go to the **Members** tab.
 
-On the Members page you can see who are the members of your Loomio group.  You can also easily see when a member joined your group, and any invitations that have not yet been accepted.
+There, you can see a list of all the members of the group.  You can also see when each member joined your group, and any invitations that have not yet been accepted.
 
-You can remind people you have invited with **Resend invitation**, give anyone administrator level access with **Make admin** and add a person’s title with **Set title** such as Chairperson.
+If you have already invited people and they are yet to accept, you can use the 3 dot menu against their name to remind them — **Resend invitation**.
 
-*Example:*
+You can give anyone administrator level access with **Make admin** and if a person has a particular role within the group, you can give them a title such as ***chairperson*** with **Set title**.
 
 ![](members-tab.png#width-80)
 
-## Invite people
+## Adding and removing members
 
-You can invite people to join the Loomio group either by sending a message to their email address via Loomio, or **Share** an invitation link via your email service or in a newsletter.
+When your board membership changes, or when you want to involve an external person in your discussions temporarily, you can adjust your group’s membership.
 
-* Click **Invite**
-* Type or copy/paste the email addresses of the directors you want to invite
+To invite people to join the group you can either:
+* **Invite** them from within Loomio by entering their email address and adding a message, or
+* **Share** an invitation link via your email or other messaging service.
 
-You can add an optional message to encourage people to click the invitation button:
-
-*Example:*
-
-*Hi, please join our private Loomio group. We use this space to notify directors of meetings, prepare and vote on resolutions, discuss topics between meetings, and to record decisions in a searchable archive.*
-
-
-- ***Tip**: If you have a lot of people to invite, you can copy up to 100 email addresses at a time from a list, such as from a spreadsheet column.*
-
-*Example:*
+If you’re granting temporary membership, it’s a good idea to check [member permissions](##other-group-settings).
 
 ![](invite-people.png#width-80)
 
-# 4. Start a first thread
+# 4. Start a thread
 
-Start a thread to help directors become familiar with using Loomio.
-We can use this thread to introduce Loomio to directors, and invite them to post a comment.
+To help directors become familiar with using Loomio, try starting a new thread. It can introduce directors to the tools, and invite them to react with an emoji or comment. If every director responds, you’ll know they are all connected.
 
-**Objective: Let’s get each director to post a comment so we know that directors are connected.**
-
-* On your group home page, go to the **Threads** tab.
-* Click **New Thread**.
+On your group home page, go to the **Threads** tab and use the button for **New Thread**.
 
 ![](https://i.imgur.com/ednBbOD.png#border-none)
 
 **Thread**
+When you start a new thread, you can choose where it will show up.
+You can:
+* post it to a **group**
+* post it to a **subgroup**, or
+* (for a private discussion with one or more people, or to draft a thread before posting it anywhere) create an **Invite-only thread
+(no group)**.
 
-Threads are where your group can discuss a topic, exchange information and make decisions together. Threads keep everything about a topic in the same place. Over time you’ll create a useful archive of your group’s discussions and decisions.
+**Title**
+Give your thread a title; a few words that capture the purpose of the discussion. It’s worth considering how best to characterise this thread to distinguish it from any other. It could be a question, or it could refer to a place or date or event or document. The point is to convey the most information with the fewest characters, bearing in mind that over time you might have many other similar threads.
 
-- ***Tip**: Use a Loomio thread instead of writing an email.*
+**Notify**
+If you choose to notify people of the new thread, Loomio will send them an email about it. You can use the dropdown to select to notify members of the group or subgroup, or you can notify a **guest** by pasting their email address.
 
-- *All the information, discussion and replies are in one place, where you can see who has read the thread, and nudge people if needed; avoiding email chain confusion.*
+If you’re posting a series of new threads to a group, you might choose to notify no one. That way, the members will see it when they next come to Loomio, but they won’t receive an email about it.
 
-**Group** - Select the group or subgroup you want to post the thread in. When started, your thread will be visible to the members of your group or subgroup.
+**Tag**
+Attach one or more tags to the thread to make it easy to find later. For this first one, perhaps a ‘how-to’ tag is appropriate?
 
-You can also select **Invite-only thread (no group)** if you want to have a private discussion with one or more people, or if you want to draft a thread before posting in your group.
-
-**Title** - Give your thread a title; this is usually announcing a topic or asking a question. Keep it short and to the point.  A thread title is like the subject line in an email.
-
-**Notify** - You can choose to notify people by sending them an email of the thread via Loomio. You can select any group or subgroup of people.
-
-* Click on the group name to see individual people to notify.  
-* Click the X beside a person’s name to remove a person from the notification list.
-
-**Tag** - Choose a tag for your thread to make it easy to find threads of a certain type or topic, or create a new tag.
+**Context**
+In the context, describe the purpose of the thread. You’ll see there are buttons for formatting the text, adding links and documents, but for your first thread, keep it simple.
 
 **First thread suggestion**
 
 ![](Start_first_thread.png#width-80)
 
+**Comment**
+After you post the thread, you’ll see it’s possible to comment or to react with an emoji. Be sure to add a comment to demonstrate how to participate and explicitly ask people to respond.
 
-# 5. Start a first Poll
-Let’s start a poll to help directors become familiar with using Loomio.
-We use Polls and Proposal to make decisions and request a response.
+# 5. Start a poll
+Now, it’s time to familiarise directors with some of Loomio’s unique tools for discovering what the board as a whole thinks about something, and for moving from a discussion toward a decision.
 
-**Objective: Let's get everyone to vote in a poll, so they're ready when we get to work.**
+The objective here is to get everyone to vote in a poll.
 
-You start a **Poll** or **Proposal** from within a Thread.
-
-* Go to the thread that you wish to start your poll and click on the **Poll** tab.
-* Select the type of poll you want to use. Let’s start with **Check**.
+From within a thread, go to the tab marked **POLL**. You’ll see there are various options. The simplest one is **Check**. With this poll type, there are only two possible responses:
+* a tick (✓) to say ‘yes’ or
+* a cross (x) to say ‘no’ or ‘unsure’.
 
 ![](https://i.imgur.com/Vq5DB6A.png#border-none)
 
-**Start Check**
+Use a check poll to ask directors to confirm they are comfortable in Loomio. 
 
-A check is a tool with many possible uses but only 2 responses: a tick (✔) or an x mark (✘). Participants will use the tick (✔) to say yes and the x mark (✘) to say no or unsure.
+A day before the poll closes, Loomio will remind those who have not responded.
 
-Use it to engage people with an offer, like an RSVP: *"I'm coming to the event"*, *"I'll join the subcommittee"* or *"I have completed my actions"*.
+**Title**
+Give your poll a short, relevant Title.
 
-A day before the check closes, Loomio will remind people who have not participated.
+**Tags**
+Attach any relevant Tags to help people find this poll later.
 
-**Title** - Give your poll a title. Keep it short and to the point.  
+**Details**
+In the Details field, explain what you are asking people to do.
 
-**Tags** - Select a tag that will help people easily find this poll when searching.
+**Options**
+Each poll type provides different Options for responding. (In a check poll there are only 2.)
 
-**Details** - Explain what you are asking people to do and how to participate.
+Consider the further options:
 
-**Options** - Select the poll voting options.  Each poll type provides different options.
+**Closing date and time**
+Select the closing date and time for your poll. Give sufficient time for people to vote.  If necessary, you can close the poll early or extend the closing time.
 
-**Closing date and time** - Select the closing date and time for your poll. Give sufficient time for people to vote.  If necessary, you can close the poll early or extend the closing time.
+**Reminder**
+24 hours before the poll closes Loomio can send an automatic reminder. Choose if you want to enable this and who to send to.  The default option is **Undecided voters**.
 
-**Reminder** - 24 hours before the poll closes Loomio can send an automatic reminder. Choose if you want to enable this and who to send to.  The default option is **Undecided voters**.
+**Who can vote?**
+Invite everyone in the group or only the people.
 
-**Who can vote?** - You can decide who is voting; anyone in your group or only the people you specifically invite.
-
-The default settings is everyone in the group can see who has voted. However you can select anonymous voting if you want to keep the identity of voters secret. 
-
-***Tip**: Anonymous voting is useful for elections or if you think voters might be influenced by how others vote.
+By default, everyone in the group can see everyone's votes. But you can change that to make voting **anonymous** if you want to keep the individual votes secret. This is useful for elections or if you think voters might be influenced by how others vote.
 
 **Check poll suggestion**
 
 ![](https://i.imgur.com/SpLVTMc.png#border-none)
 
-**Invite to vote** - You can choose to invite people by sending them an email of the poll via Loomio. You can select any group or subgroup of people.
-
-* Click on the group name to see individual people to notify.
-* Click the X beside a person’s name to remove a person from the notification list.
-
 **Voting**
 
-Here is what people will see when responding to a Poll request to vote:
+Here is what people will see when responding to a poll request to vote:
 
 ![](https://i.imgur.com/KalAqvJ.png#border-none)
 
-# 6. Subgroups
+# 6. Set up a subgroup?
 
-Do you need a subgroup? Subgroups help you organize the work of particular groups of people; for example a subcommittee, working group or project team. You may also set up a subgroup for communicating with membership.
+Do you need a subgroup?  To determine whether your board needs one or more subgroups, see ["Setting up for success: What structure suits our board?"](https://help.loomio.org/en/oric/for-success.html#what-structure-suits-our-board).
 
-Subgroups work just like groups and are located within your "parent" group or organization.
+To set up a subgroup, go to your group home page and toggle to the **Subgroups** tab. You’ll see a button there for **New Subgroup**.
 
-Most of the features and settings are the same as in your parent group, and include the ability to allow members of the parent group to see, but not participate in, threads and polls in the subgroup. This is helpful if you want to offer transparency of discussions and decisions to members of the parent group.
+Setting up a subgroup is similar to setting up a group. After you have created the group, check the settings as you did for the parent group.
 
-A person can be a member of your subgroup and not of your parent group.
-
-Typical subgroups for Indigenous Corporations include:
-* Financial subcommittee
-* Health & Safety
-* Risks & Audits
-* Industry-specific subgroup such as Property
-
-![](board-subgroups.png#border-none)
-
-## Set up a subgroup
-
-On your group home page, go to the **Subgroups** tab and click **New Subgroup**.
-
-Follow a similar process as in [Step 1](#1-set-up-your-board-on-loomio) to set up your subgroup.
+To review group settings, see [Step 1](#1-adjust-group-settings-for-the-board) to set up your subgroup.
 
 ![](https://i.imgur.com/loeydDj.png#border-none)
 
 **Permissions**
 
-To allow members of your parent group see threads in the subgroup:
+Do you want members of the parent group to be able to see subgroups even though they are not members of it? If so, on your subgroup home page, go to the settings cog and click **Edit group settings**.
 
-On your subgroup home page, go to the **Settings** tab and click **Edit group settings**.
-
-Change permissions by ticking or un-ticking the check box.
+Next, toggle to the **PERMISSIONS** tab. You’ll see a long list of options for who can do what. You can tick or untick as appropriate.
+The very first one (if you are an admin for the group) is ‘Members of [your parent group] can see private threads’. If you tick that option, everyone will be able to see—but not participate in—threads and polls in the subgroup.
 
 ![](https://i.imgur.com/oE4iOeo.png#border-none)
-
-# Why Loomio?
-
-Loomio is an online place for the board to have discussions and make decisions together:
-
-* Accessible, transparent and inclusive; stay connected wherever you have internet access
-* Build consensus
-* A safe place for all communications, information, deliberations, decisions and records of the the board
-* Prepare for meetings and follow up with minutes and actions
-
-Push admin tasks onto Loomio to free up meeting time for discussions that matter:
-
-* Arrive at meetings prepared and in context
-* Push topics that require further discussion and info back into Loomio
-* Record minutes and progress actions
-
-It is an opportunity to align and integrate your governance and cultural practices with Loomio.
