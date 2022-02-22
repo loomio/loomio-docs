@@ -1,14 +1,28 @@
-# Guide for Connectors
+# For connectors
 
-This guide is for Connectors - people with administrator access to your Loomio group.
+‘Connectors’ have special access and responsibilities in Loomio. Typically, a corporation’s connector is the person who provides administrative support to the board of directors.
 
-*A connector is usually the board administrator for your Corporation, who will set up Loomio for your board and be the primary point of contact.*
+Your connector’s primary objective is to **set up your Loomio group to work for your circumstances**. Your connector will also ***connect*** and exchange information—with:
+* all the **directors** on their board—to ensure they can access and use the tools
+* other corporations’ **connectors**—for comparing notes on using Loomio
+* **Loomio**—for technical support
+* **ORIC**—for any discussion of the ORIC–Loomio ‘Connected Governance’ project.
 
----
+This part of the guide firstly invites you to assess how well-prepared your directors are for connected governance. Then it describes 6 concrete steps you can take to introduce your directors to your Loomio group and get them using it.
+
+To galvanise you for the work, here’s a reminder of the benefits your corporation can reap when directors invest their time and energy in connected governance:
+
+**Benefits of connected governance**
+
+The board will own a secure, private space for its business and processes.
+* Every director can see who said what, when.
+* Every director can contribute in their own time.
+* The board can do routine tasks online to free up time in meetings for discussions that matter.
+* Polls offer directors a powerful way to gain a wholeboard perspective.
+* When directors disagree, they can see where and why, and work to build consensus.
 
 **Purpose: To set up Loomio effectively for your board.**
 
-**Initial objectives**
 Our aim is to encourage directors to join and participate in your Loomio group. They should be easily able to:
 * Sign in to Loomio ( decisions.oric.gov.au )
 * Read and comment on threads
@@ -17,10 +31,10 @@ Our aim is to encourage directors to join and participate in your Loomio group. 
 
 **Using this Guide**
 
-There are a series of steps to the guide. Work through these or navigate to a section using the table of contents.  Reach out to [Loomio support](https://www.loomio.org/contact) for further help if needed.
+There are a series of steps to the guide. Work through these or navigate to a section using the table of contents.  Reach out to [Loomio support](https://decisions.oric.gov.au/contact) for further help if needed.
 
-* [Understanding directors capability to access online tool](#self-assessment-for-board-readiness) - do this first
-* [Step 1. Set up your board on Loomio](#1-set-up-your-board-on-loomio)
+* [Are your directors ready for connected governance?](#are-your-directors-ready-for-connected-governance?) - see this first
+* [Step 1. Adjust group settings for the board](#1-adjust-group-settings-for-the-board)
 * [Step 2. Set up your personal profile](#2-set-up-your-personal-profile)
 * [Step 3. Invite board members](#3-invite-board-members)
 * [Step 4. Start a first thread](#4-start-a-first-thread)
@@ -30,97 +44,92 @@ There are a series of steps to the guide. Work through these or navigate to a se
 
 ---
 
-# Self-assessment for board readiness 
+# Are your directors ready for connected governance?
 
-Good communication today requires Directors to be able to use a computer or smartphone connected to the internet; capable of sending and receiving email, browsing the web, viewing videos and reading electronic documents.
+**Technology & digital literacy**
 
-Success of using an online tool like Loomio to communicate with your board requires Directors to be familiar with basic apps such as email, internet browser, document and video viewers.
+Connected governance requires directors to use a computer or smartphone connected to the internet. They must be capable of sending and receiving email, browsing the web, reading digital documents and viewing and hearing videos.
 
-Here is a quick check list to review with each Director:
+Check that each director has all of the following:
 
-* An up-to-date computer or smart phone with email, internet browser and video viewer
-* Connection to the internet via WIFI, ethernet cable or mobile data plan (3G or above)
+* an **up-to-date device**—a computer, tablet or smart phone with email and a modern internet browser
+* **internet service** via WIFI, ethernet cable or mobile data plan (3G or above)
+* **capability** to send and receive email, browse the internet, download documents and play videos.
 
-Know how to :
+If a director lacks capability in some areas, is there a person in the corporation—or a friend or family member—who can support them?
 
-* Send/Receive email, browse the internet and open links to go to web pages
-* If Director is not comfortable using their computer or smart phone, is there a person in the organisation, friend of family member who can help them with these things?
+Loomio works with all standard internet browsers such as Google Chrome, Microsoft Edge, Firefox and Apple Safari. Old out-of-date browsers such as Microsoft Internet Explorer may not work.
 
-Loomio works with all standard internet browsers such as Google Chrome, Microsoft Edge, Firefox and Apple Safari. Old out-of-date browsers are not supported, such as Microsoft Internet Explorer.
-
-[Contact Loomio support](https://www.loomio.com/contact) to let us know if you have problems with Loomio on your device.
-
+If you have a problem using Loomio on your device, [Contact Loomio support](https://decisions.oric.gov.au/contact).
 
 ---
 
-# 1. Set up your board on Loomio
+# 1. Adjust group settings for the board
 
 ## Group settings
 
-Your Loomio group is pre-configured to help you get started. As a Connector you have been given administration rights for the group.  This means you can edit group settings.
+Your Loomio group comes pre-configured to help you get started. As a connector you have administrative rights for the group.  This means you can edit group settings.
 
-Please review each of the following settings and change to suit your organization.
+Please review each of the following settings and make whatever changes will best suit your corporation.
 
 *On your group home page, go to the **Settings** tab and click **Edit group settings**.*
 
-**Group name**: The name of your organization is the default. Do you want to change this?
+You will land in the settings for your group’s Profile, where you can adjust the following:
 
-**Handle**: A simplified label for your group that you can share with others, *e.g. decisions.oric.gov.au/loomio*.
-	
-- ***Tip**: Short names work best for your handle.*
+**Group name**: The name of your corporation is the default. Make it your own.
 
-**Cover image**: Upload an image that represents your organization. *(Replace the stock image.)*
+**Handle**: A simplified label for your group that becomes part of the web address for it. Tip short is good!
+
+**Cover image**: Upload an image that represents your corporation. *(Replace the stock image.)*
 
 **Logo**: Upload your logo to appear alongside your group name when people visit your group.
 
 ![](https://i.imgur.com/lMpyr2K.png#border-none)
 
-**Group Description**: The group description is the first place people see when they arrive into your group. This helps new people as they join your group to understand the purpose of the group, what work you are going to do, and provide any other information that helps people as they participate.
+**Group Description**: The group description is the first place people see when they arrive into your Loomio group. Write it to help new directors to understand the purpose of the group and the work you will do together. Provide any other information that orients people and encourages them to participate.
 
 A template description for your group is provided. You can edit or replace with your own text, upload or link to any relevant documents. A wide range of formatting tools are available to help you, including:
 
 * **Attach files**: Use the paper clip icon to attach files from your computer. *(Find this just below the group description box.)*
-* **Insert link**: Go to the internet page you want to link to, copy the link to your clipboard. Highlight the text that you want to link. Click Insert link and paste the link and click Apply.
+* **Insert link**: Go to the internet page you want to link to, copy the link to your clipboard. Highlight the text that you want to link. Click Insert link and paste the link and click ***Apply***.
 
-**Group Description Template**
-
-Here is an example of a group description.
+**An example of a group description**
 
 ![](group-description-template-1.png#width-90)
+
+Once you’re happy with the group profile, check the other tabs for PRIVACY, PERMISSIONS and THREADS. You are free to make any changes you wish but the following suggestions may help.
 
 ## Other Group settings
 
 **Privacy** 
 
-Check your group privacy is set to **Secret**. *Only invited people can find the group. All threads are private.*
+Check your group privacy is set to **Secret**. That means people will only know the group exists if they have been invited to it.
 
 ![](https://i.imgur.com/EXGZqWY.png#border-none)
 
 **Permissions**
 
-As group administrator you can modify what members of your group can do.  The initial permissions are set for the safety of your group while allowing members to use the main features of Loomio.
+As group administrator you can modify what members of your group are allowed to do.  Permissions are initially set to balance safety and freedom to use the main features of Loomio.
 
 ![](https://i.imgur.com/fHiM0NC.png#border-none)
 
-## Category Tags
+## Tags
 
-Use tags to make it easy to find threads of a certain type or topic. Tags can be applied when starting or editing a Thread, Poll or Proposal.
+Use tags to make it easy to find threads of a particular type or on a particular topic.
 
 Your Loomio group is pre-configured with the following tags.
 
-*Administration, AGM, Board meeting, CEO Report, Guide, Finance, Legal, Members, Minutes, Planning, Policy, Reporting, Resolutions, Rule book, Special meetings, Strategy, Template.*
+*Admin, AGM, Board meeting, Report, Finance, Legal, Members, Minutes, Planning, Policy, Resolution, Rule book, General meeting, Strategy, Template.*
 
-Tags are visible under the **Thread** tab by clicking on **tags**. 
-
-The tag name shows the number of items that have been tagged.
+On the ***Threads*** page there is a dropdown arrow to see your tags.
 
 ![](https://i.imgur.com/Lwz23oc.png#border-none)
 
-Add tags when you start a new **Thread**, **Poll** or **Proposal**.
+You can create and apply tags when you start or edit a ***thread***, ***poll*** or ***proposal***.
 
 ![](https://i.imgur.com/1tGXeFO.png#border-none)
 
-Add your own tags by clicking on the **Add tag** icon and **New tag**.
+Look for the tag icon. When you start typing, existing tags will appear for you to add. Or if no tag with that word exists, you can create one.
 
 ![](https://i.imgur.com/ydlPlCm.png#border-none)
 
