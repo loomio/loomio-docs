@@ -10,7 +10,7 @@ Loomio supports mutliple languages with these two translation features:
 Loomio will automatically detect what your preferred language is when you visit the app with your browser. 
 If you want to change the preferred language, you can do so from the "Edit profile" page.
 
-![changing your preferred language](change_language.png)
+![changing your preferred language](edit_profile.png)
 
 ## Content translation
 When someone in your group writes their message in a language that is different to your preferred language, a "translate" button will appear below the message. You can click this button to automatically translate the message into your preferred language.
