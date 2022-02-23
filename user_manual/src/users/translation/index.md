@@ -40,6 +40,10 @@ If you would like to help translate Loomio..
   - Enter your translation
   - Save and repeat
 
+5. Enable notifications for Loomio, so that when new strings are introduced, you can be notified and easily translate them. We've found that the secret to successful translation is consistency over time :)
+
+If you have any questions, please feel free to reach out to me, rob@loomio.org and I'll be delighted to help you with any translation issues or questions you may have.
+
 ## Tips
 
 You can use a [demo](https://www.loomio.org/try) to see Loomio in action, this can help provide contexts for strings when you see them via Transifex.
