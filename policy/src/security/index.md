@@ -27,9 +27,9 @@ This means the code is open to view, but your data is not. There are many benefi
 
 Loomio software is licensed under the [GNU Affero General Public License v3.0](https://github.com/loomio/loomio/blob/master/LICENSE.txt)
 
-## Hosted Services
+## Cloud Services
 
-Loomio Limited operate services using Loomio software goverened by our [Terms of Service](../terms/index.md).
+Loomio Limited operate cloud services using Loomio software goverened by our [Terms of Service](../terms/index.md).
 
 ### LOOMIO.ORG
 
@@ -61,7 +61,7 @@ The service holds a Tier 3 security status. For more information read New Zealan
 
 **LOOMIO.EU**
 
-Contact us to request further information.
+loomio.eu is a service running on Amazon Web Services (AWS) datacenters in Amsterdam.
 
 ### Private host and Self-host Services
 
