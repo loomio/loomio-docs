@@ -1,8 +1,8 @@
 # Languages and Translation
 
-Loomio supports mutliple languages with these two translation features:
+Loomio supports mutliple languages with these two features:
 
-1. Application tranlsation - Change the language of the user interface, IE: the buttons and application text.
+1. Application translation - Change the language of the user interface, IE: the buttons and application text.
 2. Content translation - Translate comments, discussions and proposals into your preferred language.
 
 ## Application translation
