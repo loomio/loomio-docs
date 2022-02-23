@@ -32,12 +32,13 @@
 - [Outcomes](polls/outcomes/index.md)
 
 # Your Profile
+- [Sign in](users/sign_in/index.md)
 - [User profile](users/user_profile/index.md)
+- [Language and translation](users/translation/index.md)
 - [Deleting your account](users/deleting_your_account/index.md)
 - [Notifications](users/email_settings/index.md)
 - [Merge accounts](users/merge_accounts/index.md)
 - [Navigation](users/navigation/index.md)
-- [Sign in](users/sign_in/index.md)
 
 # Integrations
 - [Slack](groups/integrations/slack/index.md)
