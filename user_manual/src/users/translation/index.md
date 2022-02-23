@@ -29,16 +29,16 @@ If you would like to help translate Loomio..
 1. Visit the [Loomio Transifex page](https://www.transifex.com/projects/p/loomio-1/), and select your language
 
 2. Select the resource you want to translate
-- Client is the front end code that your browser runs.
-- Server is the backend server code, which is mostly notification emails.
+  - Client is the front end code that your browser runs.
+  - Server is the backend server code, which is mostly notification emails.
 
 3. Click 'Translate'
 
 4.
-- Click on a phrase
-- Read the english text
-- Enter your translation
-- Save and repeat
+  - Click on a phrase
+  - Read the english text
+  - Enter your translation
+  - Save and repeat
 
 ## Tips
 
