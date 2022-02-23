@@ -1,6 +1,8 @@
 # Loomio and other collaboration tools
 
-Loomio is an asynchronous collaboration tool helping you have discussions, make decisions and build an archive for your organization.  
+Loomio combines a discussion forum with decision-making tools to progress a discussion towards an outcome.  
+
+It is an asynchronous collaboration tool helping you have discussions, make decisions and build an archive for your organization.  
 
 Loomio is often used alongside real-time and document management collaborative tools.  
 
