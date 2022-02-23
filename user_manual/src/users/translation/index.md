@@ -34,7 +34,7 @@ If you would like to help translate Loomio..
 
 3. Click 'Translate'
 
-4.
+4. Begin translating the strings
   - Click on a phrase
   - Read the english text
   - Enter your translation
