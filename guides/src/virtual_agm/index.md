@@ -45,11 +45,11 @@ You’ll be able to get your organization started with Loomio in 10 minutes with
 
 ### 1. Set up your group
 
-First, [click here to start a new organization on Loomio](https://loomio.org/g/new/ "open in new tab") if you haven't already. If you are considering using Loomio in other parts of your organization, we suggest setting up a [subgroup](/en/user_manual/groups/subgroups/#add-a-subgroup).
+First, [click here to start a new organization on Loomio](https://loomio.org/g/new/ "open in new tab") if you haven't already. If you are considering using Loomio in other parts of your organization, we suggest setting up a [subgroup](/en/user_manual/groups/subgroups/#add-a-subgroup/ "open in new tab").
 
 A Loomio group is a secure online place for your members, which helps you increase communication and continue work between meetings, connecting your members wherever they are and at a time that suits them.
 
-**[Prepare your group](https://help.loomio.org/en/user_manual/groups/starting_a_group/index.html)** with a group description for your members to welcome them and outline how you plan to use Loomio.
+**[Prepare your group](https://help.loomio.org/en/user_manual/groups/starting_a_group/ "open in new tab")** with a group description for your members to welcome them and outline how you plan to use Loomio.
 
 - Consider what type of decisions you will make in this AGM and how this fits with your organization’s constitution and legal compliance.
 - Be clear who is involved and what people can expect of one another.
@@ -60,7 +60,7 @@ Set your group privacy to Secret so only members of your AGM can see it and part
 
 ### 2. Start a discussion thread for your AGM
 
-**A month before your meeting, start a [discussion thread](/en/user_manual/discussion_threads/starting_threads/ "open in new tab")** to announce the AGM details. Include the video conferencing link, date and time in every key piece of communication.
+**A month before your meeting, start a [discussion thread](https://help.loomio.org/en/user_manual/threads/starting_threads/ "open in new tab")** to announce the AGM details. Include the video conferencing link, date and time in every key piece of communication.
 
 <img src="all_you_need_to_know_for_agm.png" class="border-orange">
 
@@ -123,7 +123,7 @@ Or simply make a [proposal](/en/user_manual/polls/proposal_types/#proposals) if 
 
 ### 6. Get input on allocation of surplus
 
-Loomio’s [Allocation](/en/user_manual/polls/proposal_types/#allocation) (a.k.a. Dot voting) poll makes it simple to synthesise how much of a set of funds people want to spend against each of the options presented. You can give each participant a number of points that represents the entire portion, or divide the amount amongst the participants.
+Loomio’s [Dot vote](https://help.loomio.org/en/user_manual/polls/proposal_types/#dot-vote) poll makes it simple to synthesise how much of a set of funds people want to spend against each of the options presented. You can give each participant a number of points that represents the entire portion, or divide the amount amongst the participants.
 
 ### 7. Have your meeting!
 
@@ -155,4 +155,4 @@ Now that you know how to get better outcomes from your virtual AGM with Loomio, 
 
 Need to run an AGM, Assembly, or [Board meeting online](../virtual_board_meetings)?
 
-We’d love to hear about it – [connect with us](http://loomio.org/contact/?utm_campaign=virtual_board_guide&utm_term=help/ "open in new tab").
+We’d love to hear about your experience – [connect with us](http://loomio.org/contact/?utm_campaign=virtual_board_guide&utm_term=help/ "open in new tab").
