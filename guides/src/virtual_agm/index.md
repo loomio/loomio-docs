@@ -49,7 +49,7 @@ First, [click here to start a new organization on Loomio](https://loomio.org/g/n
 
 A Loomio group is a secure online place for your members, which helps you increase communication and continue work between meetings, connecting your members wherever they are and at a time that suits them.
 
-**Edit group settings** to add your [Group description](/en/guides/getting_started/starting_a_group), so your members understand how you plan to use Loomio.
+**[Prepare your group](https://help.loomio.org/en/user_manual/groups/starting_a_group/index.html)** with a group description for your members to welcome them and outline how you plan to use Loomio.
 
 - Consider what type of decisions you will make in this AGM and how this fits with your organization’s constitution and legal compliance.
 - Be clear who is involved and what people can expect of one another.
