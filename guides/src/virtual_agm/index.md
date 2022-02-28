@@ -93,7 +93,7 @@ Immediately after that, send them the details so they know why they’ve been in
 
 ### 4. Use ‘Checks’ to be better prepared
 
-Use a [Check poll](/en/user_manual/polls/proposal_types/#check) (yes or no) from within a thread to raise everyone’s preparedness. For example:
+Use a [Check poll](https://help.loomio.org/en/user_manual/polls/proposal_types/index.html#check) (yes or no) from within a thread to raise everyone’s preparedness. For example:
 
 <img src="preparing_with_check_polls.png" class="border-orange">
 
@@ -107,7 +107,7 @@ You can also prepare by getting input, or even completing some decisions on Loom
 
 Elections and appointments are easy with Loomio.
 
-Loomio’s polls include [Ranked choice](/en/user_manual/polls/proposal_types/#ranked-choice) for ‘run-off voting’ – a popular election method.
+Loomio’s polls include [Ranked choice](https://help.loomio.org/en/user_manual/polls/proposal_types/index.html#ranked-choice) for ‘run-off voting’ – a popular election method.
 
 <img src="elections_online.png" class="border-orange">
 
@@ -117,7 +117,7 @@ Select Ranked choice from the Polls menu and add the candidates names; participa
 
 **Make your poll anonymous** to reduce political friction or interpersonal dynamics. To do this, just tick the appropriate box as shown above.
 
-Or simply make a [proposal](/en/user_manual/polls/proposal_types/#proposals) if the Directors and Board members have been pre-selected.
+Or simply make a [proposal](https://help.loomio.org/en/user_manual/polls/proposal_types/index.html#proposals) if the Directors and Board members have been pre-selected.
 
 <img src="approve_nominations.png" class="border-orange">
 
