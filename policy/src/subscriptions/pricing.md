@@ -108,7 +108,7 @@ This plan is “self-service” with limited support. However you can learn all 
 ## Training
 Loomio Pro plan training and implementation support is delivered via webinar and/or video conference.
 
-- Implementation support to help you get your Loomio group started and engage with members
+- Implementation support to help you set up and use Loomio successfully in your organization.
 - On-demand webinars to refresh your use of Loomio, ask questions and introduce new features.
 
 Bespoke training for your organization is tailored to your needs or your group.
