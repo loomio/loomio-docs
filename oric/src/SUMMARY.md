@@ -6,5 +6,5 @@
 - [Setting up for success](for-success.md)
 
 **Further resources**
-- [Approving financial reports - what directors should consider](approving-financials.md)
-- [Questioning financial statements - questions directors could ask](questioning-financials.md)
+- [Approving financial reports](approving-financials.md)
+- [Questioning financial statements](questioning-financials.md)
