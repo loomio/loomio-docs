@@ -17,28 +17,26 @@ We aim to offer a competitive price for enterprise organizations, an affordable 
 
 Loomio is open source software, and you are free to set up your own instance of Loomio.
 
-# Loomio subscription plans
+# Loomio Cloud subscription plans
 Simple, easy to understand pricing to encourage regular Loomio use and allow your group to grow without restriction.  
 
-A Loomio subscription is one price per group, and there is no limit on the number of people.
-
-This means you can invite everyone in your organization into your group!
+A Loomio subscription is one price per group - a subscription plan for your organization. People you invite into your Loomio group are not charged.
 
 Loomio subscriptions are on a pre-pay basis and cover the use of the service for the selected subscription period.
 
 ## Free trial
-All new groups start on a free trial, so you can evaluate Loomio with your group.
+All new Loomio Cloud groups start on a free trial, so you can evaluate Loomio for your organization.
 
 Free trials are for 7 days, limited to 10 people and 10 threads.
 
-[Contact us](https://www.loomio.org/contact) if you need to extend your trial.
+[Contact us](https://www.loomio.com/contact) if you wish to extend your trial.
 
 At the end of the trial period you will be asked to upgrade to a paid subscription plan.
 
 ## Loomio Starter plan
-Loomio Starter plan will suit most people getting started, and includes all Loomio standard features.
+Loomio Starter plan will suit most organizations getting started, and includes all Loomio standard features.
 
-Price: $US 25.00 per month or $US 199.00 per year.
+Price: $US 199.00 per year or $US 25.00 per month.
 
 Starter plan includes:
 - Loomio standard features
