@@ -292,7 +292,7 @@ Setting up a subgroup is similar to setting up a group. After you have created t
 
 To review group settings, see [Step 1](#1-adjust-group-settings-for-the-board) to set up your subgroup.
 
-![](https://i.imgur.com/loeydDj.png#border-none)
+![](Subgroups.png#width-80)
 
 **Permissions**
 
@@ -301,4 +301,4 @@ Do you want members of the parent group to be able to see subgroups even though 
 Next, toggle to the **PERMISSIONS** tab. You’ll see a long list of options for who can do what. You can tick or untick as appropriate.
 The very first one (if you are an admin for the group) is ‘Members of [your parent group] can see private threads’. If you tick that option, everyone will be able to see—but not participate in—threads and polls in the subgroup.
 
-![](https://i.imgur.com/oE4iOeo.png#border-none)
+![](subgroup_settings.png#width-80)
