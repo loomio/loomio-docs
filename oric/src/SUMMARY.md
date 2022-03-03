@@ -5,6 +5,6 @@
 - [For connectors](guide-connectors.md)
 - [Setting up for success](for-success.md)
 
-**Further resources**
+# Further resources
 - [Approving financial reports](approving-financials.md)
 - [Questioning financial statements](questioning-financials.md)
