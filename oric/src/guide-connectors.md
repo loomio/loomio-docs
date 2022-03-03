@@ -122,15 +122,15 @@ Your Loomio group is pre-configured with the following tags.
 
 On the ***Threads*** page there is a dropdown arrow to see your tags.
 
-![](https://i.imgur.com/Lwz23oc.png#border-none)
+![](view_tags.png#width-80)
 
 You can create and apply tags when you start or edit a ***thread***, ***poll*** or ***proposal***.
 
-![](https://i.imgur.com/1tGXeFO.png#border-none)
+![](apply_tags.png#width-80)
 
 Look for the tag icon. When you start typing, existing tags will appear for you to add. Or if no tag with that word exists, you can create one.
 
-![](https://i.imgur.com/ydlPlCm.png#border-none)
+![](category_tags.png#width-80)
 
 # 2. Set up your personal profile
 
@@ -201,7 +201,7 @@ To help directors become familiar with using Loomio, try starting a new thread. 
 
 On your group home page, go to the **Threads** tab and use the button for **New Thread**.
 
-![](https://i.imgur.com/ednBbOD.png#border-none)
+![](new_thread.png#width-80)
 
 **Thread**
 When you start a new thread, you can choose where it will show up.
