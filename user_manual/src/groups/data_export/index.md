@@ -6,7 +6,7 @@ A simple way to export all of your group's data. You can export it to a CSV, HTM
 
 ## Export
 
-Open the drop down menu on the group page and select **Export group data**.
+Open the group drop down menu by clicking on the three dots, and select **Export group data**.
 
 ![](export_group_data.png)
 
