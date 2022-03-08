@@ -1,11 +1,23 @@
 # Deleting your group
 
-From the **Settings** tab of your group page you can use the **Delete group** option to remove access and eventually delete all the data from our records. When you delete group, it will be archived from view immediately and is scheduled for permanent deletion in 2 weeks. You and your users will immediately lose access, but may contact us within that two week period if a mistake was made.
+Deleting your Loomio group initiates a process to permanently delete all group data. 
 
-Select Delete group from the group's Settings tab, and type the name of your group (*case sensitive*) as suggested by form's grey, pre-populated text to delete your group.
+If there is any data you wish to retain, make sure you [export group data](../data_export) and manually download any important files you have uploaded before you continue.
 
-Deleting your group will also cancel it's Loomio subscription.
+Open the group drop down menu by clicking on the three dots, and select the **Delete group** option to remove access to the group and to initiate deletion of all group data from our records. You must be an admin to delete a group.
 
-### When a group is deleted
+When you delete a group, it will be archived from view immediately and scheduled for permanent deletion in 2 weeks. You and group members will immediately lose access to the group.  If a mistake was made, you can contact us within two weeks of deleting your group to request restoration.
 
-Two weeks after you use **delete group**, all the threads, polls, files and other group content will be permanently deleted. ***This is non-reversible!*** It is recommended that you [export](../data_export) the group data and manually download any important files you have uploaded before you continue.
+Deleting your group will also cancel your Loomio subscription.
+
+![](delete_group.png)
+
+You will be invited to type the name of your group (*case sensitive*) to confirm you wish to delete your group.
+
+![](delete_confirm.png)
+
+### Group data is permanently deleted after 2 weeks
+
+Two weeks after you use **Delete group**, all the threads, polls, files and other group content will be permanently deleted. ***This is non-reversible!*** 
+
+We recommend that you [export](../data_export) the group data and manually download any important files you have uploaded before you continue.
