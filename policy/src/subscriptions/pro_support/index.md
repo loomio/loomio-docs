@@ -1,10 +1,10 @@
-# Pro support
+# Training and support
 _Access expert support to help you set up Loomio for success. Working with a Loomio expert introduces you to Loomio key features, helps build a plan to implement and rollout in your organization, and provides coaching support for online facilitation and administration._
 
-## What is Loomio Pro support?
+## Loomio Pro support
 With the purchase of a Loomio Pro plan you will receive a dedicated Loomio expert to interact with for any ongoing support you might need.
 
-1. When you upgrade, you will be invited to a one-hour implementation session on how to get the most out of Loomio. It’s for you, and the people you would like included, to become confident in using Loomio to meet your needs.
+1. You are invited to a one-hour implementation session on how to get the most out of Loomio. It’s for you, and the people you would like included, to become confident in using Loomio to meet your needs.
 
 2. Within the first 90 days, having the opportunity to put into practice the steps identified in the first call, you can schedule another time to follow up with your dedicated Loomio expert to refine your use of Loomio.
 
@@ -13,8 +13,6 @@ Delivery of Pro support is usually via video call (say Zoom), email and within L
 We’ll keep in contact with you about opportunities for how Loomio could work better for you, and introduce new features. Pro plan customers receive priority support all year round; to answer questions, help onboard new users, and more.
 
 **[Upgrade to Pro here.](https://loomio.org/upgrade)**
-
-At any time, you can also choose to accelerate your journey towards more effective and efficient outcomes with your group with the following package:
 
 ## Group training
 Tailored training to suit your organization’s needs.  Our group training starts by understanding your unique group needs, the current tools and processes your group use, so as to implement Loomio in the most useful way.
@@ -25,14 +23,14 @@ As your experience with Loomio builds, 1-2 follow up sessions are scheduled with
 
 ### The typical package
 
-Phase 1: Scoping. A half-hour session by teleconference (e.g. Zoom) to understand your organization needs in more detail, and map the ecosystem of digital and nondigital tools and processes you currently use to organize, communicate, record, & decide with your group.
+Scoping. A half-hour session by teleconference (e.g. Zoom) to understand your organization needs in more detail, and map the ecosystem of digital and nondigital tools and processes you currently use to organize, communicate, record, & decide with your group.
 
-Phase 2: Implementation and training workshops to build confidence to introduce Loomio to your group (2 x 60 minute online sessions).  
+Implementation and training workshops to build confidence to introduce Loomio to your group (2 x 60 minute online sessions).  
 
 - The first session is typically for administrators and group coordinators to configure your Loomio group, set up first discussion threads, polls and proposals for initial engagement, and learn how to manage group members.
 - The second session can either be to assist you to introduce Loomio to your group users, or to dive deeper into Loomio features that can help administrators. The goal is for attendees to develop confidence and mastery in achieving outcomes with Loomio.
 
-Phase 3: Follow up workshops (one or two 30 minute online sessions), typically scheduled within 90 days. Workshops typically include:
+Follow up workshops (one or two 30 minute online sessions), typically scheduled within 90 days. Workshops typically include:
 
 - Review your experience of Loomio thus far, focusing on how well Loomio is integrating with your processes. Responding to questions arising and feedback from group members.
 - Adapting and further developing processes and refreshing use of Loomio features (or introducing newly developed features).
