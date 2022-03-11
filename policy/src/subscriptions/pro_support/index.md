@@ -16,16 +16,14 @@ We’ll keep in contact with you about opportunities for how Loomio could work b
 
 At any time, you can also choose to accelerate your journey towards more effective and efficient outcomes with your group with the following package:
 
-## ‘Win with Loomio’ Bespoke Implementation Package
-Tailored implementation and training to suit your organization’s needs.  Our bespoke implementation package starts by understanding your unique group needs, the current tools and processes your group use, so as to implement Loomio in the most useful way.
+## Group training
+Tailored training to suit your organization’s needs.  Our group training starts by understanding your unique group needs, the current tools and processes your group use, so as to implement Loomio in the most useful way.
 
 We then agree to a schedule of 2 x 60 minute online sessions to give your users confidence and mastery in achieving success with Loomio.
 
 As your experience with Loomio builds, 1-2 follow up sessions are scheduled within the next 90 days to lift your use of Loomio and get more out of your tool in your environment.
 
-Those based in New Zealand and Australia are welcome to inquire about half or full day in-person workshops. These may incur an additional cost.
-
-### The standard package
+### The typical package
 
 Phase 1: Scoping. A half-hour session by teleconference (e.g. Zoom) to understand your organization needs in more detail, and map the ecosystem of digital and nondigital tools and processes you currently use to organize, communicate, record, & decide with your group.
 
@@ -42,6 +40,6 @@ Phase 3: Follow up workshops (one or two 30 minute online sessions), typically s
 
 Online workshops are usually recorded so a video is made available for your review and to share with people who couldn’t join the workshop.
 
-_Also available:_ In-person workshops for customers in New Zealand and Australia by arrangement. These will be at a location of your choosing and highly tailored to your needs. There may be additional costs with this package, especially for travel, and we’re keen to discuss with you a plan that makes the most sense for you.
+_Also available:_ In-person workshops for customers in New Zealand and Australia by arrangement. These will be at a location of your choosing and highly tailored to your needs. There may be additional costs with this package, especially for travel, and we’re happy to discuss a plan that makes the most sense for you.
 
-**[Request your bespoke implementation.](https://loomio.org/contact)**
+**[Request Group training for our organization.](https://loomio.org/contact)**
