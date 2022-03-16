@@ -6,6 +6,12 @@ We know that everyone has their favorite tools and work habits, and many people 
 
 Here are some tips that may help you and your group to actively participate in discussions,  make decisions together and progress work to an outcome.
 
+1. [Warm up your group](#warm-up-your-group)
+2. [Bring your work plan into Loomio](#bring-your-work-plan-into-loomio)
+3. [Use a Loomio thread instead of writing an email](#use-a-loomio-thread-instead-of-writing-an-email)
+4. [Seek participation through a Proposal or Poll](#seek-participation-through-a-proposal-or-poll)
+5. [Point people to Loomio as the preferred place for communication](#point-people-to-loomio-as-the-preferred-place-for-communication)
+
 ## Warm up your group
 To warm up, I suggest starting a **thread** with an open question that will get people posting their first **comment**. 
 
