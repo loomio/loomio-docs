@@ -28,6 +28,7 @@ Start a **Check poll** in the thread asking everyone to confirm they have read t
 
 If people can sign in to Loomio, read a thread, post a comment and vote in a poll, they have the basic skills needed to use Loomio :-)
 
+![](warm_up_your_group.png#width-80)
 
 ## Bring your work plan into Loomio
 
