@@ -1,5 +1,28 @@
-# Using proposals or polls
-_Basics, tips, and tricks for writing and using decision tools._
+# Proposal and Polls
+_Turn a conversation into an action._
+
+Loomio includes a number of tools to help you progress a discussion to an outcome. 
+
+A proposal is for converting a discussion into a clear, practical outcome. Someone suggests a course of action and invites everyone to respond. For example, you might ask group members to agree, abstain or disagree.  Other proposal options are available to suit common decision-making processes.
+
+As people vote, they can give a reason why they have voted this way. You can all see where everyone else stands on the matter, and why. And then, if the proposal is still open, you can change your response.  
+
+In this way you can use proposals to prompt people for a response, uncover new information, and build shared understanding - to help your group make a better, more informed decision.
+
+A proposal and associated discussion, creates its own record of how the decision came about.
+
+## Polling tools 
+**Poll:** to ask people which option/s they approve.
+
+**Check:** think of it as asking everyone to (please) 'raise your hand if you…'
+
+**Time poll:** to find the best time for the group meet.
+
+**Score poll:** to ask people to express the strength of their preference for each option, on a numerical scale.
+
+**Dot vote:** to ask people to express the strength of their preferences, with a constraint—a fixed number of ‘dots’ to allocate–you can put all your dots in one place or spread them out.
+
+**Ranked choice:** to rank a subset of options—useful for elections when there are many candidates and few seats.
 
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/O-laa4di8kI" frameborder="0" allowfullscreen></iframe>
 
