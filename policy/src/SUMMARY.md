@@ -8,7 +8,7 @@
   - [Loomio Subprocessors](./privacy/loomio-subprocessors/index.md)
   - [Company Processors](./privacy/company-processors/index.md)
 - [Pricing](./subscriptions/pricing.md)
-- [Pro support](./subscriptions/pro_support/index.md)
+- [Training and Support](./subscriptions/pro_support/index.md)
 - [Security](./security/index.md)
 - [Subscription management](./subscriptions/management/index.md)
   - [Referrals](./subscriptions/referral_code/index.md)

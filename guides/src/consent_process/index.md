@@ -127,7 +127,7 @@ To learn what to do to resolve these common pitfalls, check out Round Sky’s De
 
 The most important thing to remember when you are using Integrative Consent is that you should be aiming for decisions that are _safe to try_. It is unlikely that your team will make the perfect decision every time but by opening the door for your entire team to weigh in you will maximize your brainpower and arrive at a workable solution faster than you could have alone.
 
-If you think this could help, share it with your team and [try it for free on Loomio](https://loomio.org/?frontpage/?utm_campaign=consent-process-guide-help&utm_term=help). We hope to play a part in your team’s next step towards better collaborative decision making.
+If you think this could help, share it with your team and [try it for free on Loomio](https://www.loomio.com/?utm_campaign=consent-process-guide-help&utm_term=help). We hope to play a part in your team’s next step towards better collaborative decision making.
 
 Want more on Integrative Consent or a demo video of the process in action? Head on over to Round Sky Solutions for more info and a free, comprehensive [Cooperative Decision-Making Toolkit](https://www.roundskysolutions.com/decisionmakingtoolkit/?utm_source=Loomio&utm_medium=partners&utm_campaign=DecisionMakingToolkit2019).
 

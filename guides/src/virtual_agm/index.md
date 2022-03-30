@@ -45,11 +45,11 @@ You’ll be able to get your organization started with Loomio in 10 minutes with
 
 ### 1. Set up your group
 
-First, [click here to start a new organization on Loomio](https://loomio.org/g/new/ "open in new tab") if you haven't already. If you are considering using Loomio in other parts of your organization, we suggest setting up a [subgroup](/en/user_manual/groups/subgroups/#add-a-subgroup).
+First, [click here to start a new organization on Loomio](https://loomio.org/g/new/ "open in new tab") if you haven't already. If you are considering using Loomio in other parts of your organization, we suggest setting up a [subgroup](/en/user_manual/groups/subgroups/#add-a-subgroup/ "open in new tab").
 
 A Loomio group is a secure online place for your members, which helps you increase communication and continue work between meetings, connecting your members wherever they are and at a time that suits them.
 
-**Edit group settings** to add your [Group description](/en/guides/getting_started/starting_a_group), so your members understand how you plan to use Loomio.
+**[Prepare your group](https://help.loomio.com/en/user_manual/groups/starting_a_group/ "open in new tab")** with a group description for your members to welcome them and outline how you plan to use Loomio.
 
 - Consider what type of decisions you will make in this AGM and how this fits with your organization’s constitution and legal compliance.
 - Be clear who is involved and what people can expect of one another.
@@ -60,7 +60,7 @@ Set your group privacy to Secret so only members of your AGM can see it and part
 
 ### 2. Start a discussion thread for your AGM
 
-**A month before your meeting, start a [discussion thread](/en/user_manual/discussion_threads/starting_threads/ "open in new tab")** to announce the AGM details. Include the video conferencing link, date and time in every key piece of communication.
+**A month before your meeting, start a [discussion thread](https://help.loomio.com/en/user_manual/threads/starting_threads/ "open in new tab")** to announce the AGM details. Include the video conferencing link, date and time in every key piece of communication.
 
 <img src="all_you_need_to_know_for_agm.png" class="border-orange">
 
@@ -93,7 +93,7 @@ Immediately after that, send them the details so they know why they’ve been in
 
 ### 4. Use ‘Checks’ to be better prepared
 
-Use a [Check poll](/en/user_manual/polls/proposal_types/#check) (yes or no) from within a thread to raise everyone’s preparedness. For example:
+Use a [Check poll](https://help.loomio.com/en/user_manual/polls/proposal_types/index.html#check) (yes or no) from within a thread to raise everyone’s preparedness. For example:
 
 <img src="preparing_with_check_polls.png" class="border-orange">
 
@@ -107,7 +107,7 @@ You can also prepare by getting input, or even completing some decisions on Loom
 
 Elections and appointments are easy with Loomio.
 
-Loomio’s polls include [Ranked choice](/en/user_manual/polls/proposal_types/#ranked-choice) for ‘run-off voting’ – a popular election method.
+Loomio’s polls include [Ranked choice](https://help.loomio.com/en/user_manual/polls/proposal_types/index.html#ranked-choice) for ‘run-off voting’ – a popular election method.
 
 <img src="elections_online.png" class="border-orange">
 
@@ -117,13 +117,13 @@ Select Ranked choice from the Polls menu and add the candidates names; participa
 
 **Make your poll anonymous** to reduce political friction or interpersonal dynamics. To do this, just tick the appropriate box as shown above.
 
-Or simply make a [proposal](/en/user_manual/polls/proposal_types/#proposals) if the Directors and Board members have been pre-selected.
+Or simply make a [proposal](https://help.loomio.com/en/user_manual/polls/proposal_types/index.html#proposals) if the Directors and Board members have been pre-selected.
 
 <img src="approve_nominations.png" class="border-orange">
 
 ### 6. Get input on allocation of surplus
 
-Loomio’s [Allocation](/en/user_manual/polls/proposal_types/#allocation) (a.k.a. Dot voting) poll makes it simple to synthesise how much of a set of funds people want to spend against each of the options presented. You can give each participant a number of points that represents the entire portion, or divide the amount amongst the participants.
+Loomio’s [Dot vote](https://help.loomio.com/en/user_manual/polls/proposal_types/#dot-vote) poll makes it simple to synthesise how much of a set of funds people want to spend against each of the options presented. You can give each participant a number of points that represents the entire portion, or divide the amount amongst the participants.
 
 ### 7. Have your meeting!
 
@@ -151,8 +151,8 @@ Keep track of follow-on actions by commenting with status updates (or completion
 
 ## Onwards
 
-Now that you know how to get better outcomes from your virtual AGM with Loomio, **start your [free trial](http://loomio.org/?utm_campaign=virtual_board_guide&utm_term=help/)** so you’re ready when the time comes! (You could even find the best date using Loomio’s time poll).
+Now that you know how to get better outcomes from your virtual AGM with Loomio, **start your [free trial](http://www.loomio.org/try?utm_campaign=virtual_board_guide&utm_term=help/)** so you’re ready when the time comes! (You could even find the best date using Loomio’s time poll).
 
 Need to run an AGM, Assembly, or [Board meeting online](../virtual_board_meetings)?
 
-We’d love to hear about it – [connect with us](http://www.loomio.com/contact/?utm_campaign=virtual_board_guide&utm_term=help/ "open in new tab").
+We’d love to hear about your experience – [connect with us](http://www.loomio.com/contact/?utm_campaign=virtual_board_guide&utm_term=help/ "open in new tab").

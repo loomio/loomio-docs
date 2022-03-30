@@ -83,7 +83,7 @@ You will land in the settings for your group’s Profile, where you can adjust t
 
 **Logo**: Upload your logo to appear alongside your group name when people visit your group.
 
-![](https://i.imgur.com/lMpyr2K.png#border-none)
+![](group_settings.png#width-80)
 
 **Group Description**: The group description is the first place people see when they arrive into your Loomio group. Write it to help new directors to understand the purpose of the group and the work you will do together. Provide any other information that orients people and encourages them to participate.
 
@@ -94,7 +94,7 @@ A template description for your group is provided. You can edit or replace with 
 
 **An example of a group description**
 
-![](group-description-template-1.png#width-90)
+![](group-description-template-1.png#width-80)
 
 Once you’re happy with the group profile, check the other tabs for PRIVACY, PERMISSIONS and THREADS. You are free to make any changes you wish but the following suggestions may help.
 
@@ -104,13 +104,13 @@ Once you’re happy with the group profile, check the other tabs for PRIVACY, PE
 
 Check your group privacy is set to **Secret**. That means people will only know the group exists if they have been invited to it.
 
-![](https://i.imgur.com/EXGZqWY.png#border-none)
+![](group_privacy.png#width-80)
 
 **Permissions**
 
 As group administrator you can modify what members of your group are allowed to do.  Permissions are initially set to balance safety and freedom to use the main features of Loomio.
 
-![](https://i.imgur.com/fHiM0NC.png#border-none)
+![](group_permissions.png#width-80)
 
 ## Tags
 
@@ -122,15 +122,15 @@ Your Loomio group is pre-configured with the following tags.
 
 On the ***Threads*** page there is a dropdown arrow to see your tags.
 
-![](https://i.imgur.com/Lwz23oc.png#border-none)
+![](view_tags.png#width-80)
 
 You can create and apply tags when you start or edit a ***thread***, ***poll*** or ***proposal***.
 
-![](https://i.imgur.com/1tGXeFO.png#border-none)
+![](apply_tags.png#width-80)
 
 Look for the tag icon. When you start typing, existing tags will appear for you to add. Or if no tag with that word exists, you can create one.
 
-![](https://i.imgur.com/ydlPlCm.png#border-none)
+![](category_tags.png#width-80)
 
 # 2. Set up your personal profile
 
@@ -201,7 +201,7 @@ To help directors become familiar with using Loomio, try starting a new thread. 
 
 On your group home page, go to the **Threads** tab and use the button for **New Thread**.
 
-![](https://i.imgur.com/ednBbOD.png#border-none)
+![](new_thread.png#width-80)
 
 **Thread**
 When you start a new thread, you can choose where it will show up.
@@ -241,7 +241,7 @@ From within a thread, go to the tab marked **POLL**. You’ll see there are vari
 * a tick (✓) to say ‘yes’ or
 * a cross (x) to say ‘no’ or ‘unsure’.
 
-![](https://i.imgur.com/Vq5DB6A.png#border-none)
+![](choose_poll.png#width-80)
 
 Use a check poll to ask directors to confirm they are comfortable in Loomio. 
 
@@ -274,13 +274,13 @@ By default, everyone in the group can see everyone's votes. But you can change t
 
 **Check poll suggestion**
 
-![](https://i.imgur.com/SpLVTMc.png#border-none)
+![](start_check.png#width-80)
 
 **Voting**
 
 Here is what people will see when responding to a poll request to vote:
 
-![](https://i.imgur.com/KalAqvJ.png#border-none)
+![](check_vote.png#width-80)
 
 # 6. Set up a subgroup?
 
@@ -292,7 +292,7 @@ Setting up a subgroup is similar to setting up a group. After you have created t
 
 To review group settings, see [Step 1](#1-adjust-group-settings-for-the-board) to set up your subgroup.
 
-![](https://i.imgur.com/loeydDj.png#border-none)
+![](Subgroups.png#width-80)
 
 **Permissions**
 
@@ -301,4 +301,4 @@ Do you want members of the parent group to be able to see subgroups even though 
 Next, toggle to the **PERMISSIONS** tab. You’ll see a long list of options for who can do what. You can tick or untick as appropriate.
 The very first one (if you are an admin for the group) is ‘Members of [your parent group] can see private threads’. If you tick that option, everyone will be able to see—but not participate in—threads and polls in the subgroup.
 
-![](https://i.imgur.com/oE4iOeo.png#border-none)
+![](subgroup_settings.png#width-80)

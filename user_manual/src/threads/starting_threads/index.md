@@ -1,6 +1,16 @@
 # Starting threads
 _Get a discussion or decision going._
 
+Threads are where you discuss topics.  Group members respond in the thread by posting comments and replies. Threads can also contain polls and proposals to help progress a discussion to an outcome.  As people comment in the thread and vote in polls, the thread timeline builds so you can easily find key milestones.
+
+Here are some examples of topics you might use in threads:
+- Draft and approve a strategic document
+- Plan and deliver an event
+- Seek advice and prepare a recommendation to stakeholders
+- Submit a proposal to a customer, or to seek funding
+
+See [Guides - Success on Loomio](https://help.loomio.com/en/guides/engage-group.html) for more tips and examples of how to use threads.
+
 <div class="iframe-container"><iframe width="608" height="380" src="https://www.youtube.com/embed/1qxGl8MBA88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ## New thread

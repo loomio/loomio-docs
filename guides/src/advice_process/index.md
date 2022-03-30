@@ -109,7 +109,7 @@ You can quickly make better decisions by using advice process. All it takes is a
 
 Sound good? Share this video! Chat with your group about it… try it out and let us know how it goes!
 
-[Try it on Loomio, for free, today.](https://loomio.org/?frontpage/?utm_campaign=advice-process-guide&utm_term=guide)
+[Try it on Loomio, for free, today.](https://www.loomio.com/?utm_campaign=advice-process-guide&utm_term=guide)
 
 Cheers! Happy world-changing to you and your groups!
 

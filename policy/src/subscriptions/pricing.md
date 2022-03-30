@@ -17,28 +17,26 @@ We aim to offer a competitive price for enterprise organizations, an affordable 
 
 Loomio is open source software, and you are free to set up your own instance of Loomio.
 
-# Loomio subscription plans
+# Loomio Cloud subscription plans
 Simple, easy to understand pricing to encourage regular Loomio use and allow your group to grow without restriction.  
 
-A Loomio subscription is one price per group, and there is no limit on the number of people.
-
-This means you can invite everyone in your organization into your group!
+A Loomio subscription is one price per group - a subscription plan for your organization. People you invite into your Loomio group are not charged.
 
 Loomio subscriptions are on a pre-pay basis and cover the use of the service for the selected subscription period.
 
 ## Free trial
-All new groups start on a free trial, so you can evaluate Loomio with your group.
+All new Loomio Cloud groups start on a free trial, so you can evaluate Loomio for your organization.
 
 Free trials are for 7 days, limited to 10 people and 10 threads.
 
-[Contact us](https://www.loomio.com/contact) if you need to extend your trial.
+[Contact us](https://www.loomio.com/contact) if you wish to extend your trial.
 
 At the end of the trial period you will be asked to upgrade to a paid subscription plan.
 
 ## Loomio Starter plan
-Loomio Starter plan will suit most people getting started, and includes all Loomio standard features.
+Loomio Starter plan will suit most organizations getting started, and includes all Loomio standard features.
 
-Price: $US 25.00 per month or $US 199.00 per year.
+Price: $US 199.00 per year or $US 25.00 per month.
 
 Starter plan includes:
 - Loomio standard features
@@ -63,7 +61,7 @@ Pro plan includes:
 ## Loomio Pro Nonprofit plan
 Loomio Pro Nonprofit plan is available to validated nonprofit organizations who value implementation support, access to training, priority support and premium features.
 
-Nonprofit organizations can upgrade to this plan for immediate subscription to Loomio. We'll then send you an email with a link to validate your organization’s nonprofit status via our partner [TechSoup Global Network](https://meet.techsoup.org/about-us/techsoup-global-network.html).
+Nonprofit organizations can upgrade to this plan for immediate subscription to Loomio. We'll then send you an email with a link to validate your organization’s nonprofit status via our partner [TechSoup Global Network](https://www.techsoup.org/).
 
 [Click on this link to check TechSoup's nonprofit validation criteria for your country.](https://www.techsoup.global/techsoup-local-ngo-definitions)
 
@@ -110,7 +108,7 @@ This plan is “self-service” with limited support. However you can learn all 
 ## Training
 Loomio Pro plan training and implementation support is delivered via webinar and/or video conference.
 
-- Implementation support to help you get your Loomio group started and engage with members
+- Implementation support to help you set up and use Loomio successfully in your organization.
 - On-demand webinars to refresh your use of Loomio, ask questions and introduce new features.
 
 Bespoke training for your organization is tailored to your needs or your group.

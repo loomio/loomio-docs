@@ -1,6 +1,6 @@
 # What is Loomio and how can it help your organization?
 
-Loomio is a collaborative working space, shaped for making decisions — to achieve outcomes in line with your purpose.
+Loomio is a collaborative working space where together you can progress discussions, make decisions and achieve outcomes.
 
 <div class="iframe-container">
 <iframe width="608" height="380" src="https://www.youtube.com/embed/Zlzuqsunpxc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
