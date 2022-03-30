@@ -84,7 +84,7 @@ Participants will receive an invitation email with a link to the group. When the
 
 A week before your meeting, start a discussion thread to announce the details of your meeting.
 
-Click NEW THREAD from your [group page](https://help.loomio.org/en/user_manual/users/navigation/?utm_campaign=virtual_board_guide&utm_term=help/#group-pages/).
+Click NEW THREAD from your [group page](https://help.loomio.com/en/user_manual/users/navigation/?utm_campaign=virtual_board_guide&utm_term=help/#group-pages/).
 
 Give the thread a clear title, and explain in the ‘context’ section what this particular thread is about.
 
@@ -100,7 +100,7 @@ Invite members to ask any questions prior to the meeting. This is helpful to gai
 
 Invite board members to read board papers and submit any agenda items. This is a great way to confirm everyone is prepared for the meeting.
 
-Use a [Check poll](https://help.loomio.org/en/user_manual/polls/proposal_types/#check) to request a response. Set it to close before the time the meeting starts; so that everyone will get a reminder 24 hours beforehand.
+Use a [Check poll](https://help.loomio.com/en/user_manual/polls/proposal_types/#check) to request a response. Set it to close before the time the meeting starts; so that everyone will get a reminder 24 hours beforehand.
 
 <img src="review_board_papers_on_loomio.png" class="border-orange">
 
@@ -140,7 +140,7 @@ Checking in with each other is always good practice – even more so when you ar
 
 A quick check-in round where everyone has the opportunity to briefly say something – a personal experience and/or comment relevant to the business at hand – helps people to focus on the matters at hand and reveals if there’s any special circumstances that need attending to.
 
-[You can even run check-ins on Loomio](https://help.loomio.org/en/facilitators_guide/commencing/#check-in).
+[You can even run check-ins on Loomio](https://help.loomio.com/en/facilitators_guide/commencing/#check-in).
 
 ### 2. Ratify decisions made on Loomio
 
@@ -168,7 +168,7 @@ Now that you have completed your first Board meeting with Loomio, here are some 
 ### 1. Agree or ratify minutes
 After the meeting, update the meeting thread with a summary of what was discussed and note what action items were agreed on.
 
-Create another [Check poll](https://help.loomio.org/en/user_manual/polls/proposal_types/#check) in the same thread, and attach or link to the meeting minutes document. Give people a few days to sign off the minutes and confirm their action points.
+Create another [Check poll](https://help.loomio.com/en/user_manual/polls/proposal_types/#check) in the same thread, and attach or link to the meeting minutes document. Give people a few days to sign off the minutes and confirm their action points.
 
 <img src="ratify_minutes.png" class="border-orange">
 
@@ -180,9 +180,9 @@ Save valuable time in meetings by pushing administrative decisions onto Loomio, 
 Loomio is also great for making time-sensitive decisions when action is needed before your next board meeting. For example, you may need to approve a special budget change, to deal with a problem or take advantage of an opportunity.  
 
 1. Start a thread and open a discussion with clear context, relevant information and your request.
-2. When ready, raise a [Proposal](https://help.loomio.org/en/user_manual/polls/starting_proposals), and invite members to vote. You will soon hear if members need more information to vote.
+2. When ready, raise a [Proposal](https://help.loomio.com/en/user_manual/polls/starting_proposals), and invite members to vote. You will soon hear if members need more information to vote.
 
-[Our other guides](https://help.loomio.org/en/guides) include detailed information about decision-making processes you can use.
+[Our other guides](https://help.loomio.com/en/guides) include detailed information about decision-making processes you can use.
 
 <img src="choose_liability_insurance_on_loomio.png" class="border-orange">
 
@@ -192,7 +192,7 @@ Loomio is also great for making time-sensitive decisions when action is needed b
 
 ### 3. Agree on a time for your next meeting
 
-You can use a [Time poll](https://help.loomio.org/en/user_manual/polls/proposal_types/#time-poll) to agree on a time for your next board meeting. Time polls are especially helpful when people are in different time zones.
+You can use a [Time poll](https://help.loomio.com/en/user_manual/polls/proposal_types/#time-poll) to agree on a time for your next board meeting. Time polls are especially helpful when people are in different time zones.
 
 <img src="find_a_time_to_meet.png" class="border-orange">
 

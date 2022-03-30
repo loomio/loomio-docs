@@ -112,7 +112,7 @@ In the billing portal:
 2. Tell us why you are canceling the plan.
 3. Choose **Cancel Now** or **Cancel At End of Period**.
 
-If you’re having trouble finding your billing portal link or need help to cancel, or manage any details of your plan, please [contact us](https://www.loomio.org/contact).
+If you’re having trouble finding your billing portal link or need help to cancel, or manage any details of your plan, please [contact us](https://www.loomio.com/contact).
 
 ### What happens when a subscription is cancelled?
 Initially when you cancel, your group data will remain available, however you will no longer be able to start new threads or invite members to the group. 
@@ -124,6 +124,6 @@ After 30 days from cancellation, your group and all content will be deleted from
 ## Refunds
 When it comes to refunds, we treat our customers how we ourselves would like to be treated, and assess requests fairly.
 
-[Contact us](https://www.loomio.org/contact) if you would like a refund. 
+[Contact us](https://www.loomio.com/contact) if you would like a refund. 
 
 To process a refund, we must receive a request within 30 days of the date payment was made.

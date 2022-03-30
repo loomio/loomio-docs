@@ -22,10 +22,10 @@ _…emailed in reply to Loomio emails (that invite a reply) will appear as:_
 > Best Wishes,
 
 ## How can I reactivate my account?
-To have your account reactivated, [contact us](https://loomio.org/contact "opens in new tab").
+To have your account reactivated, [contact us](https://www.loomio.com/contact).
 
 ## I’ve deactivated my group, can I restore it?
-Deactivated groups can only be restored by a member of the Loomio team. [Contact us](https://loomio.org/contact "opens in new tab") to reactivate your group.
+Deactivated groups can only be restored by a member of the Loomio team. [Contact us](https://www.loomio.com/contact) to reactivate your group.
 
 ## My question is not here
-If you have any questions or issues that are not answered through this Help Manual, please [contact us](https://www.loomio.org/contact "opens in new tab") and we'll do our best to answer your questions.
+If you have any questions or issues that are not answered through this Help Manual, please [contact us](https://www.loomio.com/contact) and we'll do our best to answer your questions.

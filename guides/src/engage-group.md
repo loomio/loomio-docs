@@ -80,4 +80,4 @@ Or encourage members to start their own thread with their question - someone in 
 
 I hope this helps.  Do let us know how you get on, and tell us what works for your group! 
 
-Email contact@loomio.org or [Contact us](https://www.loomio.com/contact).🙂
+Email contact@loomio.com or [Contact us](https://www.loomio.com/contact).🙂

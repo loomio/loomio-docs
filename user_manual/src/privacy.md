@@ -16,7 +16,7 @@ menu:
 ## Privacy
 
 ### Group privacy
-As a group coordinator, you can customise your privacy and access permissions to suit what your group needs. See the [Loomio User Manual](https://help.loomio.org/en/user_manual/groups/settings/) for more information about Group Settings.
+As a group coordinator, you can customise your privacy and access permissions to suit what your group needs. See the [Loomio User Manual](https://help.loomio.com/en/user_manual/groups/settings/) for more information about Group Settings.
 
 ### Privacy Policy
 Loomio’s [Privacy policy](https://www.loomio.org/privacy) outlines how we handle personal data. We respect personal privacy and will never sell your data to third parties, nor put advertising into Loomio. We only transfer personal information to third parties where absolutely necessary.
@@ -98,7 +98,7 @@ We don't use passwords by default; users generally login via link sent to their 
 
 This means that our user accounts are no weaker than the user's email provider.
 
-Please see the [Loomio User Manual](https://help.loomio.org/en/user_manual/users/sign_in/) for more information about user sign-in.
+Please see the [Loomio User Manual](https://help.loomio.com/en/user_manual/users/sign_in/) for more information about user sign-in.
 
 ### Inactive sessions
 

@@ -24,7 +24,7 @@ A subgroup is a space for a smaller subset of people to focus on a project or co
 
 Depending on the settings, the subgroup can be visible to the broader group, or for subgroup members' eyes only.
 
-***For more on subgroups see ["Setting up for success: What structure suits our board?"](https://help.loomio.org/en/oric/for-success.html#what-structure-suits-our-board)***
+***For more on subgroups see ["Setting up for success: What structure suits our board?"](https://help.loomio.com/en/oric/for-success.html#what-structure-suits-our-board)***
 
 ### Thread
 

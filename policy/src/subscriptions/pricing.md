@@ -31,7 +31,7 @@ All new groups start on a free trial, so you can evaluate Loomio with your group
 
 Free trials are for 7 days, limited to 10 people and 10 threads.
 
-[Contact us](https://www.loomio.org/contact) if you need to extend your trial.
+[Contact us](https://www.loomio.com/contact) if you need to extend your trial.
 
 At the end of the trial period you will be asked to upgrade to a paid subscription plan.
 
@@ -105,7 +105,7 @@ We will check in with you once a year, near the annual renewal date of your plan
 
 If your group has acquired funding and at least one full-time staff member, we will invite you to upgrade to the Loomio Starter or Loomio Pro plan.
 
-This plan is “self-service” with limited support. However you can learn all you need to use Loomio effectively with [Loomio Help](https://help.loomio.org) which includes the user manual and guides.
+This plan is “self-service” with limited support. However you can learn all you need to use Loomio effectively with [Loomio Help](https://help.loomio.com) which includes the user manual and guides.
 
 ## Training
 Loomio Pro plan training and implementation support is delivered via webinar and/or video conference.

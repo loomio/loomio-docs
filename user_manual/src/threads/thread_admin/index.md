@@ -81,7 +81,7 @@ Sometimes a comment is useful, but off-topic for the thread; _it may be a short 
 
 The timeline helps you and your group to quickly access content (conversations, questions, decisions…). It is a visual, interactive history of key events, processes, or milestones that helps your group to understand how a conversation evolved over time or to review how a given outcome came about.
 
-![timeline with key meetup dates by month](https://help.loomio.org/en/user_manual/whats_new_loomio_2/new_timeline.png)
+![timeline with key meetup dates by month](https://help.loomio.com/en/user_manual/whats_new_loomio_2/new_timeline.png)
 
 To facilitate this, comments with headers, proposals, and polls are automatically added to the timeline as links. Clicking these links take you directly to this item in the thread.
 

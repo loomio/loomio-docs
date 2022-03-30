@@ -284,7 +284,7 @@ Here is what people will see when responding to a poll request to vote:
 
 # 6. Set up a subgroup?
 
-Do you need a subgroup?  To determine whether your board needs one or more subgroups, see ["Setting up for success: What structure suits our board?"](https://help.loomio.org/en/oric/for-success.html#what-structure-suits-our-board).
+Do you need a subgroup?  To determine whether your board needs one or more subgroups, see ["Setting up for success: What structure suits our board?"](https://help.loomio.com/en/oric/for-success.html#what-structure-suits-our-board).
 
 To set up a subgroup, go to your group home page and toggle to the **Subgroups** tab. You’ll see a button there for **New Subgroup**.
 

@@ -19,9 +19,9 @@ While our use restrictions are comprehensive, they can’t be exhaustive — it�
 
 ## How to report abuse
 
-For cases of suspected malware, spyware, phishing, spamming, and cybersquatting, please alert us at [contact@loomio.org](mailto:contact@loomio.org).
+For cases of suspected malware, spyware, phishing, spamming, and cybersquatting, please alert us at [contact@loomio.com](mailto:contact@loomio.com).
 
-For all other cases, please let us know by emailing [contact@loomio.org](mailto:contact@loomio.org). If you’re not 100% sure if something rises to the level of our use restrictions policy, report it anyway.
+For all other cases, please let us know by emailing [contact@loomio.com](mailto:contact@loomio.com). If you’re not 100% sure if something rises to the level of our use restrictions policy, report it anyway.
 
 Please share as much as you are comfortable with about the account, the content or behavior you are reporting, and how you found it. Sending us a URL or screenshots is super helpful. If you need a secure file transfer, let us know and we will send you a link. We will not disclose your identity to anyone associated with the reported account.
 
@@ -93,4 +93,4 @@ Further, as a small, privately owned independent business that puts our values a
 
 If we terminate an account without notice, the decision is final.
 
-For other cases, we will consider good faith appeals sent to [contact@loomio.org](mailto:contact@loomio.org) by the account owner within 14 calendar days.
+For other cases, we will consider good faith appeals sent to [contact@loomio.com](mailto:contact@loomio.com) by the account owner within 14 calendar days.

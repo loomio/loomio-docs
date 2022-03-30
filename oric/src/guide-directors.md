@@ -2,7 +2,7 @@
 
 Loomio is a private and secure service for your board to **talk about matters, make decisions and keep track** of everything. Using Loomio between meetings means that when you do meet in person, you can focus on what matters most.
 
-This Loomio service is provided by the Office of Registrar of Indigenous Corporations (ORIC), to strengthen governance in Aboriginal and Torres Strait Islander corporations. Your group will be in the following ORIC domain: **[decisions.oric.gov.au](https://decisions.oric.gov.au)** << *(bookmark that address in your browser and/or [create a shortcut on your phone](https://help.loomio.org/en/user_manual/getting_started/sign-in.html#add-loomio-to-your-smartphone-home-screen))*
+This Loomio service is provided by the Office of Registrar of Indigenous Corporations (ORIC), to strengthen governance in Aboriginal and Torres Strait Islander corporations. Your group will be in the following ORIC domain: **[decisions.oric.gov.au](https://decisions.oric.gov.au)** << *(bookmark that address in your browser and/or [create a shortcut on your phone](https://help.loomio.com/en/user_manual/getting_started/sign-in.html#add-loomio-to-your-smartphone-home-screen))*
 
 Know that **no one from ORIC has access** to your group. It's private for your board members and whoever else you invite.
 
@@ -16,7 +16,7 @@ Loomio works on standard hardware and software. There is no need to download any
 
 Old browsers such as Internet Explorer might not work.
 
-If you have problems seeing Loomio on your device, please contact [Loomio Support](https://decisions.oric.gov.au/contact) or email [contact@loomio.org](mailto:contact@loomio.org).
+If you have problems seeing Loomio on your device, please contact [Loomio Support](https://decisions.oric.gov.au/contact) or email [contact@loomio.com](mailto:contact@loomio.com).
 
 ## In this section
 

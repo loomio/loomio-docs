@@ -58,7 +58,7 @@ If you have a question or concern, contact either your trained administrator or 
 ## Data sovereignty
 Aboriginal and Torres Strait Islander corporations participating in this programme will have sovereignty over their data. ORIC will have access to metrics about their use of Loomio, and any quantitative and qualitative data that directors provide as part of evaluating their own governance and the Loomio service. ORIC will have no access to any substantive data about corporations’ deliberations or decisions.
 
-Loomio takes good care in relation to your [privacy](https://help.loomio.org/en/legal/privacy/), and has set up a private service for this pilot on the Amazon Web Services (AWS) data centre in Sydney, Australia.
+Loomio takes good care in relation to your [privacy](https://help.loomio.com/en/legal/privacy/), and has set up a private service for this pilot on the Amazon Web Services (AWS) data centre in Sydney, Australia.
 
 ## Questions?
 Please ask :-)

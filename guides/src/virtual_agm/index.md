@@ -13,7 +13,7 @@ Before we begin, we will make a couple points about the tools you might need and
 
 You can have some or even all of the interactions and engagement you would normally have at a formal meeting on Loomio. Loomio may not be the only tool you want to use – we also use [Jitsi](https://meet.jit.si)'s open source teleconferencing, or Zoom, and Google Drive for file sharing – but it can help you and your group to reduce real-time meetings by achieving some decisions or processes solely on Loomio.
 
-> **Example:** This investment group prefers to meet online rather than in-person to discuss their [loan allocation](https://blog.loomio.org/2019/06/14/investing-in-community/#our-most-essential-tool) process.
+> **Example:** This investment group prefers to meet online rather than in-person to discuss their [loan allocation](https://blog.loomio.com/2019/06/14/investing-in-community/#our-most-essential-tool) process.
 
 It can also help you continue communication between meetings, better prepare for meetings,  and keep a good record of decisions, actions and accountabilities and follow-ups all in one place.
 
@@ -23,7 +23,7 @@ This type of communication can help you alleviate the time pressure in meetings,
 
 ### AGM vs. General Assemblies vs. Board meetings…
 
-Quick note: We’re using the example of an AGM to show how we can **achieve the purpose of big, formal meetings** remotely and efficiently. Your board or other formal meeting might follow all of these steps, or find a few of the tips are less necessary. Routine processes – such as  a [grant funding process](https://blog.loomio.org/2019/06/19/funding-community-renewable-projects/ "open in new tab") – are easy to operationalize with Loomio.
+Quick note: We’re using the example of an AGM to show how we can **achieve the purpose of big, formal meetings** remotely and efficiently. Your board or other formal meeting might follow all of these steps, or find a few of the tips are less necessary. Routine processes – such as  a [grant funding process](https://blog.loomio.com/2019/06/19/funding-community-renewable-projects/ "open in new tab") – are easy to operationalize with Loomio.
 
 ---
 
@@ -113,7 +113,7 @@ Loomio’s polls include [Ranked choice](/en/user_manual/polls/proposal_types/#r
 
 Select Ranked choice from the Polls menu and add the candidates names; participants will then drag them into their order of preference
 
-<img src="https://help.loomio.org/en/user_manual/polls/starting_proposals/reveal_voters_after_close.png" class="border-orange">
+<img src="https://help.loomio.com/en/user_manual/polls/starting_proposals/reveal_voters_after_close.png" class="border-orange">
 
 **Make your poll anonymous** to reduce political friction or interpersonal dynamics. To do this, just tick the appropriate box as shown above.
 
@@ -155,4 +155,4 @@ Now that you know how to get better outcomes from your virtual AGM with Loomio, 
 
 Need to run an AGM, Assembly, or [Board meeting online](../virtual_board_meetings)?
 
-We’d love to hear about it – [connect with us](http://loomio.org/contact/?utm_campaign=virtual_board_guide&utm_term=help/ "open in new tab").
+We’d love to hear about it – [connect with us](http://www.loomio.com/contact/?utm_campaign=virtual_board_guide&utm_term=help/ "open in new tab").

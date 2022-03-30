@@ -4,7 +4,7 @@
 
 The data privacy regulatory landscape is undergoing a lot of change. You probably have heard about the EU General Data Protection Regulation (GDPR) that went into effect on May 25, 2018. There are also other regulations in effect or in the works around the world. We’ve written up this reference document to put helpful information regarding our products and privacy regulations in one place. Please also view our full [Privacy policy](../index.md).
 
-If you have any questions, comments, or concerns about our [Privacy policy](../index.md), your data, or your rights with respect to your information, please email us at [contact@loomio.org](mailto:contact@loomio.org).
+If you have any questions, comments, or concerns about our [Privacy policy](../index.md), your data, or your rights with respect to your information, please email us at [contact@loomio.com](mailto:contact@loomio.com).
 
 ## European Union General Data Protection Regulation (GDPR)
 
@@ -24,13 +24,13 @@ Please read our [Privacy Policy](../index.md) and our [Security Overview](../../
 * We limit the data we collect: if we don’t need it, we don’t ask for it.
 * We limit the permissions our apps request on your devices.
 * We put a lot of security measures into place including in-transit encryption, encryption at-rest, and requiring employees and contractors to sign non-disclosure agreements.
-* When you email us at [contact@loomio.org](mailto:contact@loomio.org), someone from our team will get back to you. You are always speaking with a human! No bots.
+* When you email us at [contact@loomio.com](mailto:contact@loomio.com), someone from our team will get back to you. You are always speaking with a human! No bots.
 
 We do work with sub-processors. You can see a list of current sub-processors at [Loomio Subprocessors](../loomio-subprocessors/index.md) and [Company Processors](../company-processors/index.md). With each vendor, we assess their commitment to privacy and ensure they have GDPR-compliant data processing agreements in place that include the controller-processor [Standard Contractual Clauses](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en).
 
 ### Data processing addendum
 
-We have incorporated a Data Processing Addendum (DPA) to our [Terms of Service](../../terms/index.md). You can find the DPA linked within the Uptime, Security and Privacy section. This addendum is in effect when the General Data Protection Regulation applies to your use of Loomio services to process Customer Data as defined in the DPA. The DPA includes the European Commission’s Standard Contractual Clauses (both controller-processor and controller-controller) to extend GDPR privacy principles, rights, and obligations everywhere personal data is processed. If you prefer to have an executed copy of the Data Processing Addendum, [contact us](https://www.loomio.org/contact) to request a signed DPA with your organization name, and name and email address of the person with authority to sign on behalf of your organization. We provide the same privacy rights and protection to all customers, regardless of whether they choose to execute a DPA. 
+We have incorporated a Data Processing Addendum (DPA) to our [Terms of Service](../../terms/index.md). You can find the DPA linked within the Uptime, Security and Privacy section. This addendum is in effect when the General Data Protection Regulation applies to your use of Loomio services to process Customer Data as defined in the DPA. The DPA includes the European Commission’s Standard Contractual Clauses (both controller-processor and controller-controller) to extend GDPR privacy principles, rights, and obligations everywhere personal data is processed. If you prefer to have an executed copy of the Data Processing Addendum, [contact us](https://www.loomio.com/contact) to request a signed DPA with your organization name, and name and email address of the person with authority to sign on behalf of your organization. We provide the same privacy rights and protection to all customers, regardless of whether they choose to execute a DPA. 
 
 ## California Consumer Privacy Act (CCPA)
 
