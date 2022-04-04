@@ -52,7 +52,7 @@ Now, anyone with access to your Loomio thread and permission to view the doc can
 
 ![](link_icon.png)
 
-![](https://www.loom.com/share/9074b1a6ca934b5a9acda9f100e00337?sharedAppSource=team_library)
+<iframe width="100%" height="380px" src="https://www.loom.com/embed/9074b1a6ca934b5a9acda9f100e00337" frameborder="0" allowfullscreen></iframe>
 
 ### Embed videos
 
