@@ -74,7 +74,7 @@ Click **WYSIWYG** to return to the formatting tools. This will convert any text 
 
 From the lists dropdown, choose **Checklist**.
 
-![](task_list.png)
+![](task_list_bar.png)
 
 Click on the checklist/ tick boxes in order to cross out that to-do from the edit form of any context or thread you have permission to edit. _I.e., you cannot tick boxes in someone elses comment._
 
