@@ -17,6 +17,8 @@ The context is like the whiteboard in your meeting room, where you can write the
 
 Use the paper clip icon, just below the text form, to add attachments from your computer.
 
+![](attach_file.png)
+
 ### Remove attachments
 
 While editing the context, click the **X** to the right of the attachment's name.
@@ -38,7 +40,7 @@ You can reply to your _own_ comment in order to nest your reply underneath the c
 
 If Loomio has emailed you a comment and says you can reply to the email, you can reply directly from your email and your message will appear in the thread.
 
-## Formatting comments
+## Formatting
 
 Use the formatting tools underneath the space in which you write (any form). Hover the mouse/cursor over each item to know what it is. There's a number of format options listed below, and a few are explained in more detail further down.
 
@@ -48,6 +50,24 @@ Use the formatting tools underneath the space in which you write (any form). Hov
 - add attachments (from your device) - _paper clip icon_
 - embed video - _play button icon_
 - create and modify tables - _icon with four squares_.
+
+### Link to a Google doc
+
+You can add a link to a Google doc in Loomio anywhere there is a text space; when starting a thread or poll, writing a comment, or updating your group description. The link icon is one of the formatting tools under the space you can write text in Loomio.
+
+To use the link icon, 
+1. Select the text you want to link to - say the name of a document
+2. Click the link icon
+3. Find the document link - go to your Google drive and ‘Get link’, or go to the Google doc and ‘Share link’.  Check the link permissions so members can open the link - usually ‘Anyone with the link’. Copy the link to your clipboard.
+4. Now, go back to Loomio and paste the link.
+
+A preview of the doc will appear under the text space. You can remove this if you want.
+
+Now, anyone with access to your Loomio thread and permission to view the doc can open and read it.
+
+![](link_icon.png)
+
+![](https://www.loom.com/share/9074b1a6ca934b5a9acda9f100e00337?sharedAppSource=team_library)
 
 ### Embed videos
 
@@ -69,7 +89,7 @@ Click **WYSIWYG** to return to the formatting tools. This will convert any text 
 
 From the lists dropdown, choose **Checklist**.
 
-![](lists.png)
+![](task_list.png)
 
 Click on the checklist/ tick boxes in order to cross out that to-do from the edit form of any context or thread you have permission to edit. _I.e., you cannot tick boxes in someone elses comment._
 
