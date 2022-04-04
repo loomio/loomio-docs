@@ -25,21 +25,6 @@ While editing the context, click the **X** to the right of the attachment's name
 
 ![](delete_context_attachment.png)
 
-
-## Comments and replies
-The most common activity in a thread is commenting. Comments are shared with everyone in the thread – usually this is just the members of your group. First look for **Comment** and your user photo (or initials).
-
-![](comments_and_facilitation_box.png)
-_Make sure that Comment is highlighted, not Proposal or Poll._
-
-Write your comment and press **Post** to have your say.
-
-Replies are like comments except in that the author of the original comment will be notified of your reply. Click **reply** on the comment you would like to associate your comment with, as it will be nested underneath theirs – by default – in the thread in which you replied.
-
-You can reply to your _own_ comment in order to nest your reply underneath the comment. Click the three horizontal dots (**⋯**) to find **reply** in this case.
-
-If Loomio has emailed you a comment and says you can reply to the email, you can reply directly from your email and your message will appear in the thread.
-
 ## Formatting
 
 Use the formatting tools underneath the space in which you write (any form). Hover the mouse/cursor over each item to know what it is. There's a number of format options listed below, and a few are explained in more detail further down.
@@ -94,6 +79,20 @@ From the lists dropdown, choose **Checklist**.
 Click on the checklist/ tick boxes in order to cross out that to-do from the edit form of any context or thread you have permission to edit. _I.e., you cannot tick boxes in someone elses comment._
 
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/uWNHwl7_gPo?rel=0" frameborder="0" allowfullscreen></iframe>
+
+## Comments and replies
+The most common activity in a thread is commenting. Comments are shared with everyone in the thread – usually this is just the members of your group. First look for **Comment** and your user photo (or initials).
+
+![](comments_and_facilitation_box.png)
+_Make sure that Comment is highlighted, not Proposal or Poll._
+
+Write your comment and press **Post** to have your say.
+
+Replies are like comments except in that the author of the original comment will be notified of your reply. Click **reply** on the comment you would like to associate your comment with, as it will be nested underneath theirs – by default – in the thread in which you replied.
+
+You can reply to your _own_ comment in order to nest your reply underneath the comment. Click the three horizontal dots (**⋯**) to find **reply** in this case.
+
+If Loomio has emailed you a comment and says you can reply to the email, you can reply directly from your email and your message will appear in the thread.
 
 ## Editing comments
 If you've made a typo, or want to add a bit more information to your comment shortly after you've posted it, click **edit** on your comment. Editing does not take anyone else's attention with notifications nor unread signals.
