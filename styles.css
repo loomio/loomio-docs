@@ -1,8 +1,8 @@
 html {
-  font-family: "Roboto", sans-serif;
 }
 
 body {
+  font-family: "Roboto", sans-serif;
   background-color: #f7f7ed;
   color: rgba(0,0,0,0.9);
   margin: 1em auto;
@@ -17,6 +17,11 @@ header {
     max-width: 100%;
     margin: auto;
   }
+}
+
+h1, h2, h3 {
+  font-weight: 400;
+  font-family: "Roboto", sans-serif;
 }
 
 footer {
@@ -35,4 +40,23 @@ main {
   border-radius: 20px;
   box-shadow: 1px 1px 4px #999;
   max-width: 800px;
+}
+h2 a{
+  text-decoration: none;
+}
+ul {
+  margin-bottom: 2em;
+}
+.header-text {
+  font-family: "Roboto", sans-serif;
+  font-size: 2.0rem;
+  color: #DCA034;
+  text-decoration: none;
+  font-weight: 400;
+  line-height: 1.3;
+  /*margin-top: 0.2em;*/
+  /*margin-bottom: 0.5em;*/
+}
+.header-text span {
+  /*display: block;*/
 }
