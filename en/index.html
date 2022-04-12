@@ -5,29 +5,78 @@
 <link rel="stylesheet" href="/styles.css">
 <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Roboto:ital,wght@0,300;0,400;0,700;1,400&display=swap" rel="stylesheet">
 <script>
-    !function(t,e){var o,n,p,r;e.__SV||(window.posthog=e,e._i=[],e.init=function(i,s,a){function g(t,e){var o=e.split(".");2==o.length&&(t=t[o[0]],e=o[1]),t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}}(p=t.createElement("script")).type="text/javascript",p.async=!0,p.src=s.api_host+"/static/array.js",(r=t.getElementsByTagName("script")[0]).parentNode.insertBefore(p,r);var u=e;for(void 0!==a?u=e[a]=[]:a="posthog",u.people=u.people||[],u.toString=function(t){var e="posthog";return"posthog"!==a&&(e+="."+a),t||(e+=" (stub)"),e},u.people.toString=function(){return u.toString(1)+".people (stub)"},o="capture identify alias people.set people.set_once set_config register register_once unregister opt_out_capturing has_opted_out_capturing opt_in_capturing reset isFeatureEnabled onFeatureFlags".split(" "),n=0;n<o.length;n++)g(u,o[n]);e._i.push([i,s,a])},e.__SV=1)}(document,window.posthog||[]);
-    posthog.init('phc_B1Epz0SEP3hev4f2oARjeH3FxWKS1dgnZrswc5i4KOB',{api_host:'https://hog.loomio.io'})
+var localAddrs = ["localhost", "127.0.0.1", ""];
+if (localAddrs.indexOf(document.location.hostname) === -1) {
+  !function(t,e){var o,n,p,r;e.__SV||(window.posthog=e,e._i=[],e.init=function(i,s,a){function g(t,e){var o=e.split(".");2==o.length&&(t=t[o[0]],e=o[1]),t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}}(p=t.createElement("script")).type="text/javascript",p.async=!0,p.src=s.api_host+"/static/array.js",(r=t.getElementsByTagName("script")[0]).parentNode.insertBefore(p,r);var u=e;for(void 0!==a?u=e[a]=[]:a="posthog",u.people=u.people||[],u.toString=function(t){var e="posthog";return"posthog"!==a&&(e+="."+a),t||(e+=" (stub)"),e},u.people.toString=function(){return u.toString(1)+".people (stub)"},o="capture identify alias people.set people.set_once set_config register register_once unregister opt_out_capturing has_opted_out_capturing opt_in_capturing reset isFeatureEnabled onFeatureFlags".split(" "),n=0;n<o.length;n++)g(u,o[n]);e._i.push([i,s,a])},e.__SV=1)}(document,window.posthog||[]);
+  posthog.init('phc_4nd8XBXqgXILMhPdV85b5s8H3lGbf3aKVnzpf7RdfH1',{api_host:'https://ph.loomio.com'})
+}
 </script>
 </head>
 <body>
 <header>
-<img src="/logo_gold.svg" style="max-width: 320px">
+<img src="/logo_gold.svg" style="max-width: 256px; height: auto">
 </header>
 <main>
 
 <h1>Loomio Help</h1>
 
-<h2><a href="user_manual/">User Manual</a></h2>
-<p>Start here if you're new to Loomio.</p>
+<div>
+  <div>
+    <h2><a href="user_manual/">User Manual</a></h2>
+    <p>Start here if you're new to Loomio.</p>
+    <ul>
+    <li><a href="/en/user_manual/getting_started/key-concepts">Getting Started</a></li>
+    <li><a href="/en/user_manual/groups/starting_a_group">Groups</a></li>
+    <li><a href="/en/user_manual/threads/starting_threads">Threads</a></li>
+    <li><a href="/en/user_manual/polls/starting_proposals">Decisions</a></li>
+    <li><a href="/en/user_manual/users/user_profile">Your Profile</a></li>
+    <li>and more...</li>
+    </ul>
+  </div>
 
-<h2><a href="guides/">Guides</a></h2>
-<p>A collection of guides to help you get the most from Loomio.</p>
+  <div>
+    <h2><a href="guides/">Guides</a></h2>
+    <p>A collection of guides to help you get the most from Loomio.</p>
+    <ul>
+    <li><a href="/en/guides/5_ways_to_use_threads">5 ways to use threads</a></li>
+    <li><a href="https://blog.loomio.com/2015/09/18/9-ways-to-use-a-loomio-proposal-to-turn-a-conversation-into-action/">9 ways to use proposals</a></li>
+    <li><a href="/en/guides/advice_process">Collaborative decision-making</a></li>
+    <li><a href="/en/guides/virtual_agm">How to run a virtual AGM</a></li>
+    <li><a href="/en/guides/facilitators_guide">The facilitator's guide to Loomio</a></li>
+    <li>and more...</li>
+    </ul>
+  </div>
+  <div>
+    <h2><a href="https://blog.loomio.com">Blog</a></h2>
+    <p>Frequently updated with the latest updates and articles about Loomio in the wild.</p>
+    <ul>
+    <li><a href="https://blog.loomio.com/2019/11/14/creating-the-workplace-of-the-future/">Creating the Workplace of the Future</a> (Self-management)</li>
+    <li><a href="https://blog.loomio.com/2021/01/13/the-importance-of-place-and-sustainable-design-regenerative-building/">The importance of place</a> (Co-operative)</li>
+    <li><a href="https://blog.loomio.com/2019/07/30/resolving-the-education-crisis-in-new-zealand/">Resolving the education crisis in New Zealand</a> (Union)</li>
+    <li><a href="https://blog.loomio.com/2020/10/07/cutting-edge-policy-development/">Developing cutting-edge policy using Loomio</a> (Political party)</li>
+    <li><a href="https://blog.loomio.com/2019/06/19/funding-community-renewable-projects/">Funding community renewable projects</a> (Funding board)</li>
+    <li><a href="https://blog.loomio.com/2019/07/30/catalyzing-the-zero-waste-movement-in-france/">Catalyzing the Zero Waste movement in France</a> (Climate activists)</li>
+    <li>and more...</li>
+    </ul>
+  </div>
+  <div>
+    <h2><a href="policy/">Policies</a></h2>
+    <p>Our privacy policy, terms of service, security information and subscription management.</p>
+    <ul>
+    <li><a href="">Terms of Service</a></li>
+    <li><a href="">Privacy Policy</a></li>
+    <li><a href="">Security</a></li>
+    <li><a href="">Pricing</a></li>
+    <li><a href="">Subscription Management</a></li>
+    <li><a href="">Training and Support</a></li>
+    <li>and more...</li>
+    </ul>
+  </div>
+</div>
 
-<h2><a href="https://blog.loomio.com">Blog</a></h2>
-<p>Frequently updated with the latest updates and articles about Loomio in the wild.</p>
 
-<h2><a href="policy/">Policies</a></h2>
-<p>Our privacy policy, terms of service, security information and subscription management.</p>
+
+
 </main>
 </body>
 </html>
