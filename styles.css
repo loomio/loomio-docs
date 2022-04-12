@@ -41,9 +41,11 @@ main {
   box-shadow: 1px 1px 4px #999;
   max-width: 800px;
 }
-h2 a{
+
+a{
   text-decoration: none;
 }
+
 ul {
   margin-bottom: 2em;
 }
