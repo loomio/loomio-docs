@@ -56,7 +56,7 @@ Now, anyone with access to your Loomio thread and permission to view the doc can
 
 ### Embed videos
 
-You can embed a video from video platforms such as Youtube and Vimeo into Loomio anywhere there is a text space; when starting a thread or poll, writing a comment, or updating your group description. The embed video icon is one of the formatting tools, under the space where you write text in Loomio.
+You can embed a video from popular video platforms like Youtube and Vimeo into Loomio anywhere there is a text space; when starting a thread or poll, writing a comment, or updating your group description. The embed video icon is one of the formatting tools, under the space where you write text in Loomio.
 
 To use the embed video feature, 
 1. Click the embed video icon
@@ -71,7 +71,7 @@ Now, anyone with access to your Loomio thread and permission to view the video c
 
 <iframe width="100%" height="380px" src="https://www.youtube.com/embed/gbWUCPzxTUQ" frameborder="0" allowfullscreen></iframe>
 
-**Tip:** Make sure you set the visibility of the video in Youtube so that people you want can watch it. 'Unlisted' is a good option if you do not want to make the video public.
+**Tip:** Make sure you set the visibility of the video in Youtube or Vimeo so that the people you want to can view it. In Youtube 'Unlisted' is a good option if you do not want to make the video public.
 
 ### Markdown
 
