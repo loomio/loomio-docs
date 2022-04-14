@@ -40,7 +40,7 @@ Use the formatting tools underneath the space in which you write (any form). Hov
 
 You can add a link to a Google doc in Loomio anywhere there is a text space; when starting a thread or poll, writing a comment, or updating your group description. The link icon is one of the formatting tools under the space you can write text in Loomio.
 
-To use the link icon, 
+To use the link feature, 
 1. Select the text you want to link to - say the name of a document
 2. Click the link icon
 3. Find the document link - go to your Google drive and ‘Get link’, or go to the Google doc and ‘Share link’.  Check the link permissions so members can open the link - usually ‘Anyone with the link’. Copy the link to your clipboard.
@@ -56,11 +56,22 @@ Now, anyone with access to your Loomio thread and permission to view the doc can
 
 ### Embed videos
 
-Click the video icon from the formatting tools listed underneath any form (comment, thread…) and paste the link of most modern video hosting websites (ie, Youtube, Vimeo…).
+You can embed a video from video platforms such as Youtube and Vimeo into Loomio anywhere there is a text space; when starting a thread or poll, writing a comment, or updating your group description. The embed video icon is one of the formatting tools, under the space where you write text in Loomio.
+
+To use the embed video feature, 
+1. Click the embed video icon
+2. Go to the video you want to embed, find and copy the shareable link 
+3. Now, go back to Loomio and paste the link
+
+A preview of the video will appear.
+
+Now, anyone with access to your Loomio thread and permission to view the video can play it from within Loomio.
 
 ![](embed_video.png)
 
-![](https://www.loom.com/share/5f60cc82754d4254acae41e9268aae96)
+<iframe width="100%" height="380px" src="https://www.youtube.com/embed/gbWUCPzxTUQ" frameborder="0" allowfullscreen></iframe>
+
+**Tip:** Make sure you set the visibility of the video in Youtube so that people you want can watch it. 'Unlisted' is a good option if you do not want to make the video public.
 
 ### Markdown
 
