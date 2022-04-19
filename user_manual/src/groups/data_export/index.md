@@ -1,8 +1,12 @@
 # Group data export
 
-How to export your group data.
+With the group data export feature you can:
 
-A simple way to export all of your group's data. You can export it to a CSV, HTML, or JSON file.
+- Open poll results in a spreadsheet or scripting language
+- Print or save PDF's of a thread or poll for archival purposes
+- Move you group, including all users, threads, polls, and files to another Loomio server.
+
+Loomio offer managed hosting in USA, EU and Australia. If you'd like to migrate your group to one of these servers, please [contact us](https://www.loomio.org/contact).
 
 ## Export
 
@@ -28,7 +32,9 @@ This will open the HTML file in another tab in your browser. If you want to save
 
 You'll shortly receive an email with a link to downloading the JSON file.
 
-## Import
+## Import your group data on another Loomio server
+
+For instructions on setting up your own Loomio server, visit: https://github.com/loomio/loomio-deploy
 
 If you are hosting your own Loomio deployment, and would like to import your exported data:
 
