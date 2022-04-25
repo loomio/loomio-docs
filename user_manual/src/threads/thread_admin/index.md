@@ -101,13 +101,15 @@ In addition to [closing threads](#close-thread) or [moving threads](#move-thread
 
 ### Print thread
 
-From the [thread options](#Thread-Options-and-Organizing-threads) (**⋯**), choose **print**. Then use your browser's ability to "save to pdf", or copy and paste it into the file or repository of your choosing.
+In the thread menu click on the 3 dots menu (**⋯**) and choose **Print**. Then use your browser's ability to "save to pdf", or copy and paste it into the file or repository of your choosing.
+
+![](thread_print_thread.png)
 
 ## Tracking engagement
 
 ### Seen by
 
-Just under the thread context you can click **members** to see who has or has not seen the thread.
+Just under the thread context you can click **Members** to see who has or has not seen the thread.
 
 ![](thread_member_management.png)
 
