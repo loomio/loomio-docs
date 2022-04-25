@@ -109,9 +109,9 @@ In the thread menu click on the 3 dots menu (**⋯**) and choose **Print**. Then
 
 ### Seen by
 
-Just under the thread context you can click **Members** to see who has or has not seen the thread.
+Click **Seen by** to see who has or has not seen the thread.
 
-![](thread_member_management.png)
+![](thread_seen_by.png)
 
 ### Notification history
 
