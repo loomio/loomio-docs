@@ -1,4 +1,4 @@
-# Group data export
+# Group data backup or export
 
 With the group data export feature you can:
 
