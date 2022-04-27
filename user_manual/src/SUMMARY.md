@@ -44,3 +44,4 @@
 - [Slack](groups/integrations/slack/index.md)
 - [Microsoft Teams](groups/integrations/microsoft_teams/index.md)
 - [Mattermost](groups/integrations/mattermost/index.md)
+- [API](groups/integrations/api/index.md)
