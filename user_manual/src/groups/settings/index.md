@@ -35,17 +35,17 @@ You can edit the handle.
 
 In the Group description box think about the people you are inviting and write something about:
 
-*What* you will use Loomio for. 
+***What* you will use Loomio for.**
 - The purpose of the group. 
 - The work you are going to do.
 - What you hope to achieve.
 
-*Why* this work is important.
+***Why* this work is important.**
 - Why people should participate.
 
-*Who* is invited into this work.
+***Who* is invited into this work.**
 
-*How* to participate.
+***How* to participate.**
 - What you expect of group members.
 - How you see Loomio will complement your usual processes.
 - An outline or attach the Terms of Reference, Code of Conduct or other doc that governs the group.
