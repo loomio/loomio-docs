@@ -1,12 +1,24 @@
 # Loomio and other collaboration tools
 
-Loomio combines a discussion forum with decision-making tools to progress a discussion towards an outcome.  
+Loomio combines a discussion forum with decision-making tools. 
 
-It is an asynchronous collaboration tool helping you have discussions, make decisions and build an archive for your organization.  
+It helps you to progress a discussion towards an outcome, building a record of decisions as you go.  
+
+## Asynchronous discussion and decision-making
+
+It is often not possible to get all the people together at the same time and in the same place; whether in a physical meeting room, an online video call, or in a real-time chat room.  
+
+This means people can be left out of an important decision, or put under pressure in the moment to make a quick decision.
+
+Asynchronous communication allows people to contribute to the discussion and decision at a time that works for them. It is more inclusive, gives people time to think and consider their response, and provides greater opportunity for more people to participate.
+
+As an asynchronous collaboration tool, Loomio can help you include people, have open and diverse discussion, converge towards a clear decision and build an archive for your organization.
+
+## Integrating Loomio with real-time and document management 
 
 Loomio is often used alongside real-time and document management collaborative tools.  
 
-Consider the collaboration tools your organization uses.
+Consider the collaboration tools your organization uses and the role each plays.
 
 ![](map-tools.png)
 
