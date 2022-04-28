@@ -3,13 +3,18 @@ _How to invite people and manage group membership._
 
 Inviting people to join your Loomio group is a critical step to success - however everyone is busy; many people are reluctant to try a new tool and can be slow to respond to your invitation.  
 
-Loomio includes tools to help you invite people; but you may also need to reach out to members by phone, text, chat or in a meeting, to tell them **why** you are using Loomio. If your group members resonate with this, it will encourage them to give it a go.
+Loomio includes tools to help you invite people; but you may also need to reach out to members by phone, text, chat or in a meeting, to tell them ***why*** you are using Loomio. If your group members resonate with this, it will encourage them to give it a go.
 
 For example, your group might need:
 - a safe space where members can find all the info they need and participate in their own time
 - to stay in touch and respond to issues that come up between meetings 
 - to progress discussions and make decisions as needed
 - to have better meetings and focus precious meeting time on issues that matter
+
+If you're still having trouble with people not accepting your invitation: 
+- [Re-send your invitation](#re-send-invitations).
+- Invite them to a particular thread or poll using their email address (so they can see that things are happening). Their email reply or vote will appear in Loomio.
+- Record a short video of yourself on your phone, Zoom or Loom and send this with your invitation; so people can see that you're a real person, the importance of the work, your enthusiasm and passion, and to encourage them to join in :-)
 
 ## Invite people
 
