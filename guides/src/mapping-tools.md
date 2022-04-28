@@ -1,8 +1,8 @@
 # Loomio and other collaboration tools
 
-Loomio combines a discussion forum with decision-making tools. 
+Loomio combines a discussion forum with decision-making tools - encouraging more inclusive, deliberative and participative discussion and decision-making. 
 
-It helps you to progress a discussion towards an outcome, building a record of decisions as you go.  
+It helps you build shared understanding and to progress a discussion towards an outcome, building a record of decisions as you go.  
 
 ## Asynchronous discussion and decision-making
 
