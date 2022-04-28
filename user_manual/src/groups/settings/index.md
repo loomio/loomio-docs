@@ -33,25 +33,34 @@ You can edit the handle.
 
 ### Group description
 
-Use the group description to help people understand the purpose of the group, what work you are going to do, and include any other information that helps them participate. Use the formatting tools to format text, attach documents, add links, and embed videos.
+In the Group description box think about the people you are inviting and write something about:
+
+*What* you will use Loomio for. 
+- The purpose of the group. 
+- The work you are going to do.
+- What you hope to achieve.
+
+*Why* this work is important.
+- Why people should participate.
+
+*Who* is invited into this work.
+
+*How* to participate.
+- What you expect of group members.
+- How you see Loomio will complement your usual processes.
+- An outline or attach the Terms of Reference, Code of Conduct or other doc that governs the group.
 
 For example;
 
-1. In the group description box write a clear **purpose** for why you have set up this group and a reason why people should join. 
+*We use Loomio to discuss and make decisions about issues, work priorities and plans, prepare for meetings, and collaborate on strategic documents.*
 
-  *This is a safe space to enjoy discussion, share your perspective and wisdom, and participate in decision-making. It allows us to stay up to date, be involved and work together to achieve our objectives.*  
+*We need a safe and private space for discussion, to share knowledge, perspective and wisdom, and to help us make good decisions together. Loomio will help us stay up to date, be involved and work together more effectively to achieve our objectives.*  
 
-2. Outline how you intend to **use** Loomio.
+*This is a private group for our working team. You are invited to contribute in threads, vote in proposals and raise new topics by starting a new thread.*
 
-  *We use Loomio to discuss and make decisions about issues, work priorities and plans, prepare for meetings, and collaborate on strategic documents.*
+*We will use Loomio to prepare for meetings and agree agenda items, upload draft papers and documents, agree actions, approve minutes, and progress discussions on issues we do not have time to cover during meetings."*
 
-3. Consider **who** is in this group, and what you expect of each other? 
-
-  *This is a private group for our working team. Do contribute on threads, vote in proposals and raise new topics by starting a new thread.*
-
-4. How will Loomio complement your existing **processes**? Are you running a particular decision or workflow process?   
-
-  *In our board, we will use Loomio to prepare for meetings and agree agenda items, upload draft papers and documents, agree actions and approve minutes, and progress discussions on issues we do not have time to cover during meetings."*
+Use the formatting tools to format text, attach documents, add hyperlinks, and embed a video.
 
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/7z60BLLBLFU?rel=0" frameborder="0" allowfullscreen></iframe>
 
