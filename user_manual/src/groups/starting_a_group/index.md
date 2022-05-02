@@ -4,30 +4,31 @@ A Loomio group is a safe place for your organization to meet, have discussions a
 
 ![](Groups.png#width-50)
 
-Groups are all about people. So think about the people you are going to invite; 
-- Who are they? 
-- What is the purpose of your group? 
-- What work are you going to do together? 
-- What objectives do you need to achieve? 
-- What do people need to know to participate effectively?
-
 ## Group home page
 
-The group home page is the first place people will see when they arrive to your group - make them welcome, and make it their home!
+Your group home page is the first place people will see when they arrive to your group - make them welcome, and make it their home!
 
-Add a cover image and logo that represents your group. Use the group description to help people understand the purpose of the group, what work you are going to do, and include any other information that helps them participate.
+Design your Loomio group experience by adding a cover image and logo to help people feel at home.  
 
+Write a group description that clearly states *why* the group exists, *what kind of work* you are going to do, *who the members* of the group are, and *how they can participate*.
+ 
 ### Your group home page is also a resource hub
 
 Your Loomio group page is a place to store all of the information, links and files, that everyone in your group needs. 
 
 ![](group_description.png)
 
-**Tip:** Group descriptions are a great place to include reasons why you're using Loomio. Saying why you're introducing Loomio can help motivate people engage.
-
 ## Starting a new group
 
-You can start a new Loomio group at any time from the sidebar menu - click on **New group**.
+If you are new to Loomio, you can start a group on a free trial at any time from the [Loomio website](https://www.loomio.com/).
+
+For many organizations, a single Loomio group is sufficient. You can start as many subgroups as you need within the group. See [Subgroups](https://help.loomio.com/en/user_manual/groups/subgroups/index.html) for more info.
+
+If you already use Loomio and would like to start a new group for another organization or purpose, you can do this from the sidebar menu - click on **New group**.
+
+A new Loomio group starts a new free trial and you will be invited to upgrade the trial to a paid subscription.  
+
+Pro plan customers have more than one group included with the Pro subscription. [Contact us](https://www.loomio.org/contact) to connect your new group to your Pro plan subscription.
 
 ![](new-group.png#width-50)
 
@@ -41,11 +42,15 @@ Type your group name. It's best to keep your group name short and concise.
 
 #### Group handle
 
-By default, Loomio will make this `your-group-name` but you can choose any unused, alphanumeric handle (hyphens optional). Navigating to the URL loomio.org/[your-group-handle] will take you directly to your group page.
+Your group is automatically assigned a 'handle'. This provides a simplified url address for your group that can help you find your group, and that you can share with people to help them find your group.
+
+The simplied url address for your group is **loomio.org/your-group-handle**.
+
+You can edit the handle.
 
 #### Category selection
 
-You may be asked to select a category that best describes your group, so we help you with relevant information.
+You may be asked to select a category that best describes your group. This helps us help you with relevant information.
 
 **When you click 'Start Group' your new group is automatically created!**
 
