@@ -6,7 +6,9 @@ With the group data export feature you can:
 - Print or save PDF's of a thread or poll for archival purposes
 - Move you group, including all users, threads, polls, and files to another Loomio server.
 
-Loomio offer managed hosting in USA, EU and Australia. If you'd like to migrate your group to one of these servers, please [contact us](https://www.loomio.org/contact).
+If you ever want to move from Loomio managed servers [to your own](https://github.com/loomio/loomio-deploy), you can use this feature.
+
+If you're running your own Loomio server, and would rather not anymore, Loomio offer managed hosting in USA, EU and Australia. If you'd like to migrate your group to one of these servers, please [contact us](https://www.loomio.org/contact).
 
 ## Export
 
