@@ -6,15 +6,15 @@ Chat tools and Loomio work well together. Chat is like an open or 1:1 conversati
 
 We support Slack, Discord, Microsoft Teams, Matrix and Mattermost.
 
-You can send notifications to your chatroom any time you like, just the same way you would invite indiviudals to vote, or to join a thread.
+You can send notifications to your chatroom any time you like, just the same way you would invite individual people to vote, or to join a thread.
 
-You can also configure the notifications to always happen when a specific event happens, like someone starting a thread.
+You can also configure notifications to always happen when a specific event happens, like someone starting a thread.
 
 ## What it looks like in chat
 ![](chatbot_in_slack.png)
 
 ## Setup
-We've prepared step by step walkthroughs for each service we support. Follow the right one for your service to obtain the webhook URL you'll need to add the chatbot in Loomio.
+We've prepared step by step walk-throughs for each service we support. Follow the right one for your service to obtain the webhook URL you'll need to add the chatbot in Loomio.
 
 - [Slack](../slack/)
 - [Microsoft Teams](../microsoft_teams/)
