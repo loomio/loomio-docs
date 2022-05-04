@@ -2,6 +2,8 @@
 
 Loomio can send notifications to your chatroom!
 
+Chat tools and Loomio work well together. Chat is like an open or 1:1 conversation in your office, and Loomio is like getting people together in a meeting room to discuss a particular topic and make a decision. 
+
 We support Slack, Discord, Microsoft Teams, Matrix and Mattermost.
 
 You can send notifications to your chatroom any time you like, just the same way you would invite indiviudals to vote, or to join a thread.
