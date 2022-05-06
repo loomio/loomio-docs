@@ -15,9 +15,9 @@ See [Guides - Success on Loomio](https://help.loomio.com/en/guides/engage-group.
 
 ## New thread
 
-You can start a thread by clicking **New thread** from a group page. When you start the thread, it will be visible to all of that group's members.
+You can start a thread by clicking **New thread** from a group page. When you start the thread, it will be visible to all members of your group.
 
-![start new thread button](new_thread1.png)
+![start new thread button](thread_start_new.png)
 
 Give your thread a title; try to keep it short and to the point. You can always update the title of the thread later.
 
