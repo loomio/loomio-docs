@@ -2,15 +2,19 @@
 _Access expert support to help you set up Loomio for success. Working with a Loomio expert introduces you to Loomio key features, helps build a plan to implement and rollout in your organization, and provides coaching support for online facilitation and administration._
 
 ## Loomio Pro support
-With the purchase of a Loomio Pro plan you will receive a dedicated Loomio expert to interact with for any ongoing support you might need.
+With the purchase of a Loomio Pro plan you will receive a dedicated Loomio expert for any setup and ongoing support you may need.
 
-1. You are invited to a one-hour implementation session on how to get the most out of Loomio. It’s for you, and the people you would like included, to become confident in using Loomio to meet your needs.
+1. You are invited to a one-hour implementation session to get set up with Loomio for your needs. It’s for you and people who will administer and facilitate Loomio groups in your organization.
+ 
+2. We usually follow up with a further 30 minute to 1 hour session to review progress and help you get the most from Loomio. 
 
-2. Within the first 90 days, having the opportunity to put into practice the steps identified in the first call, you can schedule another time to follow up with your dedicated Loomio expert to refine your use of Loomio.
+3. During the next 90 days and throughout the year, you are welcome to schedule additional 2-3 sessions as needed to develop collaborative practices online, prepare and review key events (such as a General Assembly) and implement decision-making workflow processes.
 
-Delivery of Pro support is usually via video call (say Zoom), email and within Loomio.
+Delivery of Pro support is usually via video call (e.g. Zoom), email and within Loomio. Many people find value inviting a Loomio expert to a private thread or subgroup  for questions and answers.
 
-We’ll keep in contact with you about opportunities for how Loomio could work better for you, and introduce new features. Pro plan customers receive priority support all year round; to answer questions, help onboard new users, and more.
+We’ll keep in contact with you about opportunities for how Loomio could work better for you and to introduce new features. 
+
+Pro plan customers receive priority support all year round; to answer questions, help onboard new administrators, and more.
 
 **[Upgrade to Pro here.](https://loomio.org/upgrade)**
 
