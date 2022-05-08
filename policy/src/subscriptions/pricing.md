@@ -56,7 +56,7 @@ Starter plan includes:
 ## Loomio Pro plan
 Loomio Pro plan is for organizations looking for support to set up and optimize Loomio, administrator training and priority support.
 
-Price: $US 149.00 per month or $US 1,299.00 per year.
+Price: $US 1,299.00 per year or 149.00 per month.
 
 Pro plan includes:
 - Everything in Loomio Starter plus
@@ -74,13 +74,15 @@ Pro plan customers receive priority support all year round, to answer questions,
 https://help.loomio.com/en/policy/subscriptions/pro_support/)
 
 ## Loomio Pro Nonprofit plan
-Loomio Pro Nonprofit plan is available to validated nonprofit organizations looking for support to set up and optimize Loomio, administrator training and priority support.
+Loomio Pro Nonprofit plan is available to nonprofit organizations validated via our partner [TechSoup Global Network](https://www.techsoup.org/).
 
-Nonprofit organizations can upgrade to this plan for immediate subscription to Loomio. We'll then send you an email with a link to validate your organization’s nonprofit status via our partner [TechSoup Global Network](https://www.techsoup.org/).
+Nonprofit organizations can upgrade to this plan for immediate subscription to Loomio. 
 
-[Click on this link to check TechSoup's nonprofit validation criteria for your country.](https://www.techsoup.global/techsoup-local-ngo-definitions)
+You can validate your organization's nonprofit status with this link:  [Validate my organization](https://app.ngok.techsoup.org/Default.aspx?vendorAppId=bbc8a1ce-89f4-4caf-a12b-93c7608a29c1).
 
-Price: $US 75.00 per month or $US 649.00 per year.
+[See this link to check TechSoup's nonprofit validation criteria for your country.](https://www.techsoup.global/techsoup-local-ngo-definitions)
+
+Price: $US 649.00 per year or $US 75.00 per month.
 
 Pro Nonprofit plan includes:
 - Everything in Loomio Starter plus
@@ -99,25 +101,31 @@ https://help.loomio.com/en/policy/subscriptions/pro_support/)
 
 ## Need something else?
 Contact us to discuss pricing and configuration of Loomio for:
-- Custom domain and custom branding
+- Custom domain, custom branding, custom configuration
+- Single Sign On (SAML, OAuth)
 - Multiple Loomio groups or very large groups (over 2,000 people)
-- Private server. Your own instance of Loomio running on a server and location of your choice, tailored to your needs.
+- Private server - your own instance of Loomio running on a server and location of your choice, tailored to your needs.
+- Migration from your self hosted site to managed service
+- Feature development
+- Integration with other tools
 
-## Community Lifetime plan
-We encourage community and volunteer groups with a special one-time price for lifetime use of Loomio for your group.
+## Community plan
+We encourage community and volunteer groups with a special price.
 
-The Community Lifetime plan is available for community groups and organizations run by volunteers who have **no full-time paid staff**.
+The Community plan is available for community groups and organizations run by volunteers who have **no full-time paid staff**.
 
-Price: $US 199.00 one-time payment.
+Price: $US 10.00 per month or $US 199.00 one-time payment.
 
-Community Lifetime plan includes:
-- Single Loomio group of up to 100 user
+Community plan includes:
+- Single Loomio group of up to 100 users
+
+The Community Lifetime option:
 - Single payment for the life of your group
 
-To access these special rates, just select the Community Lifetime plan when you upgrade your group.
+To access these special rates, just select the Community plan when you upgrade your group.
 
-If you are in doubt, ask *“am I being paid by my organization to do this work?”* If yes, it’s likely a Loomio Starter or Pro plan is more appropriate for your organization. We trust you to make the right decision.  
+If you are in doubt whether the Community plan applies to your group, you may ask *“am I being paid by my organization to do this work?”* If yes, it’s likely a Loomio Starter or Pro plan is more appropriate for your organization. We trust you to make the right decision.  
 
-We will check in with you once a year, near the annual renewal date of your plan, to see if you are still actively using Loomio and if your group still meets the criteria for the Community Lifetime plan. If your group has acquired funding and at least one full-time staff member, we will invite you to upgrade to the Loomio Starter or Loomio Pro plan.
+We will check in with you once a year, near the annual renewal date of your plan, to see if you are still actively using Loomio and if your group still meets the criteria for the Community plan. If your group has acquired funding and at least one full-time staff member, we will invite you to upgrade to the Loomio Starter or Loomio Pro plan.
 
 This plan is “self-service” with limited support. However you can learn all you need to use Loomio effectively with [Loomio Help](https://help.loomio.com) which includes the user manual and guides.
