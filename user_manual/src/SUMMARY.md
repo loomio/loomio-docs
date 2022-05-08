@@ -11,9 +11,10 @@
 
 # Groups
 - [Starting a group](groups/starting_a_group/index.md)
-- [Group Settings](groups/settings/index.md)
+- [Group settings](groups/settings/index.md)
 - [Inviting people](groups/membership/index.md)
 - [Member management](groups/membership/management.md)
+- [Category tags](groups/tags/index.md)
 - [Subgroups](groups/subgroups/index.md)
 - [Data export](groups/data_export/index.md)
 - [Deleting your group](groups/deleting_archiving/index.md)
