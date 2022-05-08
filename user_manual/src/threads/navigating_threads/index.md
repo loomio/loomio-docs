@@ -1,12 +1,10 @@
 # Navigating in threads
 _Find what you need, when you need it, in a thread._
 
-Click on the name of your group to go back to your group home page.
+![](thread_navigation_1.png)
 
 ## Context
 The thread **context** is always at the top of the thread. Use it to frame the context for your discussion or decision. Learn more about engaging with the thread context [here](../engaging_with_threads/#thread-context).
-
-![](thread_context.png)
 
 ## Timeline
 
