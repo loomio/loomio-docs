@@ -1,6 +1,8 @@
 # Navigating in threads
 _Find what you need, when you need it, in a thread._
 
+Click on the name of your group to go back to your group home page.
+
 ## Context
 The thread **context** is always at the top of the thread. Use it to frame the context for your discussion or decision. Learn more about engaging with the thread context [here](../engaging_with_threads/#thread-context).
 
@@ -18,19 +20,15 @@ You can pin or unpin any comment to the timeline, and edit the text displayed on
 
 Jump to the top of the thread by clicking on "**Context**".
 
-## Navigating activity and Thread format
+## Thread layout
 
-Thread **activity** is comprised of all the comments, replies, proposals, polls, votes and other notable things that happen within the thread. There are two ways you can alter how that activity is displayed in order to optimize the experience given a specific thread's purpose:
-
-### Oldest or Newest first
-
-By default, this activity is 1.) listed with the oldest activity nearest the top, or **oldest first**, and 2.) nested, which means a reply will be displayed just under the comment to which it is responding and the proposals and polls will result in a nice list of responses/positions directly under the area where folks engage with them.
+By default comments in threads are listed one after the other as you scroll down the thread page - oldest comments first.  However you can change the thread order so that newest comments are listed at the top of the thread.  Seeing the latest comments first is useful for threads used for reporting or threads that have been active for some time.
 
 The grey text just under the context will indicate in which order the activity is being listed, along with the number of replies.
 
 To change this setting, click that grey text, choose your preference, and save. _This changes the layout for everyone, not just you._
 
-> **Tip:** Long threads, for example your organization's 'wall' for off-topic sharing, often benefit from the setting **newest first**
+![](thread_layout_see.png)
 
 ### How replies are displayed
 
