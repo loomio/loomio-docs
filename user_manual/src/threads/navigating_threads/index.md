@@ -2,17 +2,21 @@
 _Find what you need, when you need it, in a thread._
 
 ## Context
-The thread **context** has special status within a thread. It's always at the top, and it's always visible on the page. It's typically used to frame the discussion or decision and provide necessary context. Learn more about engaging with the thread context [here](../engaging_with_threads/#thread-context).
+The thread **context** is always at the top of the thread. Use it to frame the context for your discussion or decision. Learn more about engaging with the thread context [here](../engaging_with_threads/#thread-context).
+
+![](thread_context.png)
 
 ## Timeline
 
-The timeline helps you and your group to quickly access content (conversations, questions, decisions…). It is a visual, interactive history of key events, processes, or milestones that helps your group to understand how a conversation evolved over time or to review how a given outcome came about.
+The timeline helps you quickly access content in the thread such as comments, polls, decisions and outcomes. It is a visual, interactive history of key events, milestones and decision processes where you can see how a conversation evolved over time and the discussion that led to a decision.  
 
 ![](thread_timeline_1.png)
 
-To facilitate this, comments with headers, proposals, and polls are automatically added to the timeline as links. Clicking these links take you directly to this item in the thread. Learn how to edit timeline items [here](../thread_admin/#pin-to-timeline).
+Comments formatted with a header, proposals and polls are automatically added to the timeline as links. Click the timeline text to go directly to the thread item.
 
-The date of the earliest thread activity, and the latest, are not blue but **can be clicked to quickly navigate, too!** Click on the dates or "**Context**" to navigate to the earliest or latest comment or to the top (the context).
+You can pin or unpin any comment to the timeline, and edit the text displayed on the timeline.  See more at [Thread admin: Pin to Timeline](../thread_admin/#pin-to-timeline).
+
+Jump to the top of the thread by clicking on "**Context**".
 
 ## Navigating activity and Thread format
 
