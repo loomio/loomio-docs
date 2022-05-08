@@ -8,7 +8,7 @@ The thread **context** has special status within a thread. It's always at the to
 
 The timeline helps you and your group to quickly access content (conversations, questions, decisions…). It is a visual, interactive history of key events, processes, or milestones that helps your group to understand how a conversation evolved over time or to review how a given outcome came about.
 
-![](thread_timeline.png)
+![](thread_timeline_1.png)
 
 To facilitate this, comments with headers, proposals, and polls are automatically added to the timeline as links. Clicking these links take you directly to this item in the thread. Learn how to edit timeline items [here](../thread_admin/#pin-to-timeline).
 
