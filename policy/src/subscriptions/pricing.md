@@ -56,7 +56,7 @@ Starter plan includes:
 ## Loomio Pro plan
 Loomio Pro plan is for organizations looking for support to set up and optimize Loomio, administrator training and priority support.
 
-Price: $US 1,299.00 per year or 149.00 per month.
+Price: $US 1,299.00 per year or $US 149.00 per month.
 
 Pro plan includes:
 - Everything in Loomio Starter plus
