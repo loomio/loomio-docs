@@ -35,19 +35,3 @@ If your group is "Open" then all your threads will be public, meaning that anyon
 ![](thread_public.png)
 
 See [Group privacy](https://help.loomio.com/en/user_manual/groups/settings/index.html#privacy) for more info.
-
-## Category tags
-
-**Category tags** (or just “tags”) let you group any number of threads by categories that you define. You can use them to make it easy to find threads of a certain type or topic.
-
-You can apply tags upon starting your thread.
-
-![](category_tag_discussions.png)
-
-Clicking the **add tag** button allows you to edit, order, color, and **add new** tags.
-
-![](organize_with_category_tags.png)
-
-[Edit](https://help.loomio.com/en/guides/getting_started/having_discussions/#keep-the-title-and-context-relevant) threads to add or remove tags after they're started.
-
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/ntauplSLsQE?rel=0" frameborder="0" allowfullscreen></iframe>
