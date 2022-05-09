@@ -26,27 +26,15 @@ The grey text just under the context will indicate in which order the activity i
 
 To change this setting, click that grey text, choose your preference, and save. _This changes the layout for everyone, not just you._
 
-![](thread_layout_see.png)
+![](thread_layout_see_1.png)
 
-### How replies are displayed
+### Options
 
-The thread can also be set to display chronologically, as a **flat list**, where all activity is displayed in the order that it happened. _Again, this setting is for all thread members as threads are viewed in the same way by everyone._
+![](thread_layout_options.png)
 
-!["7 replies" and "oldest first" displayed just under the thread context and above the thread activity](thread_format_button.png)
+## Unread comments 
+When you open a thread, Loomio will first show you new comments. 
 
-Similar to switching oldest for newest first, change how replies are displayed by clicking the grey text under the context to first open **Thread layout** options, select your preference, and save.
+Unread comments are shown with a yellow line on the left side. 
 
-![](thread_format.png)
-
-## Unread activity
-When you open a thread on Loomio you will first be taken to unread (or unseen) activity. When activity items are displayed on your screen, Loomio will take note that they have been read, _just like if you see the activity via an email._ Unread content is displayed with a yellow stripe on the left side and threads with unread content display bold within thread lists.
-
-## Finding the right thread
-
-If you're looking for a thread of the same kind, try clicking the [Category tag](../thread_admin/#category-tags) if there is one to the right of the title of the thread.
-
-Otherwise, you can always use the [search](../../users/navigation/#search).
-
----
-
-**Not certain which thread to look in?** … [→ Navigating Loomio](../../users/navigation)
+![](thread_unread_comments.png)
