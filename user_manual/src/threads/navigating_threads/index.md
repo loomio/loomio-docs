@@ -1,7 +1,7 @@
 # Navigating in threads
 _Find what you need, when you need it, in a thread._
 
-![](thread_navigation_1.png)
+![](thread_layout_2.png)
 
 ## Context
 The thread **context** is always at the top of the thread. Use it to frame the context for your discussion or decision. Learn more about engaging with the thread context [here](../engaging_with_threads/#thread-context).
