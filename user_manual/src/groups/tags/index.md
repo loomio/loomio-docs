@@ -4,7 +4,7 @@ Category tags make it easy to find threads of a certain type or topic.
 
 On your group page, click on **tags** to see the category tags used in your group.  Note that alongside each tag name is the number of threads or polls with this tag.
 
-![](tags_views.png)
+![](tags_view.png)
 
 Tags can be applied when starting or editing a Thread, Poll or Proposal.
 
