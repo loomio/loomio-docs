@@ -26,7 +26,7 @@ The grey text just under the context will indicate in which order the activity i
 
 To change this setting, click that grey text, choose your preference, and save. _This changes the layout for everyone, not just you._
 
-![](thread_order_2.png)
+![](thread_order.png)
 
 ### Options
 
