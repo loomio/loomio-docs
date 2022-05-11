@@ -10,7 +10,7 @@ The thread **context** is always at the top of the thread. Use it to frame the c
 
 The timeline helps you quickly access content in the thread such as comments, polls, decisions and outcomes. It is a visual, interactive history of key events, milestones and decision processes where you can see how a conversation evolved over time and the discussion that led to a decision.  
 
-![](thread_timeline.png)
+![](thread_timeline_1.png)
 
 Comments formatted with a header, proposals and polls are automatically added to the timeline as links. Click the timeline text to go directly to the thread item.
 
