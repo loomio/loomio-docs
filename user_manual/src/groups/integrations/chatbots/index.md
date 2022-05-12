@@ -30,8 +30,14 @@ Just select the mattermost bot, but use a custom webhook URL.
 After configuring your chosen service (see above), you'll have a webhook URL.
 Open the chatbot settings to pop it into a new chatbot for your group.
 
-![](group_settings_chatbots.png)
-![](add_chatbot.png)
+![](loomio-group-settings.png)
+![](loomio-settings-chatbots.png)
+
+You probably don't want to click any of the checkboxes for now. Just enter the name (such as "Discord #general") and the URL and click the save button at the bottom of the form.
+
+![](loomio-chatbot-form.png)
+
+If you decide later on you want the chatbot to be notified every time something happens, you can come back and check some boxes.
 
 ### Invite to poll
 
