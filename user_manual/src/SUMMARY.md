@@ -43,7 +43,8 @@
 
 # Integrations
 - [Chatbots](groups/integrations/chatbots/index.md)
-- [Slack](groups/integrations/slack/index.md)
-- [Microsoft Teams](groups/integrations/microsoft_teams/index.md)
+- [Discord](groups/integrations/slack/index.md)
 - [Mattermost](groups/integrations/mattermost/index.md)
+- [Microsoft Teams](groups/integrations/microsoft_teams/index.md)
+- [Slack](groups/integrations/slack/index.md)
 - [API](groups/integrations/api/index.md)
