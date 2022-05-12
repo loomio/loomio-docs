@@ -1538,8 +1538,11 @@ Just select the mattermost bot, but use a custom webhook URL.</p>
 <h2 id="how-to-setup-a-chatbot"><a class="header" href="#how-to-setup-a-chatbot">How to setup a chatbot</a></h2>
 <p>After configuring your chosen service (see above), you'll have a webhook URL.
 Open the chatbot settings to pop it into a new chatbot for your group.</p>
-<p><img src="groups/integrations/chatbots/group_settings_chatbots.png" alt="" />
-<img src="groups/integrations/chatbots/add_chatbot.png" alt="" /></p>
+<p><img src="groups/integrations/chatbots/loomio-group-settings.png" alt="" />
+<img src="groups/integrations/chatbots/loomio-settings-chatbots.png" alt="" /></p>
+<p>You probably don't want to click any of the checkboxes for now. Just enter the name (such as &quot;Discord #general&quot;) and the URL and click the save button at the bottom of the form.</p>
+<p><img src="groups/integrations/chatbots/loomio-chatbot-form.png" alt="" /></p>
+<p>If you decide later on you want the chatbot to be notified every time something happens, you can come back and check some boxes.</p>
 <h3 id="invite-to-poll"><a class="header" href="#invite-to-poll">Invite to poll</a></h3>
 <p>This is how to send a notification to your chatroom inviting people to vote in a proposal.
 It's the same process for Share outcome, Invite to thread, Remind to vote, Poll edited etc.</p>
@@ -1553,8 +1556,6 @@ It's the same process for Share outcome, Invite to thread, Remind to vote, Poll 
 <div style="break-before: page; page-break-before: always;"></div><h1 id="slack-integration"><a class="header" href="#slack-integration">Slack integration</a></h1>
 <p><em>Connect your Loomio group notifications to Slack.</em></p>
 <p>Loomio can send notifications into your Slack channels when new discussions, proposals, comments, votes, and outcomes occur. Get key updates, at the right time, on important discussions and decisions.</p>
-<p>After choosing the Slack channels where you want to receive notifications, and from which Loomio groups or subgroups, you will choose which kinds of events you want that channel to be notified of (comments, polls, outcomes... <a href="groups/integrations/slack/index.html#select-notifications">see below</a>). Read on for step-by-step instructions for integrating.</p>
-<p><em>These webhook integrations are currently in public beta testing, we would like to hear your <a href="https://loomio.org/contact/?utm_campaign=slack-integration-help&amp;utm_term=help">feedback</a> about how it works for your group.</em></p>
 <hr />
 <p>Start by visiting <a href="https://api.slack.com">https://api.slack.com</a>, signing in if you are not already, then clicking Create New App</p>
 <p><img src="groups/integrations/slack/s1.png" alt="" /></p>
@@ -1570,19 +1571,12 @@ It's the same process for Share outcome, Invite to thread, Remind to vote, Poll 
 <p><img src="groups/integrations/slack/s6.png" alt="" /></p>
 <p>Copy the webhook URL to your clipboard</p>
 <p><img src="groups/integrations/slack/s7.png" alt="" /></p>
-<p>Go to Webhooks in your Loomio group settings</p>
-<p><img src="groups/integrations/slack/s8.png" alt="" /></p>
-<p>Select Slack, give it a name, paste the URL, and save. You're done!</p>
-<p><img src="groups/integrations/slack/s9.png" alt="" /></p>
-<h2 id="select-notifications"><a class="header" href="#select-notifications">Select notifications</a></h2>
-<p>Along with the ability to choose which events in Loomio will create a post in your chosen Slack channel, you can also choose whether you'd like a snippet of the text from the comment, proposal, outcome, etc. by using the first option.</p>
-<p><img src="groups/integrations/slack/../slack_teams_notifications_from_loomio.png" alt="" /></p>
+<p>Now that you have a Webhook URL, continue setting up your chatbot over here:</p>
+<p><a href="groups/integrations/slack/../chatbots/#how-to-setup-a-chatbot">Adding a chatbot in Loomio</a></p>
 <p><em>Loomio is not created by, affiliated with, or supported by Slack.</em></p>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="microsoft-teams-integration"><a class="header" href="#microsoft-teams-integration">Microsoft Teams integration</a></h1>
 <p><em>Connect your Loomio group notifications to Microsoft Teams.</em></p>
-<p>Loomio can send notifications into your Microsoft Teams when new discussions, proposals, comments, votes, and outcomes occur. Get key updates, at the right time, on important discussions and decisions.</p>
-<p>After choosing where you want to receive notifications in Teams, and from which Loomio groups or subgroups, you will choose which kinds of events you want that channel to be notified of (comments, polls, outcomes... <a href="groups/integrations/microsoft_teams/index.html#select-notifications">see below</a>). Read on for step-by-step instructions for integrating.</p>
-<p><em>These webhook integrations are currently in public beta testing, we would like to hear your <a href="https://loomio.org/contact/?utm_campaign=teams-integration-help&amp;utm_term=help">feedback</a> about how it works for your group.</em></p>
+<p>Loomio can send notifications into your Microsoft Teams when new discussions, proposals, comments, votes, and outcomes occur. </p>
 <hr />
 <p>Visit <a href="https://teams.microsoft.com">https://teams.microsoft.com</a> then click Apps
 <img src="groups/integrations/microsoft_teams/t1.png" alt="" /></p>
@@ -1596,19 +1590,12 @@ It's the same process for Share outcome, Invite to thread, Remind to vote, Poll 
 <img src="groups/integrations/microsoft_teams/t5.png" alt="" /></p>
 <p>Copy the URL it gives you, you'll paste it into Loomio in the last step.
 <img src="groups/integrations/microsoft_teams/t6.png" alt="" /></p>
-<p>Go to your Loomio group Settings then click Webhooks
-<img src="groups/integrations/microsoft_teams/t7.png" alt="" /></p>
-<p>Select Microsoft Teams, give it a name, paste the URL, and click Save.
-<img src="groups/integrations/microsoft_teams/t8.png" alt="" /></p>
-<h2 id="select-notifications-1"><a class="header" href="#select-notifications-1">Select notifications</a></h2>
-<p>Along with the ability to choose which events in Loomio will create a post in your chosen channel, you can also choose whether you'd like a snippet of the text from the comment, proposal, outcome, etc. by using the first option.</p>
-<p><img src="groups/integrations/microsoft_teams/../slack_teams_notifications_from_loomio.png" alt="" /></p>
 <p><em>Loomio is not created by, affiliated with, or supported by Microsoft.</em></p>
+<p>Now that you have a Webhook URL, continue setting up your chatbot over here:</p>
+<p><a href="groups/integrations/microsoft_teams/../chatbots/#how-to-setup-a-chatbot">Adding a chatbot in Loomio</a></p>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="mattermost-integration"><a class="header" href="#mattermost-integration">Mattermost integration</a></h1>
 <p><em>Connecting your Loomio group notifications to your Mattermost team chat.</em></p>
-<p>Loomio can send notifications into your Mattermost channels when new discussions, proposals, comments, votes, and outcomes occur. Get key updates, at the right time, on important discussions and decisions.</p>
-<p>After choosing the Mattermost channels where you want to receive notifications, and from which Loomio groups or subgroups, you will choose which kinds of events you want that channel to be notified of (comments, polls, outcomes... <a href="groups/integrations/mattermost/index.html#select-notifications">see below</a>). Read on for step-by-step instructions for integrating.</p>
-<p><em>These webhook integrations are currently in public beta testing, we would like to hear your <a href="https://loomio.org/contact/?utm_campaign=mattermost-integration-help&amp;utm_term=help">feedback</a> about how it works for your group.</em></p>
+<p>Loomio can send notifications into your Mattermost channels when new discussions, proposals, comments, votes, and outcomes occur. </p>
 <hr />
 <p>Start from your Mattermost team in your browser. Then open the Integrations settings page.
 <img src="groups/integrations/mattermost/mm1.png" alt="" /></p>
@@ -1620,14 +1607,8 @@ It's the same process for Share outcome, Invite to thread, Remind to vote, Poll 
 <img src="groups/integrations/mattermost/mm4.png" alt="" /></p>
 <p>Copy the Webhook URL to your clipboard, you're going to need it the next step.
 <img src="groups/integrations/mattermost/mm5.png" alt="" /></p>
-<p>Visit your Loomio group Settings page, then click Webhooks, then Add Webhook.
-<img src="groups/integrations/mattermost/mm6.png" alt="" /></p>
-<p>Select &quot;Markdown (For Mattermost..)&quot;, give it a name, paste your URL from above, and click Save.
-<img src="groups/integrations/mattermost/mm7.png" alt="" /></p>
-<h2 id="select-notifications-2"><a class="header" href="#select-notifications-2">Select notifications</a></h2>
-<p>Along with the ability to choose which events in Loomio will create a post in your chosen channel, you can also choose whether you'd like a snippet of the text from the comment, proposal, outcome, etc. by using the first option.</p>
-<p><img src="groups/integrations/mattermost/../slack_teams_notifications_from_loomio.png" alt="" /></p>
-<p><em>Loomio is not created by, affiliated with, or supported by Mattermost.</em></p>
+<p>Make sure you have your Webhook URL in your clipboard and follow the link below.</p>
+<p><a href="groups/integrations/mattermost/../chatbots/#how-to-setup-a-chatbot">Adding a chatbot in Loomio</a></p>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="loomio-integrations-api"><a class="header" href="#loomio-integrations-api">Loomio integrations API</a></h1>
 <p>We have a simple API. With each API Key, there is a documentation page that includes working examples of how to use your API key.</p>
 <p>To view the documentation for your API key follow these steps to create an API Key for your group:</p>
