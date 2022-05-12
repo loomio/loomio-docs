@@ -13,7 +13,7 @@ You can also configure notifications to always happen when a specific event happ
 ## What it looks like in chat
 ![](chatbot_in_slack.png)
 
-## Setup
+## Generate a Webhook URL
 We've prepared step by step walk-throughs for each service we support. Follow the right one for your service to obtain the webhook URL you'll need to add the chatbot in Loomio.
 
 - [Slack](../slack/)
