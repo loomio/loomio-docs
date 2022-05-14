@@ -18,9 +18,9 @@ We've prepared step by step walk-throughs for each service we support. Follow th
 
 - [Slack](../slack/)
 - [Microsoft Teams](../microsoft_teams/)
-- [Discord](../discord)
-- [Matrix](../matrix)
-- [Mattermost](../mattermost)
+- [Discord](../discord/)
+- [Matrix](../matrix/)
+- [Mattermost](../mattermost/)
 
 Our webhook based system can also be used to support other systems that support incoming webhooks with either HTML or Markdown formatting. This could be something like Zapier or Rocketchat.
 Just select the mattermost bot, but use a custom webhook URL.
