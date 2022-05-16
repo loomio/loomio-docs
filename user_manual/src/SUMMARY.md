@@ -43,9 +43,9 @@
 
 # Integrations
 - [Chatbots](groups/integrations/chatbots/index.md)
-- [Discord](groups/integrations/discord/index.md)
-- [Mattermost](groups/integrations/mattermost/index.md)
-- [Matrix](groups/integrations/matrix/index.md)
-- [Microsoft Teams](groups/integrations/microsoft_teams/index.md)
-- [Slack](groups/integrations/slack/index.md)
+	- [Discord](groups/integrations/discord/index.md)
+	- [Matrix](groups/integrations/matrix/index.md)
+	- [Mattermost](groups/integrations/mattermost/index.md)
+	- [Microsoft Teams](groups/integrations/microsoft_teams/index.md)
+	- [Slack](groups/integrations/slack/index.md)
 - [API](groups/integrations/api/index.md)
