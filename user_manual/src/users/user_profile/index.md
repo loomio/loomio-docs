@@ -9,6 +9,8 @@ Your profile page lets you customize your Loomio identity. To visit your profile
 
 ![](edit_profile_1.png)
 
+![](user_profile.png)
+
 ## Uploading a profile photo
 When you first create a Loomio account, your initials will be the default image associated with your profile. You can upload a profile photo by clicking on your picture on the profile page. If you have a [Gravatar](https://en.gravatar.com/) you can set that as your profile picture by selecting **Use Gravatar**. You can also choose for Loomio to use the photo you use for other common platforms/tools.
 
