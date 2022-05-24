@@ -16,13 +16,13 @@ When you first create a Loomio account, your initials will be the default image 
 
 ## Update your personal info
 
-You can update:
+You can update your personal info by changing any of the following fields:
 
 * **Your name**
-* **Your email address** - this email receives your Loomio notifications (on, by default)
-* **Your username** - your username is a name people can use to alert you with an @mention in threads
-* **Your introduction** - a few lines to let others in your group know more about you
-* **Your location** - useful for distributed or remote groups so people can get an idea of where others are.
+* **Your email address** - this is the email address associated with your Loomio account, and where you will receive notifications from Loomio.
+* **Your username** - your username is a name people can recognize and alert you using @mention.
+* **Your introduction** - a few lines to tell others in your group know something about you.
+* **Your location** - useful for distributed or remote groups so people can get an idea of where you are located.
 
 ## Language settings
 Loomio is developed in English, but [is translated by volunteers into many languages](https://www.loomio.org/g/cpaM3Hsv/loomio-community-translation).
