@@ -80,7 +80,7 @@ If you want the content of your discussions and decisions to be public, change y
 
 Many groups also use **Closed**, to allow people to find your group and ask to join. The **Name** and **Group description** as well as links and attached files are publicly accessible in Closed groups.
 
-**NOTE:** If you have a **Closed** or **Secret** group and change it to **Open**, all threads will become public. Changing an **Open** group to **Closed** or **Secret** will make all threads private.
+If you have a **Closed** or **Secret** group and change it to **Open**, all threads will become public. Changing an **Open** group to **Closed** or **Secret** will make all threads private.
 
 Open groups may contain secret and closed subgroups.
 
