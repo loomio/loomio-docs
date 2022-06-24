@@ -1,4 +1,4 @@
-# How to run a board meeting & make decisions online
+# Guide to online board meetings
 _Step-by-step to improve board meetings & simplify other board work._
 
 In times of crisis, good governance and clear communication within your board are more important than ever. However, doing this can be challenging when some or all of your board members are remote. In these times, many groups have been asking not just [how to hold their Annual General Meeting](../virtual_agm) (AGM, GMM…), but how to keep  organization moving by moving some decisions and regular meeting practices onto Loomio.
