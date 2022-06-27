@@ -78,9 +78,7 @@ The recommended privacy setting for new groups is **Secret**. This means everyth
 
 If you want the content of your discussions and decisions to be public, change your group privacy to **Open**. The members list will only be visible to other members.
 
-Many groups also use **Closed**, to allow people to find your group and ask to join. The **Name** and **Group description** as well as links and attached files are publicly accessible in Closed groups.
-
-**NOTE:** If you have a **Closed** or **Secret** group and change it to **Open**, all threads will become public. Changing an **Open** group to **Closed** or **Secret** will make all threads private.
+Many groups use **Closed** to allow people to find the group and request to join. The **Name** and **Group description** are publicly accessible in Closed groups.
 
 Open groups may contain secret and closed subgroups.
 

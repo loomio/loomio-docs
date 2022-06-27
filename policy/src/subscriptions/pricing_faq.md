@@ -12,7 +12,7 @@ You can upgrade at any time and we will automatically apply a prorated credit fo
 
 ### Does my organization qualify for the Pro Nonprofit plan?
 We love nonprofits and have created a 50% discount on the Loomio Starter and Pro plans for you. 
-Nonprofit organizations can upgrade to this plan for immediate subscription to Loomio. We'll then send you an email with a link to validate your organization’s nonprofit status via our partner [TechSoup](https://www.techsoup.org/).
+Nonprofit organizations can upgrade to this plan for immediate subscription to Loomio. We'll then send you an email with a link to validate your organization’s nonprofit status via our partner [TechSoup](https://www.techsoup.org/loomio).
 
 [View TechSoup's nonprofit validation criteria for your country.](https://www.techsoup.global/techsoup-local-ngo-definitions)
 
