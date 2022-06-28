@@ -1,4 +1,4 @@
-# Let’s get your working group working!
+# Let’s get your team working in Loomio
 
 You have set up a new Loomio group and believe it can help your group collaborate on projects, make decisions and get work done - but members of your group aren’t engaging!
 

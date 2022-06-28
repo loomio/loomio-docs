@@ -3,7 +3,7 @@
 - [Introduction](index.md)
 
 # Success on Loomio
-- [Let’s get your working group working!](engage-group.md)
+- [Let’s get your team working in Loomio](engage-group.md)
 - [4 patterns of successful groups](four-patterns-of-success.md)
 - [5 ways to use threads](5_ways_to_use_threads/index.md)
 - [Loomio and other collaboration tools](mapping-tools.md)
