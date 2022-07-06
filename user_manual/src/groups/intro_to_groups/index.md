@@ -1,19 +1,17 @@
 # Intro to Groups
 
-A Loomio group is a safe place for your organization to meet, have discussions and make decisions about work. 
+A Loomio group is a safe place for people to meet, have discussions and make decisions. 
 
-![](Groups.png#width-50)
+It’s a container where group members can find and share information, participate in important discussions and decisions that affect their work.  
 
-## Group home page
+![](group_page.png)
 
-Your group home page is the first place people will see when they arrive to your group - make them welcome, and make it their home!
+A Loomio group looks like this.  At the top of the page you will see an image and logo that you can tailor to represent your organization.  This allows people arriving into your group to see they have joined a place they recognize and feel welcome - a safe space where people feel they can come and participate.
 
-Design your Loomio group experience by adding a cover image and logo to help people feel at home.  
+Choose a representative name for your group and use the group description to outline;
+- **what** this group is used for
+- **why** this is important
+- **who** is participating 
+- **how** members can participate
 
-Write a group description that clearly states *why* the group exists, *what kind of work* you are going to do, *who the members* of the group are, and *how they can participate*.
- 
-### Your group home page is also a resource hub
-
-Your Loomio group page is a place to store all of the information, links and files, that everyone in your group needs. 
-
-![](group_description.png)
+You may also include information like a code of conduct, terms of reference or other governing documents for the group.
