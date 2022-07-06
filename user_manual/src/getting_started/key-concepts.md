@@ -1,10 +1,24 @@
 # What is Loomio and how can it help your organization?
 
-Loomio is a collaborative working space where together you can progress discussions, make decisions and achieve outcomes.
+Loomio is a decision making tool for collaborative organizations.
+
+It enables you to bring people together, have discussions, make proposals and achieve clear outcomes.
+
+It's a discussion forum with a set of tools to allow you to facilitate a discussion towards an outcome, for example proposal and polls.
 
 <div class="iframe-container">
 <iframe width="608" height="380" src="https://www.youtube.com/embed/Zlzuqsunpxc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+Loomio is often used for:
+
+**Boards and Governance** to prepare for meetings, build and agree agenda, post board papers, vote on resolutions, approve minutes and make decisions between meetings.
+
+**Member organizations** to share information and raise topics, seek input and advice,  enable members to participate in important decisions, and include more members in a General Assembly.
+
+**Self-organizing teams** to work together in structured decision making processes, share info and ideas, progress discussions, make proposals and achieve better outcomes.
+
+Loomio builds a living record of your organization; the decisions made, who was involved and the discussion they had together leading to the decision. 
 
 ## Key concepts
 
