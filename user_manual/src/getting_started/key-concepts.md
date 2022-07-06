@@ -20,7 +20,9 @@ Loomio is often used for:
 
 Loomio builds a living record of your organization; the decisions made, who was involved and the discussion they had together leading to the decision. 
 
-## Key concepts
+## How Loomio works
+
+Loomio is a simple structure of three main elements; Group, Thread and Decisions. 
 
 ### Group
 
@@ -42,7 +44,7 @@ Threads are used for many purposes; to prepare for a meeting, discuss matters, s
 
 Threads keep everything about a topic in one place. Over time you’ll create a useful archive of your organization’s discussions and decisions.
 
-### Proposal
+### Decisions
 
 One of the best things about Loomio is its range of tools to progress a discussion to an outcome. Each tool has a slightly different purpose. The most common one is a proposal. 
 
