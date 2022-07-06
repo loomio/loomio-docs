@@ -4,7 +4,7 @@ A Loomio group is a safe place for people to meet, have discussions and make dec
 
 It’s a container where group members can find and share information, participate in important discussions and decisions that affect their work.  
 
-![](group_page_1.png)
+![](group_page_2.png)
 
 A Loomio group looks like this.  At the top of the page you will see an image and logo that you can tailor to represent your organization.  This allows people arriving into your group to see they have joined a place they recognize and feel welcome - a safe space where people feel they can come and participate.
 
