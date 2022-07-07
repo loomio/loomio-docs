@@ -13,9 +13,9 @@ For example, you may facilitate an open discussion on a topic, inviting people t
 
 Or you may invite people to participate in a particular decision, using a consent or advice decision-making process.
 
-## Thread use
-
 Threads can also contain polls and proposals to help progress a discussion to an outcome. As people comment in the thread and vote in polls, a thread timeline builds so you can easily find key milestones.
+
+## Using threads
 
 Here are some common uses of threads:
 
