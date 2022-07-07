@@ -11,6 +11,8 @@ There are many types of decision tools in Loomio and many ways to use them.
 
 This doesn’t mean that everyone must agree all of the time, and there are many ways to reach a collective decision.
 
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/O-laa4di8kI" frameborder="0" allowfullscreen></iframe>
+
 ## Proposal
 
 At the heart of Loomio is the proposal.  
