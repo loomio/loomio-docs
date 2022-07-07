@@ -21,7 +21,7 @@
 - [Deleting your group](groups/deleting_archiving/index.md)
 
 # Threads
-- [Intro to Threads](threads/intro_to_threads/index.md)
+- [Intro to threads](threads/intro_to_threads/index.md)
 - [Starting a thread](threads/starting_threads/index.md)
 - [Notifying people](threads/notifying_people/index.md)
 - [Engaging with threads](threads/engaging_with_threads/index.md)
@@ -30,6 +30,7 @@
 - [Tasks](threads/thread_admin/tasks.md)
 
 # Decisions
+- [Intro to decisions](polls/intro_to_decisions/index.md)
 - [Starting proposals](polls/starting_proposals/index.md)
 - [Poll types](polls/proposal_types/index.md)
 - [Outcomes](polls/outcomes/index.md)
