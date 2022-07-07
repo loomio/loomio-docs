@@ -21,6 +21,7 @@
 - [Deleting your group](groups/deleting_archiving/index.md)
 
 # Threads
+- [Intro to Threads](threads/intro_to_threads/index.md)
 - [Starting a thread](threads/starting_threads/index.md)
 - [Notifying people](threads/notifying_people/index.md)
 - [Engaging with threads](threads/engaging_with_threads/index.md)
