@@ -15,11 +15,11 @@ Or you may invite people to participate in a particular decision, using a consen
 
 Threads can also contain polls and proposals to help progress a discussion to an outcome. As people comment in the thread and vote in polls, a thread timeline builds so you can easily find key milestones.
 
-## Using threads
+### Using threads
 
 Here are some common uses of threads:
 
-### Boards and Governance
+## Boards and Governance
 
 **Prepare for a meeting** - Build an agenda, post board papers and organize administrative matters so everyone is up to date, in context and prepared. 
 
@@ -29,7 +29,7 @@ Here are some common uses of threads:
 
 **Approve minutes and track actions** - Post minutes and assign actions. Use a poll to approve minutes. 
 
-### Member participation
+## Member participation
 
 **Share news (replace mailing list)** - Post information for members, invite comments.
 
@@ -39,7 +39,7 @@ Here are some common uses of threads:
 
 **General Assembly** - Organize, prepare and run a formal meeting including all members, to deliberate and make decisions on strategic matters.
 
-### Self-organizing working teams
+## Self-organizing working teams
 
 **Share information** - Post information and reports of interest to your team, invite comment and discussion.
 
