@@ -15,6 +15,8 @@ Or you may invite people to participate in a particular decision, using a consen
 
 Threads can also contain polls and proposals to help progress a discussion to an outcome. As people comment in the thread and vote in polls, a thread timeline builds so you can easily find key milestones.
 
+![](intro_to_thread.png)
+
 ### Using threads
 
 Here are some common uses of threads:
