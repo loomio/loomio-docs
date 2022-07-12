@@ -9,9 +9,9 @@ A Loomio group looks like this.  At the top of the page you will see an image an
 ![](group_page_2.png)
 
 Choose a representative name for your group and use the group description to outline;
-- **what** this group is used for
-- **why** this is important
-- **who** is participating 
-- **how** members can participate
+- **what** this group is used for,
+- **why** this is important,
+- **who** is involved, and
+- **how** members can participate.
 
 You may also include information like a code of conduct, terms of reference or other governing documents for the group.
