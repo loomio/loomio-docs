@@ -22,8 +22,6 @@ Go to your group page and click the **Members** tab to access member management
 
 You can **Invite** particular people to your group with their email address or **Share** a link to your group via email, newsletter, chat or from your website.
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/RGv0Yq6sv8g?rel=0" frameborder="0" allowfullscreen></iframe>
-
 ## Invite people via their email
 
 Click **Invite** on the Member tab of your group page to send an email invitation with a _single-use_ link to a person's email address.  The recipient is invited to create a Loomio user account and join your group.  
@@ -31,10 +29,6 @@ Click **Invite** on the Member tab of your group page to send an email invitatio
 If the recipient already has a Loomio user account they can still accept the invitation to join your group with their existing account.
 
 ![](invite_member.png)
-
-### Allow people to "Request to Join"
-
-If your group's privacy is **closed** then you can share your group URL ie: `www.loomio.org/group-name`. When people arrive at your group page, they will see the group title and description, and a button **Join group** where they can request membership. Group admins will receive an email where you can approve or deny the request to join.
 
 ### Invite many at once
 
@@ -46,9 +40,37 @@ When you submit the form (ie, click **Send**) an email will be sent to each of t
 
 ### Invite people to Subgroups
 
-You will follow the same process as above.
+Following the same process as above, you can invite people to a 'parent' group, and one or more subgroups simultaneously when you invite them with the **Invite people** button. Tick the boxes next to the subgroups you want them to immediately be a part of when they join the group.
 
-You can invite people to a 'parent' group, and one or more subgroups simultaneously when you invite them with the **Invite people** button. Tick the boxes next to the subgroups you want them to immediately be a part of when they join the group. See it demonstrated in the video clip [just above](#inviting-people).
+## Share a link to your group
+
+You can share a link to your group with the **Share** button. This is useful if you want to send a link via email, newsletter, chat or post on your website.
+
+Two options are provided:
+
+**Group URL** is the address for your group. Only invited members will be able to see the group. Useful to remind people that you have previously invited. 
+
+**Reusable invitation link** will allow anyone with the link to join your group without your approval.  Share this only within private communications to allow people in your organization to join.
+
+Click on the "copy" icon to copy the link to your clipboard, then paste in your email, newsletter or chat channel.
+
+![](share_group.png)
+
+### Allow people to "Request to Join"
+
+If your group's privacy is **Closed** then you can share your group URL ie: `www.loomio.org/group-name`. When people arrive at your group page, they will see the group title and description, and a button **Join group** where they can request membership. Group admins will receive an email where you can approve or deny the request to join.
+
+## Managing invitations
+
+To manage invitations, open the filter/ drop down from the Members tab of your Group page and select **Invitations**; click on the three dot menu to the right of the member invitation.
+
+You can also make people administrators or set their title (e.g. "IT Support") within the group before they accept their invitation.
+
+### Re-send invitations
+
+Follow up on people who don't make it into the group and give them a nudge. If someone has lost or forgotten about their invitation email, you can re-send it from the dropdown menu beside their name on the Members page.
+
+Click on the three dots (**⋮**) next to the person you want to resend the invitation to, and then choose **Resend invitation**. 
 
 ### Encourage people to particiapte
 
@@ -56,19 +78,6 @@ If people join but don't begin to participate right away, you might like to welc
 
 > “Welcome to the group @Jane :) It's great to have you here! Would you saying a little bit about your work in this space?”
 
-## Managing invitations
-
-To manage invitations, open the filter/ drop down from the Members tab of your Group page and select **Invitations**; click on the three dot menu to the right of the member invitation.
-
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/BH0x494sZlU?rel=0" frameborder="0" allowfullscreen></iframe>
-
-You can also make people administrators or set their title (eg, "IT Support") within the group before they accept their invitation.
-
-### Re-send invitations
-
-Follow up on people who don't make it into the group and give them a nudge. If someone has lost or forgotten about their invitation email, you can re-send it from the dropdown menu beside their name on the Members page.
-
-Click on the three dots (**⋮**) next to the person you want to resend the invitation to, and then choose **Resend invitation**. 
 
 ![](resend-invitation.png)
 
