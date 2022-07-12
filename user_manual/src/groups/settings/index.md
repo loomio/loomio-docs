@@ -62,8 +62,6 @@ For example;
 
 Use the formatting tools to format text, attach documents, add hyperlinks, and embed a video.
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/7z60BLLBLFU?rel=0" frameborder="0" allowfullscreen></iframe>
-
 ---
 
 ## Privacy
