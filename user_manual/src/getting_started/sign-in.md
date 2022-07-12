@@ -34,6 +34,8 @@ You will be taken to this page to create your Loomio user account.
 
 Type in your name, so people in your group will recognise you.
 
+Tick the check boxes to accept Loomio [Terms of Service](https://help.loomio.com/en/policy/terms/) and [Privacy Policy](https://help.loomio.com/en/policy/privacy/index.html), and tick the second box if you would like to receive our newsletter.
+
 Click the **CREATE ACCOUNT** button at the bottom right hand corner of the screen.
 
 A Loomio user account will then be created for you.
