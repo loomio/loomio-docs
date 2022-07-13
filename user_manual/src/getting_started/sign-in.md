@@ -20,7 +20,7 @@ You will need to provide an email address to make sure your Loomio user account 
 
 If you have any problem signing in to Loomio, you can always regain access with the email address you used when you set up your Loomio account.
 
-**Invitation via email**
+### Invitation via email
 
 You may receive an invitation to join a Loomio group via your email inbox:
 
@@ -30,15 +30,15 @@ Click the **Accept invitation** button at the centre of the email.
 
 The link will take you to the internet browser on your computer, tablet or smartphone and open a page where you are invited to create an account.
 
-On your computer you will see:
+![](create_account.png#width-80)
 
-![](sign-in.png#width-80)
+Type in your email address and click the **CONTINUE WITH EMAIL** button.
 
-Click the **CONTINUE WITH EMAIL** button at the centre of the screen.
+*Alternatively, you can sign in with your Google account.*
 
 You will be taken to this page to create your Loomio user account.
 
-![](create-account.png#width-80)
+![](new_to_loomio.png#width-80)
 
 Type in your name, so people in your group will recognise you.
 
@@ -46,7 +46,13 @@ Tick the check boxes to accept Loomio [Terms of Service](https://help.loomio.com
 
 Click the **CREATE ACCOUNT** button at the bottom right hand corner of the screen.
 
-A Loomio user account will then be created for you.
+Loomio will send an email to your email address with a 6 digit code.  This is required to confirm you own your email address.
+
+![](check_email.png#width-80)
+
+Enter the code from that email.
+
+Click **SIGN IN** to go to your new Loomio user account.
 
 ## Upload profile photo (Optional)
 
