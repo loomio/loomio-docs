@@ -72,19 +72,21 @@ You will likely receive an invitation via email to participate in a Loomio discu
 
 The email subject line shows the group name and thread title.
 
-In the email body, you will see the group image and logo, and a message from the person who have sent the invitation.
+In the email body, you will see the group image and logo, and a message from the person who has sent the invitation.
 
-Look for the thread title in large link and click on this to go to Loomio.
+Look for the thread title in large text and tap on this link to go to Loomio.
 
-*Alternatively:
+*If you have previously signed in to Loomio you can also:*
+
 *- Reply to the email as you would with any other email, and your comment will automatically go into the thread.*
+
 *- Click on the link at the bottom of the email 'view it on Loomio'.*
 
 If you are not signed into Loomio on your phone browser, you will be asked to sign in.
 
-![](phone_sign_in.jpg#width-50)
-
 Type in your email address and tap **CONTINUE WITH EMAIL**.
+
+![](phone_sign_in.jpg#width-50)
 
 On the next page tap **SIGN IN VIA EMAIL**. 
 
@@ -104,7 +106,7 @@ Copy the code from that email, go back to your internet browser screen and enter
 
 Tap **SIGN IN**.
 
-The next time you receive an email from Loomio, just click on the thread or decision title.  Your phone browser should remember you and take you straight in to Loomio.
+The next time you receive an email from Loomio, just tap on the thread or decision title.  Your phone browser should remember you and take you straight in to Loomio.
 
 ## Add Loomio to your phone home screen
 
