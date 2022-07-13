@@ -28,47 +28,35 @@ You may receive an invitation to join a Loomio group via your email inbox:
 
 Click the **Accept invitation** button at the centre of the email.
 
-The link will take you to the internet browser on your computer, tablet or smartphone and open a page where you are invited to create an account.
+The link will take you to the internet browser on your computer, tablet or phone and open a page where you are invited to create an account.
 
-![](create_account.png#width-80)
+![](create_account_1.png#width-80)
 
 Type in your email address and click the **CONTINUE WITH EMAIL** button.
 
 *Alternatively, you can sign in with your Google account.*
 
-You will be taken to this page to create your Loomio user account.
+You will be taken to a page to create your Loomio user account.
 
 ![](new_to_loomio.png#width-80)
 
 Type in your name, so people in your group will recognise you.
 
-Tick the check boxes to accept Loomio [Terms of Service](https://help.loomio.com/en/policy/terms/) and [Privacy Policy](https://help.loomio.com/en/policy/privacy/index.html), and tick the second box if you would like to receive our newsletter.
+Tick the check boxes to accept Loomio [Terms of Service](https://help.loomio.com/en/policy/terms/) and [Privacy Policy](https://help.loomio.com/en/policy/privacy/index.html). Click on the links to read these important documents which govern your use of Loomio.
 
-Click the **CREATE ACCOUNT** button at the bottom right hand corner of the screen.
+Tick the second box if you would like to receive our newsletter.
+
+When ready, click the **CREATE ACCOUNT** button at the bottom right hand corner of the screen.
 
 Loomio will send an email to your email address with a 6 digit code.  This is required to confirm you own your email address.
 
 ![](check_email.png#width-80)
 
-Enter the code from that email.
+Go to your email inbox and open the email from Loomio with subject 'Sign in to Loomio'.
+
+Copy the code from that email, go back to your internet browser screen and enter the code.
 
 Click **SIGN IN** to go to your new Loomio user account.
-
-## Upload profile photo (Optional)
-
-You can add a picture of yourself, to display next to all the comments you make. That makes it easy for other group members to see who said what.
-
-If you don’t want to add a photo now: Click 'Use initials'
-
-![](select-photo.png#width-80)
-
-Click **Upload new photo**.
-
-Select a suitable photo file from your computer.
-
-![](upload-photo-new.png#width-80)
-
-Click **Open** to upload your photo.
 
 ---
 
