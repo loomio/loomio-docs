@@ -16,8 +16,8 @@
 
 # Governance
 - [Bringing your board processes into Loomio](board_processes/index.md)
-- [Online AGM](virtual_agm/index.md)
-- [Online Board meetings](virtual_board_meetings/index.md)
+- [AGM and General Assembly](virtual_agm/index.md)
+- [Board meetings](virtual_board_meetings/index.md)
 
 # Facilitation
 - [The Facilitator's Guide to Loomio](facilitators_guide/index.md)
