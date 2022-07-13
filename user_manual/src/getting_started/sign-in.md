@@ -1,5 +1,13 @@
 # Signing in to Loomio
 
+*On this page*
+- Create new user account
+- Sign in on computer
+- Sign in on phone or tablet
+- Add Loomio to your phone home screen
+
+## Create new user account
+
 The first time you visit Loomio you will go through a short process to set up a Loomio user account. 
 
 You won’t need a password and your computer will remember you in future.
@@ -8,7 +16,7 @@ You won’t need a password and your computer will remember you in future.
 
 You will need to provide an email address to make sure your Loomio user account is yours.
 
-- ***Tip**: Use an email address that is uniquely yours, so fellow group members will easily recognize you and know that your comments are from you.  To avoid confusion, do not use shared and role based email addresses like info@... or ceo@... where more than one person can access the account.*
+- ***Tip**: Use an email address that is uniquely yours, so other group members will easily recognize you and know that your comments are from you.  To avoid confusion, do not use shared and role based email addresses like info@... or ceo@... where more than one person can access the account.*
 
 If you have any problem signing in to Loomio, you can always regain access with the email address you used when you set up your Loomio account.
 
@@ -16,7 +24,7 @@ If you have any problem signing in to Loomio, you can always regain access with 
 
 You may receive an invitation to join a Loomio group via your email inbox:
 
-![](invitation.png#width-50)
+![](email_invitation.png#width-50)
 
 Click the **Accept invitation** button at the centre of the email.
 
