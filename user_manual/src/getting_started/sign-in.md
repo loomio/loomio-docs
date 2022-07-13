@@ -1,8 +1,7 @@
 # Signing in to Loomio
 
 *On this page*
-- Create new user account
-- Sign in on computer
+- [Create new user account](#create-new-user-account)
 - Sign in on phone or tablet
 - Add Loomio to your phone home screen
 
