@@ -2,7 +2,7 @@
 
 *On this page*
 - [Create new user account](#create-new-user-account)
-- Sign in on phone or tablet
+- [Sign in on phone or tablet](#sign-in-on-phone-or-tablet)
 - [Add Loomio to your phone home screen](#add-loomio-to-your-phone-home-screen)
 
 ## Create new user account
@@ -104,7 +104,7 @@ Copy the code from that email, go back to your internet browser screen and enter
 
 Tap **SIGN IN**.
 
-The next time you need to do this, your phone browser should remember you and take you straight in to Loomio.
+The next time you receive an email from Loomio, just click on the thread or decision title.  Your phone browser should remember you and take you straight in to Loomio.
 
 ## Add Loomio to your phone home screen
 
