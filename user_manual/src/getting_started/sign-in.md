@@ -3,7 +3,7 @@
 *On this page*
 - [Create new user account](#create-new-user-account)
 - Sign in on phone or tablet
-- Add Loomio to your phone home screen
+- [Add Loomio to your phone home screen](#add-loomio-to-your-phone-home-screen)
 
 ## Create new user account
 
@@ -65,9 +65,9 @@ When you return to Loomio, in most cases you browser will remember you and autom
 However if you have reset your computer or are accessing Loomio from another device, you will be need to sign in again.  The simplest way to do this is to sign in via email and follow the prompts.
 
 ---
-## Add Loomio to your Smartphone home screen
+## Add Loomio to your phone home screen
 
-Loomio is a mobile optimized web app and you can add the Loomio icon to your Smartphone home screen.
+Loomio is a mobile optimized web app and you can add the Loomio icon to your phone home screen.
 
 Follow the instructions below to add a shortcut to Loomio on the home screen of your iPad, iPhone, or Android devices.
 
