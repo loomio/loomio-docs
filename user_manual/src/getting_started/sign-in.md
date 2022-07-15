@@ -117,31 +117,7 @@ If you have previously signed in to Loomio you can:
 
 - Click on the link at the bottom of the email 'view it on Loomio'.
 
-If you are not signed into Loomio on your phone browser, you will be asked to sign in.
-
-Type in your email address and tap **CONTINUE WITH EMAIL**.
-
-![](phone_sign_in.jpg#width-50)
-
-On the next page tap **SIGN IN VIA EMAIL**. 
-
-![](phone_welcome_back.jpg#width-50)
-
-Loomio will send an email to your email address with a 6 digit code.  
-
-![](phone_check_email.jpg#width-50)
-
-Go to your email inbox and open the email from Loomio with subject 'Sign in to Loomio'.
-
-If the email does not arrive soon, check your spam folder.
-
-Copy the code from that email, go back to your internet browser screen and enter the code.
-
-![](phone_sign_in_2.jpg#width-50)
-
-Tap **SIGN IN**.
-
-The next time you receive an email from Loomio, just tap on the thread or decision title.  Your phone browser should remember you and take you straight in to Loomio.
+If you are not signed into Loomio on your phone browser, you will be asked to sign in following the steps above. 
 
 ## Add Loomio to your phone home screen
 
