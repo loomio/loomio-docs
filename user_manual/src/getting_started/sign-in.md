@@ -162,3 +162,24 @@ You will be taken directly to Loomio where you can read and participate with you
 
 Loomio will remember you, so you will be automatically signed in the next time you visit.
 
+## Troubleshooting
+
+### I can't see any of my groups!
+To fix this: Sign out then sign in again with the email address you normally use Loomio with.
+
+Why does this happen? This can happen because you participated in a poll when you were not signed in; Loomio creates a guest user, so you can participate without signing in. When you sign in later, we confirm the authenticity of your vote and connect it to your registered user.
+
+### Every time I visit Loomio I have to sign in!
+
+Ensure your browser is not deleting cookies. If you find that you're logged out of Loomio every time you visit, your browser may be configured to delete cookies when you close the browser window. Cookies are the way we recognize you when you use Loomio, so deleting them means you need to identify yourself (ie: sign in) every time you visit.
+
+Here are screenshots of what correct cookie settings look like:
+
+Chrome cookie settings
+![chrome cookie settings](chrome_cookie_settings.png)
+
+Firefox cookie settings
+![firefox cookie settings](firefox_cookie_settings.png)
+
+Safari cookie settings
+![safari cookie settings](safari_cookie_settings.png)
