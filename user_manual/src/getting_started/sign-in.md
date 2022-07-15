@@ -104,7 +104,9 @@ The next time you receive an email from Loomio, just tap on the thread or decisi
 
 ## Returning to Loomio
 
-You will likely receive a notification email from Loomio inviting you to a thread, or vote in a decision.
+From time to time you may receive a notification email from Loomio inviting you to a thread, or to vote in a decision.
+
+![](phone_thread_invitation.jpg#width-50)
 
 If you have previously signed in to Loomio you can:
 
