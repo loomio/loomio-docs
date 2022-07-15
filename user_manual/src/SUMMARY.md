@@ -36,7 +36,6 @@
 - [Outcomes](polls/outcomes/index.md)
 
 # Your Profile
-- [Sign in](users/sign_in/index.md)
 - [User profile](users/user_profile/index.md)
   - [Merge accounts](users/merge_accounts/index.md)
 - [Language and translation](users/translation/index.md)
