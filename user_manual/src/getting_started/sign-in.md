@@ -23,7 +23,7 @@ If you have any problem signing in to Loomio, you can always regain access with 
 
 You may receive an invitation to join a Loomio group via your email inbox:
 
-![](email_invitation.png#width-50)
+![](email_invitation_1.png#width-50)
 
 Click the **Accept invitation** button at the centre of the email.
 
