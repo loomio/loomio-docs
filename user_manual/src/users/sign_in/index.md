@@ -1,4 +1,4 @@
-# Sign into Loomio
+# Sign into Loomio - ARCHIVED
 _Creating an Account, signing in, and troubleshooting._
 
 Creating a new user account and signing into an existing account both start from the sign-in form:
