@@ -3,6 +3,7 @@
 *On this page*
 - [Create new user account](#create-new-user-account)
 - [Sign in on phone or tablet](#sign-in-on-phone-or-tablet)
+- [Returning to Loomio](#returning-to-loomio)
 - [Add Loomio to your phone home screen](#add-loomio-to-your-phone-home-screen)
 
 ## Create new user account
