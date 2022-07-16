@@ -53,9 +53,7 @@ There are some universal options that apply to most of the proposals and polls t
 
 ### Anonymous voting
 
-If you tick the **Anonymous voters** box, participant information will not be recorded with each response. This means that you will never know who chose which positions or shared which responses.
-
-You can be certain the box was ticked by you, or the person who started it, when you see the text, "**Votes are anonymous**".
+If you tick the **Anonymous voters** box, participant information will not be recorded with each response. This means that nobody will be able to know the author of a vote.
 
 ### Notify me when people participate
 
