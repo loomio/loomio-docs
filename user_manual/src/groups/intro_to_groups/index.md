@@ -6,7 +6,7 @@ It’s a container where group members can find and share information, participa
 
 A Loomio group looks like this.  At the top of the page you will see an image and logo that you can tailor to represent your organization.  This allows people arriving into your group to see they have joined a place they recognize and feel welcome - a safe space where people feel at home, amongst friends and can participate effectively.
 
-![](group_page_2.png)
+![](group_page.png)
 
 Choose a representative name for your group and use the group description to outline;
 - **what** this group is used for,
