@@ -1,56 +1,167 @@
-# Sign into Loomio - ARCHIVED
-_Creating an Account, signing in, and troubleshooting._
+# Signing in to Loomio
 
-Creating a new user account and signing into an existing account both start from the sign-in form:
+*On this page*
+- [Create new user account](#create-new-user-account)
+- [Sign in on phone or tablet](#sign-in-on-phone-or-tablet)
+- [Returning to Loomio](#returning-to-loomio)
+- [Add Loomio to your phone home screen](#add-loomio-to-your-phone-home-screen)
+- [Troubleshooting](#troubleshooting)
 
-![sign-in form](sign_in_form.png)
+## Create new user account
 
-## User accounts are identified by email address
-Loomio user accounts are identified by an email address. If you sign in via a third party such as Google, we'll use the email address of your Google account.
+The first time you visit Loomio you will go through a short process to set up a Loomio user account. 
 
-This means you can login via email even if you login via a third party to begin with.
+You won’t need a password and your computer will remember you in future.
 
-## Creating a new user account
-It's recommended to sign in via Google or Facebook (if you use those services) because for most people it's faster, more secure, and less complex than using a password. Another benefit is that you won't need to manually upload a profile photo. Loomio does not read other information from your sign in provider (see our [privacy policy](https://www.loomio.org/privacy)).
+**Loomio user accounts are identified by email address** 
 
-If using a third party sign in isn't right for you, signing in via email is well supported too. Use the email address that you want to receive Loomio notifications with.
+You will need to provide an email address to make sure your Loomio user account is yours.
 
-## Sign in via email
-When you sign in via email, you'll be sent an email with a link (or a code) to sign in.
+- ***Tip**: Use an email address that is uniquely yours, so other group members will easily recognize you and know that your comments are from you.  To avoid confusion, do not use shared and role based email addresses like info@... or ceo@... where more than one person can access the account.*
 
-![sign-in email](sign_in_email_code.png)
+If you have any problem signing in to Loomio, you can always regain access with the email address you used when you set up your Loomio account.
 
-## Forgot your password?
+### Invitation via email
 
-1. Go to the sign-in, put in your email address.
-2. Click **Sign in with email**
-3. Click **Send sign in email**
-3. Retrieve the code that Loomio sends to your email (Subject, "Sign in to Loomio") and paste that into the form that appeared.
-4. Go to [edit profile](https://www.loomio.org/profile "open in new tab") and reset your password.
+You may receive an invitation to join a Loomio group via your email inbox:
 
-## Tips for a better experience
+![](email_invitation_1.png#width-50)
 
-### Set a password
-If you don't want to check your email to sign in, you can easily set a password. To do this, take the same steps you would to [change your password](../user_profile/#resetting-your-password).
+Click the **Accept invitation** button at the centre of the email.
 
-### Don't create more than one user account
-Remember to use the same email address each time you login, or you may end up with two user accounts, which will cause permission errors when you're checking notifications.
+The link will take you to the internet browser on your computer, tablet or phone and open a page where you are invited to create an account.
 
-Sometimes people think they need two Loomio accounts because they have two groups and they want to keep things separated; However, Loomio is designed to support belonging to multiple groups with one user account.
+![](create_account_1.png#width-80)
 
-#### Merging user accounts
-If you do find yourself with more than one user account, you can [merge them](../merge_accounts).
+Type in your email address and click the **CONTINUE WITH EMAIL** button.
 
-### You can accept an invitation sent to another email address
-Invitations are not tied to the email they are sent to. If someone sends you an invitation to an email address other than the one you use for your Loomio user account, you do not need to create a new user account or get the invitation re-sent.
+*Alternatively, you can sign in with your Google account.*
 
-Just click the invitation link and replace the text in the email form with the email address you would like to use, or the email address of your existing account, as you proceed.
+You will be taken to a page to create your Loomio user account.
 
-### You can sign in with email even if you first signed in via Google
-After creating an account via a third party (eg: Google), you can still sign in with email. Just enter the email address associated with your Google account into the Email address field and **Sign in with email**.
+![](new_to_loomio.png#width-80)
 
-### Linking a third party to an existing user account
-If you want to sign in with a third party (eg: Google) but you already have a Loomio account with another email address, you can link your accounts. To do this, just sign in via your preferred third party, Loomio will recognize it's your first time using that sign-in method. Enter the email address of your existing account and **Link accounts** when you have the choice between this (don't click **Create account**).
+Type in your name, so people in your group will recognise you.
+
+Tick the check boxes to accept Loomio [Terms of Service](https://help.loomio.com/en/policy/terms/) and [Privacy Policy](https://help.loomio.com/en/policy/privacy/index.html). Click on the links to read these important documents which govern your use of Loomio.
+
+Tick the second box if you would like to receive our newsletter.
+
+When ready, click the **CREATE ACCOUNT** button at the bottom right hand corner of the screen.
+
+Loomio will send an email to your email address with a 6 digit code.  This is required to confirm you own your email address.
+
+![](check_email.png#width-80)
+
+Go to your email inbox and open the email from Loomio with subject 'Sign in to Loomio'.
+
+Copy the code from that email, go back to your internet browser screen and enter the code.
+
+Click **SIGN IN** to go to your new Loomio user account.
+
+That's it! You should now have an active Loomio user account and able to participate in your Loomio group.  
+
+When you return to Loomio, in most cases you browser will remember you and automatically sign you in.  
+However if you have reset your computer or are accessing Loomio from another device, you will be need to sign in again.  The simplest way to do this is to sign in via email and follow the prompts.
+
+## Sign in on phone or tablet
+
+If you use your phone to access Loomio, the sign in process is very similar.
+
+An invitation via email to participate in a Loomio group will look something like this:
+
+![](phone_thread_invite_1.jpg#width-50)
+
+The email subject line shows the name of the person inviting you and the group name on Loomio.
+
+In the email body, you will see the group image and logo, and a message from the person who has sent the invitation.
+
+Tap the **Accept invitation** button.
+
+If you have not previously signed into Loomio on your phone browser, you will be asked to sign in.
+
+Type in your email address and tap **CONTINUE WITH EMAIL**.
+
+![](phone_sign_in.jpg#width-50)
+
+On the next page tap **SIGN IN VIA EMAIL**. 
+
+![](phone_welcome_back.jpg#width-50)
+
+Loomio will send an email to your email address with a 6 digit code.  
+
+![](phone_check_email.jpg#width-50)
+
+Go to your email inbox and open the email from Loomio with subject 'Sign in to Loomio'.
+
+If the email does not arrive soon, check your spam folder.
+
+Copy the code from that email, go back to your internet browser screen and enter the code.
+
+![](phone_sign_in_2.jpg#width-50)
+
+Tap **SIGN IN**.
+
+The next time you receive an email from Loomio, just tap on the thread or decision title.  Your phone browser should remember you and take you straight in to Loomio.
+
+## Returning to Loomio
+
+From time to time you may receive a notification email from Loomio inviting you to a thread, or to vote in a decision.
+
+![](phone_thread_invitation.jpg#width-50)
+
+If you have previously signed in to Loomio you can:
+
+- Tap on the thread title (the large colored text) to go to Loomio.
+
+- Reply to the email as you would with any other email, and your comment will automatically go into the thread.
+
+- Click on the link at the bottom of the email 'view it on Loomio'.
+
+If you are not signed into Loomio on your phone browser, you will be asked to sign in following the steps above. 
+
+## Add Loomio to your phone home screen
+
+Loomio is a mobile optimized web app and you can add the Loomio icon to your phone home screen.
+
+Follow the instructions below to add a shortcut to Loomio on the home screen of your iPad, iPhone, or Android devices.
+
+### iPhone or iPad
+Launch “Safari” app.  (This does not work from the “Chrome” app.)
+
+Go to [loomio.org/dashboard](https://www.loomio.org/dashboard).
+
+Tap the 'Share' icon (it has an arrow coming out of a box) to open the share menu.
+
+![](share-button.png#width-50)
+
+Find and tap “Add to Home Screen.” The Add to Home box will appear, with Loomio icon and name.
+
+![](add-home-screen.png#width-50)
+
+Tap “Add.” Safari will close and the Loomio icon will appear on your home screen.
+
+![](home_screen.png#width-50)
+
+### Android
+Launch “Chrome” app.
+
+Go to [loomio.org/dashboard](https://www.loomio.org/dashboard).
+
+Tap the menu icon (3 dots in upper right-hand corner) and tap Add to homescreen.
+
+The Loomio icon will appear on your home screen.
+
+### Tap the Loomio icon on your homescreen to open Loomio
+
+The first time you do this, you will need to sign in to Loomio.
+- Enter your email address and tap 'CONTINUE WITH EMAIL'
+- Tap 'SIGN IN VIA EMAIL'
+- Check your email and type in the 6 digit code. Tap 'SIGN IN'
+
+You will be taken directly to Loomio where you can read and participate with your group as usual.
+
+Loomio will remember you, so you will be automatically signed in the next time you visit.
 
 ## Troubleshooting
 
