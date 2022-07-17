@@ -4,7 +4,7 @@
 
 # Getting started
 - [What is Loomio?](getting_started/key-concepts.md)
-- [Signing in](users/sign_id/index.md)
+- [Signing in](users/sign_in/index.md)
 - [Write a comment](getting_started/write-a-comment.md)
 - [Vote](getting_started/vote.md)
 - [Tour of the app](getting_started/orientation.md)
