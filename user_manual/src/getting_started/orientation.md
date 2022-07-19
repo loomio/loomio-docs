@@ -8,7 +8,7 @@ Your group home page is the first place people see when they arrive. It contains
 
 You can add an image that represents something of your organization and place.
 
-![](group-page-threadview.png)
+![](group_page_threads.png)
 
 ### Tabs
 
@@ -34,7 +34,7 @@ If the threads tab is selected, the thread list shows the title of the thread, a
 
 The sidebar menu is accessible from the (☰) menu icon at screen top left, where you can see:
 
-![](sidebar-menu.png#width-80)
+![](sidebar_menu.png#width-80)
 
 * **Dashboard** - Open Polls and Proposals and recently active Threads.
 * **Unread threads** - A list of Threads you have yet to read.
@@ -46,7 +46,7 @@ The sidebar menu is accessible from the (☰) menu icon at screen top left, wher
 
 Click the down arrow ( ∨ ) to open your user settings.
 
-![](profile-edit.png#width-50)
+![](profile_edit.png#width-50)
 
 The most useful settings when getting started are:
 
@@ -79,7 +79,7 @@ These emails are to help you participate effectively with your group. The defaul
 
 If you are receiving too many emails from Loomio, you can change the default email settings. Talk to your group administrator to get the balance right for you.
 
-![](profile.png#width-50)
+![](profile_1.png#width-50)
 
 ![](email-settings.png#width-80)
 
