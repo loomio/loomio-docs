@@ -74,6 +74,6 @@ Loomio offers a range of other poll tools:
 
 ## Putting it all together
 
-![](key-concept.png)
+![](key_concept_1.png)
 
 The best way to learn what to use when is to have a go. Use your own group or [start a demo group](https://loomio.org/try).
