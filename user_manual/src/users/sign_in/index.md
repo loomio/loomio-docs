@@ -165,6 +165,22 @@ Loomio will remember you, so you will be automatically signed in the next time y
 
 ## Troubleshooting
 
+### I can't access Loomio
+Loomio is a web app, accessible via popular web browsers such as Chrome, MS Edge, Firefox or Safari.  
+- Check your browser is updated to a current version for best security and performance.
+
+Sometimes IT systems block untrusted website addresses.  Loomio is open source software and does not download any software to your computer or device.  
+- Check your IT system is not blocking [loomio.org](https://loomio.org/) and [loomio.com](https://loomio.com/) domains.  
+  - If you are on the European service: [loomio.eu](https://loomio.eu/)
+  - If you are on the Aus/NZ service: [loomio.nz](https://loomio.nz/)
+- IT may need to unblock access to Loomio, and add loomio.org to their ‘allow list’ or ‘white list’.
+
+### I can't receive emails from Loomio
+Loomio uses your email address for user authentication.  Notifications of new threads, decisions and other activity in Loomio are sent to your email address.
+- Check your IT system is not blocking emails from @loomio.org 
+- IT may need to unblock emails from Loomio and add @loomio.org to their ‘allow list’ or ‘white list’.
+- If IT refuses to budge, can you use a personal email address?
+
 ### I can't see any of my groups!
 To fix this: Sign out then sign in again with the email address you normally use Loomio with.
 
