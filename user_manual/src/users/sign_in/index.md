@@ -106,7 +106,9 @@ The next time you receive an email from Loomio, just tap on the thread or decisi
 
 ## Returning to Loomio
 
-From time to time you may receive a notification email from Loomio inviting you to a thread, or to vote in a decision.
+You can sign in with any notification email from Loomio, including; the **'Yesterday on Loomio'** daily summary email, a thread invitation, or an invitation to vote.
+
+For example:
 
 ![](phone_thread_invitation.jpg#width-50)
 
@@ -118,7 +120,22 @@ If you have previously signed in to Loomio you can:
 
 - Click on the link at the bottom of the email 'view it on Loomio'.
 
-If you are not signed into Loomio on your phone browser, you will be asked to sign in following the steps above. 
+If you are not signed into Loomio, you will be asked to sign in. 
+
+### Returning to Loomio after some time
+
+If you are returning to Loomio after some time, or signing in to Loomio on a new device, you may need to sign in again.
+
+You can sign in to Loomio from our website at [loomio.com](https://www.loomio.com/) with **Sign in** or by going directly to the Loomio service you are using; [loomio.org](https://www.loomio.org/dashboard), [loomio.eu](https://loomio.eu/dashboard) or [loomio.nz](https://loomio.nz/dashboard).
+
+![](return_sign_in.png#width-80)
+
+**Remember to enter the email address you used when you set up your Loomio account:**
+- Type in your email address and tap **CONTINUE WITH EMAIL**.
+- On the next page tap **SIGN IN VIA EMAIL**. Loomio will send an email to your email address with a 6 digit code.  
+- Go to your email inbox and open the email from Loomio with subject 'Sign in to Loomio'.
+- Copy the code from that email, go back to your internet browser screen and enter the code.
+- Tap **SIGN IN**.
 
 ## Add Loomio to your phone home screen
 
