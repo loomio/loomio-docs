@@ -5,7 +5,7 @@ Loomio threads are where you can share information, discuss topics, and make dec
 - All info about a topic is in one easily accessible place.
 - People can reply via email and their comments appear in the thread.
 - You can see who has read the thread and who needs a nudge.
-- You can progress actual work to an outcome.
+- There is a record of discussion you can easily find again.
 
 Threads have a wide range of uses; from a general discussion forum to running specific work-flow and decision-making processes.
 
