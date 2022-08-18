@@ -43,29 +43,3 @@ Loomio includes a range of polling tools you can use to support participation an
 
 **New poll type**: Configure the poll type you need with custom terminology, options and settings.
 
-## All decision tools have a similar structure
-
-**Set up poll:**
-- Give the poll a title
-- Assign a category tag
-- Describe the poll question, and how you want people to vote
-- Configure poll options
-- Set a closing deadline 
-- Invite people
-
-In the "Settings" tab you can also set:
-- Hide results, until vote is cast or poll closes
-- Anonymous voting
-- Vote reason to required, optional or disabled
-- Reminder that poll is closing soon to nobody, author, undecided voters or all voters
-
-**Running poll:**
-- People vote and add a reason (optional) 
-- Results are updated live
-- People can change their vote if new info emerges
-- A reminder is sent to people who haven’t voted 
-
-**Poll closed:**
-- The proposal or poll closes, and everyone can see the results
-- The author sets an outcome, notifying everyone of what will happen next.
-
