@@ -25,6 +25,8 @@ Notice when the same voices are dominating and invite some of the quieter people
 
 You can make a complex discussion easier to engage with by updating the thread context section with a summary of the key points.
 
+![](decision_step1.png)
+
 ### Step 2 - Sense check
 As your group begins to converge on path forwards, use a **Sense check** poll to survey opinions and test how the group feels.
 
@@ -37,6 +39,8 @@ Use feedback to improve and refine the proposal. If there’s still some work to
 
 Good engagement will help you assess when you are ready to proceed to a proposal.
 
+![](decision_step2.png)
+
 ### Step 3 - Proposal
 Now when you raise a formal **Proposal**, you do so with confidence that it will pass. 
 
@@ -47,6 +51,8 @@ Set proposal deadlines consciously, so group members have time to consider and e
 This step is important to formalize agreement with people’s vote and to state an outcome - what just happened and what will happen next.
 
 Proposal results are logged, along with a record of the discussion leading to the decision.
+
+![](decision_step3.png)
 
 ### Outcome
 When a Loomio poll closes, you will be prompted to set an **outcome** to let everyone know what happened and what is going to happen next.
