@@ -6,9 +6,8 @@
 - [Overview](getting_started/key-concepts.md)
 - [Signing in](users/sign_in/index.md)
 - [How to participate](getting_started/write-a-comment.md)
-- [Vote](getting_started/vote.md)
 - [Making decisions](getting_started/decisions/index.md)
-- [Tour of the app](getting_started/orientation.md)
+- [Tour](getting_started/orientation.md)
 
 # Groups
 - [Intro to groups](groups/intro_to_groups/index.md)
