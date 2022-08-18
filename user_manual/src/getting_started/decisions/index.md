@@ -1,59 +1,71 @@
 # Making Collaborative Decisions
 
-Ever since Loomio was founded, we have experimented, worked on and practiced what it means to make collaborative decisions.
+Decisions are where you can progress a discussion to an outcome.
 
-Some organizations arrive at Loomio having already developed a deep culture and practice of collaborative decision making.  Such organizations have often written handbooks and codified their practices, and want to see how their decision making processes can be realized within Loomio.  If this sounds like you, then skip to ‘applying your decision making processes in Loomio with templates’.
+- Involve the right people to make better decisions 
+- Apply the decision making process that works for your group - seek advice or consent, or reach a consensus
+- Get engagement, test ideas, and clarify an issue, even if the solution might not yet be apparent 
+- Set a deadline, prompt people who haven’t participated, and state an outcome
 
-However most organizations are still on the journey and looking for some helpful first steps towards making better decisions together.  If the burning question in your organization is **how do we make decisions together?**, then this guide is for you.
+There are many types of decision tools in Loomio and many ways to use them.   
 
-***Here are three steps to help you co-create a better, more cohesive decision with less stress and anxiety.***
+This doesn’t mean that everyone must agree all of the time, and there are many ways to reach a collective decision.
 
-## Simple decision making - in 3 steps
+## Proposal
 
-Good collaborative decisions rarely happen by themselves.  They almost always benefit from someone facilitating the discussion through to decision.  So when you launch a discussion thread, you take on a facilitation role (unless someone else is facilitating).
+At the heart of Loomio is the proposal.  
 
-Follow these 3 steps as you facilitate your group to make a good decision.
+A proposal helps convert a discussion into a clear, practical outcome. For example someone suggests a course of action and invites people to respond by voting agree, abstain or disagree. Other proposal options are available to suit common decision-making processes.
 
-### Step 1 - Introduce and discuss
-Start a Loomio **thread** to introduce the topic, open discussion and invite people. Include all the context-setting information your group needs to meaningfully participate, along with relevant background so everyone understands the purpose.
+As people vote, they can give a reason why they have voted this way. You can all see where everyone else stands on the matter, and why. And then, if the proposal is still open, you can change your response.
 
-Be clear about your objective - what is the decision to be made or intended outcome of the discussion? 
+In this way you can use proposals to prompt people for a response, uncover new information, and build shared understanding - to help your group make a better, more informed decision.
 
-As discussion progresses, create space for diverse input - sometimes the best ideas and input come from outside the box.  Work together to explore and test ideas, encouraging a healthy and open discussion.  
+A proposal and associated discussion, creates its own record of how the decision came about.
 
-Notice when the same voices are dominating and invite some of the quieter people to contribute by @mentioning them and asking them what they think. 
+## Other poll types
 
-You can make a complex discussion easier to engage with by updating the thread context section with a summary of the key points.
+Loomio includes a range of polling tools you can use to support participation and decision making. 
 
-![](decision_step1.png)
+**Sense check**: To ask people for feedback, questions and concerns before moving to a decision.
 
-### Step 2 - Sense check
-As your group begins to converge on path forwards, use a **Sense check** poll to survey opinions and test how the group feels.
+**Simple Poll**: A simple poll to ask people which option or options they approve.
 
-A ‘Sense check’ lets people know a proposal is forming and encourages them to engage.
-It can also be used to clarify an issue, even if the solution might not be apparent yet.  
+**Time poll**: Find the best time to meet, or to schedule an event. Like Doodle without all the ads…  
 
-Sense check is a great way to surface concerns before moving to a formal agreement.  You can find out if people are happy with where this is going, if they have questions or need more time, or if they are concerned.
+**Opt-in**: Find volunteers or participants to help or join a working group.
 
-Use feedback to improve and refine the proposal. If there’s still some work to do, you may need to go back to Step 1 and then run another Sense check round. 
+**Score poll**: Find the degree of support for each option.
 
-Good engagement will help you assess when you are ready to proceed to a proposal.
+**Dot vote**: Find degree of support by asking people to allocate a budget of points to options. 
 
-![](decision_step2.png)
+**Ranked choice**: Rank a list of options in order of preference — useful for elections.
 
-### Step 3 - Proposal
-Now when you raise a formal **Proposal**, you do so with confidence that it will pass. 
+**New poll type**: Configure the poll type you need with custom terminology, options and settings.
 
-There may have been a lot of discussion and variations suggested, so be specific about the decision being made, so that everyone knows what the voting options mean.
+## All decision tools have a similar structure
 
-Set proposal deadlines consciously, so group members have time to consider and engage.  You can always extend the closing date if need be.
+**Set up poll:**
+- Give the poll a title
+- Assign a category tag
+- Describe the poll question, and how you want people to vote
+- Configure poll options
+- Set a closing deadline 
+- Invite people
 
-This step is important to formalize agreement with people’s vote and to state an outcome - what just happened and what will happen next.
+In the "Settings" tab you can also set:
+- Hide results, until vote is cast or poll closes
+- Anonymous voting
+- Vote reason to required, optional or disabled
+- Reminder that poll is closing soon to nobody, author, undecided voters or all voters
 
-Proposal results are logged, along with a record of the discussion leading to the decision.
+**Running poll:**
+- People vote and add a reason (optional) 
+- Results are updated live
+- People can change their vote if new info emerges
+- A reminder is sent to people who haven’t voted 
 
-![](decision_step3.png)
-
-### Outcome
-When a Loomio poll closes, you will be prompted to set an **outcome** to let everyone know what happened and what is going to happen next.
+**Poll closed:**
+- The proposal or poll closes, and everyone can see the results
+- The author sets an outcome, notifying everyone of what will happen next.
 
