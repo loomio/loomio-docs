@@ -23,6 +23,8 @@ In this way you can use proposals to prompt people for a response, uncover new i
 
 A proposal and associated discussion, creates its own record of how the decision came about.
 
+![](proposal.png)
+
 ## Other poll types
 
 Loomio includes a range of polling tools you can use to support participation and decision making. 
