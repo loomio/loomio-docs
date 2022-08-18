@@ -3,10 +3,11 @@
 [Introduction](index.md)
 
 # Getting started
-- [What is Loomio?](getting_started/key-concepts.md)
+- [Overview](getting_started/key-concepts.md)
 - [Signing in](users/sign_in/index.md)
-- [Write a comment](getting_started/write-a-comment.md)
+- [How to participate](getting_started/write-a-comment.md)
 - [Vote](getting_started/vote.md)
+- [Making decisions](getting_started/decisions/index.md)
 - [Tour of the app](getting_started/orientation.md)
 
 # Groups
