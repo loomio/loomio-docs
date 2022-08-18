@@ -29,11 +29,12 @@
 - [Thread admin](threads/thread_admin/index.md)
 - [Tasks](threads/thread_admin/tasks.md)
 
-# Decisions
+# Polls
 - [Intro to decisions](polls/intro_to_decisions/index.md)
 - [Starting proposals](polls/starting_proposals/index.md)
 - [Poll types](polls/proposal_types/index.md)
 - [Outcomes](polls/outcomes/index.md)
+- [Decision making](polls/decisions/index.md)
 
 # Your Profile
 - [User profile](users/user_profile/index.md)
