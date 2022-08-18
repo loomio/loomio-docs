@@ -15,9 +15,9 @@ Learn how to start, configure and administer a Loomio group or subgroup as an ad
 
 Everything you need to know about starting discussions, notifiying people, and keeping everything organized.
 
-## [Decisions](polls/proposal_types/index.md)
+## [Polls](polls/proposal_types/index.md)
 
-Learn how to use **Proposal** and **Poll** decision-making tools to take a discussion through to a clear outcome.
+Learn how to use **Proposal** and other **Poll** types for decision-making and to take a discussion through to a clear outcome.
 
 ## [Your Profile](users/user_profile/index.md)
 
