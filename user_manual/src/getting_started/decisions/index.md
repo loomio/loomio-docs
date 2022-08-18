@@ -23,7 +23,7 @@ In this way you can use proposals to prompt people for a response, uncover new i
 
 A proposal and associated discussion, creates its own record of how the decision came about.
 
-![](proposal.png)
+![](proposal_example.png)
 
 ## Other poll types
 
