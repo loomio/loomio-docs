@@ -25,39 +25,48 @@ In this way you can use proposals to prompt people for a response, uncover new i
 
 A proposal and associated discussion, creates its own record of how the decision came about.
 
-## Polls
+## Other poll types
 
 Loomio includes a range of polling tools you can use to support participation and decision making. 
 
-**Poll**: A simple poll to ask people which option or options they approve.
+**Sense check**: To ask people for feedback, questions and concerns before moving to a decision.
 
-**Check**: An even simpler poll with just Yes/No options.  Used as an RSVP or letting everyone know you have completed something.
+**Simple Poll**: A simple poll to ask people which option or options they approve.
 
-**Time poll**: Like Doodle without all the ads…  Find the best time to meet, or to schedule an event.
+**Time poll**: Find the best time to meet, or to schedule an event. Like Doodle without all the ads…  
 
-**Score poll**: Ask people to express the strength of their preference for each option, on a numerical scale.
+**Opt-in**: Find volunteers or participants to help or join a working group.
 
-**Dot vote**: Ask people to express the strength of their preferences, with a budget constraint. You get a number of ‘dots’ to allocate, and can put all your dots on one option or spread them out.
+**Score poll**: Find the degree of support for each option.
 
-**Ranked choice**: Rank a list of options where the highest ranked option wins. Useful for elections when there are many candidates and few seats.
+**Dot vote**: Find degree of support by asking people to allocate a budget of points to options. 
 
-## All decision tools have the same structure
+**Ranked choice**: Rank a list of options in order of preference — useful for elections.
 
-When setting up a proposal or one of the poll types you will find the structure the same:
+**New poll type**: Configure the poll type you need with custom terminology, options and settings.
 
-**Set up:**
-- Give the proposal or poll a title
+## All decision tools have a similar structure
+
+**Set up poll:**
+- Give the poll a title
 - Assign a category tag
-- Describe the proposal or poll question, and how you want people to vote
-- Set a closing deadline and reminder 
+- Describe the poll question, and how you want people to vote
+- Configure poll options
+- Set a closing deadline 
 - Invite people
 
-**Running:**
+In the "Settings" tab you can also set:
+- Hide results, until vote is cast or poll closes
+- Anonymous voting
+- Vote reason to required, optional or disabled
+- Reminder that poll is closing soon to nobody, author, undecided voters or all voters
+
+**Running poll:**
 - People vote and add a reason (optional) 
 - Results are updated live
 - People can change their vote if new info emerges
 - A reminder is sent to people who haven’t voted 
 
-**Outcome:**
+**Poll closed:**
 - The proposal or poll closes, and everyone can see the results
 - The author sets an outcome, notifying everyone of what will happen next.
