@@ -59,17 +59,6 @@ Importantly, as well as selecting a response, everyone can give a reason why the
 
 A proposal, and associated discussion, creates its own record of how the decision came about.
 
-### Other poll types
-
-- **Sense check**: to ask people for feedback, questions and concerns
-- **Simple poll**: to ask people which option/s they prefer
-- **Time poll**: to find the best time that people are available to meet
-- **Opt-in**: to find volunteers or participants to help or join a working group 
-- **Score poll**: to express degree of support for each option
-- **Dot vote**: to express degree of support by allocating a budget of points to options
-- **Ranked choice**: to rank options in order of preference—useful for elections
-- **New poll type**: configure the poll type you need with custom terminology, options and settings
-
 ## Putting it all together
 
 ![](key_concept_1.png)
