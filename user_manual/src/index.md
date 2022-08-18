@@ -3,7 +3,7 @@
 A simple guide to introduce Loomio and explain how the app works.
 
 
-## [Overview](getting_started/key-concepts.md)
+## [Introduction](getting_started/key-concepts.md)
 
 An introduction to Loomio, outlining key concepts of how your organization meet, discuss and make decisions together. If you are new to Loomio, start here.
 
