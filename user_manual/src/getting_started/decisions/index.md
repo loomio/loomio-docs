@@ -1,6 +1,6 @@
 # Making Collaborative Decisions
 
-Decisions are where you can progress a discussion to an outcome.
+Use Proposal and other poll types to progress a discussion to an outcome.
 
 - Involve the right people to make better decisions 
 - Apply the decision making process that works for your group - seek advice or consent, or reach a consensus
