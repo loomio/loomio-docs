@@ -1,22 +1,22 @@
-# What is Loomio and how can it help your organization?
+# Overview
 
 Loomio is a decision making tool for collaborative organizations.
 
-It enables you to bring people together, have discussions, make proposals and achieve clear outcomes.
+It enables you to bring people together, have discussions on topics, explore proposals and make decisions.
 
-It's a discussion forum with a set of tools to allow you to facilitate a discussion towards an outcome, for example proposal and polls.
+It's a discussion forum with a set of tools to allow you to facilitate a discussion towards an outcome.
 
 <div class="iframe-container">
 <iframe width="608" height="380" src="https://www.youtube.com/embed/Zlzuqsunpxc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-Loomio is often used for:
+Loomio is often used by:
 
-**Boards and Governance** to prepare for meetings, build and agree agenda, post board papers, vote on resolutions, approve minutes and make decisions between meetings.
+**Boards and Governance** to prepare for meetings, build an agenda, post board papers, vote on resolutions, approve minutes and continue governance between meetings. Helping your board stay in context and better able to respond.
 
-**Member organizations** to share information and raise topics, seek input and advice,  enable members to participate in important decisions, and include more members in a General Assembly.
+**Member organizations** as a safe, inclusive space for members to share information and raise topics, interact and debate, participate in important decisions and   General Assembly. Including members' voice to organize for action.
 
-**Self-organizing teams** to work together in structured decision making processes, share info and ideas, progress discussions, make proposals and achieve better outcomes.
+**Self-managing teams** to work together, share info and ideas, progress discussions, follow decision making processes and achieve better outcomes. Increasing staff satisfaction and productivity.
 
 Loomio builds a living record of your organization; the decisions made, who was involved and the discussion they had together leading to the decision. 
 
@@ -44,9 +44,9 @@ Threads are used for many purposes; to prepare for a meeting, discuss matters, s
 
 Threads keep everything about a topic in one place. Over time you’ll create a useful archive of your organization’s discussions and decisions.
 
-### Decisions
+### Polls
 
-One of the best things about Loomio is its range of tools to progress a discussion to an outcome. Each tool has a slightly different purpose. The most common one is a proposal. 
+One of the best things about Loomio is its range of tools to progress a discussion to an outcome. Each poll type has a slightly different purpose. The most common one is a proposal. 
 
 ![](Proposals.png#width-50)
 
@@ -59,18 +59,16 @@ Importantly, as well as selecting a response, everyone can give a reason why the
 
 A proposal, and associated discussion, creates its own record of how the decision came about.
 
-### Other voting tools
+### Other poll types
 
-A proposal is good for suggesting a particular path and gauging who wants to take it. But sometimes you might want group members to make a different kind of choice. 
-
-Loomio offers a range of other poll tools:
-
-- **Poll**: to ask people which option/s they approve
-- **Check**: think of it as asking everyone to (please) 'raise your hand if you…'
-- **Time poll**: to find the best time for the group to do something
-- **Score poll**: to ask people to express the strength of their preference for each option, on a numerical scale
-- **Dot vote**: to ask people to express the strength of their preferences, with a constraint—a fixed number of ‘dots’ to allocate–you can put all your dots in one place or spread them out
-- **Ranked choice**: to rank a subset of options—useful for elections when there are many candidates and few seats
+- **Sense check**: to ask people for feedback, questions and concerns
+- **Simple poll**: to ask people which option/s they prefer
+- **Time poll**: to find the best time that people are available to meet
+- **Opt-in**: to find volunteers or participants to help or join a working group 
+- **Score poll**: to express degree of support for each option
+- **Dot vote**: to express degree of support by allocating a budget of points to options
+- **Ranked choice**: to rank options in order of preference—useful for elections
+- **New poll type**: configure the poll type you need with custom terminology, options and settings
 
 ## Putting it all together
 
