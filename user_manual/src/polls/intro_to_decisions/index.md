@@ -31,7 +31,7 @@ Loomio includes a range of polling tools you can use to support participation an
 
 **Sense check**: To ask people for feedback, questions and concerns before moving to a decision.
 
-**Simple Poll**: A simple poll to ask people which option or options they approve.
+**Simple poll**: A simple poll to ask people which option or options they approve.
 
 **Time poll**: Find the best time to meet, or to schedule an event. Like Doodle without all the ads…  
 
