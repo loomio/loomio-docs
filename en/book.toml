@@ -3,11 +3,11 @@ authors = ["Robert Guthrie"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Loomio User Manual"
+title = "Loomio Help"
 
 [output.html]
 no-section-label = true
-edit-url-template = "https://github.com/loomio/loomio-docs/edit/main/user_manual/{path}"
+edit-url-template = "https://github.com/loomio/loomio-docs/edit/main/{path}"
 site-url = "/en/user_manual/"
 
 [output.html.redirect]
