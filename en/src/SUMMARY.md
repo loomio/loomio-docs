@@ -2,57 +2,52 @@
 
 [Introduction](user_manual/index.md)
 
-# Getting started
-- [Overview](user_manual/getting_started/key-concepts.md)
-- [Signing in](user_manual/users/sign_in/index.md)
-- [How to participate](user_manual/getting_started/write-a-comment.md)
-- [Making decisions](user_manual/getting_started/decisions/index.md)
-- [Tour](user_manual/getting_started/orientation.md)
+# User manual
 
-# Groups
-- [Intro to groups](user_manual/groups/intro_to_groups/index.md)
-- [Starting a group](user_manual/groups/starting_a_group/index.md)
-- [Group settings](user_manual/groups/settings/index.md)
-- [Inviting people](user_manual/groups/membership/index.md)
-- [Member management](user_manual/groups/membership/management.md)
-- [Category tags](user_manual/groups/tags/index.md)
-- [Subgroups](user_manual/groups/subgroups/index.md)
-- [Data export](user_manual/groups/data_export/index.md)
-- [Deleting your group](user_manual/groups/deleting_archiving/index.md)
+- [Getting started](user_manual/getting_started/key-concepts.md)
+  - [Tour](user_manual/getting_started/orientation.md)
+  - [Signing in](user_manual/users/sign_in/index.md)
+  - [How to participate](user_manual/getting_started/write-a-comment.md)
+  - [Making decisions](user_manual/getting_started/decisions/index.md)
 
-# Threads
-- [Intro to threads](user_manual/threads/intro_to_threads/index.md)
-- [Starting a thread](user_manual/threads/starting_threads/index.md)
-- [Notifying people](user_manual/threads/notifying_people/index.md)
-- [Engaging with threads](user_manual/threads/engaging_with_threads/index.md)
-- [Navigating threads](user_manual/threads/navigating_threads/index.md)
-- [Thread admin](user_manual/threads/thread_admin/index.md)
-- [Tasks](user_manual/threads/thread_admin/tasks.md)
+- [Groups](user_manual/groups/intro_to_groups/index.md)
+  - [Starting a group](user_manual/groups/starting_a_group/index.md)
+  - [Group settings](user_manual/groups/settings/index.md)
+  - [Inviting people](user_manual/groups/membership/index.md)
+  - [Member management](user_manual/groups/membership/management.md)
+  - [Category tags](user_manual/groups/tags/index.md)
+  - [Subgroups](user_manual/groups/subgroups/index.md)
+  - [Data export](user_manual/groups/data_export/index.md)
+  - [Deleting your group](user_manual/groups/deleting_archiving/index.md)
 
-# Polls
-- [Intro to decisions](user_manual/polls/intro_to_decisions/index.md)
-- [Starting proposals](user_manual/polls/starting_proposals/index.md)
-- [Poll types](user_manual/polls/proposal_types/index.md)
-- [Outcomes](user_manual/polls/outcomes/index.md)
-- [Decision making](user_manual/polls/decisions/index.md)
+- [Threads](user_manual/threads/intro_to_threads/index.md)
+  - [Starting a thread](user_manual/threads/starting_threads/index.md)
+  - [Notifying people](user_manual/threads/notifying_people/index.md)
+  - [Engaging with threads](user_manual/threads/engaging_with_threads/index.md)
+  - [Navigating threads](user_manual/threads/navigating_threads/index.md)
+  - [Thread admin](user_manual/threads/thread_admin/index.md)
+  - [Tasks](user_manual/threads/thread_admin/tasks.md)
 
-# Your Profile
+- [Polls](user_manual/polls/intro_to_decisions/index.md)
+  - [Starting proposals](user_manual/polls/starting_proposals/index.md)
+  - [Poll types](user_manual/polls/proposal_types/index.md)
+  - [Outcomes](user_manual/polls/outcomes/index.md)
+  - [Decision making](user_manual/polls/decisions/index.md)
+
 - [User profile](user_manual/users/user_profile/index.md)
   - [Merge accounts](user_manual/users/merge_accounts/index.md)
-- [Language and translation](user_manual/users/translation/index.md)
-- [Deleting your account](user_manual/users/deleting_your_account/index.md)
-- [Notifications](user_manual/users/email_settings/index.md)
-- [Navigation](user_manual/users/navigation/index.md)
+  - [Language and translation](user_manual/users/translation/index.md)
+  - [Deleting your account](user_manual/users/deleting_your_account/index.md)
+  - [Notifications](user_manual/users/email_settings/index.md)
+  - [Navigation](user_manual/users/navigation/index.md)
 
-# Integrations
 - [Chatbots](user_manual/groups/integrations/chatbots/index.md)
-	- [Discord](user_manual/groups/integrations/discord/index.md)
-	- [Matrix](user_manual/groups/integrations/matrix/index.md)
-	- [Mattermost](user_manual/groups/integrations/mattermost/index.md)
-	- [Microsoft Teams](user_manual/groups/integrations/microsoft_teams/index.md)
-	- [Slack](user_manual/groups/integrations/slack/index.md)
+  - [Discord](user_manual/groups/integrations/discord/index.md)
+  - [Matrix](user_manual/groups/integrations/matrix/index.md)
+  - [Mattermost](user_manual/groups/integrations/mattermost/index.md)
+  - [Microsoft Teams](user_manual/groups/integrations/microsoft_teams/index.md)
+  - [Slack](user_manual/groups/integrations/slack/index.md)
 - [API](user_manual/groups/integrations/api/index.md)
-
 
 # Guides
 
