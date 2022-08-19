@@ -23,7 +23,7 @@ jobs:
       - run: mdbook build oric
       - run: mkdir ./public
       - run: cp -R static/* ./public/
-      - run: mv ./en/book ./public/en
+      - run: mv ./en/book/* ./public/en/
       - run: mv ./oric/book ./public/en/oric
 
       - name: Deploy
