@@ -34,7 +34,7 @@
   - [Outcomes](user_manual/polls/outcomes/index.md)
   - [Decision making](user_manual/polls/decisions/index.md)
 
-- [User profile](user_manual/users/user_profile/index.md)
+- [Your profile](user_manual/users/user_profile/index.md)
   - [Merge accounts](user_manual/users/merge_accounts/index.md)
   - [Language and translation](user_manual/users/translation/index.md)
   - [Deleting your account](user_manual/users/deleting_your_account/index.md)
