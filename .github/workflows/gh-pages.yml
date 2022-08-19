@@ -19,15 +19,11 @@ jobs:
         with:
           mdbook-version: '0.4.12'
 
-      - run: mdbook build user_manual
-      - run: mdbook build guides
-      - run: mdbook build policy
+      - run: mdbook build en
       - run: mdbook build oric
       - run: mkdir ./public
       - run: cp -R static/* ./public/
-      - run: mv ./user_manual/book ./public/en/user_manual
-      - run: mv ./guides/book ./public/en/guides
-      - run: mv ./policy/book ./public/en/policy
+      - run: mv ./en/book ./public/en
       - run: mv ./oric/book ./public/en/oric
 
       - name: Deploy
