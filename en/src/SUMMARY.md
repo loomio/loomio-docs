@@ -1,6 +1,6 @@
 # Summary
 
-[Introduction](index.md)
+[Introduction](user_manual/index.md)
 
 # Getting started
 - [Overview](user_manual/getting_started/key-concepts.md)
