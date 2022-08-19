@@ -1,14 +1,9 @@
 # Summary
 
-[Introduction](user_manual/index.md)
-
-# User manual
-
-- [Getting started](user_manual/getting_started/key-concepts.md)
-  - [Tour](user_manual/getting_started/orientation.md)
+- [Overview](user_manual/getting_started/index.md)
+  - [Orientation tour](user_manual/getting_started/orientation.md)
   - [Signing in](user_manual/users/sign_in/index.md)
   - [How to participate](user_manual/getting_started/write-a-comment.md)
-  - [Making decisions](user_manual/getting_started/decisions/index.md)
 
 - [Groups](user_manual/groups/intro_to_groups/index.md)
   - [Starting a group](user_manual/groups/starting_a_group/index.md)
@@ -32,7 +27,11 @@
   - [Starting proposals](user_manual/polls/starting_proposals/index.md)
   - [Poll types](user_manual/polls/proposal_types/index.md)
   - [Outcomes](user_manual/polls/outcomes/index.md)
-  - [Decision making](user_manual/polls/decisions/index.md)
+
+- [Making decisions](user_manual/getting_started/decisions/index.md)
+  - [Simple decision process](user_manual/polls/decisions/index.md)
+  - [Advice process](guides/advice_process/index.md)
+  - [Consent process](guides/consent_process/index.md)
 
 - [Your profile](user_manual/users/user_profile/index.md)
   - [Merge accounts](user_manual/users/merge_accounts/index.md)
@@ -49,6 +48,8 @@
   - [Slack](user_manual/groups/integrations/slack/index.md)
 - [API](user_manual/groups/integrations/api/index.md)
 
+---
+
 # Guides
 
 # Success on Loomio
@@ -57,11 +58,6 @@
 - [5 ways to use threads](guides/5_ways_to_use_threads/index.md)
 - [Loomio and other collaboration tools](guides/mapping-tools.md)
 - [Practical examples](guides/practical_examples.md)
-
-# Decision making
-- [Advice process](guides/advice_process/index.md)
-- [Consent process](guides/consent_process/index.md)
-- [Webinar recordings](guides/webinars_and_trainings/index.md)
 
 # Governance
 - [Bringing your board processes into Loomio](guides/board_processes/index.md)
@@ -75,6 +71,8 @@
   - [Underway](guides/facilitators_guide/underway/index.md)
   - [Concluding](guides/facilitators_guide/concluding/index.md)
   - [Ongoing Practice](guides/facilitators_guide/ongoing_practice/index.md)
+
+---
 
 # Policies
 

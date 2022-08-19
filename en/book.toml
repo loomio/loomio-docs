@@ -12,3 +12,4 @@ site-url = "/en/user_manual/"
 
 [output.html.redirect]
 # "privacy" = "/en/policy/privacy"
+# key-concepts  -> overview

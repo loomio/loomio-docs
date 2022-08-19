@@ -1,4 +1,4 @@
-# Decision making
+# Simple decision process
 
 Ever since Loomio was founded, we have experimented, worked on and practiced what it means to make collaborative decisions.
 

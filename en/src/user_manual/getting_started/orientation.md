@@ -2,6 +2,52 @@
 
 Lets take an orientation tour to help you quickly understand how to participate in discussions and decisions in your group.
 
+## How Loomio works
+
+Loomio is a simple structure of three main elements; Group, Thread and Decisions. 
+
+### Group
+
+A Loomio group is a safe place for your organization to meet, discuss and make decisions about work.
+
+![](Groups.png#width-50)
+
+**Group home**
+
+Your group home page is the first place you see when you arrive. It contains a title, an image to represent the group, and some text to introduce the group: its purpose, the work you will do, and any other information to help group members participate.
+
+### Thread
+
+Threads are where you share information, discuss, and make decisions.
+
+![](Threads.png#width-50)
+
+Threads are used for many purposes; to prepare for a meeting, discuss matters, share reports, ask questions, vote on proposals, approve actions, and so on. It's also where your group can develop a shared understanding of important issues.
+
+Threads keep everything about a topic in one place. Over time you’ll create a useful archive of your organization’s discussions and decisions.
+
+### Polls
+
+One of the best things about Loomio is its range of tools to progress a discussion to an outcome. Each poll type has a slightly different purpose. The most common one is a proposal. 
+
+![](Proposals.png#width-50)
+
+A **proposal** is for converting a discussion into a clear, practical outcome. Someone suggests a course of action and invites everyone to respond. For example, you might ask group members to either:
+- agree
+- abstain or 
+- disagree. 
+
+Importantly, as well as selecting a response, everyone can give a reason why they have voted this way. You can all see where everyone else stands on the matter, and why. And then, if you want, you can change your response. 
+
+A proposal, and associated discussion, creates its own record of how the decision came about.
+
+## Putting it all together
+
+![](key_concept_1.png)
+
+The best way to learn what to use when is to have a go. Use your own group or [start a demo group](https://loomio.org/try).
+
+
 ## Group page
 
 Your group home page is the first place people see when they arrive. It contains a description of why the group exists, what you will use it for, and any other information that may help you participate.
