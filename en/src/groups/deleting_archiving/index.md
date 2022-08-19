@@ -1,1 +1,0 @@
-# Deleting your group
