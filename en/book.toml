@@ -7,7 +7,7 @@ title = "Loomio Help"
 
 [output.html]
 no-section-label = true
-edit-url-template = "https://github.com/loomio/loomio-docs/edit/main/{path}"
+edit-url-template = "https://github.com/loomio/loomio-docs/edit/main/en/{path}"
 site-url = "/en/user_manual/"
 
 [output.html.redirect]

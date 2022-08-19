@@ -76,7 +76,7 @@
   - [Concluding](guides/facilitators_guide/concluding/index.md)
   - [Ongoing Practice](guides/facilitators_guide/ongoing_practice/index.md)
 
-# Policy
+# Policies
 
 - [Terms of Service](policy/terms/index.md)
   - [Account Ownership](policy/ownership/index.md)
