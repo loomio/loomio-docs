@@ -1,7 +1,5 @@
 # Overview
 
-Introduce our demo group, the oatmilk co-op, and explain how they use loomio for ..
-
 Loomio is a decision making tool for collaborative organizations.
 
 It enables you to bring people together, have discussions on topics, explore proposals and make decisions.
