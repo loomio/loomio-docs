@@ -1,0 +1,304 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Group settings - Loomio User Manual</title>
+                <!--  -->
+
+        <!-- Custom HTML head -->
+        
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+                        <link rel="shortcut icon" href="../../../favicon.png">
+                <link rel="stylesheet" href="../../../css/variables.css">
+        <link rel="stylesheet" href="../../../css/general.css">
+        <link rel="stylesheet" href="../../../css/chrome.css">
+                <link rel="stylesheet" href="../../../css/print.css" media="print">
+        
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../../../FontAwesome/css/font-awesome.css">
+                <link rel="stylesheet" href="../../../fonts/fonts.css">
+        
+        <!-- roboto -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Roboto:ital,wght@0,300;0,400;0,700;1,400&display=swap" rel="stylesheet">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../../../highlight.css">
+        <link rel="stylesheet" href="../../../tomorrow-night.css">
+        <link rel="stylesheet" href="../../../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+                <script defer data-domain="help.loomio.com" src="https://measure.loomio.org/js/script.outbound-links.js"></script>
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../../../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+
+
+                <a style="display: flex; align-items: center; text-decoration: none; color: #DCA034" href="/">
+                  <i class="fa fa-chevron-left" style="margin-right: 8px; " ></i>
+                  Loomio Help
+                  <!-- <img style="width: 50%; margin: 8px 0 " src="https://www.loomio.org/brand/logo_gold.svg"> -->
+                </a>
+                <hr style="border: 0.5px solid #ccc; margin: 1em 0;">
+                <!-- <strong>Loomio User Manual</strong> -->
+                <ol class="chapter"><li class="chapter-item expanded affix "><li class="part-title">Getting started</li><li class="chapter-item expanded "><a href="../../../user_manual/getting_started/key-concepts.html">Overview</a></li><li class="chapter-item expanded "><a href="../../../user_manual/users/sign_in/index.html">Signing in</a></li><li class="chapter-item expanded "><a href="../../../user_manual/getting_started/write-a-comment.html">How to participate</a></li><li class="chapter-item expanded "><a href="../../../user_manual/getting_started/decisions/index.html">Making decisions</a></li><li class="chapter-item expanded "><a href="../../../user_manual/getting_started/orientation.html">Tour</a></li><li class="chapter-item expanded affix "><li class="part-title">Groups</li><li class="chapter-item expanded "><a href="../../../user_manual/groups/intro_to_groups/index.html">Intro to groups</a></li><li class="chapter-item expanded "><a href="../../../user_manual/groups/starting_a_group/index.html">Starting a group</a></li><li class="chapter-item expanded "><a href="../../../user_manual/groups/settings/index.html" class="active">Group settings</a></li><li class="chapter-item expanded "><a href="../../../user_manual/groups/membership/index.html">Inviting people</a></li><li class="chapter-item expanded "><a href="../../../user_manual/groups/membership/management.html">Member management</a></li><li class="chapter-item expanded "><a href="../../../user_manual/groups/tags/index.html">Category tags</a></li><li class="chapter-item expanded "><a href="../../../user_manual/groups/subgroups/index.html">Subgroups</a></li><li class="chapter-item expanded "><a href="../../../user_manual/groups/data_export/index.html">Data export</a></li><li class="chapter-item expanded "><a href="../../../user_manual/groups/deleting_archiving/index.html">Deleting your group</a></li><li class="chapter-item expanded affix "><li class="part-title">Threads</li><li class="chapter-item expanded "><a href="../../../user_manual/threads/intro_to_threads/index.html">Intro to threads</a></li><li class="chapter-item expanded "><a href="../../../user_manual/threads/starting_threads/index.html">Starting a thread</a></li><li class="chapter-item expanded "><a href="../../../user_manual/threads/notifying_people/index.html">Notifying people</a></li><li class="chapter-item expanded "><a href="../../../user_manual/threads/engaging_with_threads/index.html">Engaging with threads</a></li><li class="chapter-item expanded "><a href="../../../user_manual/threads/navigating_threads/index.html">Navigating threads</a></li><li class="chapter-item expanded "><a href="../../../user_manual/threads/thread_admin/index.html">Thread admin</a></li><li class="chapter-item expanded "><a href="../../../user_manual/threads/thread_admin/tasks.html">Tasks</a></li><li class="chapter-item expanded affix "><li class="part-title">Polls</li><li class="chapter-item expanded "><a href="../../../user_manual/polls/intro_to_decisions/index.html">Intro to decisions</a></li><li class="chapter-item expanded "><a href="../../../user_manual/polls/starting_proposals/index.html">Starting proposals</a></li><li class="chapter-item expanded "><a href="../../../user_manual/polls/proposal_types/index.html">Poll types</a></li><li class="chapter-item expanded "><a href="../../../user_manual/polls/outcomes/index.html">Outcomes</a></li><li class="chapter-item expanded "><a href="../../../user_manual/polls/decisions/index.html">Decision making</a></li><li class="chapter-item expanded affix "><li class="part-title">Your Profile</li><li class="chapter-item expanded "><a href="../../../user_manual/users/user_profile/index.html">User profile</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../../user_manual/users/merge_accounts/index.html">Merge accounts</a></li></ol></li><li class="chapter-item expanded "><a href="../../../user_manual/users/translation/index.html">Language and translation</a></li><li class="chapter-item expanded "><a href="../../../user_manual/users/deleting_your_account/index.html">Deleting your account</a></li><li class="chapter-item expanded "><a href="../../../user_manual/users/email_settings/index.html">Notifications</a></li><li class="chapter-item expanded "><a href="../../../user_manual/users/navigation/index.html">Navigation</a></li><li class="chapter-item expanded affix "><li class="part-title">Integrations</li><li class="chapter-item expanded "><a href="../../../user_manual/groups/integrations/chatbots/index.html">Chatbots</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../../user_manual/groups/integrations/discord/index.html">Discord</a></li><li class="chapter-item expanded "><a href="../../../user_manual/groups/integrations/matrix/index.html">Matrix</a></li><li class="chapter-item expanded "><a href="../../../user_manual/groups/integrations/mattermost/index.html">Mattermost</a></li><li class="chapter-item expanded "><a href="../../../user_manual/groups/integrations/microsoft_teams/index.html">Microsoft Teams</a></li><li class="chapter-item expanded "><a href="../../../user_manual/groups/integrations/slack/index.html">Slack</a></li></ol></li><li class="chapter-item expanded "><a href="../../../user_manual/groups/integrations/api/index.html">API</a></li><li class="chapter-item expanded affix "><li class="part-title">Guides</li><li class="chapter-item expanded affix "><li class="part-title">Success on Loomio</li><li class="chapter-item expanded "><a href="../../../guides/engage-group.html">Let’s get your team working in Loomio</a></li><li class="chapter-item expanded "><a href="../../../guides/four-patterns-of-success.html">4 patterns of successful groups</a></li><li class="chapter-item expanded "><a href="../../../guides/5_ways_to_use_threads/index.html">5 ways to use threads</a></li><li class="chapter-item expanded "><a href="../../../guides/mapping-tools.html">Loomio and other collaboration tools</a></li><li class="chapter-item expanded "><a href="../../../guides/practical_examples.html">Practical examples</a></li><li class="chapter-item expanded affix "><li class="part-title">Decision making</li><li class="chapter-item expanded "><a href="../../../guides/advice_process/index.html">Advice process</a></li><li class="chapter-item expanded "><a href="../../../guides/consent_process/index.html">Consent process</a></li><li class="chapter-item expanded "><a href="../../../guides/webinars_and_trainings/index.html">Webinar recordings</a></li><li class="chapter-item expanded affix "><li class="part-title">Governance</li><li class="chapter-item expanded "><a href="../../../guides/board_processes/index.html">Bringing your board processes into Loomio</a></li><li class="chapter-item expanded "><a href="../../../guides/virtual_agm/index.html">AGM and General Assembly</a></li><li class="chapter-item expanded "><a href="../../../guides/virtual_board_meetings/index.html">Board meetings</a></li><li class="chapter-item expanded affix "><li class="part-title">Facilitation</li><li class="chapter-item expanded "><a href="../../../guides/facilitators_guide/index.html">The Facilitator's Guide to Loomio</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../../guides/facilitators_guide/preparation/index.html">Preparation</a></li><li class="chapter-item expanded "><a href="../../../guides/facilitators_guide/commencing/index.html">Commencing</a></li><li class="chapter-item expanded "><a href="../../../guides/facilitators_guide/underway/index.html">Underway</a></li><li class="chapter-item expanded "><a href="../../../guides/facilitators_guide/concluding/index.html">Concluding</a></li><li class="chapter-item expanded "><a href="../../../guides/facilitators_guide/ongoing_practice/index.html">Ongoing Practice</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">Policy</li><li class="chapter-item expanded "><a href="../../../policy/terms/index.html">Terms of Service</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../../policy/ownership/index.html">Account Ownership</a></li><li class="chapter-item expanded "><a href="../../../policy/abuse/index.html">Use restrictions</a></li></ol></li><li class="chapter-item expanded "><a href="../../../policy/privacy/index.html">Privacy Policy</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../../policy/privacy/regulations/index.html">Regulations</a></li><li class="chapter-item expanded "><a href="../../../policy/privacy/loomio-subprocessors/index.html">Loomio Subprocessors</a></li><li class="chapter-item expanded "><a href="../../../policy/privacy/company-processors/index.html">Company Processors</a></li></ol></li><li class="chapter-item expanded "><a href="../../../policy/subscriptions/pricing.html">Subscription plans</a></li><li class="chapter-item expanded "><a href="../../../policy/subscriptions/pricing_faq.html">Customer FAQs</a></li><li class="chapter-item expanded "><a href="../../../policy/subscriptions/pro_support/index.html">Training and Support</a></li><li class="chapter-item expanded "><a href="../../../policy/security/index.html">Security</a></li><li class="chapter-item expanded "><a href="../../../policy/subscriptions/management/index.html">Subscription management</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../../policy/subscriptions/referral_code/index.html">Referrals</a></li></ol></li></ol>            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                                                <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                                            </div>
+
+                    <h1 class="menu-title">Loomio User Manual</h1>
+
+                    <div class="right-buttons">
+                                                <a href="../../../print.html" rel="nofollow" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                                                                                                <a href="https://github.com/loomio/loomio-docs/edit/main/user_manual/src/user_manual/groups/settings/index.md" rel="nofollow" title="Suggest an edit" aria-label="Suggest an edit">
+                            <i id="git-edit-button" class="fa fa-edit"></i>
+                        </a>
+                        
+                    </div>
+                </div>
+
+                                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="group-settings"><a class="header" href="#group-settings">Group Settings</a></h1>
+<p><em>Configuring your Loomio group.</em></p>
+<p>In group settings you can change group name, add a group description, upload a photo or image for your group, change group privacy and member permissions, and set thread view default. Only people who are 'admin' can see and edit group settings. </p>
+<p>On your group page, find and click on the <strong>Edit group settings</strong> cogwheel icon to open Group settings and use the form that appears (click save when done). </p>
+<p><img src="edit-group-name.png#width-90" alt="" /></p>
+<h2 id="group-profile"><a class="header" href="#group-profile">Group profile</a></h2>
+<h3 id="upload-a-group-photo"><a class="header" href="#upload-a-group-photo">Upload a group photo</a></h3>
+<p>Uploading a photo or image that has some meaning to your group significantly improves the sense of belonging. You can also add a logo which will appear alongside your group name in the sidebar menu.  Click on the image and logo to upload your file.</p>
+<p>The ideal pixel resolution for the group image is 2048 x 512. But any image with aspect ratio of 4:1 will fit. </p>
+<p><img src="settings-profile.png#width-90" alt="" /></p>
+<p>You can also upload your logo icon, which will appear alongside your organization or group name in the sidebar menu.</p>
+<h3 id="change-group-name"><a class="header" href="#change-group-name">Change group name</a></h3>
+<p>You can edit the name for your organization or group. We recommend short names, particularly if you plan to use subgroups.</p>
+<h3 id="handle"><a class="header" href="#handle">Handle</a></h3>
+<p>Your group is automatically assigned a 'handle'. This provides a simplified url address for your group that can help you find your group, and that you can share with people to help them find your group.</p>
+<p>The simplied url address for your group is <strong>loomio.org/your-group-handle</strong>.</p>
+<p>You can edit the handle.</p>
+<h3 id="group-description"><a class="header" href="#group-description">Group description</a></h3>
+<p>In the Group description box think about the people you are inviting and write something about:</p>
+<p><strong><em>What</em> you will use Loomio for.</strong></p>
+<ul>
+<li>The purpose of the group. </li>
+<li>The work you are going to do.</li>
+<li>What you hope to achieve.</li>
+</ul>
+<p><strong><em>Why</em> this work is important.</strong></p>
+<ul>
+<li>Why people should participate.</li>
+</ul>
+<p><strong><em>Who</em> is invited into this work.</strong></p>
+<p><strong><em>How</em> to participate.</strong></p>
+<ul>
+<li>What you expect of group members.</li>
+<li>How you see Loomio will complement your usual processes.</li>
+<li>An outline or attach the Terms of Reference, Code of Conduct or other doc that governs the group.</li>
+</ul>
+<p>For example;</p>
+<p><em>We use Loomio to discuss and make decisions about issues, work priorities and plans, prepare for meetings, and collaborate on strategic documents.</em></p>
+<p><em>We need a safe and private space for discussion, to share knowledge, perspective and wisdom, and to help us make good decisions together. Loomio will help us stay up to date, be involved and work together more effectively to achieve our objectives.</em></p>
+<p><em>This is a private group for our working team. You are invited to contribute in threads, vote in proposals and raise new topics by starting a new thread.</em></p>
+<p><em>We will use Loomio to prepare for meetings and agree agenda items, upload draft papers and documents, agree actions, approve minutes, and progress discussions on issues we do not have time to cover during meetings.&quot;</em></p>
+<p>Use the formatting tools to format text, attach documents, add hyperlinks, and embed a video.</p>
+<hr />
+<h2 id="privacy"><a class="header" href="#privacy">Privacy</a></h2>
+<p>Go to the <strong>Settings</strong> tab on your group page. Click <strong>Edit Group Settings</strong> and go to the <strong>Privacy</strong> tab. Click <strong>Update Settings</strong> when done.</p>
+<p><img src="settings-privacy.png#width-90" alt="" /></p>
+<p>Your privacy settings determine who can find your group, who can see the threads in your group, and how people join.</p>
+<p>The recommended privacy setting for new groups is <strong>Secret</strong>. This means everything is private to those invited members of the group. No one will know about this group (or subgroup) unless you invite them.</p>
+<p>If you want the content of your discussions and decisions to be public, change your group privacy to <strong>Open</strong>. The members list will only be visible to other members.</p>
+<p>Many groups use <strong>Closed</strong> to allow people to find the group and request to join. The <strong>Name</strong> and <strong>Group description</strong> are publicly accessible in Closed groups.</p>
+<p>Open groups may contain secret and closed subgroups.</p>
+<p>A member of an open group can see the closed subgroup but not the secret ones.</p>
+<hr />
+<h2 id="permissions"><a class="header" href="#permissions">Permissions</a></h2>
+<p>Most of the permissions settings only affect what <strong>members</strong> can do. Members are the users in your group who are <em>not</em> <a href="#admin">Admins</a>.</p>
+<p><img src="settings-permissions.png#width-90" alt="" /></p>
+<h3 id="anyone-can-join-open-groups"><a class="header" href="#anyone-can-join-open-groups">Anyone can join (Open groups)</a></h3>
+<p>In <em>open groups</em> you can use the option, <strong>Anyone can join</strong>, in order for the public to be able to join without any action by any member of the group.</p>
+<h3 id="requiring-approval-of-membership-requests-open-groups"><a class="header" href="#requiring-approval-of-membership-requests-open-groups">Requiring approval of membership requests (Open groups)</a></h3>
+<p>If you select this option, rather than letting people walk in the door voluntarily (self-select to join your group), then admin will have the option to approve or ignore people's requests to join.</p>
+<ul>
+<li>You can also give group members the permission to approve requests, also in the <strong>Permissions</strong> tab of Group Settings.</li>
+</ul>
+<h3 id="allow-members-of-parent-group-to-see-threads"><a class="header" href="#allow-members-of-parent-group-to-see-threads">Allow members of parent group to see threads</a></h3>
+<p>In <em>closed subgroups</em> you can allow members of the parent group to see discussions within the subgroup.
+Select, <strong>Members of [parent group] can see private threads</strong> to enable this feature. This feature is off by default. For more on subgroups, <a href="../subgroups">see here</a>.</p>
+<h3 id="members-can-invite-people-and-approve-requests-to-join"><a class="header" href="#members-can-invite-people-and-approve-requests-to-join">Members can invite people and approve requests to join</a></h3>
+<p>This allows everyone in your group to invite new people in, and approve any membership requests. When it is deselected only group admin will be able to invite and approve new members.</p>
+<h3 id="members-can-notify-everyone-in-group"><a class="header" href="#members-can-notify-everyone-in-group">Members can notify everyone in group</a></h3>
+<p>When ticked, any Member will be able to use <strong>notify</strong> and <a href="../../threads/notifying_people/#send-thread"><strong>invite people</strong></a>, sending notifications immediately to some, or all, of the group. Unless your group is very big, Loomio recommends you leave this on.</p>
+<h3 id="create-subgroups"><a class="header" href="#create-subgroups">Create subgroups</a></h3>
+<p>This allows everyone in your group to create subgroups. When it is deselected only group admin will be able to create subgroups.</p>
+<h3 id="start-threads"><a class="header" href="#start-threads">Start threads</a></h3>
+<p>This allows everyone in your group to start new threads. When it is deselected only group admin will be able to start discussions.</p>
+<h3 id="edit-the-context-of-any-thread-in-the-group"><a class="header" href="#edit-the-context-of-any-thread-in-the-group">Edit the context of any thread in the group</a></h3>
+<p>This allows everyone in your group to edit the context of any thread. When it is deselected only group admin and the thread author will be able to edit the thread context.</p>
+<h3 id="edit-their-comments-at-any-time"><a class="header" href="#edit-their-comments-at-any-time">Edit their comments at any time</a></h3>
+<p>This allows everyone in your group to edit their comments at any time. When it is deselected, a comment can only be edited until someone else participates in the thread.</p>
+<h3 id="raise-proposals"><a class="header" href="#raise-proposals">Raise proposals</a></h3>
+<p>This allows anyone in your group to start a proposal within a thread. When this box is deselected only group admin will be able to raise proposals and polls.</p>
+<h3 id="vote-on-proposals"><a class="header" href="#vote-on-proposals">Vote on proposals</a></h3>
+<p>This allows everyone in your group to state their position on proposals. When it is deselected only group admin will be able to state their position on proposals and polls.</p>
+<hr />
+<h2 id="thread-view-settings"><a class="header" href="#thread-view-settings">Thread view settings</a></h2>
+<p>Thread <strong>activity</strong> is comprised of all the comments, replies, proposals, polls, votes and other notable things that happen within the thread. You can alter how that activity is displayed in order to optimize the experience for your group. These settings change the default layout for everyone in your group, but can be adjusted for each thread to serve  a specific purpose:</p>
+<p><img src="group-settings-threads.png#width-90" alt="" /></p>
+<h3 id="oldest-or-newest-first"><a class="header" href="#oldest-or-newest-first">Oldest or Newest first</a></h3>
+<p>By default, threads are set to <strong>Oldest</strong> listed with the oldest activity nearest the top. You can change the thread flow by switching to <strong>Newest</strong> so that the newest activity is at the top of the thread.</p>
+<h3 id="flat-or-nested-replies"><a class="header" href="#flat-or-nested-replies">Flat or Nested replies</a></h3>
+<p>The thread can also be set to display chronologically, as a <strong>flat list</strong>, where all activity is displayed in the order that it happened, or as <strong>nested replies</strong> of one or two levels. </p>
+<p>Nested replies keeps replies to comments together, and is very helpful to easily see mini-discussions within an overall thread.</p>
+<p>Click <strong>Save</strong> to exit.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                                                    <a rel="prev" href="../../../user_manual/groups/starting_a_group/index.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+                                                    <a rel="next" href="../../../user_manual/groups/membership/index.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                                    <a rel="prev" href="../../../user_manual/groups/starting_a_group/index.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+                                    <a rel="next" href="../../../user_manual/groups/membership/index.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                            </nav>
+
+        </div>
+
+        
+        
+        
+                <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+        
+                <script src="../../../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../../searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+        <script src="../../../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+            </body>
+</html>

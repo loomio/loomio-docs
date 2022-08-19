@@ -8,7 +8,7 @@
 }
 
 html {
-    font-family: "Roboto", sans-serif;
+    font-family: "Open Sans", sans-serif;
     color: var(--fg);
     background-color: var(--bg);
     text-size-adjust: none;
@@ -21,7 +21,7 @@ body {
 }
 
 code {
-    font-family: "Roboto Mono", Consolas, "Ubuntu Mono", Menlo, "DejaVu Sans Mono", monospace, monospace !important;
+    font-family: "Source Code Pro", Consolas, "Ubuntu Mono", Menlo, "DejaVu Sans Mono", monospace, monospace !important;
     font-size: 0.875em; /* please adjust the ace font size accordingly in editor.js */
 }
 
@@ -93,14 +93,6 @@ h6:target::before {
 .content a { text-decoration: none; }
 .content a:hover { text-decoration: underline; }
 .content img, .content video { max-width: 100%; }
-.content img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  box-shadow: rgba(67, 71, 85, 0.15) 0px 0px 0.25em;
-  margin-top: 28px;
-  margin-bottom: 28px;
-}
 .content .header:link,
 .content .header:visited {
     color: var(--fg);
@@ -186,54 +178,4 @@ blockquote {
 
 .result-no-output {
     font-style: italic;
-}
-
-html {
-  font-family: "Roboto", sans-serif;
-}
-
-code {
-  font-family: "Roboto Mono", Consolas, "Ubuntu Mono", Menlo, "DejaVu Sans Mono", monospace, monospace !important;
-}
-
-img[src*="#width-100"] {
-  max-width: 100%;
-}
-img[src*="#width-90"] {
-  max-width: 90%;
-}
-img[src*="#width-80"] {
-  max-width: 80%;
-}
-img[src*="#width-70"] {
-  max-width: 70%;
-}
-img[src*="#width-60"] {
-  max-width: 60%;
-}
-img[src*="#width-50"] {
-  max-width: 50%;
-}
-
-img[src*="#border-none"] {
-  border: none;
-  box-shadow: none;
-}
-
-.iframe-container {
-  position: relative;
-  padding-bottom: 56.25%;
-  height: 0;
-  overflow: hidden;
-  width: 100%;
-  height: auto;
-}
-.iframe-container iframe {
-  border: 0;
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  /* outline: 2px solid #68CEF8; */
 }
