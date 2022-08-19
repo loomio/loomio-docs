@@ -1,0 +1,284 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Commencing - Loomio User Manual</title>
+                <!--  -->
+
+        <!-- Custom HTML head -->
+        
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+                        <link rel="shortcut icon" href="../../../favicon.png">
+                <link rel="stylesheet" href="../../../css/variables.css">
+        <link rel="stylesheet" href="../../../css/general.css">
+        <link rel="stylesheet" href="../../../css/chrome.css">
+                <link rel="stylesheet" href="../../../css/print.css" media="print">
+        
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../../../FontAwesome/css/font-awesome.css">
+                <link rel="stylesheet" href="../../../fonts/fonts.css">
+        
+        <!-- roboto -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Roboto:ital,wght@0,300;0,400;0,700;1,400&display=swap" rel="stylesheet">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../../../highlight.css">
+        <link rel="stylesheet" href="../../../tomorrow-night.css">
+        <link rel="stylesheet" href="../../../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+                <script defer data-domain="help.loomio.com" src="https://measure.loomio.org/js/script.outbound-links.js"></script>
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../../../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <!-- <strong>Loomio User Manual</strong> -->
+                <ol class="chapter"><li class="chapter-item expanded affix "><li class="part-title">Getting started</li><li class="chapter-item expanded "><a href="../../../user_manual/getting_started/key-concepts.html">Overview</a></li><li class="chapter-item expanded "><a href="../../../user_manual/users/sign_in/index.html">Signing in</a></li><li class="chapter-item expanded "><a href="../../../user_manual/getting_started/write-a-comment.html">How to participate</a></li><li class="chapter-item expanded "><a href="../../../user_manual/getting_started/decisions/index.html">Making decisions</a></li><li class="chapter-item expanded "><a href="../../../user_manual/getting_started/orientation.html">Tour</a></li><li class="chapter-item expanded affix "><li class="part-title">Groups</li><li class="chapter-item expanded "><a href="../../../user_manual/groups/intro_to_groups/index.html">Intro to groups</a></li><li class="chapter-item expanded "><a href="../../../user_manual/groups/starting_a_group/index.html">Starting a group</a></li><li class="chapter-item expanded "><a href="../../../user_manual/groups/settings/index.html">Group settings</a></li><li class="chapter-item expanded "><a href="../../../user_manual/groups/membership/index.html">Inviting people</a></li><li class="chapter-item expanded "><a href="../../../user_manual/groups/membership/management.html">Member management</a></li><li class="chapter-item expanded "><a href="../../../user_manual/groups/tags/index.html">Category tags</a></li><li class="chapter-item expanded "><a href="../../../user_manual/groups/subgroups/index.html">Subgroups</a></li><li class="chapter-item expanded "><a href="../../../user_manual/groups/data_export/index.html">Data export</a></li><li class="chapter-item expanded "><a href="../../../user_manual/groups/deleting_archiving/index.html">Deleting your group</a></li><li class="chapter-item expanded affix "><li class="part-title">Threads</li><li class="chapter-item expanded "><a href="../../../user_manual/threads/intro_to_threads/index.html">Intro to threads</a></li><li class="chapter-item expanded "><a href="../../../user_manual/threads/starting_threads/index.html">Starting a thread</a></li><li class="chapter-item expanded "><a href="../../../user_manual/threads/notifying_people/index.html">Notifying people</a></li><li class="chapter-item expanded "><a href="../../../user_manual/threads/engaging_with_threads/index.html">Engaging with threads</a></li><li class="chapter-item expanded "><a href="../../../user_manual/threads/navigating_threads/index.html">Navigating threads</a></li><li class="chapter-item expanded "><a href="../../../user_manual/threads/thread_admin/index.html">Thread admin</a></li><li class="chapter-item expanded "><a href="../../../user_manual/threads/thread_admin/tasks.html">Tasks</a></li><li class="chapter-item expanded affix "><li class="part-title">Polls</li><li class="chapter-item expanded "><a href="../../../user_manual/polls/intro_to_decisions/index.html">Intro to decisions</a></li><li class="chapter-item expanded "><a href="../../../user_manual/polls/starting_proposals/index.html">Starting proposals</a></li><li class="chapter-item expanded "><a href="../../../user_manual/polls/proposal_types/index.html">Poll types</a></li><li class="chapter-item expanded "><a href="../../../user_manual/polls/outcomes/index.html">Outcomes</a></li><li class="chapter-item expanded "><a href="../../../user_manual/polls/decisions/index.html">Decision making</a></li><li class="chapter-item expanded affix "><li class="part-title">Your Profile</li><li class="chapter-item expanded "><a href="../../../user_manual/users/user_profile/index.html">User profile</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../../user_manual/users/merge_accounts/index.html">Merge accounts</a></li></ol></li><li class="chapter-item expanded "><a href="../../../user_manual/users/translation/index.html">Language and translation</a></li><li class="chapter-item expanded "><a href="../../../user_manual/users/deleting_your_account/index.html">Deleting your account</a></li><li class="chapter-item expanded "><a href="../../../user_manual/users/email_settings/index.html">Notifications</a></li><li class="chapter-item expanded "><a href="../../../user_manual/users/navigation/index.html">Navigation</a></li><li class="chapter-item expanded affix "><li class="part-title">Integrations</li><li class="chapter-item expanded "><a href="../../../user_manual/groups/integrations/chatbots/index.html">Chatbots</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../../user_manual/groups/integrations/discord/index.html">Discord</a></li><li class="chapter-item expanded "><a href="../../../user_manual/groups/integrations/matrix/index.html">Matrix</a></li><li class="chapter-item expanded "><a href="../../../user_manual/groups/integrations/mattermost/index.html">Mattermost</a></li><li class="chapter-item expanded "><a href="../../../user_manual/groups/integrations/microsoft_teams/index.html">Microsoft Teams</a></li><li class="chapter-item expanded "><a href="../../../user_manual/groups/integrations/slack/index.html">Slack</a></li></ol></li><li class="chapter-item expanded "><a href="../../../user_manual/groups/integrations/api/index.html">API</a></li><li class="chapter-item expanded affix "><li class="part-title">Guides</li><li class="chapter-item expanded affix "><li class="part-title">Success on Loomio</li><li class="chapter-item expanded "><a href="../../../guides/engage-group.html">Let’s get your team working in Loomio</a></li><li class="chapter-item expanded "><a href="../../../guides/four-patterns-of-success.html">4 patterns of successful groups</a></li><li class="chapter-item expanded "><a href="../../../guides/5_ways_to_use_threads/index.html">5 ways to use threads</a></li><li class="chapter-item expanded "><a href="../../../guides/mapping-tools.html">Loomio and other collaboration tools</a></li><li class="chapter-item expanded "><a href="../../../guides/practical_examples.html">Practical examples</a></li><li class="chapter-item expanded affix "><li class="part-title">Decision making</li><li class="chapter-item expanded "><a href="../../../guides/advice_process/index.html">Advice process</a></li><li class="chapter-item expanded "><a href="../../../guides/consent_process/index.html">Consent process</a></li><li class="chapter-item expanded "><a href="../../../guides/webinars_and_trainings/index.html">Webinar recordings</a></li><li class="chapter-item expanded affix "><li class="part-title">Governance</li><li class="chapter-item expanded "><a href="../../../guides/board_processes/index.html">Bringing your board processes into Loomio</a></li><li class="chapter-item expanded "><a href="../../../guides/virtual_agm/index.html">AGM and General Assembly</a></li><li class="chapter-item expanded "><a href="../../../guides/virtual_board_meetings/index.html">Board meetings</a></li><li class="chapter-item expanded affix "><li class="part-title">Facilitation</li><li class="chapter-item expanded "><a href="../../../guides/facilitators_guide/index.html">The Facilitator's Guide to Loomio</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../../guides/facilitators_guide/preparation/index.html">Preparation</a></li><li class="chapter-item expanded "><a href="../../../guides/facilitators_guide/commencing/index.html" class="active">Commencing</a></li><li class="chapter-item expanded "><a href="../../../guides/facilitators_guide/underway/index.html">Underway</a></li><li class="chapter-item expanded "><a href="../../../guides/facilitators_guide/concluding/index.html">Concluding</a></li><li class="chapter-item expanded "><a href="../../../guides/facilitators_guide/ongoing_practice/index.html">Ongoing Practice</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">Policy</li><li class="chapter-item expanded "><a href="../../../policy/terms/index.html">Terms of Service</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../../policy/ownership/index.html">Account Ownership</a></li><li class="chapter-item expanded "><a href="../../../policy/abuse/index.html">Use restrictions</a></li></ol></li><li class="chapter-item expanded "><a href="../../../policy/privacy/index.html">Privacy Policy</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../../policy/privacy/regulations/index.html">Regulations</a></li><li class="chapter-item expanded "><a href="../../../policy/privacy/loomio-subprocessors/index.html">Loomio Subprocessors</a></li><li class="chapter-item expanded "><a href="../../../policy/privacy/company-processors/index.html">Company Processors</a></li></ol></li><li class="chapter-item expanded "><a href="../../../policy/subscriptions/pricing.html">Subscription plans</a></li><li class="chapter-item expanded "><a href="../../../policy/subscriptions/pricing_faq.html">Customer FAQs</a></li><li class="chapter-item expanded "><a href="../../../policy/subscriptions/pro_support/index.html">Training and Support</a></li><li class="chapter-item expanded "><a href="../../../policy/security/index.html">Security</a></li><li class="chapter-item expanded "><a href="../../../policy/subscriptions/management/index.html">Subscription management</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../../policy/subscriptions/referral_code/index.html">Referrals</a></li></ol></li></ol>            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                                                <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                                            </div>
+
+                    <h1 class="menu-title">Loomio User Manual</h1>
+
+                    <div class="right-buttons">
+                                                <a href="../../../print.html" rel="nofollow" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                                                                                                <a href="https://github.com/loomio/loomio-docs/edit/main/user_manual/src/guides/facilitators_guide/commencing/index.md" rel="nofollow" title="Suggest an edit" aria-label="Suggest an edit">
+                            <i id="git-edit-button" class="fa fa-edit"></i>
+                        </a>
+                        
+                    </div>
+                </div>
+
+                                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="commencing"><a class="header" href="#commencing">Commencing</a></h1>
+<p><img src="cover.jpg" alt="" /></p>
+<h2 id="invitation"><a class="header" href="#invitation">Invitation</a></h2>
+<p>How participants are invited into a facilitated space is incredibly important. People understand huge amounts of information from the invitation, and use it to judge how a space will be held and if they belong there. The moment of invitation is in many ways the defining opportunity to set the tone and establish trust.</p>
+<blockquote>
+<p><img style="border-radius: 100%; float: right; margin-left: 0.5em; max-width: 96px; " src="../rich_200.png"> Decision making is all about communication: your group can only make good decisions together if there’s a foundation of good communication in place first. This means being clear about what the purpose of a discussion or meeting is, who needs to be involved, what the time-frame is, and what people can expect.</p>
+<p>— Richard Bartlett</p>
+</blockquote>
+<p>Key aspects to an invitation:</p>
+<ul>
+<li><strong>Background.</strong> What is this thing? What am I being asked to do? Who is behind this? Who else will be involved? What is the time commitment, topic focus, and protocol?</li>
+<li><strong>Context.</strong> What is the character of this specific engagement? Of all the possible formats and ways it could go, which one will it be? Why now, why this way?</li>
+<li><strong>Belonging.</strong> Am I welcome? Is this for me? Am I needed in this process? What is my unique value and contribution? Why should I specifically be compelled?</li>
+<li><strong>Safety.</strong> Does this invitation indicate thoughtfulness, trust, and understanding? Is the structure of the engagement up to handling the inherent power dynamics at play? What level of honesty or vulnerability will this require of me? Do I think the person inviting is going to hold me well?</li>
+<li><strong>Accessibility.</strong> Will my basic requirements for participation be accommodated? Language, assistive technology, unfamiliar jargon, etc. Will it be possible for me to engage?</li>
+</ul>
+<p>On Loomio</p>
+<ul>
+<li>The tool has a built-in function to <a href="../../user_manual/groups/membership/">invite users</a> by email or by sending them a special link. Users can also request to join your group if your settings allow.</li>
+<li>The invitation tools built into the software are very basic, and getting an unexpected login request for new software without context isn't very inviting, so group creators often introduce people to the idea of Loomio through a separate process.</li>
+<li>Many aspects of Loomio are already designed to create a safe and respectful space users would want to enter — such as thoughtful <a href="../../guides/getting_started/starting_a_group/#privacy">privacy options</a>.</li>
+<li>The design of the software itself is meant to be friendly, simple, and professional, hopefully putting out a trustworthy vibe.</li>
+<li>Loomio has accessibility features, for people who use assistive technology like screen readers, and translation features for people who speak different languages. Emphasising these aspects in an invitation can make some people feel more welcome.</li>
+</ul>
+<h2 id="arrival"><a class="header" href="#arrival">Arrival</a></h2>
+<p>The moment of arrival is the “first impression” of an engagement, and sets the trajectory from there on in. The person has accepted an invitation and decided to step in. They are open and expectant, and the impression they get will make a big impact on their experience.</p>
+<h3 id="welcoming"><a class="header" href="#welcoming">Welcoming</a></h3>
+<p>To enable openness to engagement, participation, and receptivity, a person has to feel welcome. They need their existence acknowledged, and to feel a sense of hospitality.</p>
+<h3 id="settling"><a class="header" href="#settling">Settling</a></h3>
+<p>When someone enters a physical room, they want to know where to sit, where the exit is, where to go to the bathroom, and if there is coffee available. They need a basic introduction to the space and their place in it.</p>
+<p>On Loomio</p>
+<ul>
+<li>The group description fields and discussion context box are the main space to put a “welcome message” for people arriving into the space.</li>
+<li>Take a tour of the Loomio space, tweak things to make yourself comfortable (like <a href="../../user_manual/users/email_settings/">notification settings</a> and your <a href="../../user_manual/users/user_profile/">profile photo</a>.</li>
+<li>See information how you like using <a href="../../user_manual/users/navigation/">different thread views and options</a> like Recent, Unread, Mute, and Star. Make yourself at home.</li>
+</ul>
+<h2 id="whos-in-the-room"><a class="header" href="#whos-in-the-room">Who’s in the Room</a></h2>
+<p>Introducing yourself and being introduced to others is one of the most basic and most important human social functions. From Māori <em>mihimihi</em> to British “how do you do” to Japanese business card exchanges, every culture places a lot of importance on this. It goes beyond practicalities and politeness and touches on a deep human need, which is a prerequisite for comfort, openness, and focus.</p>
+<p>As a facilitator, if you don’t give people a chance to introduce themselves and find out who is around them, they will generally subvert whatever else you’re trying to point their attention at until you allow this process to occur. Consciously design introductions as a feature, and use them as an opportunity to further the overall goals of the interaction.</p>
+<h3 id="check-in"><a class="header" href="#check-in">Check in</a></h3>
+<p>Even among groups who already know each other well, this introduction process continues with “checking in” – where everyone has a chance to speak at the beginning of a meeting (often to a question of &quot;what is on top for you&quot;, &quot;how are you&quot;, or &quot;is there anything preventing you from being present&quot;) and other good practices for team cohesion. People have a multitude of identities, which change based on the context. People answer and re-answer “who am I for this moment” all the time, and that is what allows them to orient around one another.</p>
+<p>People's expression does not occur in a vaccuum, but in the context of who they are. A multi-faceted view of someone’s identity is an essential aspect of interpreting their contributions.</p>
+<blockquote>
+<p>We start many of our meetings with everyone “checking in” before we get to the agenda. These check-ins are focused not on your work tasks, but on how you’re doing as a human being. If you’re going through a rough patch at home, or you’re sick, or you have exciting positive news, understanding your state of mind will help the entire group have the right context to interpret how you’re communicating. — Richard Bartlett</p>
+</blockquote>
+<p>On Loomio</p>
+<ul>
+<li>Create a thread called &quot;Introduce yourself&quot; or &quot;Check in&quot;. It provides a useful first <em>call to action</em> everyone coming in will understand.</li>
+<li>For “request to join” groups, we have a function that allows the requestor to introduce themselves to the coordinator, to get access to the group. Some groups have a process of re-posting this content in the intro thread to welcome people in.</li>
+<li>Upload profile photos! Photos of faces are one of the most powerful ways of feeling like you know who is in the room with you online.</li>
+</ul>
+<h2 id="whos-not-in-the-room"><a class="header" href="#whos-not-in-the-room">Who’s NOT in the Room</a></h2>
+<p>Diversity is critical for quality group decision making. The “wisdom of the crowd effect” (collective intelligence) only works by combining a variety of viewpoints. Outcomes of collaboration processes depend heavily on which voices are, and are not, represented. It’s impossible to have perfect representative inclusion, but you need to take into account who might be missing.</p>
+<p>It’s extremely common for people to have blind spots around privilege. Humans are not great at intuiting bias, and are a lot better at noticing the presence of something, rather than the absence. Our minds trick us. For example, when women and men are deliberately given an equal amount of talking time there is often a perception that women are getting more than their fair share, due to different ideas about how much they “should” talk (<a href="https://www.quora.com/Do-women-tend-to-talk-more-than-men">more details</a>). It can be necessary to actually measure or count to get an accurate picture, instead of relying on intuition.</p>
+<p>Someone who does not have particular accessibility needs may not even notice that a venue isn’t wheelchair accessible, a document isn’t formatted for screen readers, or a situation is excluding someone with hearing loss. But the people with those challenges will notice. Someone without kids might not consider that a 7PM meeting time won't work for parents. These, and a thousand other practical, social, and cultural elements, could block someone from <em>being in the room</em>.</p>
+<p>It’s especially important to think about who is not in room when trying to solve problems for others: build with, not for; talk with people, not about them. If the people you are trying to serve are not in the room, it’s very unlikely you’ll have all the input you need to be effective. This is just as much about effectiveness for business outcomes as about social justice; it’s almost always better to design collaboration <em>with</em> the users or stakeholders.</p>
+<p>On Loomio</p>
+<ul>
+<li>Collaborating online can allow for whole other levels of inclusion. Instead of thinking about a “digital divide”, think about the “digital bridge” — how technology can include people who cannot attend in-person meetings or participate at a specific time, and enable whole new possibilities like multi-lingual discussions.</li>
+<li>Loomio makes it very clear who is invited to a group and who has participated in a discussion, giving important information for thinking about inclusion. If people are missing, you can see that.</li>
+<li>If inclusive decision making and diversity of thinking are important to you, periodically ask yourself, “Who’s not in the room? Why?”</li>
+</ul>
+<h2 id="culture-protocol-expectations"><a class="header" href="#culture-protocol-expectations">Culture, Protocol, Expectations</a></h2>
+<p>Culture can be quite a nebulous concept, and operates at multiple levels. The culture of the wider society has a big influence, but you can think of every group, and every session or discussion, as having a culture of its own.</p>
+<p>How do we roll? How do we talk to one another? What is and is not ok here? What are the rules of the game, of how we interact?</p>
+<p>The process of confronting cultural questions can be a powerful moment of self-awareness for a group. Not confronting them can harm ability to meet goals, or sometimes tear a group apart completely.</p>
+<p>Culture, protocol, and expectations can be implicit or explicit, and by nature intersect in complex ways with power dynamics and social capital. It’s a challenging balance to keep things loose enough to allow emergence, evolution, creativity, and freedom, while being explicit enough about bottom lines and boundaries to ensure safety.</p>
+<p>Facilitators often guide the group to live up to the culture it has set, follow the protocols it has agreed, and hold expectations to account. If a facilitator is tasked with this role, they need to be backed by a certain level of explicitness about those agreements, and a certain mandate. Otherwise, it can get messy.</p>
+<p>People often want to leave things to “common sense” and avoid agreeing a code of conduct or explicit protocols. However, this can disproportionately affect the most vulnerable members of the group, since they will feel the negative impacts of bad behavior or culture first and strongest, and are least empowered to counteract it themselves. It's the responsibility of the more privileged or influential members of the group to think through these questions carefully.</p>
+<p>Like a legal contract, you hope you never have to enforce a code of conduct, but if you need it you’re very glad it’s there. You want to agree <em>before</em> it becomes necessary. In order for a facilitator or any member of the group to effectively stand up and say, “that’s not OK here”, you need to have already invested in culture-building and expectation-setting.</p>
+<p>On Loomio</p>
+<ul>
+<li>Because Loomio is usually used as a space for constructive deliberation among groups with a specific purpose and set of members, for the most part people engage in good faith and behave respectfully.</li>
+<li>Loomio is designed specifically to give voice to the individual, and let them communicate their needs and concerns. Even if a majority doesn’t see a problem, a single person can raise it and be heard.</li>
+<li>Communicating online enables a certain level of physical safety, because people are not face to face.</li>
+<li>Some groups already use the group description field to note a code of conduct or expectations for behavior. Others have collectively agreed a set of expectations that govern participation.</li>
+<li>Many groups use Loomio itself to decide their group protocols, such as how to engage, what is allowed, what a decision means and what makes it valid, etc.</li>
+<li>Some core protocol issues are answered simply by using Loomio: Who is allowed here? How do we communicate?</li>
+<li>One of the most basic decisions Loomio users all encounter is about decision-making protocol — Consensus? Majority? Quorum? Unanimity? Bringing the question of decision-making protocol to the fore can be a very productive step in cultural development.</li>
+</ul>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                                                    <a rel="prev" href="../../../guides/facilitators_guide/preparation/index.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+                                                    <a rel="next" href="../../../guides/facilitators_guide/underway/index.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                                    <a rel="prev" href="../../../guides/facilitators_guide/preparation/index.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+                                    <a rel="next" href="../../../guides/facilitators_guide/underway/index.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                            </nav>
+
+        </div>
+
+        
+        
+        
+                <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+        
+                <script src="../../../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../../searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+        <script src="../../../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+            </body>
+</html>

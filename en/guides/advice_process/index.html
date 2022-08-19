@@ -1,0 +1,289 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Advice process - Loomio User Manual</title>
+                <!--  -->
+
+        <!-- Custom HTML head -->
+        
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+                        <link rel="shortcut icon" href="../../favicon.png">
+                <link rel="stylesheet" href="../../css/variables.css">
+        <link rel="stylesheet" href="../../css/general.css">
+        <link rel="stylesheet" href="../../css/chrome.css">
+                <link rel="stylesheet" href="../../css/print.css" media="print">
+        
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../../FontAwesome/css/font-awesome.css">
+                <link rel="stylesheet" href="../../fonts/fonts.css">
+        
+        <!-- roboto -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Roboto:ital,wght@0,300;0,400;0,700;1,400&display=swap" rel="stylesheet">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../../highlight.css">
+        <link rel="stylesheet" href="../../tomorrow-night.css">
+        <link rel="stylesheet" href="../../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+                <script defer data-domain="help.loomio.com" src="https://measure.loomio.org/js/script.outbound-links.js"></script>
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <!-- <strong>Loomio User Manual</strong> -->
+                <ol class="chapter"><li class="chapter-item expanded affix "><li class="part-title">Getting started</li><li class="chapter-item expanded "><a href="../../user_manual/getting_started/key-concepts.html">Overview</a></li><li class="chapter-item expanded "><a href="../../user_manual/users/sign_in/index.html">Signing in</a></li><li class="chapter-item expanded "><a href="../../user_manual/getting_started/write-a-comment.html">How to participate</a></li><li class="chapter-item expanded "><a href="../../user_manual/getting_started/decisions/index.html">Making decisions</a></li><li class="chapter-item expanded "><a href="../../user_manual/getting_started/orientation.html">Tour</a></li><li class="chapter-item expanded affix "><li class="part-title">Groups</li><li class="chapter-item expanded "><a href="../../user_manual/groups/intro_to_groups/index.html">Intro to groups</a></li><li class="chapter-item expanded "><a href="../../user_manual/groups/starting_a_group/index.html">Starting a group</a></li><li class="chapter-item expanded "><a href="../../user_manual/groups/settings/index.html">Group settings</a></li><li class="chapter-item expanded "><a href="../../user_manual/groups/membership/index.html">Inviting people</a></li><li class="chapter-item expanded "><a href="../../user_manual/groups/membership/management.html">Member management</a></li><li class="chapter-item expanded "><a href="../../user_manual/groups/tags/index.html">Category tags</a></li><li class="chapter-item expanded "><a href="../../user_manual/groups/subgroups/index.html">Subgroups</a></li><li class="chapter-item expanded "><a href="../../user_manual/groups/data_export/index.html">Data export</a></li><li class="chapter-item expanded "><a href="../../user_manual/groups/deleting_archiving/index.html">Deleting your group</a></li><li class="chapter-item expanded affix "><li class="part-title">Threads</li><li class="chapter-item expanded "><a href="../../user_manual/threads/intro_to_threads/index.html">Intro to threads</a></li><li class="chapter-item expanded "><a href="../../user_manual/threads/starting_threads/index.html">Starting a thread</a></li><li class="chapter-item expanded "><a href="../../user_manual/threads/notifying_people/index.html">Notifying people</a></li><li class="chapter-item expanded "><a href="../../user_manual/threads/engaging_with_threads/index.html">Engaging with threads</a></li><li class="chapter-item expanded "><a href="../../user_manual/threads/navigating_threads/index.html">Navigating threads</a></li><li class="chapter-item expanded "><a href="../../user_manual/threads/thread_admin/index.html">Thread admin</a></li><li class="chapter-item expanded "><a href="../../user_manual/threads/thread_admin/tasks.html">Tasks</a></li><li class="chapter-item expanded affix "><li class="part-title">Polls</li><li class="chapter-item expanded "><a href="../../user_manual/polls/intro_to_decisions/index.html">Intro to decisions</a></li><li class="chapter-item expanded "><a href="../../user_manual/polls/starting_proposals/index.html">Starting proposals</a></li><li class="chapter-item expanded "><a href="../../user_manual/polls/proposal_types/index.html">Poll types</a></li><li class="chapter-item expanded "><a href="../../user_manual/polls/outcomes/index.html">Outcomes</a></li><li class="chapter-item expanded "><a href="../../user_manual/polls/decisions/index.html">Decision making</a></li><li class="chapter-item expanded affix "><li class="part-title">Your Profile</li><li class="chapter-item expanded "><a href="../../user_manual/users/user_profile/index.html">User profile</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../user_manual/users/merge_accounts/index.html">Merge accounts</a></li></ol></li><li class="chapter-item expanded "><a href="../../user_manual/users/translation/index.html">Language and translation</a></li><li class="chapter-item expanded "><a href="../../user_manual/users/deleting_your_account/index.html">Deleting your account</a></li><li class="chapter-item expanded "><a href="../../user_manual/users/email_settings/index.html">Notifications</a></li><li class="chapter-item expanded "><a href="../../user_manual/users/navigation/index.html">Navigation</a></li><li class="chapter-item expanded affix "><li class="part-title">Integrations</li><li class="chapter-item expanded "><a href="../../user_manual/groups/integrations/chatbots/index.html">Chatbots</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../user_manual/groups/integrations/discord/index.html">Discord</a></li><li class="chapter-item expanded "><a href="../../user_manual/groups/integrations/matrix/index.html">Matrix</a></li><li class="chapter-item expanded "><a href="../../user_manual/groups/integrations/mattermost/index.html">Mattermost</a></li><li class="chapter-item expanded "><a href="../../user_manual/groups/integrations/microsoft_teams/index.html">Microsoft Teams</a></li><li class="chapter-item expanded "><a href="../../user_manual/groups/integrations/slack/index.html">Slack</a></li></ol></li><li class="chapter-item expanded "><a href="../../user_manual/groups/integrations/api/index.html">API</a></li><li class="chapter-item expanded affix "><li class="part-title">Guides</li><li class="chapter-item expanded affix "><li class="part-title">Success on Loomio</li><li class="chapter-item expanded "><a href="../../guides/engage-group.html">Let’s get your team working in Loomio</a></li><li class="chapter-item expanded "><a href="../../guides/four-patterns-of-success.html">4 patterns of successful groups</a></li><li class="chapter-item expanded "><a href="../../guides/5_ways_to_use_threads/index.html">5 ways to use threads</a></li><li class="chapter-item expanded "><a href="../../guides/mapping-tools.html">Loomio and other collaboration tools</a></li><li class="chapter-item expanded "><a href="../../guides/practical_examples.html">Practical examples</a></li><li class="chapter-item expanded affix "><li class="part-title">Decision making</li><li class="chapter-item expanded "><a href="../../guides/advice_process/index.html" class="active">Advice process</a></li><li class="chapter-item expanded "><a href="../../guides/consent_process/index.html">Consent process</a></li><li class="chapter-item expanded "><a href="../../guides/webinars_and_trainings/index.html">Webinar recordings</a></li><li class="chapter-item expanded affix "><li class="part-title">Governance</li><li class="chapter-item expanded "><a href="../../guides/board_processes/index.html">Bringing your board processes into Loomio</a></li><li class="chapter-item expanded "><a href="../../guides/virtual_agm/index.html">AGM and General Assembly</a></li><li class="chapter-item expanded "><a href="../../guides/virtual_board_meetings/index.html">Board meetings</a></li><li class="chapter-item expanded affix "><li class="part-title">Facilitation</li><li class="chapter-item expanded "><a href="../../guides/facilitators_guide/index.html">The Facilitator's Guide to Loomio</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../guides/facilitators_guide/preparation/index.html">Preparation</a></li><li class="chapter-item expanded "><a href="../../guides/facilitators_guide/commencing/index.html">Commencing</a></li><li class="chapter-item expanded "><a href="../../guides/facilitators_guide/underway/index.html">Underway</a></li><li class="chapter-item expanded "><a href="../../guides/facilitators_guide/concluding/index.html">Concluding</a></li><li class="chapter-item expanded "><a href="../../guides/facilitators_guide/ongoing_practice/index.html">Ongoing Practice</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">Policy</li><li class="chapter-item expanded "><a href="../../policy/terms/index.html">Terms of Service</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../policy/ownership/index.html">Account Ownership</a></li><li class="chapter-item expanded "><a href="../../policy/abuse/index.html">Use restrictions</a></li></ol></li><li class="chapter-item expanded "><a href="../../policy/privacy/index.html">Privacy Policy</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../policy/privacy/regulations/index.html">Regulations</a></li><li class="chapter-item expanded "><a href="../../policy/privacy/loomio-subprocessors/index.html">Loomio Subprocessors</a></li><li class="chapter-item expanded "><a href="../../policy/privacy/company-processors/index.html">Company Processors</a></li></ol></li><li class="chapter-item expanded "><a href="../../policy/subscriptions/pricing.html">Subscription plans</a></li><li class="chapter-item expanded "><a href="../../policy/subscriptions/pricing_faq.html">Customer FAQs</a></li><li class="chapter-item expanded "><a href="../../policy/subscriptions/pro_support/index.html">Training and Support</a></li><li class="chapter-item expanded "><a href="../../policy/security/index.html">Security</a></li><li class="chapter-item expanded "><a href="../../policy/subscriptions/management/index.html">Subscription management</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../policy/subscriptions/referral_code/index.html">Referrals</a></li></ol></li></ol>            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                                                <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                                            </div>
+
+                    <h1 class="menu-title">Loomio User Manual</h1>
+
+                    <div class="right-buttons">
+                                                <a href="../../print.html" rel="nofollow" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                                                                                                <a href="https://github.com/loomio/loomio-docs/edit/main/user_manual/src/guides/advice_process/index.md" rel="nofollow" title="Suggest an edit" aria-label="Suggest an edit">
+                            <i id="git-edit-button" class="fa fa-edit"></i>
+                        </a>
+                        
+                    </div>
+                </div>
+
+                                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="advice-process"><a class="header" href="#advice-process">Advice process</a></h1>
+<p><em>A simple guide to consultative decision making on &amp; off Loomio</em></p>
+<p><img src="check.png" alt="on the left is a thermometer with Goal and a lightning bolt at the top; to the right, several people raise their hands or chew on pencils, one with a notebook in hand. Above their heads two have green check marks, while one has a yellow minus sign above their head and a pensive look." /></p>
+<p>Today I want to show you how to make decisions that receive  more engagement (and, thus, better performance), build team confidence and alignment, and – when done well – increase interpersonal trust and motivation, all while maintaining <strong>efficiency</strong>. Trusting those closest to the problem to own the decision and be responsible for their own work – while simultaneously taking advantage of input and expertise within the organization – is possible, and can be done without sacrificing the ability to respond and adapt quickly.</p>
+<p>This way of decision making improves accountability, will lead to more motivation and better work from everyone in your group and – ultimately – produce the clear outcomes your group needs.<img src="advice_consent_decision_types.png" align="right" alt="An equilateral triangle with points reading, from top to bottom, “Advice, Top-down (autocratic), Group ([Consent](../consent_process), consensus)”"/> While a lot of processes also address some of these obstacles (for example, <a href="../consent_process">Consent</a>) many teams prefer to use a technique like <em>“advice process”</em> often modeled after the one popularized by <em>Reinventing Organizations.</em></p>
+<h2 id="how-it-works-anywhere"><a class="header" href="#how-it-works-anywhere"><strong>How it works</strong> anywhere</a></h2>
+<p>In one sentence, using Advice Process means</p>
+<p><img src="advice_process_one_liner.png" alt="Anybody can make a decision if they have all the advice they need to make a good decision for the business; this includes *asking those impacted or with expertise.*¹" /></p>
+<p>For example: Sam’s got a website for a newly developed product, and wants the marketing team to start promoting it.</p>
+<p>Here’s how the Advice Process went for Sam:</p>
+<p><img src="sam_uses_advice_process1.png" alt="Sam’s cartoon face with speech bubble, “The website I made is ready to be promoted (?)”" /></p>
+<p>Sam asks for feedback from the marketing director and the products director.</p>
+<p><img src="sam_uses_advice_process2.png" alt="Sam’s cartoon face with two ↔ between them and two of their colleagues" /></p>
+<p>The marketing director advises that it’s still the holidays across the pond.</p>
+<p><img src="sam_uses_advice_process3.png" alt="One of the colleagues and Sam, where the colleague’s speech bubble reads, “It’s still some folks’ holidays”" /></p>
+<p>Sam is a quick problem solver.</p>
+<p><img src="sam_uses_advice_process4.png" alt="One of the colleagues and Sam, where Sam’s speech bubble reads, “Could Marketing promote it next week?”" /></p>
+<p>Confident that there was sufficient feedback and that the marketing director’s tension was resolved – amending the intention (push it <em>next week,</em> not <em>immediately</em>), Sam publishes the website and schedules it for promotion, alerting the marketing team of their responsibility.</p>
+<p><img src="sam_uses_advice_process5.png" alt="Sam next to a computer depicting a webpage with a green check emoji overlapping it." /></p>
+<p>Sam documents the decision…</p>
+<p><img src="sam_uses_advice_process6.png" alt="Sam with a keyboard and an arrow connecting keyboard → three other people " /></p>
+<p>…putting it somewhere the team could see it.</p>
+<p><img src="sam_uses_advice_process7.png" alt="A computer-like text box, where the keyboard had been, reads, “Marketing to promote the site starting Monday; thanks!” The text, “the site” is hyperlinked. The other three people can see the text box." /></p>
+<p>Here’s the steps that Sam took:</p>
+<ol>
+<li>She <strong>stated an intention</strong></li>
+<li>She <strong>collected feedback</strong></li>
+</ol>
+<ul>
+<li>She <strong>responded to concerns</strong> (and tensions)</li>
+</ul>
+<ol start="3">
+<li>She <strong>made the decision</strong></li>
+<li>and communicated and <strong>recorded it</strong> adequately.</li>
+</ol>
+<p>You’ll notice that Sam has made a decision that calls for others to execute the work. To get all the benefits, decisions made by advice process need to be considered the decision <em>of the team</em> or organization. You don’t have to make advice process available for every kind of decision, but encourage everyone to stand behind those you do. That said, it’s important to note that <strong>decision makers are accountable for their decisions,</strong> even if there are other people responsible for completing any tasks that are called for. In most cases, aligning power with accountability will get you better results.</p>
+<p style="margin-left:2em;margin-right:2em;margin-top:2em;margin-bottom:2em"><i><b>Tip:</b> Ideally (not depicted above) Sam has explained why she made the choice, for the record and for team learning. </i></p>
+<h2 id="how-it-works-online"><a class="header" href="#how-it-works-online"><strong>How it works</strong> online</a></h2>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/_CYI45mDn5I?rel=0" frameborder="0" allowfullscreen></iframe>
+<h2 id="tips-and-challenges"><a class="header" href="#tips-and-challenges">Tips and Challenges</a></h2>
+<h3 id="common-challenges"><a class="header" href="#common-challenges">Common challenges</a></h3>
+<p><strong>Feedback is hard.</strong> I can think of plenty of times when I just wanted to keep moving forward on a project when I knew it would be better to invite a colleague into conversation. <em>What if addressing their comments slows down my progress? What if I need to start over? Do their comments mean my work isn’t valuable?</em> All of these hypothetical worries tend to keep us from reaching out for feedback about something, especially something that didn’t go well. EFeedback is critical to improving outcomes, and it doesn’t have to be hard; there are frameworks that can make it easier (eg, <strong>ASK:</strong> feedback is best when it’s <strong>A</strong>ctionable, <strong>S</strong>pecific, and <strong>K</strong>ind).</p>
+<p><strong>Giving feedback is a responsibility:</strong> If someone from your organization asks you for feedback and you don’t provide needed input, you also have accountability for the outcome. So, if you have something valuable to add, there's an expectation that you say it.</p>
+<p><strong>Receiving feedback can be hard,</strong> but it’s easier if your team has worked on the capacity to <strong>suspend judgement</strong>: setting aside personal opinions to examine suggestions or critiques from others while assuming positive intent – i.e., that they’re trying to improve the effort.</p>
+<p style="margin-left:1em;margin-right:1em;margin-top:2em;margin-bottom:2em"><span style="font-size:130%">Efficiency and effectiveness are directly related to the capacity for open, honest, and direct communication.</span></p>
+<p><strong>Accountability can get left out.</strong> Decision makers may not become aware of any poor outcomes, losing the opportunity to learn or to fix significant issues; <em>the buck has to stop somewhere.</em> This makes feedback, and systems for regular reflection, even more critical.</p>
+<p><strong>Communication is hard,</strong> but advice process can actually be a step towards improving communications for your team. If your group is considering adopting it, that means you’re somewhere on your journey towards being a more collaborative organization. It can be of great value to pick up advice process early on and to practice it with specific kinds of decisions. Your organization may decide to try it out in one team (or just for picking meeting dates, etc.) as you get started.</p>
+<h3 id="your-first-experiment-checklist"><a class="header" href="#your-first-experiment-checklist">Your first experiment (checklist)</a></h3>
+<p>For your first advice process experiment, you might want to check that the people who need to be involved or aware of it can answer the following:</p>
+<ul>
+<li>How will we use advice process, and when? Limitations?</li>
+<li>What good could come from adopting this technique?</li>
+<li>How does this affect my work?</li>
+<li>When will decisions be reviewed?</li>
+</ul>
+<p><strong>Transparency</strong> is important; think about whether those who can make the decisions will be able to have the information they need. Transparency also supports another critical element, trust.</p>
+<p><strong>Trust</strong> will elevate your advice process, and <em>all</em> your decision making, to the next level. The benefits compound when that trust is built on:</p>
+<ul>
+<li>Open and honest communication (again!) and the skills that support it</li>
+<li><strong>A culture that is comfortable with healthy conflict.</strong> ² (<a href="https://loomio.coop/conflict_resolution.html">practical tips</a>)</li>
+<li>A space of <a href="https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/">psychological safety</a>, a.k.a. “brave space” or “safe/r space”</li>
+<li>A <a href="/en/guides/four-patterns-of-success">shared purpose</a> everyone can name.</li>
+</ul>
+<h3 id="tips-and-tricks"><a class="header" href="#tips-and-tricks">Tips and tricks</a></h3>
+<p><strong>Name your biases,</strong> ⁴ everyone has them. Lack of awareness around biases can lead you and your team to miss important information. Naming your biases increases your awareness and helps your advisors give you better advice.</p>
+<p style="margin-left:2em;margin-right:2em;margin-top:2em;margin-bottom:2em"><i><b>Example, Solution bias:</b> If you are biased towards a particular solution to the problem/opportunity you’re trying to solve, let your advisors know. If you are running an advice process about different software vendors and you think one vendor is the best fit, say it and explain why. This will help advisors ask better questions and give better advice.</i></p>
+<p><strong>Who to invite feedback from</strong> is not always clear, and there may be a limit to how many people you have time to engage. One simple tool you can consider is the acronym from Janoff &amp; Weisbord's Future Search, “Invite those who <strong>ARE IN</strong>”. Invite those who have <strong>A</strong>uthority, <strong>R</strong>esources, <strong>E</strong>xpertise, <strong>I</strong>nformation, or have a <strong>N</strong>eed in regards to the consultation or outcome – if someone is impacted, they should be involved.</p>
+<p>Let us know if you want any specifics on overcoming challenges and succeeding with Advice process online, with or without Loomio.</p>
+<h2 id="not-just-a-tool"><a class="header" href="#not-just-a-tool">Not just a tool</a></h2>
+<p>Advice process, as a tool, makes <strong>good business sense</strong>, and it can deliver even more than that. How would it feel if you knew you had full support of your team the next time you needed to make an important decision? Advice process – and, moreover, a <em>culture of advice process</em> – may be used to transform an organization’s philosophy or overall governance and operations. Some teams have significantly grown their capacity by adopting it more deeply.</p>
+<p><img src="advice_process_steps.png" alt="Steps of Advice Process: 1. Propose, 2. Ask for feedback, 3. Decide, 4. Share the outcome" /></p>
+<p>You can quickly make better decisions by using advice process. All it takes is a proposal, asking for feedback, making an informed decision, and sharing the outcome. You’re already on your way to a more engaged team achieving faster, higher quality decisions.</p>
+<p>Sound good? Share this video! Chat with your group about it… try it out and let us know how it goes!</p>
+<p><a href="https://www.loomio.com/?utm_campaign=advice-process-guide&amp;utm_term=guide">Try it on Loomio, for free, today.</a></p>
+<p>Cheers! Happy world-changing to you and your groups!</p>
+<h2 id="video-companion"><a class="header" href="#video-companion">Video companion</a></h2>
+<p>We've turned this guide into a video!</p>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/qfpHnyyiIU0?rel=0" frameborder="0" allowfullscreen></iframe>
+<p>For more guides on group process and decisions, check out our how-to on <a href="../consent_process">Integrative Consent</a>, which can help any group to get the most of their decisions by strengthening your group's engagement and buy-in, trust, and collective intelligence.</p>
+<hr />
+<h2 id="credits"><a class="header" href="#credits">Credits</a></h2>
+<p style="font-size:70%">¹ Modified from <a href="https://granttree.co.uk" target="_blank">GrantTree</a></p>
+<p style="font-size:70%">² “A culture that is comfortable with healthy conflicts”  –James Bloementhal (Fitzii, now <a href="https://ianmartin.com" target="_blank">Ian Martin Group</a>)</p>
+<p style="font-size:70%">³ From Rich Bartlett’s article, “Out beyond consensus…” in <a href="https://betterworktogether.co" target="_blank">Better Work Together</a></p>
+<p style="font-size:70%">⁴ Thanks again to James Bloemendal (Fitzii, now Ian Martin Group)</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                                                    <a rel="prev" href="../../guides/practical_examples.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+                                                    <a rel="next" href="../../guides/consent_process/index.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                                    <a rel="prev" href="../../guides/practical_examples.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+                                    <a rel="next" href="../../guides/consent_process/index.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                            </nav>
+
+        </div>
+
+        
+        
+        
+                <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+        
+                <script src="../../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+        <script src="../../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+            </body>
+</html>

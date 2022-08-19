@@ -1,0 +1,300 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>AGM and General Assembly - Loomio User Manual</title>
+                <!--  -->
+
+        <!-- Custom HTML head -->
+        
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+                        <link rel="shortcut icon" href="../../favicon.png">
+                <link rel="stylesheet" href="../../css/variables.css">
+        <link rel="stylesheet" href="../../css/general.css">
+        <link rel="stylesheet" href="../../css/chrome.css">
+                <link rel="stylesheet" href="../../css/print.css" media="print">
+        
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../../FontAwesome/css/font-awesome.css">
+                <link rel="stylesheet" href="../../fonts/fonts.css">
+        
+        <!-- roboto -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Roboto:ital,wght@0,300;0,400;0,700;1,400&display=swap" rel="stylesheet">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../../highlight.css">
+        <link rel="stylesheet" href="../../tomorrow-night.css">
+        <link rel="stylesheet" href="../../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+                <script defer data-domain="help.loomio.com" src="https://measure.loomio.org/js/script.outbound-links.js"></script>
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <!-- <strong>Loomio User Manual</strong> -->
+                <ol class="chapter"><li class="chapter-item expanded affix "><li class="part-title">Getting started</li><li class="chapter-item expanded "><a href="../../user_manual/getting_started/key-concepts.html">Overview</a></li><li class="chapter-item expanded "><a href="../../user_manual/users/sign_in/index.html">Signing in</a></li><li class="chapter-item expanded "><a href="../../user_manual/getting_started/write-a-comment.html">How to participate</a></li><li class="chapter-item expanded "><a href="../../user_manual/getting_started/decisions/index.html">Making decisions</a></li><li class="chapter-item expanded "><a href="../../user_manual/getting_started/orientation.html">Tour</a></li><li class="chapter-item expanded affix "><li class="part-title">Groups</li><li class="chapter-item expanded "><a href="../../user_manual/groups/intro_to_groups/index.html">Intro to groups</a></li><li class="chapter-item expanded "><a href="../../user_manual/groups/starting_a_group/index.html">Starting a group</a></li><li class="chapter-item expanded "><a href="../../user_manual/groups/settings/index.html">Group settings</a></li><li class="chapter-item expanded "><a href="../../user_manual/groups/membership/index.html">Inviting people</a></li><li class="chapter-item expanded "><a href="../../user_manual/groups/membership/management.html">Member management</a></li><li class="chapter-item expanded "><a href="../../user_manual/groups/tags/index.html">Category tags</a></li><li class="chapter-item expanded "><a href="../../user_manual/groups/subgroups/index.html">Subgroups</a></li><li class="chapter-item expanded "><a href="../../user_manual/groups/data_export/index.html">Data export</a></li><li class="chapter-item expanded "><a href="../../user_manual/groups/deleting_archiving/index.html">Deleting your group</a></li><li class="chapter-item expanded affix "><li class="part-title">Threads</li><li class="chapter-item expanded "><a href="../../user_manual/threads/intro_to_threads/index.html">Intro to threads</a></li><li class="chapter-item expanded "><a href="../../user_manual/threads/starting_threads/index.html">Starting a thread</a></li><li class="chapter-item expanded "><a href="../../user_manual/threads/notifying_people/index.html">Notifying people</a></li><li class="chapter-item expanded "><a href="../../user_manual/threads/engaging_with_threads/index.html">Engaging with threads</a></li><li class="chapter-item expanded "><a href="../../user_manual/threads/navigating_threads/index.html">Navigating threads</a></li><li class="chapter-item expanded "><a href="../../user_manual/threads/thread_admin/index.html">Thread admin</a></li><li class="chapter-item expanded "><a href="../../user_manual/threads/thread_admin/tasks.html">Tasks</a></li><li class="chapter-item expanded affix "><li class="part-title">Polls</li><li class="chapter-item expanded "><a href="../../user_manual/polls/intro_to_decisions/index.html">Intro to decisions</a></li><li class="chapter-item expanded "><a href="../../user_manual/polls/starting_proposals/index.html">Starting proposals</a></li><li class="chapter-item expanded "><a href="../../user_manual/polls/proposal_types/index.html">Poll types</a></li><li class="chapter-item expanded "><a href="../../user_manual/polls/outcomes/index.html">Outcomes</a></li><li class="chapter-item expanded "><a href="../../user_manual/polls/decisions/index.html">Decision making</a></li><li class="chapter-item expanded affix "><li class="part-title">Your Profile</li><li class="chapter-item expanded "><a href="../../user_manual/users/user_profile/index.html">User profile</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../user_manual/users/merge_accounts/index.html">Merge accounts</a></li></ol></li><li class="chapter-item expanded "><a href="../../user_manual/users/translation/index.html">Language and translation</a></li><li class="chapter-item expanded "><a href="../../user_manual/users/deleting_your_account/index.html">Deleting your account</a></li><li class="chapter-item expanded "><a href="../../user_manual/users/email_settings/index.html">Notifications</a></li><li class="chapter-item expanded "><a href="../../user_manual/users/navigation/index.html">Navigation</a></li><li class="chapter-item expanded affix "><li class="part-title">Integrations</li><li class="chapter-item expanded "><a href="../../user_manual/groups/integrations/chatbots/index.html">Chatbots</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../user_manual/groups/integrations/discord/index.html">Discord</a></li><li class="chapter-item expanded "><a href="../../user_manual/groups/integrations/matrix/index.html">Matrix</a></li><li class="chapter-item expanded "><a href="../../user_manual/groups/integrations/mattermost/index.html">Mattermost</a></li><li class="chapter-item expanded "><a href="../../user_manual/groups/integrations/microsoft_teams/index.html">Microsoft Teams</a></li><li class="chapter-item expanded "><a href="../../user_manual/groups/integrations/slack/index.html">Slack</a></li></ol></li><li class="chapter-item expanded "><a href="../../user_manual/groups/integrations/api/index.html">API</a></li><li class="chapter-item expanded affix "><li class="part-title">Guides</li><li class="chapter-item expanded affix "><li class="part-title">Success on Loomio</li><li class="chapter-item expanded "><a href="../../guides/engage-group.html">Let’s get your team working in Loomio</a></li><li class="chapter-item expanded "><a href="../../guides/four-patterns-of-success.html">4 patterns of successful groups</a></li><li class="chapter-item expanded "><a href="../../guides/5_ways_to_use_threads/index.html">5 ways to use threads</a></li><li class="chapter-item expanded "><a href="../../guides/mapping-tools.html">Loomio and other collaboration tools</a></li><li class="chapter-item expanded "><a href="../../guides/practical_examples.html">Practical examples</a></li><li class="chapter-item expanded affix "><li class="part-title">Decision making</li><li class="chapter-item expanded "><a href="../../guides/advice_process/index.html">Advice process</a></li><li class="chapter-item expanded "><a href="../../guides/consent_process/index.html">Consent process</a></li><li class="chapter-item expanded "><a href="../../guides/webinars_and_trainings/index.html">Webinar recordings</a></li><li class="chapter-item expanded affix "><li class="part-title">Governance</li><li class="chapter-item expanded "><a href="../../guides/board_processes/index.html">Bringing your board processes into Loomio</a></li><li class="chapter-item expanded "><a href="../../guides/virtual_agm/index.html" class="active">AGM and General Assembly</a></li><li class="chapter-item expanded "><a href="../../guides/virtual_board_meetings/index.html">Board meetings</a></li><li class="chapter-item expanded affix "><li class="part-title">Facilitation</li><li class="chapter-item expanded "><a href="../../guides/facilitators_guide/index.html">The Facilitator's Guide to Loomio</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../guides/facilitators_guide/preparation/index.html">Preparation</a></li><li class="chapter-item expanded "><a href="../../guides/facilitators_guide/commencing/index.html">Commencing</a></li><li class="chapter-item expanded "><a href="../../guides/facilitators_guide/underway/index.html">Underway</a></li><li class="chapter-item expanded "><a href="../../guides/facilitators_guide/concluding/index.html">Concluding</a></li><li class="chapter-item expanded "><a href="../../guides/facilitators_guide/ongoing_practice/index.html">Ongoing Practice</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">Policy</li><li class="chapter-item expanded "><a href="../../policy/terms/index.html">Terms of Service</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../policy/ownership/index.html">Account Ownership</a></li><li class="chapter-item expanded "><a href="../../policy/abuse/index.html">Use restrictions</a></li></ol></li><li class="chapter-item expanded "><a href="../../policy/privacy/index.html">Privacy Policy</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../policy/privacy/regulations/index.html">Regulations</a></li><li class="chapter-item expanded "><a href="../../policy/privacy/loomio-subprocessors/index.html">Loomio Subprocessors</a></li><li class="chapter-item expanded "><a href="../../policy/privacy/company-processors/index.html">Company Processors</a></li></ol></li><li class="chapter-item expanded "><a href="../../policy/subscriptions/pricing.html">Subscription plans</a></li><li class="chapter-item expanded "><a href="../../policy/subscriptions/pricing_faq.html">Customer FAQs</a></li><li class="chapter-item expanded "><a href="../../policy/subscriptions/pro_support/index.html">Training and Support</a></li><li class="chapter-item expanded "><a href="../../policy/security/index.html">Security</a></li><li class="chapter-item expanded "><a href="../../policy/subscriptions/management/index.html">Subscription management</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../policy/subscriptions/referral_code/index.html">Referrals</a></li></ol></li></ol>            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                                                <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                                            </div>
+
+                    <h1 class="menu-title">Loomio User Manual</h1>
+
+                    <div class="right-buttons">
+                                                <a href="../../print.html" rel="nofollow" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                                                                                                <a href="https://github.com/loomio/loomio-docs/edit/main/user_manual/src/guides/virtual_agm/index.md" rel="nofollow" title="Suggest an edit" aria-label="Suggest an edit">
+                            <i id="git-edit-button" class="fa fa-edit"></i>
+                        </a>
+                        
+                    </div>
+                </div>
+
+                                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="how-to-run-a-virtual-agm"><a class="header" href="#how-to-run-a-virtual-agm">How to run a virtual AGM</a></h1>
+<p><em>Improve remote and formal meetings with this Loomio guide.</em></p>
+<p>In times of instability and uncertainty, and especially now, we can’t always gather in the same place at the same time. But life goes on and many organizations are still needing to continue running their big or formal meetings, to discuss and <a href="../virtual_board_meetings">make decisions as a board</a> or even run an AGM.</p>
+<p>This guide will help keep your business moving even while you can’t gather in person by helping you run productive AGMs, assemblies, and other big, formal or infrequent meetings.</p>
+<h2 id="what-you-need-to-know-before-you-begin"><a class="header" href="#what-you-need-to-know-before-you-begin">What you need to know before you begin</a></h2>
+<p>Before we begin, we will make a couple points about the tools you might need and why, and then help you run your next meeting step-by-step with Loomio’s communication and decision-making platform.</p>
+<h3 id="real-time-is-not-always-best"><a class="header" href="#real-time-is-not-always-best">Real-time is not always best</a></h3>
+<p>You can have some or even all of the interactions and engagement you would normally have at a formal meeting on Loomio. Loomio may not be the only tool you want to use – we also use <a href="https://meet.jit.si">Jitsi</a>'s open source teleconferencing, or Zoom, and Google Drive for file sharing – but it can help you and your group to reduce real-time meetings by achieving some decisions or processes solely on Loomio.</p>
+<blockquote>
+<p><strong>Example:</strong> This investment group prefers to meet online rather than in-person to discuss their <a href="https://blog.loomio.com/2019/06/14/investing-in-community/#our-most-essential-tool">loan allocation</a> process.</p>
+</blockquote>
+<p>It can also help you continue communication between meetings, better prepare for meetings,  and keep a good record of decisions, actions and accountabilities and follow-ups all in one place.</p>
+<p>We know that using video conferencing can be incredibly important for quality discussions as some communications do require higher bandwidth. However, we believe all groups can benefit by doing some of their processes <strong>asynchronously</strong>, which can be understood as ‘on participants’ own time’ ( think mail or bulletin boards – read and written by people at a time that is convenient for them).</p>
+<p>This type of communication can help you alleviate the time pressure in meetings, video-call fatigue, and scheduling nightmares. It often allows for more thoughtful conversation and considerate decisions, with time to ‘sleep on it.’</p>
+<h3 id="agm-vs-general-assemblies-vs-board-meetings"><a class="header" href="#agm-vs-general-assemblies-vs-board-meetings">AGM vs. General Assemblies vs. Board meetings…</a></h3>
+<p>Quick note: We’re using the example of an AGM to show how we can <strong>achieve the purpose of big, formal meetings</strong> remotely and efficiently. Your board or other formal meeting might follow all of these steps, or find a few of the tips are less necessary. Routine processes – such as  a <a href="https://blog.loomio.com/2019/06/19/funding-community-renewable-projects/" title="open in new tab">grant funding process</a> – are easy to operationalize with Loomio.</p>
+<hr />
+<h2 id="how-to-have-a-better-virtual-agm"><a class="header" href="#how-to-have-a-better-virtual-agm">How to have a better virtual AGM</a></h2>
+<p>These steps will take you from the first announcement to the final wrap-up and follow-up actions.</p>
+<p>You’ll be able to get your organization started with Loomio in 10 minutes with these four simple steps:</p>
+<ol>
+<li>Set up your group</li>
+<li>Start a thread for your AGM</li>
+<li>Invite people to join</li>
+<li>Check for readiness and preparedness <br><br> And then we will teach you how to get even more out of your AGM… <br><br></li>
+<li>Elect directors and board members online</li>
+<li>Get detailed input on the budget</li>
+<li>Have your call!</li>
+<li>Approve minutes</li>
+<li>Follow-up actions</li>
+</ol>
+<h3 id="1-set-up-your-group"><a class="header" href="#1-set-up-your-group">1. Set up your group</a></h3>
+<p>First, <a href="https://loomio.org/g/new/" title="open in new tab">click here to start a new organization on Loomio</a> if you haven't already. If you are considering using Loomio in other parts of your organization, we suggest setting up a <a href="/en/user_manual/groups/subgroups/#add-a-subgroup/" title="open in new tab">subgroup</a>.</p>
+<p>A Loomio group is a secure online place for your members, which helps you increase communication and continue work between meetings, connecting your members wherever they are and at a time that suits them.</p>
+<p><strong><a href="https://help.loomio.com/en/user_manual/groups/starting_a_group/" title="open in new tab">Prepare your group</a></strong> with a group description for your members to welcome them and outline how you plan to use Loomio.</p>
+<ul>
+<li>Consider what type of decisions you will make in this AGM and how this fits with your organization’s constitution and legal compliance.</li>
+<li>Be clear who is involved and what people can expect of one another.</li>
+</ul>
+<p>Set your group privacy to Secret so only members of your AGM can see it and participate in discussions.</p>
+<img src="agm_group_description.png" class="border-orange">
+<h3 id="2-start-a-discussion-thread-for-your-agm"><a class="header" href="#2-start-a-discussion-thread-for-your-agm">2. Start a discussion thread for your AGM</a></h3>
+<p><strong>A month before your meeting, start a <a href="https://help.loomio.com/en/user_manual/threads/starting_threads/" title="open in new tab">discussion thread</a></strong> to announce the AGM details. Include the video conferencing link, date and time in every key piece of communication.</p>
+<img src="all_you_need_to_know_for_agm.png" class="border-orange">
+<p><em><strong>Note:</strong></em> <em>Some groups run their AGMs entirely on Loomio, without a video call at all.</em></p>
+<p><strong>Attach the meeting materials and include the agenda</strong> and any key documents, links, and files so that people have them all in one place. Putting this information in the thread’s context, which always remains at the top of the discussion, makes it easy for everyone to find it.</p>
+<p>You may also invite members to ask questions prior to the meeting. This is helpful to gain some insight into any concerns or what people are thinking, so everyone can be better prepared for the upcoming meeting.</p>
+<p><strong>Decide on roles</strong> – who will serve as 'technical support' and 'facilitator' or 'host' – and let people know how to reach them (how to <a href="/en/user_manual/threads/notifying_people/#mentioning-people">@mention</a> them on Loomio, phone numbers, email addresses, etc.) in this thread context.</p>
+<p><strong>Tip:</strong> Send people calendar invites to ensure they have reminders in their calendars.</p>
+<h3 id="3-invite-people-in"><a class="header" href="#3-invite-people-in">3. Invite people in</a></h3>
+<p>First give participants access to the group or subgroup:</p>
+<ul>
+<li>Go to the MEMBERS tab and click INVITE</li>
+<li>If they were not already a part of your group, copy and paste participants’ emails</li>
+</ul>
+<p>Immediately after that, send them the details so they know why they’ve been invited</p>
+<ul>
+<li>Go to the thread you just started</li>
+<li>Click <strong>members</strong></li>
+<li>Again, if they were not already a part of your group, copy and paste all their email addresses into the invite box.</li>
+</ul>
+<p><strong>You’ve got your group started! Great! Before we move on,</strong> here is a quick overview of Loomio’s great tools for facilitating and achieving better decisions…</p>
+<p><a href="/en/guides/getting_started/decision_tools/"><img src="how_to_use_polls.png" class="border-orange"></a></p>
+<h3 id="4-use-checks-to-be-better-prepared"><a class="header" href="#4-use-checks-to-be-better-prepared">4. Use ‘Checks’ to be better prepared</a></h3>
+<p>Use a <a href="https://help.loomio.com/en/user_manual/polls/proposal_types/index.html#check">Check poll</a> (yes or no) from within a thread to raise everyone’s preparedness. For example:</p>
+<img src="preparing_with_check_polls.png" class="border-orange">
+<p><strong>Clarify what is expected of participants.</strong> Do they need to read reports or any important documents before the meeting? Will their input shape the agenda?</p>
+<p>Inviting participants' input can help surface important information. This also lets you know who’s prepared and who has seen reminders.</p>
+<p>You can also prepare by getting input, or even completing some decisions on Loomio.</p>
+<h3 id="5-electing-directors-and-appointing-board-members"><a class="header" href="#5-electing-directors-and-appointing-board-members">5. Electing directors and appointing board members</a></h3>
+<p>Elections and appointments are easy with Loomio.</p>
+<p>Loomio’s polls include <a href="https://help.loomio.com/en/user_manual/polls/proposal_types/index.html#ranked-choice">Ranked choice</a> for ‘run-off voting’ – a popular election method.</p>
+<img src="elections_online.png" class="border-orange">
+<p>Select Ranked choice from the Polls menu and add the candidates names; participants will then drag them into their order of preference</p>
+<img src="https://help.loomio.com/en/user_manual/polls/starting_proposals/reveal_voters_after_close.png" class="border-orange">
+<p><strong>Make your poll anonymous</strong> to reduce political friction or interpersonal dynamics. To do this, just tick the appropriate box as shown above.</p>
+<p>Or simply make a <a href="https://help.loomio.com/en/user_manual/polls/proposal_types/index.html#proposals">proposal</a> if the Directors and Board members have been pre-selected.</p>
+<img src="approve_nominations.png" class="border-orange">
+<h3 id="6-get-input-on-allocation-of-surplus"><a class="header" href="#6-get-input-on-allocation-of-surplus">6. Get input on allocation of surplus</a></h3>
+<p>Loomio’s <a href="https://help.loomio.com/en/user_manual/polls/proposal_types/#dot-vote">Dot vote</a> poll makes it simple to synthesise how much of a set of funds people want to spend against each of the options presented. You can give each participant a number of points that represents the entire portion, or divide the amount amongst the participants.</p>
+<h3 id="7-have-your-meeting"><a class="header" href="#7-have-your-meeting">7. Have your meeting!</a></h3>
+<p>Running a video meeting with a large number of people requires careful preparation, tight controls, and good facilitation.</p>
+<p>Canarie Inc. shared a number of <a href="https://www.canarie.ca/so-you-want-to-have-a-virtual-annual-general-meeting/">great tips (and a how to)</a> on the actual hosting of your call. Their contingency planning, and dry runs/ practice suggestions, are good to keep in mind.</p>
+<p><strong>Tip:</strong> Save time during your video conference and move your minutes sign-off process to Loomio by recording key actions as comments in a Loomio thread.</p>
+<h3 id="8-sign-off-the-minutes"><a class="header" href="#8-sign-off-the-minutes">8. Sign off the minutes</a></h3>
+<p>Raise a check poll so that members can acknowledge and sign off the minutes.</p>
+<img src="approve_minutes.png" class="border-orange">
+<p><strong>Tip:</strong> Include actions, decisions and  any key outcomes at the top of the minutes so that sending to participants can remind them of any actions and responsibilities, with a clear record.</p>
+<p>This can also help you keep your group engaged after the meeting:</p>
+<h3 id="9-follow-up"><a class="header" href="#9-follow-up">9. Follow up</a></h3>
+<p>Keep track of follow-on actions by commenting with status updates (or completion notes) in the same thread. This can spark ongoing conversations and lead to a more connected organization and the ability to make certain decisions between meetings.</p>
+<hr />
+<h2 id="onwards"><a class="header" href="#onwards">Onwards</a></h2>
+<p>Now that you know how to get better outcomes from your virtual AGM with Loomio, <strong>start your <a href="http://www.loomio.org/try?utm_campaign=virtual_board_guide&amp;utm_term=help/">free trial</a></strong> so you’re ready when the time comes! (You could even find the best date using Loomio’s time poll).</p>
+<p>Need to run an AGM, Assembly, or <a href="../virtual_board_meetings">Board meeting online</a>?</p>
+<p>We’d love to hear about your experience – <a href="http://www.loomio.com/contact/?utm_campaign=virtual_board_guide&amp;utm_term=help/" title="open in new tab">connect with us</a>.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                                                    <a rel="prev" href="../../guides/board_processes/index.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+                                                    <a rel="next" href="../../guides/virtual_board_meetings/index.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                                    <a rel="prev" href="../../guides/board_processes/index.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+                                    <a rel="next" href="../../guides/virtual_board_meetings/index.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                            </nav>
+
+        </div>
+
+        
+        
+        
+                <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+        
+                <script src="../../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+        <script src="../../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+            </body>
+</html>
