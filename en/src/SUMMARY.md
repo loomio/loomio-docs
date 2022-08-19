@@ -1,5 +1,7 @@
 # Summary
 
+[Introduction](index.md)
+
 # Getting started
 - [Overview](user_manual/getting_started/key-concepts.md)
 - [Signing in](user_manual/users/sign_in/index.md)
