@@ -182,7 +182,7 @@ Loomio is also great for making time-sensitive decisions when action is needed b
 1. Start a thread and open a discussion with clear context, relevant information and your request.
 2. When ready, raise a [Proposal](https://help.loomio.com/en/user_manual/polls/starting_proposals), and invite members to vote. You will soon hear if members need more information to vote.
 
-[Our other guides](https://help.loomio.com/en/guides) include detailed information about decision-making processes you can use.
+[Our other guides](/en/user_manual/getting_started/decisions) include detailed information about decision-making processes you can use.
 
 <img src="choose_liability_insurance_on_loomio.png" class="border-orange">
 
