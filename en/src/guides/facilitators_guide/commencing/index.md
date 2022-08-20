@@ -20,9 +20,9 @@ Key aspects to an invitation:
 
 On Loomio
 
-* The tool has a built-in function to [invite users](../../user_manual/groups/membership/) by email or by sending them a special link. Users can also request to join your group if your settings allow.
+* The tool has a built-in function to [invite users](/en/user_manual/groups/membership/) by email or by sending them a special link. Users can also request to join your group if your settings allow.
 * The invitation tools built into the software are very basic, and getting an unexpected login request for new software without context isn't very inviting, so group creators often introduce people to the idea of Loomio through a separate process.
-* Many aspects of Loomio are already designed to create a safe and respectful space users would want to enter — such as thoughtful [privacy options](../../guides/getting_started/starting_a_group/#privacy).
+* Many aspects of Loomio are already designed to create a safe and respectful space users would want to enter — such as thoughtful [privacy options](/en/user_manual/groups/starting_a_group/#privacy).
 * The design of the software itself is meant to be friendly, simple, and professional, hopefully putting out a trustworthy vibe.
 * Loomio has accessibility features, for people who use assistive technology like screen readers, and translation features for people who speak different languages. Emphasising these aspects in an invitation can make some people feel more welcome.
 
@@ -40,8 +40,8 @@ When someone enters a physical room, they want to know where to sit, where the e
 On Loomio
 
 * The group description fields and discussion context box are the main space to put a “welcome message” for people arriving into the space.
-* Take a tour of the Loomio space, tweak things to make yourself comfortable (like [notification settings](../../user_manual/users/email_settings/) and your [profile photo](../../user_manual/users/user_profile/).
-* See information how you like using [different thread views and options](../../user_manual/users/navigation/) like Recent, Unread, Mute, and Star. Make yourself at home.
+* Take a tour of the Loomio space, tweak things to make yourself comfortable (like [notification settings](/en/user_manual/users/email_settings/) and your [profile photo](/en/user_manual/users/user_profile/).
+* See information how you like using [different thread views and options](/en/user_manual/users/navigation) like Recent, Unread, Mute, and Star. Make yourself at home.
 
 
 ## Who’s in the Room

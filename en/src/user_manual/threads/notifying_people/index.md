@@ -54,4 +54,4 @@ If, for example, the thread is an important announcement and contains informatio
 
 Subgroups are a great way to make it simple to send notifications to a specific set of people. If I click **invite people** from a thread in a subgroup, I can simply select **Members of `Subgroup Name`**.
 
-It's great to remind your working group when there hasn't been much interaction with a thread. To increase the chances of good engagement, check that the [thread context and title include a clear invitation](/en/guides/getting_started/having_discussions/#keep-the-topic-concise), specifying how to participate.
+It's great to remind your working group when there hasn't been much interaction with a thread. To increase the chances of good engagement, check that the thread context and title include a clear invitation, specifying how to participate.
