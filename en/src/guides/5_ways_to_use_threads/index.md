@@ -17,7 +17,7 @@ _Brainstorm, explore, open…_
 
 ![](5_ways_ex_what_rhythm.png)
 
-Most productive conversations start with questions (“[divergence](https://help.loomio.com/en/facilitators_guide/underway/#balancing-divergent--convergent)”, in our Facilitator Guide).
+Most productive conversations start with questions (“[divergence](/en/guides/facilitators_guide/underway/#balancing-divergent--convergent)”, in our Facilitator Guide).
 
 Start a new thread for each new inquiry; an inquiry can include several related questions. Use open questions to explore and get more engagement. Engage people directly by **@mentioning** them and asking them specifically. If you can, name any clear, shared outcome or understanding that results. As with any thread, a clear, simple title will help people find answers to engage now and reflect on down the road.
 
@@ -30,18 +30,18 @@ _Check in, propose, coordinate..._
 
 Preparing for events or meetings on Loomio saves you the frustration of several different conversations and resources being scattered across several email chains. Start one thread per event; for a board meeting you might use one thread to pick a date, collaborate on agenda-setting, post minutes, record actions & follow-up on actions. **Edit** the thread context, which always stays at the top, to let people know what kind of participation is being asked for right now. Especially if they missed the meeting… you can **attach** audio, link notes, or **embed** videos too, helping people to jump right into any ongoing conversation.
 
-**Tip:** To ratify minutes, see who has read the board papers, and save on meetings, use a **count poll** – [this guide](https://help.loomio.com/en/guides/governance/#supercharge-your-meetings) can get you started.
+**Tip:** To ratify minutes, see who has read the board papers, and save on meetings, use a **count poll** – [this guide](/en/guides/governance/#supercharge-your-meetings) can get you started.
 
 ## Post ideas or introductions over time
 _Share, envision, benchmark…_
 
 ![](5_ways_ex_workers_wall.png)
 
-Threads can be **'walls'** or **'bulletin boards'** where your group posts info, news items and ideas you'd like to share with your group. Use one thread, [pin](../../user_manual/threads/thread_admin/#pin-thread) it so that it sticks around even if used infrequently, and use **reactions** to keep it energized, letting people know you saw what they shared or how you felt about it.
+Threads can be **'walls'** or **'bulletin boards'** where your group posts info, news items and ideas you'd like to share with your group. Use one thread, [pin](/en/user_manual/threads/thread_admin/#pin-thread) it so that it sticks around even if used infrequently, and use **reactions** to keep it energized, letting people know you saw what they shared or how you felt about it.
 
 **Tips:**
 
-- Organize comments to appear **newest first** – [here’s how](../../user_manual/threads/navigating_threads/#oldest-or-newest-first)
+- Organize comments to appear **newest first** – [here’s how](/en/user_manual/threads/navigating_threads/#oldest-or-newest-first)
 - If this is new for your group, write a context!
 - If your group members are new to one another, create an **Introductions thread**.
 
@@ -84,4 +84,4 @@ Now that you’ve learned some of the best practices for discussion threads that
 
 ---
 
-¹ *Read Economic Democracy Advocates’ story [here](https://blog.loomio.com/2019/07/11/regenerating-the-earth-for-future-generations/)* <br> ² *Learn how to use outcomes [here](https://help.loomio.com/en/user_manual/polls/outcomes/)* <br> ³ *Learn how to track engagement [here](../../user_manual/threads/thread_admin/#tracking-engagement)*
+¹ *Read Economic Democracy Advocates’ story [here](https://blog.loomio.com/2019/07/11/regenerating-the-earth-for-future-generations/)* <br> ² *Learn how to use outcomes [here](https://help.loomio.com/en/user_manual/polls/outcomes/)* <br> ³ *Learn how to track engagement [here](/en/user_manual/threads/thread_admin/#tracking-engagement)*

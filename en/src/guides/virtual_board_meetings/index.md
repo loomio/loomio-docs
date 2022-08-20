@@ -140,7 +140,7 @@ Checking in with each other is always good practice – even more so when you ar
 
 A quick check-in round where everyone has the opportunity to briefly say something – a personal experience and/or comment relevant to the business at hand – helps people to focus on the matters at hand and reveals if there’s any special circumstances that need attending to.
 
-[You can even run check-ins on Loomio](https://help.loomio.com/en/facilitators_guide/commencing/#check-in).
+[You can even run check-ins on Loomio](https://help.loomio.com/en/guides/facilitators_guide/commencing/#check-in).
 
 ### 2. Ratify decisions made on Loomio
 

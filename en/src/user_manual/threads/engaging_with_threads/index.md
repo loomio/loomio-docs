@@ -11,7 +11,7 @@ Like a comment, you can format your text and attach files or images. Unlike a co
 
 > **Tip:** As the thread grows, update the context with key understandings and information so new people can catch up and participate easily.
 
-The context is like the whiteboard in your meeting room, where you can write the agenda, the hopeful outcomes and how you aim to get there, and take group notes. *Learn more about preparing threads and groups for success [in our Facilitator's Guide](/en/facilitators_guide).*
+The context is like the whiteboard in your meeting room, where you can write the agenda, the hopeful outcomes and how you aim to get there, and take group notes. *Learn more about preparing threads and groups for success [in our Facilitator's Guide](/en/guides/facilitators_guide).*
 
 ### Add attachments
 
@@ -136,7 +136,7 @@ There are a selection of **facilitation tools** and **decision tools** available
 - Polls are useful to understand preferences of the group.
 - Use a time poll if you need to get everyone together, and want to find the best time for that meeting to happen.
 
-Find out more about [decision tools](en/guides/getting_started/decision_tools).
+Find out more about [decision tools](/en/user_manual/polls/proposal_types).
 
 ## Email notifications
 By default

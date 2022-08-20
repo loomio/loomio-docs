@@ -89,7 +89,7 @@ Immediately after that, send them the details so they know why they’ve been in
 
 **You’ve got your group started! Great! Before we move on,** here is a quick overview of Loomio’s great tools for facilitating and achieving better decisions…
 
-<a href="/en/guides/getting_started/decision_tools/"><img src="how_to_use_polls.png" class="border-orange"></a>
+<a href="/en/user_manual/polls/proposal_types/"><img src="how_to_use_polls.png" class="border-orange"></a>
 
 ### 4. Use ‘Checks’ to be better prepared
 
