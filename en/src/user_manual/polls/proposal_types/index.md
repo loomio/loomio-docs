@@ -134,7 +134,7 @@ Participants can indicate their **position** and give a statement to explain why
 
 You can change the positions, or options, that proposal participants will have to choose from. There are several configurations for you to choose from.
 
-![](/en/user_manual/whats_new_loomio_2/flexible_proposals1.png)
+<!-- ![](/en/user_manual/whats_new_loomio_2/flexible_proposals1.png) -->
 
 _For example,_ you might decide to take a period of time for 'questions & comments' before you ask people to respond to the final proposal. In this case, you may even choose to have **No voting**. While you could invite questions & comments without a proposal, the proposal can be a useful way to create a very clear time box and invitation to comment on _this_ proposal. Using a proposal for questions & comments can also help remind people to participate with the notification sends 24 hours before the poll closes.
 

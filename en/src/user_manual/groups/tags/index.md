@@ -10,11 +10,11 @@ Tags can be applied when starting or editing a Thread, Poll or Proposal.
 
 When creating tags, use familiar category names. 
 
-![](category_tag_discussions.png)
+<!-- ![](category_tag_discussions.png) -->
 
 Clicking the **add tag** button allows you to edit, order, color, and **add new** tags.
 
-![](organize_with_category_tags.png)
+<!-- ![](organize_with_category_tags.png) -->
 
 Edit threads to add or remove tags after they're started.
 
