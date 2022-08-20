@@ -47,7 +47,7 @@
   - [Microsoft Teams](user_manual/groups/integrations/microsoft_teams/index.md)
   - [Slack](user_manual/groups/integrations/slack/index.md)
 - [API](user_manual/groups/integrations/api/index.md)
-
+- [Newsletter](newsletter/index.md)
 ---
 
 # Guides
