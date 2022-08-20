@@ -30,7 +30,6 @@ _Check in, propose, coordinate..._
 
 Preparing for events or meetings on Loomio saves you the frustration of several different conversations and resources being scattered across several email chains. Start one thread per event; for a board meeting you might use one thread to pick a date, collaborate on agenda-setting, post minutes, record actions & follow-up on actions. **Edit** the thread context, which always stays at the top, to let people know what kind of participation is being asked for right now. Especially if they missed the meeting… you can **attach** audio, link notes, or **embed** videos too, helping people to jump right into any ongoing conversation.
 
-**Tip:** To ratify minutes, see who has read the board papers, and save on meetings, use a **count poll** – [this guide](/en/guides/governance/#supercharge-your-meetings) can get you started.
 
 ## Post ideas or introductions over time
 _Share, envision, benchmark…_

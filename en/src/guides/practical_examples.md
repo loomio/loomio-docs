@@ -5,9 +5,6 @@ We've tested and documented a number of methods you can use to move forward with
 
 * [10 tips for making great decisions with Loomio](https://blog.loomio.com/2015/09/10/10-tips-for-making-great-decisions-with-loomio/)
 * [9 ways to use a Loomio proposal to turn a conversation into action](https://blog.loomio.com/2015/09/18/9-ways-to-use-a-loomio-proposal-to-turn-a-conversation-into-action/)
-* [Supercharge your meetings](https://loomio.files.wordpress.com/2016/11/loomio-how-to-e28093c2a0supercharge-your-meetings.pdf)
-* [Develop a health and safety policy](https://loomio.files.wordpress.com/2016/11/loomio-how-to-e28093c2a0meet-health-safety-requirements.pdf)
-* [Make funding decisions](https://loomio.files.wordpress.com/2016/11/case-study-poster-e28093-funding-decisions-at-the-ministry-of-social-development.pdf)
 * [5 Types of Decisions from Enspiral](https://medium.com/enspiral-tales/five-types-of-decisions-ffa3c221665#.2sntdm1r6)
 * [Move the Advice Process Online](http://blog.loomio.com/2016/11/09/advice-process/)
 * [Getting your team to engage with new technology](http://blog.loomio.com/2015/02/20/how-to-engage-your-team-with-new-technology/)

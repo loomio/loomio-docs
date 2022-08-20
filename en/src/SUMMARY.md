@@ -88,4 +88,3 @@
 - [Training and Support](policy/subscriptions/pro_support/index.md)
 - [Security](policy/security/index.md)
 - [Subscription management](policy/subscriptions/management/index.md)
-  - [Referrals](policy/subscriptions/referral_code/index.md)
