@@ -1,6 +1,10 @@
 # How to participate
 
-## Commenting
+*On this page*
+- [Comment](#comment)
+- [Vote](#vote)
+
+## Comment
 
 You can write a Comment in a Thread, and people can reply, react or post their own comment to continue the discussion.
 
@@ -26,7 +30,7 @@ Reacting to a comment is a great way to encourage and acknowledge a comment by l
 
 ![](react.png#width-80)
 
-## Voting
+## Vote
 
 You may receive an invitation to vote via email or by notification in Loomio. Click on the link to have your say.
 
