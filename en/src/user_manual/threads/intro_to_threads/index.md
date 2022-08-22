@@ -52,3 +52,5 @@ Here are some common uses of threads:
 **Explore ideas** - Share thoughts and invite discussion about a concern you notice, or an improvement that can be made.
 
 **Advice, Consent and Generative decision making** - Prepare, propose, clarify, respond to reactions and objections, agree and implement - all within a Loomio thread.
+
+See [Guides - Success on Loomio](https://help.loomio.com/en/guides/5_ways_to_use_threads/index.html) for more tips and examples of how to use threads.
