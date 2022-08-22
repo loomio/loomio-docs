@@ -9,10 +9,6 @@ Here are some examples of topics you might use in threads:
 - Seek advice and prepare a recommendation to stakeholders
 - Submit a proposal to a customer, or to seek funding
 
-See [Guides - Success on Loomio](https://help.loomio.com/en/guides/engage-group.html) for more tips and examples of how to use threads.
-
-<div class="iframe-container"><iframe width="608" height="380" src="https://www.youtube.com/embed/1qxGl8MBA88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 ## New thread
 
 You can start a thread by clicking **New thread** from a group page. When you start the thread, it will be visible to all members of your group.
