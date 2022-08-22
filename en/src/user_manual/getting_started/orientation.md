@@ -30,6 +30,8 @@ Threads keep everything about a topic in one place. Over time you’ll create a 
 
 One of the best things about Loomio is its range of tools to progress a discussion to an outcome. Each poll type has a slightly different purpose. The most common one is a proposal. 
 
+
+
 ![](Proposals.png#width-50)
 
 A **proposal** is for converting a discussion into a clear, practical outcome. Someone suggests a course of action and invites everyone to respond. For example, you might ask group members to either:
