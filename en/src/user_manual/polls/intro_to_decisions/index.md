@@ -23,6 +23,8 @@ In this way you can use proposals to prompt people for a response, uncover new i
 
 A proposal and associated discussion, creates a record of how the decision came about.
 
+![](proposal_example.png)
+
 ## Other poll types
 
 Loomio includes a range of poll types to support participation in decision making.  You can configure polls to suit a particular decision process or voting method. 
@@ -42,6 +44,8 @@ Loomio includes a range of poll types to support participation in decision makin
 **Ranked choice**: Rank a list of options in order of preference — useful for elections.
 
 **New poll type**: Configure the poll type you need with custom terminology, options and settings.
+
+![](poll_list.png#width-80)
 
 ## All poll types have a similar structure
 
