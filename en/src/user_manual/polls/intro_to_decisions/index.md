@@ -1,17 +1,13 @@
-# Intro to decisions
+# Intro to Polls
 
-Decisions are where you can progress a discussion to an outcome.
+Polls help you make decisions and progress discussion to an outcome.
 
 - Involve the right people to make better decisions 
-- Apply the decision making process that works for your group - seek advice or consent, or reach a consensus
-- Get engagement, test ideas, and clarify an issue, even if the solution might not yet be apparent 
+- Get engagement, test ideas, listen and sense, identify priorities, and clarify issues, even if the solution might not yet be apparent 
 - Set a deadline, prompt people who haven’t participated, and state an outcome
+- Flexibly use decision making processes that work for your group
 
 There are many types of decision tools in Loomio and many ways to use them.   
-
-This doesn’t mean that everyone must agree all of the time, and there are many ways to reach a collective decision.
-
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/O-laa4di8kI" frameborder="0" allowfullscreen></iframe>
 
 ## Proposal
 
