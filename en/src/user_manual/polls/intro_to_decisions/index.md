@@ -13,17 +13,19 @@ There are many types of decision tools in Loomio and many ways to use them.
 
 At the heart of Loomio is the proposal.  
 
-A proposal helps convert a discussion into a clear, practical outcome. For example someone suggests a course of action and invites people to respond by voting agree, abstain or disagree. Other proposal options are available to suit common decision-making processes.
+A proposal helps convert a discussion into a clear, practical outcome. 
 
-As people vote, they can give a reason why they have voted this way. You can all see where everyone else stands on the matter, and why. And then, if the proposal is still open, you can change your response.
+For example, someone suggests a course of action and invites people to respond by voting agree, abstain or disagree. 
+
+As people vote, they can give a reason why they have voted this way. You can see where everyone else stands on the matter, and why. If someone contributes some new information or a strong opinion you can change your vote, if you wish.
 
 In this way you can use proposals to prompt people for a response, uncover new information, and build shared understanding - to help your group make a better, more informed decision.
 
-A proposal and associated discussion, creates its own record of how the decision came about.
+A proposal and associated discussion, creates a record of how the decision came about.
 
 ## Other poll types
 
-Loomio includes a range of polling tools you can use to support participation and decision making. 
+Loomio includes a range of poll types to support participation in decision making.  You can configure polls to suit a particular decision process or voting method. 
 
 **Sense check**: To ask people for feedback, questions and concerns before moving to a decision.
 
@@ -41,7 +43,9 @@ Loomio includes a range of polling tools you can use to support participation an
 
 **New poll type**: Configure the poll type you need with custom terminology, options and settings.
 
-## All decision tools have a similar structure
+## All poll types have a similar structure
+
+As you start using polls, you will notice the poll setup, running and closing follow a similar pattern:
 
 **Set up poll:**
 - Give the poll a title
