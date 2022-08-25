@@ -1,13 +1,4 @@
 # Starting threads
-_Get a discussion or decision going._
-
-Threads are where you discuss topics.  Group members respond in the thread by posting comments and replies. Threads can also contain polls and proposals to help progress a discussion to an outcome.  As people comment in the thread and vote in polls, the thread timeline builds so you can easily find key milestones.
-
-Here are some examples of topics you might use in threads:
-- Draft and approve a strategic document
-- Plan and deliver an event
-- Seek advice and prepare a recommendation to stakeholders
-- Submit a proposal to a customer, or to seek funding
 
 ## New thread
 
