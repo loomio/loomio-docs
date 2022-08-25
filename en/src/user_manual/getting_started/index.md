@@ -6,7 +6,7 @@ It enables you to bring people together, have discussions on topics, explore pro
 
 It's a discussion forum with a set of tools to allow you to facilitate a discussion towards an outcome.
 
-Watch this video for an intro to Loomio as we walk through how people use Loomio to make decisions, share news and events and prepare for meetings.
+Watch this video for an intro to Loomio. We walk through how people use Loomio to make decisions, share news and events and prepare for meetings.
 
 <div class="iframe-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/itXYid8eSiI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
