@@ -24,7 +24,7 @@
   - [Tasks](user_manual/threads/thread_admin/tasks.md)
 
 - [Polls](user_manual/polls/intro_to_decisions/index.md)
-  - [Starting proposals](user_manual/polls/starting_proposals/index.md)
+  - [Starting polls](user_manual/polls/starting_proposals/index.md)
   - [Poll types](user_manual/polls/proposal_types/index.md)
   - [Outcomes](user_manual/polls/outcomes/index.md)
 
