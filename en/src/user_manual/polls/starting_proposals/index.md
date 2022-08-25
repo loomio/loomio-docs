@@ -1,7 +1,16 @@
-# Starting a Proposal or Poll
-_Turn a conversation into an action._
+# Starting a Poll
 
-## Title and Details
+## Start a poll
+
+You can start a poll within a thread to progress a discussion or make a decision. 
+
+Open the thread, scroll down and click on the **Start Poll** tab.
+
+![](refreshing_our_brand.png)
+
+You can also start a standalone poll from your group page, by going to the **Polls** and click on **New Poll**.
+
+![](standalone_poll.png)
 
 **Writing proposals**
 
