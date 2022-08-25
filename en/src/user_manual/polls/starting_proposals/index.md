@@ -8,6 +8,8 @@ Open the thread, scroll down and click on the **Start Poll** tab.
 
 ![](refreshing_our_brand.png)
 
+### Standalone poll
+
 You can also start a standalone poll from your group page, by going to the **Polls** and click on **New Poll**.
 
 ![](standalone_poll.png)
