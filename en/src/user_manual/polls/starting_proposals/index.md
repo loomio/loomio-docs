@@ -213,7 +213,7 @@ Use **Make a copy** to create a copy of the poll and settings.  Useful when you 
 
 **Print** exports the poll as an html document preserving the poll format. You can print the html document to a printer or to pdf document format for publishing and archiving.
 
-![](proposal_print.png)
+![](proposal_print.png#width-80)
 
 ### Delete
 
