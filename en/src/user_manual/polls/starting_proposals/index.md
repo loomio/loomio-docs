@@ -2,6 +2,8 @@
 
 ## Start a poll
 
+### Within a thread
+
 You can start a poll within a thread to progress a discussion or make a decision. 
 
 Open the thread, scroll down and click on the **Start Poll** tab.
@@ -14,29 +16,72 @@ You can also start a standalone poll from your group page, by going to the **Pol
 
 ![](standalone_poll.png)
 
-**Writing proposals**
+Select the poll type you want.
 
-Include enough details so everyone knows what it means to agree or disagree.
+![](poll_list.png)
+
+## Set up poll
+
+The poll set up page has two tabs: 
+- **Content** to write content for your poll and configure voting options. 
+- **Settings** to configure how the poll runs.
+
+![](proposal_new.png)
+
+### Content
+
+**Group:** (Standalone poll only.) If you are starting a standalone poll, check that the correct group is selected for your poll.
+
+**Title:** Give your poll a short, relevant title.
+
+**Details:** Explain what you are asking people to do and include enough details so everyone knows what it means to 'agree' or 'disagree'.
 
 Avoid combining a range of ideas in one proposal, because people might agree to some aspects but not others and be unsure how to respond. You can break complex decisions down into multiple proposals.
 
 When making a proposal, state your expectations and describe the impact the proposal will have if adopted. If it's a formal or binding proposal it's often worth describing what a 'disagree' or 'block' means.
 
-You might want to explore a few [ways of using proposals](../proposal_types/#ways-of-using-proposals), for some guidance and inspiration.
+Use the formatting tools to support your poll.  For example, attach a document file with the paperclip icon, insert an image, link to a website or online document, or even embed a video.
 
-## Attachments
+**Options:** Each poll type provides options for voting.
 
-You can attach files to decisions using the paperclip icon, just underneath the details form. You will be prompted to select a file from your device.
+In a Proposal poll, the default options are Agree, Abstain and Disagree with corresponding ‘show of thumbs’ voting icons.
 
-## Dates and Duration
+You can add, edit and remove options to suit the decision process you are running.  
 
-When you choose a **Closing time**, Loomio will let you know the length of time in which participants will be able to participate in the proposal or poll. During this window, people can submit their position or choice and leave a reason, and they can also edit these if they think on it again or receive new information or ideas, perhaps from others' votes.
+For example if you are using a Consent process;
+- Type ‘Consent’ in the new option panel, and click the + button to add the option
+- Type ‘Objection’ in the new option panel
+- Remove unwanted voting options by clicking the trash can symbol beside each option.
 
-Consider how the proposal closing time will affect engagement from your group members, and choose accordingly. You might want to time the proposal so it closes before a meeting, or avoid closing over a weekend.
+![](proposal_options.png)
 
-Beyond considerations of inclusion (enough time) and urgency (deadlines), you may want to give additional consideration to the date and time the poll closes, as Loomio will send a reminder `24 hours` before it closes. You can sometimes improve engagement if your group members receive this at a time when they can respond right away.
+#### Edit voting options
+There is a lot of flexibility to configure voting options to suit the way your organization makes decisions.
 
-You can extend the deadline of an open proposal. This can be a good idea if engagement is active and people are working through the issue, or if engagement has been sparse and you'd like to prompt more participation before concluding. To do so, edit the poll or proposal to change the closing time.
+Use the pencil icon alongside the voting option to open the edit modal:
+
+**Option name:** A short name for the option.
+
+**Icon:** Select the icon for the option; thumbs up, thumbs down, thumbs sideway or hand up.
+
+**Meaning:** A sentence that explains what choosing this options means.
+
+**Reason prompt:** A question to prompt voters to provide their reasoning or reconsider their position. 
+
+![](proposal_edit_option.png)
+
+**Voting open:** When ticked, voting will open as soon as the poll starts.  
+
+Untick if you want voting to open at a later time. For example if you are setting up a poll in advance of a general assembly meeting.
+
+**Closing date and time:** Select the closing date and time for your poll. 
+
+Give sufficient time for people to vote. You could time the proposal so it closes before a meeting, or avoid closing over a weekend, so that people will receive a timely reminder. If necessary, you can close the poll early or extend the closing time.
+
+**Who can vote?** Invite everyone in the group or only specific people.  
+
+You can later add or remove people from an ‘Invite people only’ poll.
+
 
 ## Invite Members
 
