@@ -86,16 +86,65 @@ Give sufficient time for people to vote. You could time the proposal so it close
 
 You can later add or remove people from an ‘Invite people only’ poll.
 
+## Settings tab
+
+![](proposal_settings.png)
+
+**Hide results:** If you want people to vote without knowing how others have voted, you can hide the results of the poll.  Useful if you do not want people to be affected by how other people have voted.
+
+Setting options:
+- Off (default) - means voting results are visible.
+- Until vote is cast - means voting results are not visible until you vote, and are then revealed.
+- Until proposal is closed - means voting results are not visible until the proposal closes. 
+
+**Anonymous voting:** If enabled, this allows people to vote anonymously - the identify of voters will not be associated to their votes.  This is useful for elections and secret ballots.  However this cannot be undone.
+
+**Vote reason:** It can be helpful to understand why people voted the way they did. With this setting, you can prompt people to share their thoughts when they vote.
+
+Setting options:
+- Required - people must write something in the reason field before their vote is submitted.
+- Optional (default) - reason is optional.
+- Disabled - the reason text box is not available.
+
+**Limit reason to maximum 500 characters:** Keeping vote reasons short makes them easier to understand. A collection of concise reasons is a great resource for making a decision.  So this setting is ticked by default.
+
+However you can untick this setting to allow for longer reasons.
+
+**Reminder:** Send a 'Closing soon' notification 24 hours before the poll closes. This can be an opportunity for people to see how others have voted and reconsider their own vote, or just a way to increase participation in the poll.
+
+Setting options:
+- Nobody
+- Author
+- Undecided voters (default)
+- All voters
+
+### Start Poll
+Click the **Start Poll** button.
 
 ## Invite Members
 
-It's good to let people know when you're taking a poll or a vote. After you start your proposal you will see a box allowing you to **Invite to vote**, where you will have the opportunity to select **Members of group** or **Members of thread**, or input the names of some of your group. You can select all and then remove some people from the list. This will send a notification to all those listed.
+Invite people to your poll by sending them a notification.
 
-![](invite_people_to_vote_modal.png)
+After you start the poll an **Invite to vote** box appears.  You can select the pre-set groupings; **Everyone in the thread** or **Members of [your group name]** and you can enter names or the email addresses of group members.   
+
+![](proposal_invite.png)
+
+You can add a message with your invitation to vote (optional).
+
+![](proposal_invite_members.png)
+
+Click on the group to see the people you are inviting.  You can remove people from the list by clicking the x beside their name.
+
+![](proposal_invite_expand.png)
 
 ### Invite guests or experts
 
-Similar to the **invite people** feature, if you input the email of someone outside your group in the **invite people to vote** form they will be given permission to participate in _only_ that proposal or poll; _however_, they will be able to see the _whole_ thread in which their participation has been invited (but _not_ any of the group's content beyond that). They will not be able to comment or participate in other proposals or polls even though they can see those that are in the same thread.
+You can also invite a guest to the poll by typing their email address. They will be given permission to participate in only this poll.  
+
+However if the poll is within a thread, they will also be able to see the thread and comments. They will not be able to comment or participate in other polls in the thread, nor see any other threads in the group.
+
+![](proposal_invite_guest.png)
+
 
 ### Reopen
 
