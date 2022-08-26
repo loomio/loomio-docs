@@ -18,7 +18,7 @@ You can also start a standalone poll from your group page, by going to the **Pol
 
 Select the poll type you want.
 
-![](poll_list.png)
+![](poll_list.png#width-80)
 
 ## Set up poll
 
@@ -26,7 +26,7 @@ The poll set up page has two tabs:
 - **Content** to write content for your poll and configure voting options. 
 - **Settings** to configure how the poll runs.
 
-![](proposal_new.png)
+![](proposal_new.png#width-80)
 
 ### Content tab
 
@@ -53,7 +53,7 @@ For example if you are using a Consent process;
 - Type ‘Objection’ in the new option panel
 - Remove unwanted voting options by clicking the trash can symbol beside each option.
 
-![](proposal_options.png)
+![](proposal_options.png#width-80)
 
 #### Edit voting options
 There is a lot of flexibility to configure voting options to suit the way your organization makes decisions.
@@ -68,11 +68,11 @@ Use the pencil icon alongside the voting option to open the edit modal:
 
 **Reason prompt:** A question to prompt voters to provide their reasoning or reconsider their position. 
 
-![](proposal_edit_option.png)
+![](proposal_edit_option.png#width-80)
 
 ### Content tab continued
 
-![](proposal_voting_open.png)
+![](proposal_voting_open.png#width-80)
 
 **Voting open:** When ticked, voting will open as soon as the poll starts.  
 
@@ -88,7 +88,7 @@ You can later add or remove people from an ‘Invite people only’ poll.
 
 ## Settings tab
 
-![](proposal_settings.png)
+![](proposal_settings.png#width-80)
 
 **Hide results:** If you want people to vote without knowing how others have voted, you can hide the results of the poll.  Useful if you do not want people to be affected by how other people have voted.
 
@@ -145,59 +145,103 @@ However if the poll is within a thread, they will also be able to see the thread
 
 ![](proposal_invite_guest.png)
 
+## Managing polls
+
+At the bottom of the poll are several features to help you manage the poll after start.
+
+![](proposal_after_start.png)
+
+### Inviting new people to the poll
+
+You can add new people to the poll after it has started.
+
+Click **invite**, and enter the names or the email addresses of the people you want to invite.
+
+### Remove people from the poll
+
+You may want to remove a person(s) from the poll.  Click **invite**, find the person's name and click on the 3 dot menu to the right and select **Remove from proposal**. 
+
+For example an administrator sets up a poll on behalf of board members.  The administrator is not authorized to vote, so is removed from the poll. 
+
+![](proposal_invite_remove.png)
+
+### Remind to vote
+
+If voting is slow, you can **remind** people to vote by sending them a notification.  The page is similar to **invite** and shows a pre-group of 'Everyone invited to vote'.  Click on the group to see the people you are reminding.  
+
+![](proposal_remind.png)
+
+### Close early
+
+You can close the poll early, before the closing time with **close early**.  
+
+This is used when everyone has voted or you need to close the poll for some other reason.
+
+![](proposal_close_early.png)
 
 ### Reopen
 
-If a poll closes earlier than what is ideal for your group arriving to a clear shared outcome, you might want to **reopen** it, setting a new closing time.
+You can **reopen** a poll that has closed.  Set the new closing date and time.
 
-![](reopen.png)
+![](proposal_reopen.png)
 
-### Close
+## More actions
 
-Similarly, if you no longer need to let the poll or proposal continue, you can choose **close** to end it before its closing date. Don't forget to [set an outcome](../outcomes) so everyone is clear on where you got to and/or what's next!
+Click on the 3 dot menu at the bottom right of the poll to open more actions.
 
-## Proposal options
+![](proposal_edit.png)
 
-There are some universal options that apply to most of the proposals and polls that Loomio offers. If you're interested in a specific tool's options (eg, the time poll's **if need be** option) see the section on the relevant tool… [→ Types of proposals and polls](../proposal_types)
+### Edit poll
 
-### Anonymous voting
+Use **Edit poll** to edit poll content or settings.   You can not change voting options once voting commences.
 
-If you tick the **Anonymous voters** box, participant information will not be recorded with each response. This means that nobody will be able to know the author of a vote.
+### Make a copy
 
-### Notify me when people participate
+Use **Make a copy** to create a copy of the poll and settings.  Useful when you have a repeating workflow.
 
-When selected, you will be notified whenever someone participates – within the app, and by email (by default).
+### Show notifications
 
-### Voters may add options
+**Show notifications** indicates that the notification has been read or the email has been opened.
 
-For all polls except the **Count**. When selected, participants may add their own options when voting.
+![](proposal_notification_history.png)
 
-When users add options the person who created the poll will be notified.
+### Export poll
 
-### Hide results until closed
+**Export** poll status and results to a spreadsheet (.csv) file, to download unformatted poll data for analysis or archive.
 
-Select this option if you want results to be hidden until the poll or proposal closes.
+### Print
 
-<img src="results_hidden_until_closed_option.png" class=border-orange width=300px height=auto>
+**Print** exports the poll as an html document preserving the poll format. You can print the html document to a printer or to pdf document format for publishing and archiving.
 
-The poll will appear as below until the poll closes.
+![](proposal_print.png)
 
-<img src="results_hidden_until_closed.png" class=border-orange>
+### Delete
 
-Once the poll is closed, you will see the results and be invited to leave an [outcome](../outcomes) as normal.
+**Delete** will delete the poll.  You will first be asked to confirm you want to delete the poll.
 
-## Export poll
+Make sure you want to delete the poll.  There is no 'restore' option.
 
-Export the stances and outcome of a poll as a spreadsheet (.csv) file. Click the three horizontal dots (**⋯**) at the bottom of the poll or proposal – you will find it to the right of **invite people to vote** – and click **Export**.
+After deletion an **Item removed** marker is left in the thread. This cannot be removed.
 
-<img class="border-orange" width=250 src="export_poll.png">
+![](proposal_delete.png)
 
-## Proposals can help in many situations
+### Move item
 
-Don't hesitate to start a proposal just because you're not sure everyone will agree - proposals are not only for when you have consensus, they're designed to surface issues that need resolving and are useful for clarifying disagreements. We have identified a number of ways to take advantage and step towards clear, shared outcomes, from a 'series of small yeses' to 'temperature checks'… [→ Ways of using proposals](../proposal_types/#ways-of-using-proposals)
+**Move item** enables you to move the poll to another thread and/or group.
 
----
+![](proposal_move.png)
 
-To keep learning how to best use proposals and polls, read on…
-- [Using outcomes](../outcomes)
-- [Types of proposals and polls](../proposal_types)
+Select the items (poll, reasons) along with any other comments in the thread you want to move, and then select the group and thread you want to move them to.
+
+![](proposal_move_items.png)
+
+### Unpin from timeline
+
+Removes the poll from the timeline.  You can re-pin the poll to the timeline.
+
+### Copy link
+
+Copies a unique link to the poll to your computer clipboard, so you can paste it in a document, thread or any other internet property.
+
+Use this when you want to directly refer people to the poll. For example, paste the poll link in an email newsletter to members.
+
