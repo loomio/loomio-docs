@@ -57,3 +57,6 @@ Proposal results are logged, along with a record of the discussion leading to th
 ### Outcome
 When a Loomio poll closes, you will be prompted to set an **outcome** to let everyone know what happened and what is going to happen next.
 
+## Proposals can help in many situations
+
+Don't hesitate to start a proposal just because you're not sure everyone will agree - proposals are not only for when you have consensus, they're designed to surface issues that need resolving and are useful for clarifying disagreements. 
