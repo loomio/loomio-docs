@@ -28,7 +28,7 @@ The poll set up page has two tabs:
 
 ![](proposal_new.png)
 
-### Content
+### Content tab
 
 **Group:** (Standalone poll only.) If you are starting a standalone poll, check that the correct group is selected for your poll.
 
@@ -69,6 +69,10 @@ Use the pencil icon alongside the voting option to open the edit modal:
 **Reason prompt:** A question to prompt voters to provide their reasoning or reconsider their position. 
 
 ![](proposal_edit_option.png)
+
+### Content tab continued
+
+![](proposal_voting_open.png)
 
 **Voting open:** When ticked, voting will open as soon as the poll starts.  
 
