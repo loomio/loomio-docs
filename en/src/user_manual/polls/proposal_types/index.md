@@ -42,7 +42,49 @@ Edit voting options for the Consent process.
 
 ![](proposal_consent_options.png#width-80)
 
+## Simple poll
 
+Before making a decision, find which option(s) people care most about.
+
+![](poll_label.png#width-80)
+
+Simple poll helps you find the most popular option or options with single or multiple choice.
+
+Write any details about the options in the details field, then enter the name of the option and click + to add.
+
+![](poll_options_new.png#width-80)
+
+Set the **Minimum choices** and **Maximum choices** a voter may choose.  Leave the maximum choice as 1 for a single choice poll.
+
+You can use the pencil icon alongside each option to add a meaning, or elaboration, of the option.
+
+![](poll_edit_option.png)
+
+### Settings
+
+As well as the usual Poll Settings, simple poll includes a setting: 
+
+**Shuffle options** allows you to show options in random order, if you are concerned the order of options may bias voting.
+
+![](poll_shuffle_options.png#width-80)
+
+### Voting
+
+People invited to the simple poll can choose options and leave a reason for their choice.
+
+![](poll_vote.png#width-80)
+
+### Results 
+
+Results update as voting takes place.
+
+![](poll_results.png#width-80)
+
+### Outcome
+
+When the poll closes, state an **Outcome** and say what will happen next.
+
+![](poll_outcome.png#width-80)
 
 ## Time poll
 
@@ -85,22 +127,7 @@ Other examples:
 
 A benefit of Count is that it automatically notifies those people who forget to participate, giving people a little encouragement to get the job done.
 
-## Poll
 
-_Measure popularity or offer a choice_
-
-![](poll.png)
-
-Enter a question and provide some options for people to choose from. People vote for one or more options - depending on if you allow single or multiple choice.
-
-Write any details about the options all together in the details field, then just enter the name of the option in each poll option field.
-
-Examples:
-
-* Where should we have our Christmas party?
-* Which catering company should we use?
-* What size t-shirt would you like?
-* If we ran a workshop, how likely are you to attend?
 
 ### Multiple choice
 
