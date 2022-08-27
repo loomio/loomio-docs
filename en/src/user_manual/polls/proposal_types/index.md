@@ -1,11 +1,48 @@
-# Polls and Proposals
-_Loomio's **proposals** and **polls** are desgined to help you move a discussion through to clear outcomes_
+# Poll types
 
-There are a number of different types of polls. Below the thread context, switch from the **Comment** box to the **Poll** to see the variety of unique ways to get your group's input and/or visualise where the group stands on a given topic or question.
+Polls help you facilitate collaborative decision-making.  Use polls to engage people, survey opinion, seek contributions, uncover information, identify priorities, vote on issues, approve documents, organize events and hold elections.
 
-![](https://i.imgur.com/3l100CM.jpg)
+## Sense check
 
-The **Proposal** tool also has a variety of options that allow you to run a number of distinct processes (eg, a 'questions & comments round'), as covered [below](#proposals).
+Collaborative decisions include one or more rounds of feedback before a decision is made.
+
+![](sense_check.png#width-80)
+
+The **Sense check** poll is a simple way to get feedback on a decision before things get finalized - clarify and improve an idea before moving to a proposal. 
+
+Sense check lets people know a proposal is forming and encourages them to engage. It is an opportunity to listen to people, sense how they feel and respond appropriately - opening the potential to incorporate their contributions to make a better proposal - that’s more likely to pass.
+
+![](sense_options.png#width-80)
+
+Use Sense check when you want to survey opinions, rather than advocate for a particular position. It is a great way to surface concerns before moving to a formal agreement.  You can find out if people are happy with where this is going, if they have questions or need more time, or if they are concerned and want something to change.
+
+You can use one or more rounds of ‘Sense check’ to help you co-create a better, more cohesive decision with less stress and anxiety.
+
+![](sense_results.png)
+
+## Proposal
+
+The Proposal poll is at the heart of collaborative decisions.
+
+![](proposal_label.png#width-80)
+
+A Proposal is used to present a decision to be made. For example an agreement, document or policy for approval, resolution or appointment.  
+
+Proposal is also used in Advice, Consent and other collaborative decision making processes.
+
+![](proposal_options_new.png#width-80)
+
+Use the default voting options or change to suit your decision process.
+
+![](proposal_results.png)
+
+### Consent process
+
+Edit voting options for the Consent process.
+
+![](proposal_consent_options.png#width-80)
+
+
 
 ## Time poll
 
@@ -118,58 +155,4 @@ Examples:
 * What would you like to eat at the company summer party?
 * Who should be our next deputy mayor?
 
-## Proposals
 
-_Seek collective agreement_
-
-![](proposal.png)
-
-Proposals are great for bringing a discussion to a clear outcome, developing or adopting policy, approving applications, and making decisions with input from others.
-
-With good participation, a proposal creates support within the group to take action.
-
-Participants can indicate their **position** and give a statement to explain why they chose it.
-
-### Change which positions can be submitted
-
-You can change the positions, or options, that proposal participants will have to choose from. There are several configurations for you to choose from.
-
-<!-- ![](/en/user_manual/whats_new_loomio_2/flexible_proposals1.png) -->
-
-_For example,_ you might decide to take a period of time for 'questions & comments' before you ask people to respond to the final proposal. In this case, you may even choose to have **No voting**. While you could invite questions & comments without a proposal, the proposal can be a useful way to create a very clear time box and invitation to comment on _this_ proposal. Using a proposal for questions & comments can also help remind people to participate with the notification sends 24 hours before the poll closes.
-
-_Another example:_ If your group doesn't use a variant of [consent-based decision making](/en/guides/consent_process/#glossary) then you may choose to use a configuration without the "block" or "objection".
-
-### Ways of using proposals
-
-Don't hesitate to start a proposal just because you're not sure everyone will agree - proposals are not only for when you have consensus, they're designed to surface issues that need resolving and are useful for clarifying disagreements.
-
-#### Uncover the controversy
-
-_E.g. Let's put a bike stand next to the front desk_
-
-If there are two or more competing ideas, propose supporting one. Controversial topics might require a series of proposals to build shared understanding.
-
-#### Series of small Yes's
-
-_E.g. We host the conference; dates and venue to be confirmed later_
-
-Break down a complex issue into smaller parts and agree on them piece by piece.
-
-#### Polarising Minority
-
-_E.g. Share our pay rates publicly_
-
-Sometimes loud voices can seem like they are representing more of the group than they really are. Raise a proposal to put their views in perspective.
-
-#### Temperature Check
-
-_E.g. Temperature Check: we should change the privacy policy_
-
-A temperature check is a way to test how the group feels without concluding a fully realized proposal. Use it when you want to survey opinions, or test a hunch, rather than advocate for a particular position.
-
-#### On disagreement
-
-'Disagree' and 'block' are often controversial positions to take. We encourage you to see them as opportunities to understand where communication has been inadequate, points of view are under-represented, or as a source of valuable insight.
-
-If things feel tense on a personal level, we recommend that you talk (one-on-one) with the person to hear their concerns.
