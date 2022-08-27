@@ -88,21 +88,52 @@ When the poll closes, state an **Outcome** and say what will happen next.
 
 ## Time poll
 
-_Find a time to meet_
+Save time arranging a date for your meeting or event. 
 
-![](https://i.imgur.com/cmde9LX.jpg)
+![](timepoll_label.png#width-80)
 
-Time poll makes it easy to identify when is the best time to meet.
+Time poll makes it easy to see everyone's availability and find the best time.
 
-Enter a selection of times and share the poll with the people involved. Participants tick the times they can attend and the result is a table showing who is available when, so you're able to pick the best time for the group.
+Give your Time poll a title and details. Enter a list of date and time options in your time zone.  
 
-So that you can arrange calls with people in other parts of the world, Loomio adjusts times so they are correct when displayed for each participant.
+When setting timeslots, consider people in different time zones. Participants will see times localized in their time zone.
 
-When you are selecting your times, Loomio will display your team’s most used time zones so you can quickly propose times that suit most members.
+Set a meeting duration.
 
-![](https://i.imgur.com/M9L6byc.jpg)
+![](timepoll_options.png#width-80)
+
+### Voting
+
+People mark the timeslots they are available with the green 'thumbs up' icon or leave the red 'thumbs down' in place when unavailable.  They can also use the 'thumbs sideways' icon to say they are available 'if need be'. 
+
+Participants can leave a reason comment to help the organizer find a suitable time.
 
 If the times don't work, participants can suggest alternatives using the message field. You can then update the poll with new times.
+
+![](timepoll_vote.png#width-80)
+
+The results update as voting proceeds in a table showing who is available when, so everyone can see which timeslots are popular.
+
+### Outcome
+
+When the Time poll closes, pick the best time slot and state an Outcome.
+
+![](timepoll_outcome.png#width-80)
+
+**Notify**: Add the people you are inviting to the meeting or event.
+
+**Meeting time**: Click on the meeting time to select the best meeting time.  
+
+**Meeting name**: Give your meeting a name. (Default name is the Time poll title.)
+
+**Location**: You can add a location for the meeting.
+
+**Statement**: State the outcome of the Time poll and any instructions for the meeting.
+
+Loomio will include a calendar invitation with the Outcome notification email, so participants can add to their calendar.
+
+![](timepoll_calendar.png#width-80)
+
 
 ## Check
 
