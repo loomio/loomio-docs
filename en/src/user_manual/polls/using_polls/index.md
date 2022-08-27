@@ -1,37 +1,36 @@
-Introducing templates
+# Using Polls
 
 
-# [Introducing Poll and Thread templates - first pass](https://app.tango.us/app/workflow/a474cec4-351a-44c0-b33d-e67bfb09b67b?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
+## Ways of using Proposals
 
-__Description:__ 
-Hi, I'm delighted to tell you about a big update that both simplifies how you use Loomio day to day, and provides much more flexibility to create your own templates and decision-making processes.
+Don't hesitate to start a proposal just because you're not sure everyone will agree - proposals are not only for when you have consensus, they're designed to surface issues that need resolving and are useful for clarifying disagreements.
 
-In this video we are going to
+### Uncover the controversy
 
-*   introduce two new poll types - 'Sense check' and 'Opt-in'
-    
-*   show how you can configure polls to suit a particular decision process or voting method
-    
-*   outline how you can build decision making processes and save these as templates
-    
+_E.g. Let's put a bike stand next to the front desk_
 
-**Configurable Proposals**
---------------------------
+If there are two or more competing ideas, propose supporting one. Controversial topics might require a series of proposals to build shared understanding.
 
-We have learnt a lot over the last 3 or 4 years about how people use proposals and how they apply decision making processes in Loomio.  
+### Series of small Yes's
 
-  
-The most popular feature request is for proposals to be more configurable - so you can change voting options to suit the way you want to work.
+_E.g. We host the conference; dates and venue to be confirmed later_
 
-When you next start or open a Loomio thread, you’ll notice there are now just 2 tabs in the thread. We have combined proposal within the Polls tab - after all Proposal is a type of poll.
+Break down a complex issue into smaller parts and agree on them piece by piece.
 
-***
+### Polarising Minority
 
-### 1. New thread
-![Step 1 screenshot](https://images.tango.us/public/screenshot_65bb8119-52cf-4648-a39a-94a1d5a254ac.png?crop=focalpoint&fit=crop&fp-x=0.5000&fp-y=0.5000&fp-z=1.0000&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2900%3A1542)
+_E.g. Share our pay rates publicly_
 
+Sometimes loud voices can seem like they are representing more of the group than they really are. Raise a proposal to put their views in perspective.
 
-### 2. START POLL
-You will find Proposal as one of three common poll types.
-![Step 2 screenshot](https://images.tango.us/public/screenshot_69a5861c-b115-4ef2-8e4d-64d3e315c90a.png?crop=focalpoint&fit=crop&fp-x=0.4190&fp-y=0.6783&fp-z=1.1531&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2900%3A1542)
+### Temperature Check
 
+_E.g. Temperature Check: we should change the privacy policy_
+
+A temperature check is a way to test how the group feels without concluding a fully realized proposal. Use it when you want to survey opinions, or test a hunch, rather than advocate for a particular position.
+
+### On disagreement
+
+'Disagree' and 'block' are often controversial positions to take. We encourage you to see them as opportunities to understand where communication has been inadequate, points of view are under-represented, or as a source of valuable insight.
+
+If things feel tense on a personal level, we recommend that you talk (one-on-one) with the person to hear their concerns.
