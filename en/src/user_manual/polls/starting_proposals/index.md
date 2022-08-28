@@ -1,5 +1,12 @@
 # Starting a Poll
 
+*On this page*
+- [Start a poll](#start-a-poll)
+- [Set up poll](#set-up-poll)
+- [Poll settings](#poll-settings)
+- [Inviting people to vote in a poll](#inviting-people-to-vote-in-a-poll)
+- [Managing polls](#managing-polls)
+
 ## Start a poll
 
 ### Within a thread
@@ -86,7 +93,7 @@ Give sufficient time for people to vote. You could time the proposal so it close
 
 You can later add or remove people from an ‘Invite people only’ poll.
 
-## Settings tab
+## Poll Settings
 
 ![](proposal_settings.png#width-80)
 
@@ -121,7 +128,7 @@ Setting options:
 ### Start Poll
 Click the **Start Poll** button.
 
-## Invite Members
+## Inviting people to vote in a poll
 
 Invite people to your poll by sending them a notification.
 
