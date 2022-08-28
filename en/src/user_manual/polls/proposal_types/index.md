@@ -2,6 +2,13 @@
 
 Polls help you facilitate collaborative decision-making.  Use polls to engage people, survey opinion, seek contributions, uncover information, identify priorities, vote on issues, approve documents, organize events and hold elections.
 
+*On this page*
+- [Sense check](#sense-check)
+- [Proposal](#proposal)
+- [Simple poll](#simple-poll)
+- [Time poll](#time-poll)
+
+
 ## Sense check
 
 Collaborative decisions include one or more rounds of feedback before a decision is made.
