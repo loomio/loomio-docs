@@ -271,7 +271,7 @@ _Create your own poll type_
 
 ![](poll_type_label.png#width-80)
 
-Create a new type of poll for your group. Customize terminology and settings so it's easy for other people in your group to run a specific decision making process.
+Create a new type of poll for use in your group. Customize terminology and settings so it's easy for other people in your group to run a specific decision making process.
 
 With the new poll type form, you can change voting options, name, description and default duration.
 
@@ -291,7 +291,7 @@ Other methods include:
 
 ### Poll type name and description
 
-Give the poll template a name and add a description of the purpose of your poll type.
+Give the poll type a name and add a description of the purpose of your poll type.
 
 Then give your poll type an example title and details to prompt people using your poll.  The title and details can be edited when used.
 
