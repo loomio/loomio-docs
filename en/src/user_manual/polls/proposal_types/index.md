@@ -7,9 +7,11 @@ Polls help you facilitate collaborative decision-making.  Use polls to engage pe
 - [Proposal](#proposal)
 - [Simple poll](#simple-poll)
 - [Time poll](#time-poll)
-
+- [Opt-in](#opt-in)
 
 ## Sense check
+
+_Ask for feedback, questions and concerns_
 
 Collaborative decisions include one or more rounds of feedback before a decision is made.
 
@@ -28,6 +30,8 @@ You can use one or more rounds of ‘Sense check’ to help you co-create a bett
 ![](sense_results.png)
 
 ## Proposal
+
+_Make a decision together_
 
 The Proposal poll is at the heart of collaborative decisions.
 
@@ -50,6 +54,8 @@ Edit voting options for the Consent process.
 ![](proposal_consent_options.png#width-80)
 
 ## Simple poll
+
+_Find the most popular option_
 
 Before making a decision, find which option(s) people care most about.
 
@@ -94,6 +100,8 @@ When the poll closes, state an **Outcome** and say what will happen next.
 ![](poll_outcome.png#width-80)
 
 ## Time poll
+
+_Find when people are available to meet_
 
 Save time arranging a date for your meeting or event. 
 
@@ -141,35 +149,26 @@ Loomio will include a calendar invitation with the Outcome notification email, s
 
 ![](timepoll_calendar.png#width-80)
 
+## Opt-in
 
-## Check
+_Find volunteers or participants_
 
-_Count how many people have completed a task, or ask for volunteers_
+Use Opt-in to invite people to a join a team, committee or working group, or to participate in an event.  
 
-![](check.png)
+![](opt_in_label.png#width-80)
 
-Make an offer or ask people to take some action. Think of it as the online equivalent of asking a room of people "Please raise your hand if you…".
+‘Opt-in’ has two voting options: Accept or Decline. 
 
-There are many ways you can use a check, but only one or two ways to respond: a Tick \(✔\), meaning affirmative, or an X mark \(✘\) meaning no or unsure.
+Set how many people you are looking for, say 3 people to join your working group.
 
-You can choose to use just one or the other if that makes more sense; _eg, it may not help to receive_ ***No*** _responses for an opt-in or volunteer opportunity, in which case you will select the_ ***Yes*** _option only_
+![](opt_in_options.png#width-80)
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/b28F7mciATA?rel=0" frameborder="0" allowfullscreen></iframe>
+Use Opt-in to seek engagement and encourage participation.  For example think of Opt-in as the online way to ask a room of people *"Raise you hand if ..."*
 
-Other examples:
+![](opt_in_results.png#width-80)
 
-* I've checked my contact details are correct
-* I've read the document and left my feedback
-* I'm coming to the event
-* I'll join the working group.
+Like other Loomio polls, Opt-in asks you to set a closing time and will automatically notify people 24 hours before close - encouraging people to participate in a timely way so you can get on with the work. 
 
-A benefit of Count is that it automatically notifies those people who forget to participate, giving people a little encouragement to get the job done.
-
-
-
-### Multiple choice
-
-Select the tick box, **Multiple choice**, if you wish for people to be able to choose multiple options rather than just a single choice off of the list of options.
 
 ## Score Poll
 
