@@ -2,6 +2,15 @@
 
 Lets take an orientation tour to help you quickly understand how to participate in discussions and decisions in your group.
 
+_On this page_
+- [How Loomio works](#how-loomio-works)
+- [Group page](#group-page)
+- [Sidebar](#sidebar)
+- [Notifications](#notifications)
+- [Finding Information Quickly](#finding-information-quickly)
+- [Threads](#threads)
+- [Polls](#polls)
+
 ## How Loomio works
 
 Loomio is a simple structure of three main elements; Group, Thread and Decisions. 
@@ -43,7 +52,7 @@ Importantly, as well as selecting a response, everyone can give a reason why the
 
 A proposal, and associated discussion, creates its own record of how the decision came about.
 
-## Putting it all together
+### Putting it all together
 
 ![](key_concept_1.png)
 
@@ -155,9 +164,9 @@ Tags can be applied when starting or editing a Thread, Poll or Proposal.
 
 ![](search-tags.png#width-80)
 
-## Thread page
+## Threads
 
-From your group page, click on a thread to read the thread.
+Under the Threads tab on your group page, click on one of the threads in the list to open the thread.
 
 ![](thread-robotics-roadshow.png#width-80)
 
@@ -200,8 +209,8 @@ The thread timeline builds with key activity in the threads.  Use timeline to qu
 
 ![](thread-timeline.png#width-50)
 
-## Poll page
+## Polls
 
-From your group page, select the POLLS tab to see your list of polls and proposals. Alongside the poll name, there is an active icon that changes as the poll progresses, and indicates your vote.
+From your group page, select the Polls tab to see your list of polls. Alongside the poll name, there is an active icon that changes as the poll progresses, and indicates your vote.
 
 ![](polls-page.png#width-80)
