@@ -205,19 +205,25 @@ _Allocate a budget of points to reveal priorities_
 
 ![](dot_vote_label.png#width-80)
 
-This style of poll is useful for groups trying to allocate a limited resource to a number of options.  It goes beyond a simple poll by helping participants appreciate that there is a constraint to selecting options.
+This poll type is useful for groups trying to allocate a limited resource to a number of options.  It goes beyond a simple poll by helping participants appreciate there is a constraint when selecting options.
 
 ![](dot_vote_options.png#width-80)
 
-Participants are each given a set number of dots.
+Participants are each given a set number of dots.  You decide how many.
 
 ![](dot_vote_voting.png#width-80)
 
-They place dots next to options presented that they like.
+They place dots next to options presented that they like.  Participants can place all their dots on a single option or spread over multiple options.  
+
+As participants allocate dots, they may exceed the dot budget limit and so are encouraged to consider how they spend their dots carefully.
 
 ![](dot_vote_results.png#width-80)
 
-Options with the most dots “win”.
+Options with the most dots “win”.  The results table provides additional data to help you analyse results.
+- % of points
+- Points
+- Mean
+- Voters 
 
 Examples:
 
@@ -227,17 +233,35 @@ Examples:
 
 ## Ranked choice
 
-_Rank options in the order of preference._
+_Understand the ordered preference of options_
 
 ![](ranked_choice_label.png#width-80)
 
-Offers a series of options for people to vote in their preferred order. You can choose the number of votes people can give and rank. This decision-making type allows people to express their opinion in more detail than traditional polls.
+Ranked choice is particularly useful when you have a large number of options or holding an election. 
 
-Ranked choice is particularly useful when you have a large number of options or an election setting, where you are concerned with two somewhat similar options 'stealing' votes from one another, resulting in a less popular option gaining the plurality.
+This poll type offers a series of options for people to vote in their preferred order. 
+
+'Anonymous voting' and 'Shuffle options' settings are common for Ranked choice to reduce any voting bias.
+
+![](ranked_choice_options.png#width-80)
+
+You can choose the number of votes people can give and rank. 
+
+![](ranked_choice_voting.png#width-80)
+
+Voters drag and drop options in order of preference (#1 being your most preferred option). 
+
+![](ranked_choice_results.png#width-80)
+
+Results are showed in ranked order. The results table provides additional data to help you analyse results.
+- Rank
+- % of points
+- Points
+- Mean
 
 Examples:
 
-* What would you like to eat at the company summer party?
-* Who should be our next deputy mayor?
+* Electing directors to governance board.
+* What topics should we focus on at our next conference?
 
 
