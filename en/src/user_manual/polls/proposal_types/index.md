@@ -8,6 +8,9 @@ Polls help you facilitate collaborative decision-making.  Use polls to engage pe
 - [Simple poll](#simple-poll)
 - [Time poll](#time-poll)
 - [Opt-in](#opt-in)
+- [Score poll](#score-poll)
+- [Dot vote](#dot-vote)
+- [Ranked choice](#ranked-choice)
 
 ## Sense check
 
@@ -172,43 +175,61 @@ Like other Loomio polls, Opt-in asks you to set a closing time and will automati
 
 ## Score Poll
 
-_Express the degree of preference for each option_
+_Measure the degree of support for each option_
 
-![](https://i.imgur.com/kLXKujG.jpg)
+![](score_label.png#width-80)
 
-The score poll is commonly used for general surveys or 'temperature checks', in which electing a single 'winning' option is not necessarily the point.
+Use Score poll when you want to survey people for their desire, preference or interest in each option. 
 
-![](score_poll_results.png)
+'Anonymous voting' and 'Shuffle options' settings are common for Score poll to reduce any voting bias.
 
-People get to express their desire, preference or interest in each option. The poll produces more granular results than a simple majority vote.
+![](score_options.png#width-80)
+
+Participants are asked to evaluate each option and assign a score by moving a slider along a scale.
+
+![](score_voting.png#width-80)
+
+Results are displayed graphically along with a table for each option showing total points, mean points and the number of voters.
+
+![](score_results.png#width-80)
 
 Examples:
 
 * How would you rate your interest in these topics for the next meeting agenda?
-* How important is each of these principles to you when considering our team vision?
-* How much would you like to see each of the following speakers at the next conference?
+* How important are each of these principles to you?
+* Which speakers would you like at the next conference?
 
 ## Dot vote
 
-_Prioritise options together by allocating a 'budget' of points_
+_Allocate a budget of points to reveal priorities_
 
-This style of poll is useful for groups trying to allocate a limited resource (even time) to a number of options (eg, agenda items, or budget line-items)
+![](dot_vote_label.png#width-80)
 
-![](dot-vote.png)
+This style of poll is useful for groups trying to allocate a limited resource to a number of options.  It goes beyond a simple poll by helping participants appreciate that there is a constraint to selecting options.
 
-Everyone gets a number of dots to allocate against a set of options to represent their priorities. This can build a more detailed picture than a simple poll.
+![](dot_vote_options.png#width-80)
+
+Participants are each given a set number of dots.
+
+![](dot_vote_voting.png#width-80)
+
+They place dots next to options presented that they like.
+
+![](dot_vote_results.png#width-80)
+
+Options with the most dots “win”.
 
 Examples:
 
-* You're given $100 to spend on the business; how would you spend it?
-
-See [dotmocracy.org](http://dotmocracy.org/) for more tips and resources about this voting method.
+* Choose strategic priorities for the year ahead.
+* Choose agenda items for meeting, conference or General Assembly.
+* Allocate spend in a fixed budget.
 
 ## Ranked choice
 
 _Rank options in the order of preference._
 
-![](https://i.imgur.com/4zU6t7Z.jpg)
+![](ranked_choice_label.png#width-80)
 
 Offers a series of options for people to vote in their preferred order. You can choose the number of votes people can give and rank. This decision-making type allows people to express their opinion in more detail than traditional polls.
 
