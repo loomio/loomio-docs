@@ -128,16 +128,6 @@ Click **react** on any thread context or comment to share how a comment made you
 
 Loomio can translate user content (eg, votes, comments…) from one language into another automatically (with the help of Google Translate). If the author of a comment uses a language other than yours, **Translate comment** will be available in the drop-down options of the comment in question, from the three horizontal dots (**⋯**).
 
-## Facilitation and Decision tools
-![](facilitation_tools_tabs.png)
-There are a selection of **facilitation tools** and **decision tools** available to you from within the thread.
-
-- Proposals are there to help you see if there is agreement about a statement or course of action, and surface the disagreement if that's what needs to happen. Often, you can use proposals to bring the discussion to conclusion.
-- Polls are useful to understand preferences of the group.
-- Use a time poll if you need to get everyone together, and want to find the best time for that meeting to happen.
-
-Find out more about [decision tools](/en/user_manual/polls/proposal_types).
-
 ## Email notifications
 By default
 
