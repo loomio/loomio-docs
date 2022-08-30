@@ -71,7 +71,12 @@ The polls created in the template are now ready to use, in the order they were c
 
 ![](template_polls.png#width-80)
 
-You can see an example of this thread template in use in the [demo group](https://loomio.org/demo).
+You can see an example of this thread template in use in the [demo group](https://loomio.org/demo).  See the thread "Refreshing our brand".
 
-See the thread "Refreshing our brand".
+### Close thread template
 
+As a last step, **Close** the thread.  The thread template is accessible with **New thread** as above, but is removed from the open threads on your group page.
+
+Select **closed** to view the template.
+
+![](template_closed.png#width-80)
