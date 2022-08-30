@@ -9,7 +9,11 @@ _On this page_
 - [Notifications](#notifications)
 - [Finding Information Quickly](#finding-information-quickly)
 - [Threads](#threads)
-- [Polls](#polls)
+- [Polls](#poll-tab)
+
+The best way to learn about Loomio is to have a go. Use your own group or:
+- see the [demo](https://loomio.org/demo)
+- start a [free trial](https://www.loomio.org/g/new)
 
 ## How Loomio works
 
@@ -39,51 +43,49 @@ Threads keep everything about a topic in one place. Over time you’ll create a 
 
 One of the best things about Loomio is its range of tools to progress a discussion to an outcome. Each poll type has a slightly different purpose. The most common one is a proposal. 
 
-
-
 ![](Proposals.png#width-50)
 
-A **proposal** is for converting a discussion into a clear, practical outcome. Someone suggests a course of action and invites everyone to respond. For example, you might ask group members to either:
+A **proposal** is for converting a discussion into a clear, practical outcome. Someone suggests a course of action and invites everyone to respond. For example, you might ask members of your group to either:
 - agree
 - abstain or 
 - disagree. 
 
 Importantly, as well as selecting a response, everyone can give a reason why they have voted this way. You can all see where everyone else stands on the matter, and why. And then, if you want, you can change your response. 
 
-A proposal, and associated discussion, creates its own record of how the decision came about.
+A proposal, and associated discussion, helps your group build shared understanding and creates its own record of how the decision came about.
 
 ### Putting it all together
 
 ![](key_concept_1.png)
 
-The best way to learn what to use when is to have a go. Use your own group or [start a demo group](https://loomio.org/try).
+The best way to learn what to use when is to have a go. Use your own group or:
+- see the [demo](https://loomio.org/demo)
+- start a [free trial](https://www.loomio.org/g/new)
 
 
 ## Group page
 
 Your group home page is the first place people see when they arrive. It contains a description of why the group exists, what you will use it for, and any other information that may help you participate.
 
-You can add an image that represents something of your organization and place.
+Administrators can edit the description, add an image and logo that represents your organization, set and change group privacy and member permissions.
 
-![](group_page_threads.png)
+![](group_page_home.png)
 
 ### Tabs
 
 Under the group description you will see tabs. Clicking on each tab displays information about:
 
-**Threads** - A list of discussion threads showing the author, the thread title, category tag, along with some other useful information about the recent activity in the thread. 
+**Threads** - A list of discussion threads showing the author, the thread title, category tag, along with some other useful information about recent activity in the thread. 
 
-**Polls** - A list of the polls and proposals active in your group.
+**Polls** - A list of polls active in your group.
 
 **Members** - Where you can see a list of the people who are members of the group.
 
-**Files** - Files and documents that have been uploaded to your group.
+**Files** - Files and documents that have been attached to threads in your group.
 
 **Subgroups** - A list of subgroups that you are a member of. A subgroup is the collaborative space for a working team, project or event, a governance board, a subcommittee or stakeholders group.
 
-**Settings** - Where administrators of the group can set and change group privacy and member permissions.
-
-Below the tabs there is a search bar, with filters such as open or closed threads and category tags. The filters help you view a reduced set of information.
+Below the tabs there is a search bar where you can type in any key word to find a particular thread. To the left are drop down menus where you can filter thread view to see open or closed threads, or view threads by category tag.
 
 If the threads tab is selected, the thread list shows the title of the thread, author, number of replies, and when last active.
 
@@ -91,26 +93,30 @@ If the threads tab is selected, the thread list shows the title of the thread, a
 
 The sidebar menu is accessible from the (☰) menu icon at screen top left, where you can see:
 
-![](sidebar_menu.png#width-80)
+![](sidebar_menu_janus.png)
 
-* **Dashboard** - Open Polls and Proposals and recently active Threads.
-* **Unread threads** - A list of Threads you have yet to read.
-* **Invite-only threads** - Private Threads that do not belong to a group.
-* **Start a new thread** - Where you can start a new private Thread. 
+* **Dashboard** - Open polls and recently active threads.
+* **Unread threads** - A list of threads you have yet to read.
+* **Invite-only threads** - Private threads that do not belong to a group.
+* **Start a new thread** - Where you can start a new thread. 
+* **Tasks** - A list of tasks assigned to you, with due date.
 * **Your Loomio groups** - Where you can easily find your Loomio groups and subgroups.
+* **New group** - To start a new Loomio group on free trial.
+* **Demo group** - See and explore your private demo group at any time.
+* **Help & guides** - A link to the Loomio User Manual.
+* **Contact support** - [Contact us via web form](https://www.loomio.org/contact).
 
 ### User settings
 
 Click the down arrow ( ∨ ) to open your user settings.
 
-![](profile_edit.png#width-50)
+![](profile_edit_2.png)
 
-The most useful settings when getting started are:
-
+* **Pin sidebar** - The sidebar remains open.
 * **Edit profile** - Where you can edit name, email address, upload your photo, introduce yourself, add your location.
 * **Notification settings** - Set what emails you want to receive from Loomio.
-* **Help** - Access Loomio Help documentation.
-* **Contact support** - Where you can connect with the Loomio customer support team.
+* **Enable dark mode** - Set your visual interface preference.
+* **Sign out** - Sign out from your Loomio user account.  
 
 ## Notifications
 
@@ -118,7 +124,7 @@ The most useful settings when getting started are:
 
 The bell icon in the top-right is where notifications are accessed within Loomio.
 
-![](notifications.png#width-80)
+![](notifications_demo.png)
 
 ### Email notifications
 
@@ -128,19 +134,15 @@ Emails Loomio may send you include:
 
 * **Mention and Replies** - When someone @mentions you in a comment or replies to you, you will receive a notification email.
 * **Subscribe on participation** - If selected, when you participate in a thread you will receive emails for all further activity. Not recommended for most people.
-* **Catch-up summary email** - The 'Yesterday on Loomio' email includes activity from all your groups and threads that you have not read yet.
+* **Catch-up summary email** - The 'Yesterday on Loomio' email includes activity from all your groups and threads that you have not read yet, and is a useful way to stay in touch with what's happening without having to visit Loomio every day.
 * **Invitations to threads, polls and proposals** - You may receive an email when invited to a new thread, poll or proposal.
-* **Reminders and Outcomes** - If you have not voted in a poll or proposal, you may receive a reminder 24 hours before close. You may also receive an email stating the outcome of a poll or proposal.
+* **Reminders and Outcomes** - If you have not voted in a poll, you may receive a reminder 24 hours before close. You may also receive an email stating the outcome of a poll.
 
 These emails are to help you participate effectively with your group. The default settings are to help you stay up to date with activity on Loomio but should not overload your email inbox.
 
 If you are receiving too many emails from Loomio, you can change the default email settings. Talk to your group administrator to get the balance right for you.
 
-![](profile_1.png#width-50)
-
-![](email-settings.png#width-80)
-
-![](notification-preferences.png#width-80)
+![](email_settings_full.png)
 
 When you receive an email from Loomio, you can reply directly from your email inbox and your reply will be posted into the Loomio thread. This works for everything except the Catch-up summary email.
 
@@ -152,9 +154,9 @@ There are several tools included within Loomio to help you find the information 
 
 You can use the Search bar at the top of almost every page to search for content relevant to that page.
 
-For example, on the Threads page typing 'decision' in the search bar brings up two threads with the work 'decision'.
+For example, on the threads page typing 'strategy' in the search bar brings up threads with the word 'strategy'.
 
-![](search.png#width-80)
+![](search_strategy.png)
 
 ### Category Tags
 
@@ -162,13 +164,13 @@ Category Tags make it easy to find threads of a certain type or topic.
 
 Tags can be applied when starting or editing a Thread, Poll or Proposal.
 
-![](search-tags.png#width-80)
+![](search_tags.png)
 
 ## Threads
 
 Under the Threads tab on your group page, click on one of the threads in the list to open the thread.
 
-![](thread-robotics-roadshow.png#width-80)
+![](thread_example_brand.png)
 
 The thread title is prominent, and you can see thread content and comments from other members. 
 
@@ -179,38 +181,38 @@ The thread page includes everything you need to know about the thread;
 * **Seen by** to see who has seen the thread
 * **Notified** to see who has been notified
 * comments, replies, reactions and any polls
-* timeline of key events in the thread, such as polls or proposals
+* timeline of key events in the thread, such as polls
 
 ### Thread context
 
-The thread context is used to introduce the topic. It will often include background information, attached files or links to online documents, to help you participate in the discussion - just as you would attach a file to an email. The context always stays at the top of the thread.
+The thread context is used to introduce the topic. It will often include background information to help you participate in the discussion, such as attached files or links to online documents. The context always stays at the top of the thread.
 
-![](thread-context.png#width-80)
+![](thread_context_example.png#width-80)
 
 ### Thread activity
 
 **Seen by** shows who has read the thread, and when.
 
-![](seen-by.png#width-80)
+![](seen_by_example.png)
 
 **Notified** shows who has been notified about the thread, and if read or email opened.
 
-![](thread-notification.png#width-80)
+![](thread_notification_example.png)
 
 ### Comments
 
 As you scroll down the thread page, you will see comments and replies from other group members.
 
-![](thread-comments.png#width-80)
+![](thread_comments_example.png#width-80)
 
 ### Timeline
 
 The thread timeline builds with key activity in the threads.  Use timeline to quickly go to decisions or important comments pinned to the timeline.
 
-![](thread-timeline.png#width-50)
+![](thread_timeline_example.png)
 
-## Polls
+## Poll tab
 
 From your group page, select the Polls tab to see your list of polls. Alongside the poll name, there is an active icon that changes as the poll progresses, and indicates your vote.
 
-![](polls-page.png#width-80)
+![](polls_list.png)
