@@ -5,7 +5,7 @@ Lets take an orientation tour to help you quickly understand how to participate 
 _On this page_
 - [How Loomio works](#how-loomio-works)
 - [Group page](#group-page)
-- [Sidebar](#sidebar)
+- [Side bar](#side-bar)
 - [Notifications](#notifications)
 - [Finding Information Quickly](#finding-information-quickly)
 - [Threads](#threads)
@@ -89,7 +89,7 @@ Below the tabs there is a search bar where you can type in any key word to find 
 
 If the threads tab is selected, the thread list shows the title of the thread, author, number of replies, and when last active.
 
-## Sidebar
+## Side bar
 
 The sidebar menu is accessible from the (☰) menu icon at screen top left, where you can see:
 
