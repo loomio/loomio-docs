@@ -2,13 +2,32 @@
 
 ## New thread
 
-You can start a thread by clicking **New thread** from a group page. When you start the thread, it will be visible to all members of your group.
+Start a thread by clicking **New thread** from a group page. 
 
-![start new thread button](thread_start_new.png)
+![new thread](thread_new.png)
 
-Give your thread a title; try to keep it short and to the point. You can always update the title of the thread later.
+## Set up thread
 
-Use the thread **context** to introduce the topic and frame the conversation or decision to make. Include background information, attach files, link to online documents and embed a video. Let people know what you expect. 
+The thread set up page has two tabs:
+
+- **Content** to write content for your thread.
+- **Settings** to configure how the thread displays and mark as template.
+
+![start new thread](thread_start_new.png#width-80)
+
+### Content tab
+
+**Group:** Check the name of the group is correct.  Anyone in this group will be able to see the thread. You can also start the thread in another group or as an 'Invite-only' thread (no group).
+
+**Tags:**  Add tag(s) to help people find your thread when searching by tag.  Admins can create new tags. 
+
+**Notify:** You can use notify to send the thread to the people you wish.  Use the drop down menu to select a group of people, and click on the group to see individual people.  You can then remove people 
+
+![thread notification](thread_notification.png#width-80)
+
+**Title:** Give your thread a relevant title.  A thread title is similar to an email subject line.
+
+**Context:** Use thread context to introduce the topic and frame the conversation or decision to make. Include background information, attach files, link to online documents and embed a video. Let people know what you expect. 
 
 The context will always stay at the top of the thread and you can update it at any time as the discussion progresses.  When the discussion ends, update the context with the outcome.
 
