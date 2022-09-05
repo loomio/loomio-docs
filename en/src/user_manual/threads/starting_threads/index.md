@@ -13,7 +13,7 @@ The thread set up page has two tabs:
 - **Content** to write content for your thread.
 - **Settings** to configure how the thread displays and mark as template.
 
-![start new thread](thread_start_new.png#width-80)
+![start new thread](thread_start_new_2.png#width-80)
 
 ### Content tab
 
