@@ -12,6 +12,9 @@ Watch this video for an intro to Loomio. We walk through how people use Loomio t
 <iframe width="560" height="315" src="https://www.youtube.com/embed/itXYid8eSiI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
+**[View the demo here.](https://www.loomio.org/demo)**
+
 Loomio is used by:
 
 **Boards and Governance** to prepare for meetings, build an agenda, post board papers, vote on resolutions, approve minutes and continue governance between meetings. Helping your board stay in context and better able to respond.
