@@ -53,23 +53,35 @@ Here are some common uses of threads:
 
 **Advice, Consent and Generative decision making** - Prepare, propose, clarify, respond to reactions and objections, agree and implement - all within a Loomio thread.
 
+---
+
 ## First thread examples
 
 ### Prepare for meeting
 
-#### Step 1: Where should our focus be for the next meeting?  
+#### Step 1: Meeting focus  
+Where should our focus be for the next meeting?
+
 We spend a lot of precious time in meetings and may not always talk about the things that really matter.  
+
 Invite people to say what they think and co-create your agenda. 
 
 ![](meeting_focus.png#width-80)
 
 #### Step 2: Meeting agenda
-Announce your next meeting with a clear agenda. Include documents, links and any materials that will be discussed to help everyone prepare.  
+Announce your next meeting with a clear agenda. 
+
+Include documents, links and any materials that will be discussed to help everyone prepare.  
+
 Invite people to respond with an Opt-in poll to confirm they have read the agenda and are ready for the meeting.
 
 ![](meeting_agenda.png#width-80)
 
 #### Step 3: Minutes and actions
-Following the meeting, record the minutes and actions.  Use a Proposal poll to confirm everyone has read the minutes and accepted their actions.  This provides a clear record of the meeting and a reference for the future for further discussion. 
+Following the meeting, record the minutes and actions.  
+
+Use a Proposal poll to confirm everyone has read the minutes and accepted their actions.  
+
+This provides a clear record of the meeting and a reference for the future for further discussion. 
 
 ![](meeting_minutes.png#width-80)
