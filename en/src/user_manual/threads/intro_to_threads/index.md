@@ -54,11 +54,10 @@ Here are some common uses of threads:
 **Advice, Consent and Generative decision making** - Prepare, propose, clarify, respond to reactions and objections, agree and implement - all within a Loomio thread.
 
 ---
-
 ## First thread examples
 
 ### Prepare for a meeting
-Use Loomio to prepare for your next meeting by involving people from the outset - to establish a focus for the meeting and co-create the agenda. This will help everyone align towards the most important issues, making better use of your precious time in-person together.
+Use Loomio to prepare for your next meeting by involving people from the outset - to establish a focus for the meeting and co-create the agenda. This will help everyone align towards the most important issues, making better use of your precious time together.
 
 #### Step 1: Meeting focus  
 Ask where the focus should be for the next meeting.
