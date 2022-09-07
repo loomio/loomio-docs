@@ -80,7 +80,7 @@ Invite people to respond with an **Opt-in** poll to confirm they have read the a
 #### Step 3: Minutes and actions
 Following the meeting, record the minutes and actions.  
 
-Use a Proposal poll to confirm everyone has read the minutes and accepted their actions.  
+Use a **Proposal** poll to confirm everyone has read the minutes and accepted their actions.  
 
 This provides a clear record of the meeting and a reference for the future for further discussion. 
 
@@ -99,7 +99,7 @@ Invite people to contribute information and their expertise, and use this to fra
 ![](document_introduce.png#width-80)
 
 #### Step 2: Integrate feedback and contributions
-Acknowledge anc consider feedback and contributions from people.
+Acknowledge and consider feedback and contributions from people.
 
 Integrate contribution into a first draft of the document.
 
