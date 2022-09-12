@@ -1,5 +1,7 @@
 # Getting started on Loomio with your board or committee
 
+*Work in progress - last updated September 13, 2022*
+
 Loomio is a versatile discussion and decision-making tool for collaborative organizations. 
 
 This guide is intended to help you configure Loomio for your board or committee.
