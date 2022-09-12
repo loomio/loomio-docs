@@ -1,4 +1,4 @@
-# Summary
+# Help
 
 - [Overview](user_manual/getting_started/index.md)
   - [Orientation tour](user_manual/getting_started/orientation.md)
@@ -53,15 +53,8 @@
 
 # Guides
 
-# Success on Loomio
-- [Let’s get your team working in Loomio](guides/engage-group.md)
-- [4 patterns of successful groups](guides/four-patterns-of-success.md)
-- [5 ways to use threads](guides/5_ways_to_use_threads/index.md)
-- [Loomio and other collaboration tools](guides/mapping-tools.md)
-- [Practical examples](guides/practical_examples.md)
-
 # Governance
-- [Getting started on Loomio with your board or committee](guides/board_processes/index.md)
+- [Boards and Committees](guides/board_processes/index.md)
 - [AGM and General Assembly](guides/virtual_agm/index.md)
 - [Board meetings](guides/virtual_board_meetings/index.md)
 
@@ -73,6 +66,12 @@
   - [Concluding](guides/facilitators_guide/concluding/index.md)
   - [Ongoing Practice](guides/facilitators_guide/ongoing_practice/index.md)
 
+# Success on Loomio
+- [Let’s get your team working in Loomio](guides/engage-group.md)
+- [4 patterns of successful groups](guides/four-patterns-of-success.md)
+- [5 ways to use threads](guides/5_ways_to_use_threads/index.md)
+- [Loomio and other collaboration tools](guides/mapping-tools.md)
+- [Practical examples](guides/practical_examples.md)
 ---
 
 # Policies
