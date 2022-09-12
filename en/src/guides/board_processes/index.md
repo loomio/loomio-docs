@@ -9,8 +9,8 @@ This guide is intended to help you configure Loomio for your board or committee.
 Following are some examples of common practices and how to apply these in Loomio.
 
 - [Prepare for a meeting](#prepare-for-a-meeting)
-  - Focus and review actions
-  - Agenda and notify
+  - [Focus and review actions](#meeting-focus-and-review-actions)
+  - [Agenda and notify](#agenda-and-notify)
   - Find a time for meeting
   - Sign off minutes
   - Approve reports
@@ -48,11 +48,11 @@ Use a Loomio **Thread** to prepare for your meeting:
 * invite comment about the most important things to focus on
 * summarize actions from the previous meeting and ask for an update
 
-### Agenda and notify people
+### Agenda and notify
 
 Announce the meeting with a clear agenda. Attach papers, link to key documents and notify members. 
 
-This helps everyone prepare for the meeting by reading the materials and thinking about topics of discussions and decisions to be made.  People are then more likely to arrive in context and ready.
+This helps everyone prepare for the meeting by reading the materials and thinking about topics of discussion and decisions to be made.  People are then more likely to arrive in context and ready for the meeting.
 
 Actions: 
 - prepare agenda, documents, materials and board papers
