@@ -1,4 +1,4 @@
-# Getting started on Loomio with your board or committee
+# Loomio for boards and committees
 
 *Work in progress - last updated September 13, 2022*
 
@@ -9,7 +9,7 @@ This guide is intended to help you configure Loomio for your board or committee.
 Following are some examples of common practices and how to apply these in Loomio.
 
 - [Prepare for a meeting](#prepare-for-a-meeting)
-  - Actions and meeting focus
+  - Meeting focus and review actions
   - Agenda and notify
   - Find a time for meeting
   - Sign off minutes
@@ -24,20 +24,25 @@ Following are some examples of common practices and how to apply these in Loomio
 
 ## Prepare for a meeting
 
-### Actions and meeting focus
+Use Loomio to prepare for your next meeting by involving people from the outset. 
 
-Use Loomio to prepare for your next meeting by involving people from the outset - to establish a focus for the meeting and co-create the agenda. This will help everyone align towards the most important issues, making better use of your precious time together.
+Help everyone align towards the most important topics, and make better use of your precious time together.
 
-There are several things you likely do to prepare for your next board or committee meeting:
-- ensure the focus of the meeting is about the most important things
-- follow up and talk to members about actions from previous meetings
+There are several things you likely do to prepare for a board or committee meeting...
+
+### Meeting focus and review actions
+
+Use Loomio to establish a focus for the meeting and co-create the agenda. Focus the meeting on the most important things.
+
+Follow up and talk to members about actions from previous meetings.
 
 ![](meeting_prep.png#width-80)
 
 #### On Loomio
-Use a Loomio **Thread** to prepare for your board meeting:
-* notify directors about the next meeting
+Use a Loomio **Thread** to prepare for your meeting:
+* remind members about the next meeting
 * invite comment about the most important things to focus on
+* summarize actions from the previous meeting and ask for an update
 
 ### Agenda and notify people
 
