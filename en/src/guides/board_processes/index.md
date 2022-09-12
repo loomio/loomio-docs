@@ -6,6 +6,20 @@ This guide is intended to help you configure Loomio for your board or committee.
 
 Following are some examples of common practices and how to apply these in Loomio.
 
+- [Prepare for a meeting](#prepare-for-a-meeting)
+  - Actions and meeting focus
+  - Agenda and notify
+  - Find a time for meeting
+  - Sign off minutes
+  - Approve reports
+- Facilitating discussions
+  - Issues that arise between board meetings or when there isn't space during meetings.
+- Making resolutions and online decisions
+  - Keeping a record of decisions made and supporting discussion.
+- Governance practices and approaches - policies and procedures
+- Administration and record keeping
+
+
 ## Prepare for a meeting
 
 Use Loomio to prepare for your next meeting by involving people from the outset - to establish a focus for the meeting and co-create the agenda. This will help everyone align towards the most important issues, making better use of your precious time together.
