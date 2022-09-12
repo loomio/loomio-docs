@@ -61,7 +61,7 @@
 - [Practical examples](guides/practical_examples.md)
 
 # Governance
-- [Bringing your board processes into Loomio](guides/board_processes/index.md)
+- [Getting started on Loomio with your board or committee](guides/board_processes/index.md)
 - [AGM and General Assembly](guides/virtual_agm/index.md)
 - [Board meetings](guides/virtual_board_meetings/index.md)
 
