@@ -1,21 +1,23 @@
-# Bringing your board processes into Loomio
+# Getting started on Loomio with your board or committee
 
-Introducing people to a new tool doesn't just happen - it requires some intentional work on the part of everyone to build new patterns of work and behaviour, while respecting the different challenges everyone has in fulfilling their role.
+Loomio is a versatile discussion and decision-making tool for collaborative organizations. 
 
-It helps a lot if you can bring familiar board processes into Loomio. This will help everyone become familiar with the tool and appreciate the value it can bring your board.
+This guide is intended to help you configure Loomio for your board or committee.
 
-As a discussion and decision-making tool, Loomio is flexible and can be configured to suit you.  
+Following are some examples of common practices and how to apply these in Loomio.
 
-Here are some examples of how you can apply common board processes in Loomio.
+## Prepare for a meeting
 
-### Preparing for the next board meeting
-**Board work process:**
-* follow up and talk to directors about actions
-* ensure the focus of the meeting is about the most important things
-* documents, materials and board papers
-* progress of actions from previous meeting
-* notify directors and send board papers
-* agree a date/time for the next meeting
+Use Loomio to prepare for your next meeting by involving people from the outset - to establish a focus for the meeting and co-create the agenda. This will help everyone align towards the most important issues, making better use of your precious time together.
+
+There are several things you likely do to prepare for your next board or committee meeting.
+
+- follow up and talk to members about actions from previous meetings
+- ensure the focus of the meeting is about the most important things
+- prepare documents, materials and board papers
+- notify members and send papers
+
+
 
 ***On Loomio:***
 *Use a Loomio **Thread** to prepare for your board meeting:*
@@ -24,9 +26,7 @@ Here are some examples of how you can apply common board processes in Loomio.
 * *attach or link documents and other necessary materials*
 * *summarise actions and invite directors to update on their tasks*
 
-![](prepare-meeting.png)
 
-*Use a Loomio **Time Poll** to find the next meeting date.*
 
 
 ## Why does your board need an online place for discussion and decisions?
