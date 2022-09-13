@@ -13,14 +13,13 @@ Following are some examples of common practices and how to apply these in Loomio
   - [Agenda and notify](#agenda-and-notify)
   - [Find a time for meeting](#find-a-time-for-meeting)
   - [Sign off minutes](#sign-off-minutes)
-  - Approve reports
+  - [Approve reports](#approve-reports)
 - Facilitating discussions
   - Issues that arise between board meetings or when there isn't space during meetings.
 - Making resolutions and online decisions
   - Keeping a record of decisions made and supporting discussion.
 - Governance practices and approaches - policies and procedures
 - Administration and record keeping
-
 
 ## Prepare for a meeting
 
@@ -90,6 +89,8 @@ Great for people in different timezones - they will see dates and times localize
 
 ![](timepoll_vote.png#width-80)
 
+When the Time poll closes, choose the best time and send an outcome notification with calendar invitation, for members to add to their calendar. 
+
 ### Sign off minutes
 Approving or ratifying minutes is standard practice for formal meetings and good practice for most meetings.  
 
@@ -101,7 +102,22 @@ The example above uses a **Simple poll** with two options 'Accept' or 'Review'.
 
 When everyone has voted and the poll closes, state an outcome so everyone knows what has happened.  
 
-If your meeting practice requires formal acceptance at the next meeting, schedule a short agenda item where you acknowledge and confirm polls and decisions made on Loomio, and record this in the meeting minutes.  For example; "Does anyone wish to change their votes in Loomio?  If no, then let's resolve to formally approve polls made in Loomio during the last period."
+If your meeting practice requires formal acceptance at the next meeting, schedule a short agenda item where you acknowledge and confirm polls and decisions made on Loomio, and record this in the meeting minutes.  
+
+For example; *"Does anyone wish to change their votes in Loomio?  If no, then let's resolve to formally approve polls made in Loomio during the last period."*
+
+### Approve reports
+Valuable time in meetings is often taken discussing and approving reports. For example financial reports and the report from the CEO.  
+
+With Loomio you can invite questions to the reports in your meeting thread and ask for approval of the reports ahead of the meeting.
+
+Members receive and read the reports at a time and place that works for them.  So as members read and think about the reports, they can comment and ask questions in Loomio.
+
+![](poll_approve_report.png#width-80)
+
+If your meeting practice requires formal acceptance at the next meeting, schedule a short agenda item where you acknowledge and confirm polls and decisions made on Loomio, and record this in the meeting minutes.  
+
+For example; *"Does anyone wish to change their votes in Loomio?  If no, then let's resolve to formally approve polls made in Loomio during the last period."*
 
 ---
 
