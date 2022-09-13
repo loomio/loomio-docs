@@ -119,6 +119,17 @@ If your meeting practice requires formal acceptance at the next meeting, schedul
 
 For example; *"Does anyone wish to change their votes in Loomio?  If no, then let's resolve to formally approve polls made in Loomio during the last period."*
 
+## Facilitating discussions
+At times topics arise that require the attention of board or committee members between meetings, or there is not space for adequate discussion during a meeting.
+
+Use a Loomio **thread** to facilitate a discussion.  Give the thread a descriptive title that members will recognize and provide details in the thread context.  Add a relevant category tag to help members find the thread in future.
+
+Notify members of the thread by inviting them, so they will receive a copy of the thread by email.  Members can participate in the discussion by clicking on the link to go to Loomio, or reply to the notification email and their comment will appear as a comment in the thread.
+
+![](thread_discussion.png#width-80)
+
+A Loomio thread enables you to attach files or link to online resources to support the discussion.
+
 ---
 
 ## Why does your board need an online place for discussion and decisions?
