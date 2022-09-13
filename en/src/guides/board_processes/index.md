@@ -91,8 +91,17 @@ Great for people in different timezones - they will see dates and times localize
 ![](timepoll_vote.png#width-80)
 
 ### Sign off minutes
+Approving or ratifying minutes is standard practice for formal meetings and good practice for most meetings.  
 
+Post the minutes in the Loomio meeting thread within a few days of the meeting and invite participants to approve.  This keeps the minutes relevant and fresh in member's minds and is a great way to remind members of their actions.  It also saves some time during your meeting.
 
+![](poll_minutes.png#width-80)
+
+The example above uses a **Simple poll** with two options 'Accept' or 'Review'.
+
+When everyone has voted and the poll closes, state an outcome so everyone knows what has happened.  
+
+If your meeting practice requires formal acceptance at the next meeting, schedule a short agenda item where you acknowledge and confirm polls and decisions made on Loomio, and record this in the meeting minutes.  For example; "Does anyone wish to change their votes in Loomio?  If no, then let's resolve to formally approve polls made in Loomio during the last period."
 
 ---
 
