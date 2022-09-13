@@ -14,7 +14,7 @@ Following are some examples of common practices and how to apply these in Loomio
   - [Find a time for meeting](#find-a-time-for-meeting)
   - [Sign off minutes](#sign-off-minutes)
   - [Approve reports](#approve-reports)
-- Facilitating discussions
+- [Facilitating discussions](facilitating-discussions)
   - Issues that arise between board meetings or when there isn't space during meetings.
 - Making resolutions and online decisions
   - Keeping a record of decisions made and supporting discussion.
