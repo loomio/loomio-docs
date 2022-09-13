@@ -12,7 +12,7 @@ Following are some examples of common practices and how to apply these in Loomio
   - [Focus and review actions](#meeting-focus-and-review-actions)
   - [Agenda and notify](#agenda-and-notify)
   - [Find a time for meeting](#find-a-time-for-meeting)
-  - Sign off minutes
+  - [Sign off minutes](#sign-off-minutes)
   - Approve reports
 - Facilitating discussions
   - Issues that arise between board meetings or when there isn't space during meetings.
@@ -82,8 +82,19 @@ A Loomio poll lets everyone know that something is happening and their response 
 ![](meeting_agenda_1.png#width-80)
 
 ### Find a time for meeting
+If you have not yet set a date and time for the meeting or you need to find a time for a future meeting, you can use **Time poll**.
+
+Time poll makes it easy to see everyone's availability and find the best time, reducing time and energy needed for this common admin task.
+
+Great for people in different timezones - they will see dates and times localized in their time zone.
+
+![](timepoll_vote.png#width-80)
+
+### Sign off minutes
 
 
+
+---
 
 ## Why does your board need an online place for discussion and decisions?
 
