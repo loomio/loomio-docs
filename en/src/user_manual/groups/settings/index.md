@@ -1,21 +1,27 @@
 # Group Settings
-_Configuring your Loomio group._
+_Configure the privacy and permissions for your Loomio group._
+
+On this page
+- [Group profile](#group-profile)
+- [Privacy](#privacy)
+- [Permissions](#permissions)
+- [Thread settings](#thread-view-settings)
 
 In group settings you can change group name, add a group description, upload a photo or image for your group, change group privacy and member permissions, and set thread view default. Only people who are 'admin' can see and edit group settings. 
 
 On your group page, find and click on the **Edit group settings** cogwheel icon to open Group settings and use the form that appears (click save when done). 
 
-![](edit-group-name.png#width-90)
+![](edit_settings.png#width-80)
 
 ## Group profile
+
+![](edit_group_name.png#width-80)
 
 ### Upload a group photo
 
 Uploading a photo or image that has some meaning to your group significantly improves the sense of belonging. You can also add a logo which will appear alongside your group name in the sidebar menu.  Click on the image and logo to upload your file.
 
 The ideal pixel resolution for the group image is 2048 x 512. But any image with aspect ratio of 4:1 will fit. 
-
-![](settings-profile.png#width-90)
 
 You can also upload your logo icon, which will appear alongside your organization or group name in the sidebar menu.
 
@@ -74,68 +80,111 @@ Your privacy settings determine who can find your group, who can see the threads
 
 The recommended privacy setting for new groups is **Secret**. This means everything is private to those invited members of the group. No one will know about this group (or subgroup) unless you invite them.
 
-If you want the content of your discussions and decisions to be public, change your group privacy to **Open**. The members list will only be visible to other members.
+If you want the content of your discussions and decisions to be public and accessible by anyone on the internet, change your group privacy to **Open**. The members list will only be visible to other members.
 
-Many groups use **Closed** to allow people to find the group and request to join. The **Name** and **Group description** are publicly accessible in Closed groups.
+Many groups use **Closed** to allow people to find the group and request to join. The **Name** and **Group description** are publicly accessible in Closed groups, but all threads are private.
 
 Open groups may contain secret and closed subgroups.
 
-A member of an open group can see the closed subgroup but not the secret ones.
+A member of an open group can see that a closed subgroup exists, but not secret subgroups.
+
+### Open group privacy - How do people join?
+
+![](settings_open_group.png#width-80)
+
+#### Anyone can join 
+
+In open groups use this option if you want anyone on the internet to be able to join without restriction by clicking the 'Join group' button.  A Loomio user account is required to participate.  If the person joining does not already have a Loomio user account, they will be invited to create one.
+
+#### Request to join
+
+The default option is 'Anyone can request to join but must be approved.' A person visiting the group can request to join the group clicking the 'Join group' button. 
+
+![](join_group.png#width-80)
+
+The person joining is invited to respond to 'Why do you want to join?'
+
+![](ask_to_join.png#width-80)
+
+Admin(s) of the group will receive an email notification with the request.
+
+![](join_notification.png#width-80)
+
+Following the link, admins can accept or decline the request.
+
+![](membership_request.png#width-80)
+
+#### Invitation only
+
+Use this option to make a group and it's threads available to anyone as read-only.  Only people specifically invited can write or participate in the group.
+
+### Privacy settings of trial groups
+
+Group privacy settings cannot be change for a group in trial. 
 
 ---
 
 ## Permissions
 
-Most of the permissions settings only affect what **members** can do. Members are the users in your group who are _not_ [Admins](#admin).
+There are two levels of membership a person can have to a group: admin and member. 
 
-![](settings-permissions.png#width-90)
+Admins can edit group settings, make other people admins, and perform all the actions listed below.
 
-### Anyone can join (Open groups)
+Consider carefully each of these permissions and how they apply to your group.  In general groups with trusted members experienced with Loomio will have most settings ticked. However for most new groups, communities and larger networks, where people are less familiar with Loomio, you may want to restrict permissions to keep everyone safe.  You can always open permissions as confidence and experience of the group increases.  
 
-In _open groups_ you can use the option, **Anyone can join**, in order for the public to be able to join without any action by any member of the group.
+Contact us if you have questions about the best permission settings for your group.
 
-### Requiring approval of membership requests (Open groups)
+![](settings_permissions.png#width-80)
 
-If you select this option, rather than letting people walk in the door voluntarily (self-select to join your group), then admin will have the option to approve or ignore people's requests to join.
+### Members can invite members
 
-- You can also give group members the permission to approve requests, also in the **Permissions** tab of Group Settings.
+This allows everyone in your group to invite new people. When deselected only group admins will be able to invite and approve new members.
 
-### Allow members of parent group to see threads
+### Members can invite guests
 
-In _closed subgroups_ you can allow members of the parent group to see discussions within the subgroup.
-Select, **Members of [parent group] can see private threads** to enable this feature. This feature is off by default. For more on subgroups, [see here](../subgroups).
+Allows anyone in your group to invite a guest into a particular thread or poll in the group.  A guest can only see and participate in the thread or poll they are invited to - they cannot see other threads or polls in the group.
 
-### Members can invite people and approve requests to join
-
-This allows everyone in your group to invite new people in, and approve any membership requests. When it is deselected only group admin will be able to invite and approve new members.
+For example a board may want to invite their accountant to participate in a discussion about a financial report, so invites the accountant to the particular thread.
 
 ### Members can notify everyone in group
 
-When ticked, any Member will be able to use **notify** and [**invite people**](../../threads/notifying_people/#send-thread), sending notifications immediately to some, or all, of the group. Unless your group is very big, Loomio recommends you leave this on.
+This allows a member to send a notification email to anyone or everyone in the group about a thread or poll.
 
-### Create subgroups
+### Members can create subgroups
 
-This allows everyone in your group to create subgroups. When it is deselected only group admin will be able to create subgroups.
+This allows everyone in your group to create subgroups and become the admin of the subgroup. 
 
-### Start threads
+### Members can start new threads
 
-This allows everyone in your group to start new threads. When it is deselected only group admin will be able to start discussions.
+This allows everyone in your group to start new threads. 
 
-### Edit the context of any thread in the group
+### Members can manage threads and comments
 
-This allows everyone in your group to edit the context of any thread. When it is deselected only group admin and the thread author will be able to edit the thread context.
+This allows everyone in your group to edit, move, pin, tag or close threads.
 
-### Edit their comments at any time
+### Members can edit their own comments
 
-This allows everyone in your group to edit their comments at any time. When it is deselected, a comment can only be edited until someone else participates in the thread.
+This allows everyone in your group to edit their comments at any time. 
 
-### Raise proposals
+### Members can delete their own comments
 
-This allows anyone in your group to start a proposal within a thread. When this box is deselected only group admin will be able to raise proposals and polls.
+This allows everyone in your group to delete their own comments from threads.
 
-### Vote on proposals
+### Members can start polls
 
-This allows everyone in your group to state their position on proposals. When it is deselected only group admin will be able to state their position on proposals and polls.
+This allows everyone in your group to start a poll within a thread. 
+
+### Admins can edit members' comments
+
+This allows an admin to edit content written by a member.  Use this if you need to moderate or edit comments.
+
+## Subgroup permissions
+
+There is an additional permission setting available in subgroups.
+
+### Members of parent group can see private threads
+
+In closed subgroups you can allow members of the parent group to see discussions within the subgroup.  This setting is used to enable transparency of the discussions and decisions taking place within a subgroup to be visible to members of the parent group.   For example, a board that wishes to operate transparently within the organization.
 
 ---
 
