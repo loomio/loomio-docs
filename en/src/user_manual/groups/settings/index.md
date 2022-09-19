@@ -74,7 +74,7 @@ Use the formatting tools to format text, attach documents, add hyperlinks, and e
 
 Go to the **Settings** tab on your group page. Click **Edit Group Settings** and go to the **Privacy** tab. Click **Update Settings** when done.
 
-![](settings-privacy.png#width-90)
+![](settings-privacy.png#width-80)
 
 Your privacy settings determine who can find your group, who can see the threads in your group, and how people join.
 
