@@ -8,13 +8,13 @@ If you already use Loomio and would like to start a new group for another organi
 
 A new Loomio group starts a new free trial and you will be invited to upgrade the trial to a paid subscription.  
 
-Pro plan customers have more than one group included with the Pro subscription. [Contact us](https://www.loomio.org/contact) to connect your new group to your Pro plan subscription.
+If you are a Pro plan customer, we can add your group to your Pro plan subscription. [Contact us](https://www.loomio.org/contact) to connect your new group to your Pro plan subscription account.
 
-![](new-group.png#width-50)
+![](new_group.png)
 
 ### Group details
 
-![](new-group-start.png#width-90)
+![](new_group_start.png#width-80)
 
 #### Group name
 
@@ -27,10 +27,6 @@ Your group is automatically assigned a 'handle'. This provides a simplified url 
 The simplied url address for your group is **loomio.org/your-group-handle**.
 
 You can edit the handle.
-
-#### Category selection
-
-You may be asked to select a category that best describes your group. This helps us help you with relevant information.
 
 **When you click 'Start Group' your new group is automatically created!**
 
