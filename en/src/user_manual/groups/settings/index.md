@@ -11,11 +11,11 @@ In group settings you can change group name, add a group description, upload a p
 
 On your group page, find and click on the **Edit group settings** cogwheel icon to open Group settings and use the form that appears (click save when done). 
 
-![](edit_settings.png#width-80)
+![](edit_settings.png#width-90)
 
 ## Group profile
 
-![](edit_group_name.png#width-80)
+![](edit_group_name.png#width-90)
 
 ### Upload a group photo
 
@@ -74,7 +74,7 @@ Use the formatting tools to format text, attach documents, add hyperlinks, and e
 
 Go to the **Settings** tab on your group page. Click **Edit Group Settings** and go to the **Privacy** tab. Click **Update Settings** when done.
 
-![](settings-privacy.png#width-80)
+![](settings-privacy.png#width-90)
 
 Your privacy settings determine who can find your group, who can see the threads in your group, and how people join.
 
@@ -90,7 +90,7 @@ A member of an open group can see that a closed subgroup exists, but not secret 
 
 ### Open group privacy - How do people join?
 
-![](settings_open_group.png#width-80)
+![](settings_open_group.png#width-90)
 
 #### Anyone can join 
 
@@ -100,19 +100,19 @@ In open groups use this option if you want anyone on the internet to be able to 
 
 The default option is 'Anyone can request to join but must be approved.' A person visiting the group can request to join the group clicking the 'Join group' button. 
 
-![](join_group.png#width-80)
+![](join_group.png#width-90)
 
 The person joining is invited to respond to 'Why do you want to join?'
 
-![](ask_to_join.png#width-80)
+![](ask_to_join.png#width-90)
 
 Admin(s) of the group will receive an email notification with the request.
 
-![](join_notification.png#width-80)
+![](join_notification.png#width-90)
 
 Following the link, admins can accept or decline the request.
 
-![](membership_request.png#width-80)
+![](membership_request.png#width-90)
 
 #### Invitation only
 
@@ -134,7 +134,7 @@ Consider carefully each of these permissions and how they apply to your group.  
 
 Contact us if you have questions about the best permission settings for your group.
 
-![](settings_permissions.png#width-80)
+![](settings_permissions.png#width-90)
 
 ### Members can invite members
 
@@ -192,7 +192,7 @@ In closed subgroups you can allow members of the parent group to see discussions
 
 You can change the default settings for the way threads are displayed at the group level.  
 
-![](group_settings_threads.png#width-80)
+![](group_settings_threads.png#width-90)
 
 ### Oldest or Newest first
 
