@@ -22,7 +22,7 @@ Go to your group page and click the **Members** tab to access member management
 
 You can **Invite** particular people to your group with their email address or **Share** a link to your group via email, newsletter, chat or from your website.
 
-![](invite_button.png)
+![](invite_button.png#width-90)
 
 ## Invite people via their email
 
@@ -30,15 +30,15 @@ Click **Invite** on the Member tab of your group page to send an email invitatio
 
 If the recipient already has a Loomio user account they can still accept the invitation to join your group with their existing account.
 
-![](invite_member.png)
+![](invite_member.png#width-90)
 
 ### Invite many at once
 
 You can send invitations by email to up to 100 people at a time by entering (or copy/pasting) multiple email addresses into the "Who would you like to invite" box. Separate email addresses by comma or space. 
 
-- **Tip**: Copy email addresses from a column in a Google or Excel spreadsheet, and paste into the invitation box.
+- ***Tip**: Copy email addresses from a column in a Google or Excel spreadsheet, and paste into the invitation box.*
 
-When you click **Invite**) an email will be sent to each of the email addresses you supplied, containing a unique invitation link that can only be used once. This email will be sent in your current language.
+When you click **Invite** an email will be sent to each of the email addresses you supplied, containing a unique invitation link that can only be used once. This email will be sent in your current language.
 
 ### Invite people to Subgroups
 
@@ -56,7 +56,7 @@ Two options are provided:
 
 Click on the "copy" icon to copy the link to your clipboard, then paste in your email, newsletter or chat channel.
 
-![](share_group.png)
+![](share_group.png#width-90)
 
 ### Allow people to "Request to Join"
 
@@ -81,7 +81,7 @@ If people join but don't begin to participate right away, you might like to welc
 > “Welcome to the group @Jane :) It's great to have you here! Would you saying a little bit about your work in this space?”
 
 
-![](resend-invitation.png)
+![](resend_invitation.png)
 
 ### Cancelling invitations
 If you entered the wrong email address, or have changed your mind about inviting someone, you can cancel an invitation from the Members tab on your Group page. Select **Cancel Invitation** from the drop down menu to the right of the member invitation (**⋮**).
