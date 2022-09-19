@@ -5,7 +5,7 @@ On this page
 - [Group profile](#group-profile)
 - [Privacy](#privacy)
 - [Permissions](#permissions)
-- [Thread settings](#thread-view-settings)
+- [Threads](#thread-settings)
 
 In group settings you can change group name, add a group description, upload a photo or image for your group, change group privacy and member permissions, and set thread view default. Only people who are 'admin' can see and edit group settings. 
 
@@ -188,20 +188,20 @@ In closed subgroups you can allow members of the parent group to see discussions
 
 ---
 
-## Thread view settings
+## Thread settings
 
-Thread **activity** is comprised of all the comments, replies, proposals, polls, votes and other notable things that happen within the thread. You can alter how that activity is displayed in order to optimize the experience for your group. These settings change the default layout for everyone in your group, but can be adjusted for each thread to serve  a specific purpose:
+You can change the default settings for the way threads are displayed at the group level.  
 
-![](group-settings-threads.png#width-90)
+![](group_settings_threads.png#width-80)
 
 ### Oldest or Newest first
 
-By default, threads are set to **Oldest** listed with the oldest activity nearest the top. You can change the thread flow by switching to **Newest** so that the newest activity is at the top of the thread.
+Threads set to **Oldest** display comments top to bottom from oldest to newest.  New comments start at the bottom of the thread.
+
+You can reverse thread view with **Newest** so that the new comments start at the top of the thread.  This is useful for 'wall' threads, for example a thread used for posting regular reports.
 
 ### Flat or Nested replies
 
 The thread can also be set to display chronologically, as a **flat list**, where all activity is displayed in the order that it happened, or as **nested replies** of one or two levels. 
 
 Nested replies keeps replies to comments together, and is very helpful to easily see mini-discussions within an overall thread.
-
-Click **Save** to exit.
