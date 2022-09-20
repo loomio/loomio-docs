@@ -18,4 +18,4 @@ Clicking the **add tag** button allows you to edit, order, color, and **add new*
 
 Edit threads to add or remove tags after they're started.
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/ntauplSLsQE?rel=0" frameborder="0" allowfullscreen></iframe>
+
