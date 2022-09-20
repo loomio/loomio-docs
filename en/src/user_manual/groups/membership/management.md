@@ -3,7 +3,7 @@ Manage members from the **Members** tab on your group page.
 
 Click on the three dots (**⋮**) to the right of the group member you wish to **Set title**, **Make admin** or **Demote admin**, or **Remove from group**.
 
-![](members_management.png)
+![](member_management.png)
 
 ## Admin
 There are only two user types in a Loomio group; **member** and **admin**. 
