@@ -30,7 +30,7 @@ Click **Invite** on the Member tab of your group page to send an email invitatio
 
 If the recipient already has a Loomio user account they can still accept the invitation to join your group with their existing account.
 
-![](invite_member.png#width-90)
+![](invite_member.png)
 
 ### Invite many at once
 
@@ -56,7 +56,7 @@ Two options are provided:
 
 Click on the "copy" icon to copy the link to your clipboard, then paste in your email, newsletter or chat channel.
 
-![](share_group.png#width-90)
+![](share_group.png)
 
 ### Allow people to "Request to Join"
 
@@ -74,7 +74,7 @@ Follow up on people who don't make it into the group and give them a nudge. If s
 
 Click on the three dots (**⋮**) next to the person you want to resend the invitation to, and then choose **Resend invitation**. 
 
-### Encourage people to particiapte
+### Encourage people to participate
 
 If people join but don't begin to participate right away, you might like to welcome them to the group with an @mention, for example:
 
