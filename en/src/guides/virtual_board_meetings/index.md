@@ -58,7 +58,7 @@ These steps are detailed below with some examples. It is a great way to help you
 
 ### 1. Set up your group
 
-First, [click here](https://loomio.org/g/new/?utm_campaign=virtual_board_guide&utm_term=help) to start a new organization on Loomio if you haven't already. If you are considering using Loomio in other parts of your organization, I suggest setting up a [subgroup](/en/user_manual/groups/subgroups) for your board.
+First, [click here](https://www.loomio.com/g/new/?utm_campaign=virtual_board_guide&utm_term=help) to start a new organization on Loomio if you haven't already. If you are considering using Loomio in other parts of your organization, I suggest setting up a [subgroup](/en/user_manual/groups/subgroups) for your board.
 
 Edit group settings to add your Group description, so your board understands how you plan to use Loomio.
 
@@ -212,8 +212,8 @@ Find everything you need, when you need it, all in one place – great for audit
 
 ## Onwards
 
-Now that you know how to get better outcomes from your virtual board meeting with Loomio, **start your [free trial](http://loomio.org/?utm_campaign=virtual_board_guide&utm_term=help/)** so you’re ready when the time comes!
+Now that you know how to get better outcomes from your virtual board meeting with Loomio, **start your [free trial](https://www.loomio.com/?utm_campaign=virtual_board_guide&utm_term=help/)** so you’re ready when the time comes!
 
 Need to [run an AGM on Loomio](../virtual_agm) or Board meeting online?
 
-We’d love to hear about it – [connect with us](http://loomio.org/contact/?utm_campaign=virtual_board_guide&utm_term=help/).
+We’d love to hear about it – [connect with us](https://www.loomio.com/contact/?utm_campaign=virtual_board_guide&utm_term=help/).

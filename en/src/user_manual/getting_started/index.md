@@ -13,7 +13,7 @@ Watch this video for an intro to Loomio. We walk through how people use Loomio t
 </div>
 
 
-**[View the demo here.](https://www.loomio.org/demo)**
+**[View the demo here.](https://www.loomio.com/demo)**
 
 Loomio is used by:
 

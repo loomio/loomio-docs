@@ -26,4 +26,4 @@ It will look something like this:
 
 Here a link to the documentation, with a bogus API key. We recommend you follow the steps above to get working examples.
 
-[http://www.loomio.org/help/api?api_key=examplekey](http://www.loomio.org/help/api?api_key=examplekey)
+[https://www.loomio.com/help/api?api_key=examplekey](https://www.loomio.com/help/api?api_key=examplekey)

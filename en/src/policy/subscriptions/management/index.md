@@ -58,7 +58,7 @@ Invoices raised in currencies other than in USD are converted at the daily Teleg
 
 ## Change your plan
 
-[Click here to change your plan.](https://www.loomio.org/upgrade/)
+[Click here to change your plan.](https://www.loomio.com/upgrade/)
 
 You will see a list of all the groups you belong to.
 

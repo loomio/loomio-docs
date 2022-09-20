@@ -6,7 +6,7 @@ _Get everyone on board and get your group's first outcome on Loomio._
 
 No one wants to spin their wheels, and sometimes its important to get it right the first time. Don't worry, we've done this before. We offer a streamlined experience of getting started delivered by Loomio experts:
 
-[Ask about our bespoke, guided onboarding.](https://loomio.org/contact)
+[Ask about our bespoke, guided onboarding.](https://www.loomio.com/contact)
 
 ### Loomio Basics video series
 Review and share key lessons from the [Getting Started guide](/en/guides/getting_started) to bring newcomers up to speed in as little as 15 minutes with these [**videos**](/en/overview-and-how-tos).
@@ -36,4 +36,4 @@ How successful groups collaborate to achieve great outcomes.
 
 ## For all else
 
-If your questions aren't covered in our [User Manual](/) or these [guides](/en/guides), then [contact us](https://loomio.org/contact?utm_campaign=getting_started_guide_help&utm_term=help  "opens in new tab").
+If your questions aren't covered in our [User Manual](/) or these [guides](/en/guides), then [contact us](https://www.loomio.com/contact?utm_campaign=getting_started_guide_help&utm_term=help  "opens in new tab").

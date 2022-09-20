@@ -60,7 +60,7 @@ Click on the "copy" icon to copy the link to your clipboard, then paste in your 
 
 ### Allow people to "Request to Join"
 
-If your group's privacy is **Closed** then you can share your group URL ie: `www.loomio.org/group-name`. When people arrive at your group page, they will see the group title and description, and a button **Join group** where they can request membership. Group admins will receive an email where you can approve or deny the request to join.
+If your group's privacy is **Closed** then you can share your group URL ie: `www.loomio.com/group-name`. When people arrive at your group page, they will see the group title and description, and a button **Join group** where they can request membership. Group admins will receive an email where you can approve or deny the request to join.
 
 ## Managing invitations
 

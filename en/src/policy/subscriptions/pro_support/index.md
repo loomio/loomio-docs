@@ -16,7 +16,7 @@ We’ll keep in contact with you about opportunities for how Loomio could work b
 
 Pro plan customers receive priority support all year round; to answer questions, help onboard new administrators, and more.
 
-**[Upgrade to Pro here.](https://loomio.org/upgrade)**
+**[Upgrade to Pro here.](https://www.loomio.com/upgrade)**
 
 ## Group training
 Tailored training to suit your organization’s needs.  Our group training starts by understanding your unique group needs, the current tools and processes your group use, so as to implement Loomio in the most useful way.
@@ -44,4 +44,4 @@ Online workshops are usually recorded so a video is made available for your revi
 
 _Also available:_ In-person workshops for customers in New Zealand and Australia by arrangement. These will be at a location of your choosing and highly tailored to your needs. There may be additional costs with this package, especially for travel, and we’re happy to discuss a plan that makes the most sense for you.
 
-**[Request Group training for our organization.](https://loomio.org/contact)**
+**[Request Group training for our organization.](https://www.loomio.com/contact)**

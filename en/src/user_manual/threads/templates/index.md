@@ -71,7 +71,7 @@ The polls created in the template are now ready to use, in the order they were c
 
 ![](template_polls.png#width-80)
 
-You can see an example of this thread template in use in the [demo group](https://loomio.org/demo).  See the thread "Refreshing our brand".
+You can see an example of this thread template in use in the [demo group](https://www.loomio.com/demo).  See the thread "Refreshing our brand".
 
 ### Close thread template
 

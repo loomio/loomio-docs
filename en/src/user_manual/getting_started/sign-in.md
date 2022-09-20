@@ -129,7 +129,7 @@ Follow the instructions below to add a shortcut to Loomio on the home screen of 
 ### iPhone or iPad
 Launch “Safari” app.  (This does not work from the “Chrome” app.)
 
-Go to [loomio.org/dashboard](https://www.loomio.org/dashboard).
+Go to [loomio.com/dashboard](https://www.loomio.com/dashboard).
 
 Tap the 'Share' icon (it has an arrow coming out of a box) to open the share menu.
 
@@ -146,7 +146,7 @@ Tap “Add.” Safari will close and the Loomio icon will appear on your home sc
 ### Android
 Launch “Chrome” app.
 
-Go to [loomio.org/dashboard](https://www.loomio.org/dashboard).
+Go to [loomio.com/dashboard](https://www.loomio.com/dashboard).
 
 Tap the menu icon (3 dots in upper right-hand corner) and tap Add to homescreen.
 

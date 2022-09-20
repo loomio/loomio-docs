@@ -31,9 +31,9 @@ Loomio software is licensed under the [GNU Affero General Public License v3.0](h
 
 Loomio Limited operate cloud services using Loomio software goverened by our [Terms of Service](../terms/index.md).
 
-### LOOMIO.ORG
+### LOOMIO.COM
 
-[loomio.org](https://www.loomio.org/) is our most widely used service and available globally.  Loomio.org is hosted on servers based in the USA operated by Heroku.
+[loomio.com](https://www.loomio.com/) is our most widely used service and available globally.  Loomio.com is hosted on servers based in the USA operated by Heroku.
 
 Heroku is a cloud application platform used by organizations of all sizes to deploy and operate applications throughout the world. Heroku’s platform provides infrastructure management, scaling, security, monitoring and backups.
 
@@ -45,7 +45,7 @@ Heroku utilises ISO 27001 and FISMA certified data centres managed by Amazon. Yo
 
 **Backup data and Recovery**
 
-Loomio.org backup and data recovery is managed by Heroku. The software and data is automatically backed up as part of the deployment process on secure, access controlled, and redundant storage. Heroku use these backups to deploy Loomio software and data across the platform and automatically bring the application back online in the event of an outage.
+Loomio.com backup and data recovery is managed by Heroku. The software and data is automatically backed up as part of the deployment process on secure, access controlled, and redundant storage. Heroku use these backups to deploy Loomio software and data across the platform and automatically bring the application back online in the event of an outage.
 
 More information can be found at [Heroku’s security policy](https://www.heroku.com/policy/security).
 
@@ -73,4 +73,4 @@ Private and Self-host services ensure the highest level of security, configurati
 
 ## Over 9 years in business.
 
-We’ve been operating loomio.org since 2013. Security isn’t just about technology, it’s about trust. We’ve worked hard to earn the trust of hundreds of thousands of people world wide in tens of thousands Loomio groups. We’ll continue to work hard every day to maintain that trust. Longevity and stability is core to our mission at Loomio.
+We’ve been operating loomio since 2013. Security isn’t just about technology, it’s about trust. We’ve worked hard to earn the trust of hundreds of thousands of people world wide in tens of thousands Loomio groups. We’ll continue to work hard every day to maintain that trust. Longevity and stability is core to our mission at Loomio.

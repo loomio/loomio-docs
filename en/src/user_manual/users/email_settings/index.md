@@ -54,7 +54,7 @@ Enabling this setting means you will get an email with any activity that you mis
 
 ### To change Notification settings
 
-To change these settings, go to [Notification settings](https://www.loomio.org/email_preferences) in the user menu (click your name at the top of the sidebar _if it is closed, click on the menu icon_ (**☰**) _to open it._ Then click the cog icon or **Notification settings**.
+To change these settings, go to [Notification settings](https://www.loomio.com/email_preferences) in the user menu (click your name at the top of the sidebar _if it is closed, click on the menu icon_ (**☰**) _to open it._ Then click the cog icon or **Notification settings**.
 
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/VMhTAL5oXI8?rel=0" frameborder="0" allowfullscreen></iframe>
 
@@ -103,7 +103,7 @@ Note that the **subscribe on participation** setting affects your thread email s
 
 ## Turn off all notifications
 
-To turn off all email notifications go to [Notification settings](https://www.loomio.org/email_preferences/). First, untick all the boxes and **Save changes**. Lastly, choose **no notifications** and then **Update**.
+To turn off all email notifications go to [Notification settings](https://www.loomio.com/email_preferences/). First, untick all the boxes and **Save changes**. Lastly, choose **no notifications** and then **Update**.
 
 ![](turn_off_all_emails_1.png)
 

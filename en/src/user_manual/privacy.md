@@ -19,10 +19,10 @@ menu:
 As a group coordinator, you can customise your privacy and access permissions to suit what your group needs. See the [Loomio User Manual](https://help.loomio.com/en/user_manual/groups/settings/) for more information about Group Settings.
 
 ### Privacy Policy
-Loomio’s [Privacy policy](https://www.loomio.org/privacy) outlines how we handle personal data. We respect personal privacy and will never sell your data to third parties, nor put advertising into Loomio. We only transfer personal information to third parties where absolutely necessary.
+Loomio’s [Privacy policy](https://help.loomio.com/en/policy/privacy/) outlines how we handle personal data. We respect personal privacy and will never sell your data to third parties, nor put advertising into Loomio. We only transfer personal information to third parties where absolutely necessary.
 
 ### GDPR Compliance
-Loomio complies with European Union General Data Protection Regulations (GDPR). Our [compliance statement](https://www.loomio.org/gdpr) outlines how you can exercise your rights under the GDPR.
+Loomio complies with European Union General Data Protection Regulations (GDPR). Our [compliance statement](https://help.loomio.com/en/policy/privacy/regulations) outlines how you can exercise your rights under the GDPR.
 
 ## Security
 The Loomio software is available for inspection and regularly subject to third party security scan. Please contact us if you’d like to run a PEN test or security scan.
@@ -33,7 +33,7 @@ The Loomio software is available for inspection and regularly subject to third p
 Loomio software is licensed under [GNU Affero General Public License v3.0](https://github.com/loomio/loomio/blob/master/LICENSE.txt)
 
 ### Terms of Service
-Loomio’s software service is subject to our standard [Terms of Service](https://www.loomio.org/terms_of_service).
+Loomio’s software service is subject to our standard [Terms of Service](https://help.loomio.com/en/policy/terms).
 
 If you represent a New Zealand Government agency, the [Terms of Service for the New Zealand Government](https://drive.google.com/open?id=1VnVE8dlYp_Vr8uuz_8uErWdooZXR469U) apply. The terms are the same as our standard, but with the indemnity clause removed.
 
@@ -42,7 +42,7 @@ Loomio software is constantly evolving. Software updates include release notes n
 
 ## Hosting Information
 
-### Loomio.org
+### Loomio.com
 
 #### Hosted service provider
 Heroku is a cloud application platform used by organizations of all sizes to deploy and operate applications throughout the world. Heroku’s platform provides infrastructure management, scaling, and security.
@@ -116,7 +116,7 @@ A: By email. We notify customers as soon as we can, and no later than 72 hours f
 
 _Q: Do privileged users (administrators of the system) undergo any form of security clearance prior to being granted access?_
 
-A: Loomio staff and cooperative members may, in the course of their work, have access to customer data including personal data as described in Loomio’s [Privacy Policy](https://www.loomio.org/privacy).
+A: Loomio staff and cooperative members may, in the course of their work, have access to customer data including personal data as described in Loomio’s [Privacy Policy](https://help.loomio.com/en/policy/privacy/).
 
 Employee and contractor agreements for people working at Loomio include confidentiality clauses to protect Loomio and customer confidential information.  We treat all customer information and data as confidential, except for situations where a customer has explicitly made the information publicly accessible.
 
@@ -129,7 +129,7 @@ Access to the database, where discussion and decision data is held, is tightly c
 
 As a registered worker cooperative, Loomio is collectively owned by its members, who are all equal shareholders in the Cooperative and hold the responsibilities of business co-owners. Details and responsibilities of membership are outlined in the [Loomio handbook](https://loomio.coop/).
 
-You can read more about Loomio’s policy for data security, integrity and access in our [privacy policy](https://www.loomio.org/privacy). We specifically draw your attention to the following:
+You can read more about Loomio’s policy for data security, integrity and access in our [privacy policy](https://help.loomio.com/en/policy/privacy/). We specifically draw your attention to the following:
 
 _Loomio will not sell or rent any information you share with us. Access to your content and personally identifiable information is tightly controlled internally. Loomio takes all reasonable steps to protect your content from loss, misuse and unauthorized access, disclosure, alteration and destruction._
 
@@ -139,7 +139,7 @@ _Q: Is Loomio data encrypted?_
 
 A. We use TLS (Transport Layer Security) encryption for data sent between Loomio and users where they are using a securely hosted email service.
 
-You can read more about Loomio’s policy for data security, integrity and access in our [privacy policy](https://www.loomio.org/privacy). We specifically draw your attention to the following:
+You can read more about Loomio’s policy for data security, integrity and access in our [privacy policy](https://help.loomio.com/en/policy/privacy/). We specifically draw your attention to the following:
 
 _Content entered into the platform is distributed to the appropriate members of your groups via secure connections where possible and sent via email in the normal course of operation. Your content is only as secure as the personal devices, email services, ISPs, and actions of the members of your group._
 

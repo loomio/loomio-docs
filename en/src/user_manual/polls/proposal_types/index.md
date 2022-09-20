@@ -345,4 +345,4 @@ When anyone in your group starts a new poll, your new poll template is available
 
 ![](poll_type_view.png)
 
-The ability to configure poll types is a new feature, so please do [Contact us](https://www.loomio.org/contact) and let us know how you use it!
+The ability to configure poll types is a new feature, so please do [Contact us](https://www.loomio.com/contact) and let us know how you use it!

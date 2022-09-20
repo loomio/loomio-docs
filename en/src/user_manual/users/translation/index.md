@@ -46,7 +46,7 @@ If you have any questions, please feel free to reach out to me, rob@loomio.org a
 
 ## Tips
 
-You can use a [demo](https://www.loomio.org/try) to see Loomio in action, this can help provide contexts for strings when you see them via Transifex.
+You can use a [demo](https://www.loomio.com/try) to see Loomio in action, this can help provide contexts for strings when you see them via Transifex.
 
 If your language distinguishes between personal and impersonal, use the more personal!
 

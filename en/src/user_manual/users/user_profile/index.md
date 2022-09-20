@@ -25,7 +25,7 @@ You can update your personal info by changing any of the following fields:
 * **Your location** - useful for distributed or remote groups so people can get an idea of where you are located.
 
 ## Language settings
-Loomio is developed in English, but [is translated by volunteers into many languages](https://www.loomio.org/g/cpaM3Hsv/loomio-community-translation).
+Loomio is developed in English, but [is translated by volunteers into many languages](https://www.loomio.com/g/cpaM3Hsv/loomio-community-translation).
 
 Loomio will detect your browser’s language settings, but you can manually set your preferred language from the profile page.
 

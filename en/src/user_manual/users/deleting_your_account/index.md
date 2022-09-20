@@ -12,7 +12,7 @@ It is important to understand that copies of the data you have generated on Loom
 
 Deleting your account will _not_ cancel your subscription; to stop your payments see [Subscriptions](https://help.loomio.com/en/policy/subscriptions/management/#cancel-your-plan).
 
-**Loomio takes privacy and data protection very seriously**. Here is a link to our [policy](https://www.loomio.org/privacy) - if you have any questions about our policy, you can [get in touch](https://www.loomio.com/contact) with us.
+**Loomio takes privacy and data protection very seriously**. Here is a link to our [policy](https://help.loomio.com/en/policy/privacy/) - if you have any questions about our policy, you can [get in touch](https://www.loomio.com/contact) with us.
 
 ## To delete your account entirely
 

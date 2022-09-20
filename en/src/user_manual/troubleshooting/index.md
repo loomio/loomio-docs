@@ -7,7 +7,7 @@ To fix this: Sign out then sign in again with the email address you normally use
 Why does this happen? This can happen because you participated in a poll when you were not signed in; Loomio creates a guest user, so you can participate without signing in. When you sign in later, we confirm the authenticity of your vote and connect it to your registered user.
 
 ## I'm not receiving emails from Loomio
-If you cannot find your email code in the email inbox of the account you signed up with – or you started a group and haven't heard from us – **you will likely find it in your spam or junk mail folder.** Then, please white list loomio.org with your email service, or add notifications@loomio.org to your contacts.
+If you cannot find your email code in the email inbox of the account you signed up with – or you started a group and haven't heard from us – **you will likely find it in your spam or junk mail folder.** Then, please white list loomio.com with your email service, or add notifications@loomio.com to your contacts.
 
 ## How can I stop my signature being included in email replies to threads?
 

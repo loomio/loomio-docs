@@ -45,7 +45,7 @@ You’ll be able to get your organization started with Loomio in 10 minutes with
 
 ### 1. Set up your group
 
-First, [click here to start a new organization on Loomio](https://loomio.org/g/new/ "open in new tab") if you haven't already. If you are considering using Loomio in other parts of your organization, we suggest setting up a [subgroup](/en/user_manual/groups/subgroups/#add-a-subgroup/ "open in new tab").
+First, [click here to start a new organization on Loomio](https://www.loomio.com/g/new/ "open in new tab") if you haven't already. If you are considering using Loomio in other parts of your organization, we suggest setting up a [subgroup](/en/user_manual/groups/subgroups/#add-a-subgroup/ "open in new tab").
 
 A Loomio group is a secure online place for your members, which helps you increase communication and continue work between meetings, connecting your members wherever they are and at a time that suits them.
 
@@ -151,7 +151,7 @@ Keep track of follow-on actions by commenting with status updates (or completion
 
 ## Onwards
 
-Now that you know how to get better outcomes from your virtual AGM with Loomio, **start your [free trial](http://www.loomio.org/try?utm_campaign=virtual_board_guide&utm_term=help/)** so you’re ready when the time comes! (You could even find the best date using Loomio’s time poll).
+Now that you know how to get better outcomes from your virtual AGM with Loomio, **start your [free trial](https://www.loomio.com/try?utm_campaign=virtual_board_guide&utm_term=help/)** so you’re ready when the time comes! (You could even find the best date using Loomio’s time poll).
 
 Need to run an AGM, Assembly, or [Board meeting online](../virtual_board_meetings)?
 

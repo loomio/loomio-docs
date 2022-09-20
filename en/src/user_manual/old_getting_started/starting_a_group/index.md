@@ -9,7 +9,7 @@ Most Loomio groups need a champion to help them get going, and then they build t
 
 No one wants to spin their wheels, and sometimes its important to get it right the first time. Don't worry, we've done this before. We offer a streamlined experience of getting started delivered by Loomio experts:
 
-[Ask about our bespoke, guided onboarding.](https://loomio.org/contact)
+[Ask about our bespoke, guided onboarding.](https://www.loomio.com/contact)
 
 ## Introduce Loomio
 
@@ -40,7 +40,7 @@ It's best to keep your group name short and concise.
 
 ### Group handle
 
-By default, Loomio will make this `your-group-name` but you can choose any unused, alphanumeric handle (hyphens optional). Navigating to the URL loomio.org/[your-group-handle] will take you directly to your group page.
+By default, Loomio will make this `your-group-name` but you can choose any unused, alphanumeric handle (hyphens optional). Navigating to the URL loomio.com/[your-group-handle] will take you directly to your group page.
 
 ![](new_group_handle.png)
 
@@ -111,7 +111,7 @@ Second, click one of two options
 
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/RGv0Yq6sv8g?rel=0" frameborder="0" allowfullscreen></iframe>
 
-If your group's privacy is **closed** then you can additionally invite people by sharing your `loomio.org/handle`. When people arrive at your group page, they will see the title, the description, and a button **Join group** to request membership. They become a group member when their request is approved.
+If your group's privacy is **closed** then you can additionally invite people by sharing your `loomio.com/handle`. When people arrive at your group page, they will see the title, the description, and a button **Join group** to request membership. They become a group member when their request is approved.
 
 > Reminder: Closed groups are basically private, but – unlike Secret groups – disclose their Group Name and Group Description publicly.
 
@@ -129,7 +129,7 @@ For example:
 
 > - “@Jane that could be a good idea, why don’t you raise a proposal so we can see if the rest of the group agrees?”
 - “We haven’t heard from @Bill and @Ngaire … what are your thoughts?”
-- “We might be getting off topic here. I've started another Loomio discussion about that [here](http://www.loomio.org). Let's bring this back to the original focus.”
+- “We might be getting off topic here. I've started another Loomio discussion about that [here](https://www.loomio.com). Let's bring this back to the original focus.”
 
 ## Developing a productive Loomio habit
 

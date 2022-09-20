@@ -126,7 +126,7 @@ If you are not signed into Loomio, you will be asked to sign in.
 
 If you are returning to Loomio after some time, or signing in to Loomio on a new device, you may need to sign in again.
 
-You can sign in to Loomio from our website at [loomio.com](https://www.loomio.com/) with **Sign in** or by going directly to the Loomio service you are using; [loomio.org](https://www.loomio.org/dashboard), [loomio.eu](https://loomio.eu/dashboard) or [loomio.nz](https://loomio.nz/dashboard).
+You can sign in to Loomio from our website at [loomio.com](https://www.loomio.com/) with **Sign in** or by going directly to the Loomio service you are using; [loomio.com](https://www.loomio.com/dashboard), [loomio.eu](https://loomio.eu/dashboard) or [loomio.nz](https://loomio.nz/dashboard).
 
 ![](return_sign_in.png#width-80)
 
@@ -146,7 +146,7 @@ Follow the instructions below to add a shortcut to Loomio on the home screen of 
 ### iPhone or iPad
 Launch “Safari” app.  (This does not work from the “Chrome” app.)
 
-Go to [loomio.org/dashboard](https://www.loomio.org/dashboard).
+Go to [loomio.com/dashboard](https://www.loomio.com/dashboard).
 
 Tap the 'Share' icon (it has an arrow coming out of a box) to open the share menu.
 
@@ -163,7 +163,7 @@ Tap “Add.” Safari will close and the Loomio icon will appear on your home sc
 ### Android
 Launch “Chrome” app.
 
-Go to [loomio.org/dashboard](https://www.loomio.org/dashboard).
+Go to [loomio.com/dashboard](https://www.loomio.com/dashboard).
 
 Tap the menu icon (3 dots in upper right-hand corner) and tap Add to homescreen.
 
@@ -187,15 +187,15 @@ Loomio is a web app, accessible via popular web browsers such as Chrome, MS Edge
 - Check your browser is updated to a current version for best security and performance.
 
 Sometimes IT systems block untrusted website addresses.  Loomio is open source software and does not download any software to your computer or device.  
-- Check your IT system is not blocking [loomio.org](https://loomio.org/) and [loomio.com](https://loomio.com/) domains.  
+- Check your IT system is not blocking [loomio.com](https://www.loomio.com/) and [loomio.com](https://loomio.com/) domains.  
   - If you are on the European service: [loomio.eu](https://loomio.eu/)
   - If you are on the Aus/NZ service: [loomio.nz](https://loomio.nz/)
-- IT may need to unblock access to Loomio, and add loomio.org to their ‘allow list’ or ‘white list’.
+- IT may need to unblock access to Loomio, and add loomio.com to their ‘allow list’ or ‘white list’.
 
 ### I can't receive emails from Loomio
 Loomio uses your email address for user authentication.  Notifications of new threads, decisions and other activity in Loomio are sent to your email address.
-- Check your IT system is not blocking emails from @loomio.org 
-- IT may need to unblock emails from Loomio and add @loomio.org to their ‘allow list’ or ‘white list’.
+- Check your IT system is not blocking emails from @loomio.com 
+- IT may need to unblock emails from Loomio and add @loomio.com to their ‘allow list’ or ‘white list’.
 - If IT refuses to budge, can you use a personal email address?
 
 ### I can't see any of my groups!

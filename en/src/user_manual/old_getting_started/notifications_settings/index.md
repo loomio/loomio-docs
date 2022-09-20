@@ -16,7 +16,7 @@ When you (or your group members) start your account, by _default,_ Loomio will:
 
 This helps to keep people engaged in the early stages of a group. We set this default assuming that you and your group members will not yet have a habit of using Loomio regularly. For this reason, the default makes it easier for you to stay up to date via your email inbox.
 
-To change these settings, go to your [notification settings](https://www.loomio.org/email_preferences). This is where you can change your notification preferences for all groups at once. [Learn more](/en/user_manual/users/email_settings/#group-email-preferences).
+To change these settings, go to your [notification settings](https://www.loomio.com/email_preferences). This is where you can change your notification preferences for all groups at once. [Learn more](/en/user_manual/users/email_settings/#group-email-preferences).
 
 You can also set notification settings specific to any group or subgroup.
 
@@ -40,7 +40,7 @@ It helps people to know who they are speaking to, and put a face to a name. In g
 Updating your [introduction](/en/user_manual/users/user_profile/#update-your-personal-info), perhaps including skills or roles, and your location (especially for remote teams) can help build your teams.
 
 ## Language settings
-Loomio is developed in English, but [is translated by volunteers into many languages](https://www.loomio.org/g/cpaM3Hsv/loomio-community-translation).
+Loomio is developed in English, but [is translated by volunteers into many languages](https://www.loomio.com/g/cpaM3Hsv/loomio-community-translation).
 
 Loomio will detect your browser’s language settings, but you can manually [set your preferred language](/en/user_manual/users/user_profile/#language-settings) from the profile page.
 

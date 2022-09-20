@@ -20,6 +20,6 @@ Or read the written companion [guide](/en/guides/advice_process).
 
 ### Live support
 
-[Let us know](https://loomio.org/contact/?utm_campaign=webi-trainings-help&utm_term=help) if you are looking for some support or would like to talk with a Loomio expert.
+[Let us know](https://www.loomio.com/contact/?utm_campaign=webi-trainings-help&utm_term=help) if you are looking for some support or would like to talk with a Loomio expert.
 
-If you are evaluating whether Loomio is for you, [don't hesitate to reach out](https://loomio.org/contact/?utm_campaign=webi-trainings-help&utm_term=help)
+If you are evaluating whether Loomio is for you, [don't hesitate to reach out](https://www.loomio.com/contact/?utm_campaign=webi-trainings-help&utm_term=help)

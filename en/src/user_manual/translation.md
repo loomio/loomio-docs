@@ -41,7 +41,7 @@ Visit the [Loomio Transifex page](https://www.transifex.com/projects/p/loomio-1/
 2. Select the resource you want to translate
 - Client is the front end code that your browser runs.
 - Server is the backend server code, which is mostly notification emails.
-- Marketing is the loomio.org front page which explains Loomio to the world.
+- Marketing is the loomio.com front page which explains Loomio to the world.
 
 3. Click 'Translate'
 
@@ -55,7 +55,7 @@ Please use the informal or personal form if your language has the option.
 
 ## Tips
 
-You can use a [demo](https://www.loomio.org/try) to see Loomio in action, this can help provide contexts for strings when you see them via Transifex.
+You can use a [demo](https://www.loomio.com/try) to see Loomio in action, this can help provide contexts for strings when you see them via Transifex.
 
 If your language distinguishes between personal and impersonal, use the more personal!
 

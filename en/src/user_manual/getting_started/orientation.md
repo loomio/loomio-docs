@@ -12,8 +12,8 @@ _On this page_
 - [Polls](#poll-tab)
 
 The best way to learn about Loomio is to have a go. Use your own group or:
-- see the [demo](https://loomio.org/demo)
-- start a [free trial](https://www.loomio.org/g/new)
+- see the [demo](https://www.loomio.com/demo)
+- start a [free trial](https://www.loomio.com/g/new)
 
 ## How Loomio works
 
@@ -59,8 +59,8 @@ A proposal, and associated discussion, helps your group build shared understandi
 ![](key_concept_1.png)
 
 The best way to learn what to use when is to have a go. Use your own group or:
-- see the [demo](https://loomio.org/demo)
-- start a [free trial](https://www.loomio.org/g/new)
+- see the [demo](https://www.loomio.com/demo)
+- start a [free trial](https://www.loomio.com/g/new)
 
 
 ## Group page
@@ -104,7 +104,7 @@ The sidebar menu is accessible from the (☰) menu icon at screen top left, wher
 * **New group** - To start a new Loomio group on free trial.
 * **Demo group** - See and explore your private demo group at any time.
 * **Help & guides** - A link to the Loomio User Manual.
-* **Contact support** - [Contact us via web form](https://www.loomio.org/contact).
+* **Contact support** - [Contact us via web form](https://www.loomio.com/contact).
 
 ### User settings
 
