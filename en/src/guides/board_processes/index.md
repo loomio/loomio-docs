@@ -17,10 +17,10 @@ Following are some examples of common practices and how to apply these in Loomio
   - [Find a time for meeting](#find-a-time-for-meeting)
   - [Sign off minutes](#sign-off-minutes)
   - [Approve reports](#approve-reports)
-- [Facilitating discussions](facilitating-discussions)
-  - Issues that arise between board meetings
-  - When there isn't space during meetings
-- Making resolutions and online decisions
+- [Facilitating discussions](#facilitating-discussions)
+  - [Issues that arise between board meetings](#issues-that-arise-between-board-meetings)
+  - [When there isn't space during meetings](#when-there-isnt-space-during-meetings)
+- [Making resolutions and online decisions](#making-resolutions-and-online-decisions)
   - Keeping a record of decisions made and supporting discussion.
 - Governance practices and approaches - policies and procedures
 - Administration and record keeping
@@ -167,6 +167,10 @@ When an agenda item cannot be resolved within the time available in your board m
 This relieves pressure on your board, allows more time for information gathering, discussion and deeper reflection which often results in a better quality decision.
 
 ![](thread_topic.png#width-90)
+
+## Making resolutions and online decisions
+
+
 
 
 ---
