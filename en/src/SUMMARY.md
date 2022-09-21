@@ -13,7 +13,6 @@
   - [Category tags](user_manual/groups/tags/index.md)
   - [Subgroups](user_manual/groups/subgroups/index.md)
   - [Data export](user_manual/groups/data_export/index.md)
-  - [Subscription management](policy/subscriptions/management/index.md)
   - [Deleting your group](user_manual/groups/deleting_archiving/index.md)
 
 - [Threads](user_manual/threads/intro_to_threads/index.md)
@@ -75,8 +74,14 @@
 - [Practical examples](guides/practical_examples.md)
 ---
 
-# Policies
+# Subscriptions
+- [Subscription plans](policy/subscriptions/pricing.md)
+- [Customer FAQs](policy/subscriptions/pricing_faq.md)
+- [Subscription management](policy/subscriptions/management/index.md)
+- [Training and Support](policy/subscriptions/pro_support/index.md)
+---
 
+# Policies
 - [Terms of Service](policy/terms/index.md)
   - [Account Ownership](policy/ownership/index.md)
   - [Use restrictions](policy/abuse/index.md)
@@ -84,8 +89,5 @@
   - [Regulations](policy/privacy/regulations/index.md)
   - [Loomio Subprocessors](policy/privacy/loomio-subprocessors/index.md)
   - [Company Processors](policy/privacy/company-processors/index.md)
-- [Subscription plans](policy/subscriptions/pricing.md)
-- [Customer FAQs](policy/subscriptions/pricing_faq.md)
-- [Training and Support](policy/subscriptions/pro_support/index.md)
 - [Security](policy/security/index.md)
 
