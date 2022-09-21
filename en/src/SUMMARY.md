@@ -13,6 +13,7 @@
   - [Category tags](user_manual/groups/tags/index.md)
   - [Subgroups](user_manual/groups/subgroups/index.md)
   - [Data export](user_manual/groups/data_export/index.md)
+  - [Subscription management](policy/subscriptions/management/index.md)
   - [Deleting your group](user_manual/groups/deleting_archiving/index.md)
 
 - [Threads](user_manual/threads/intro_to_threads/index.md)
@@ -87,4 +88,4 @@
 - [Customer FAQs](policy/subscriptions/pricing_faq.md)
 - [Training and Support](policy/subscriptions/pro_support/index.md)
 - [Security](policy/security/index.md)
-- [Subscription management](policy/subscriptions/management/index.md)
+
