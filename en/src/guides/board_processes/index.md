@@ -1,21 +1,25 @@
 # Loomio for boards and committees
 
-*Work in progress - last updated September 13, 2022*
+*Work in progress - last updated September 22, 2022*
+
+Good governance is more than a board meeting. This guide is intended to help you use Loomio in your board or committee, so you can stay connected between meetings, deal with urgent matters and reduce board admin.
+- Continue governance between meetings
+- Use board meetings for issues that matter
+- Keep a detailed record
 
 Loomio is a versatile discussion and decision-making tool for collaborative organizations. 
-
-This guide is intended to help you configure Loomio for your board or committee.
 
 Following are some examples of common practices and how to apply these in Loomio.
 
 - [Prepare for a meeting](#prepare-for-a-meeting)
-  - [Focus and review actions](#meeting-focus-and-review-actions)
-  - [Agenda and notify](#agenda-and-notify)
+  - [Meeting focus and review actions](#meeting-focus-and-review-actions)
+  - [Announce agenda and notify](#agenda-and-notify)
   - [Find a time for meeting](#find-a-time-for-meeting)
   - [Sign off minutes](#sign-off-minutes)
   - [Approve reports](#approve-reports)
 - [Facilitating discussions](facilitating-discussions)
-  - Issues that arise between board meetings or when there isn't space during meetings.
+  - Issues that arise between board meetings
+  - When there isn't space during meetings
 - Making resolutions and online decisions
   - Keeping a record of decisions made and supporting discussion.
 - Governance practices and approaches - policies and procedures
@@ -39,7 +43,7 @@ Actions:
 - focus the meeting on the most important things,
 - follow up and talk to members about actions from previous meetings.
 
-![](meeting_prep.png#width-80)
+![](meeting_prep.png#width-90)
 
 #### On Loomio
 Use a Loomio **Thread** to prepare for your meeting:
@@ -57,7 +61,7 @@ Actions:
 - prepare agenda, documents, materials and board papers,
 - notify members of meeting and send materials.
 
-![](meeting_notify.png#width-80)
+![](meeting_notify.png#width-90)
 
 #### On Loomio
 Use a Loomio **Thread** to prepare for your board meeting:
@@ -78,7 +82,7 @@ A great way to confirm everyone is prepared for the meeting is to use an **Opt-i
 
 A Loomio poll lets everyone know that something is happening and their response is required.  It adds that extra level of participation and encouragement to read and prepare for the meeting.  Members can also leave a comment when responding.
 
-![](meeting_agenda_1.png#width-80)
+![](meeting_agenda_1.png#width-90)
 
 ### Find a time for meeting
 If you have not yet set a date and time for the meeting or you need to find a time for a future meeting, you can use **Time poll**.
@@ -87,7 +91,7 @@ Time poll makes it easy to see everyone's availability and find the best time, r
 
 Great for people in different timezones - they will see dates and times localized in their time zone.
 
-![](timepoll_vote.png#width-80)
+![](timepoll_vote.png#width-90)
 
 When the Time poll closes, choose the best time and send an outcome notification with calendar invitation, for members to add to their calendar. 
 
@@ -96,7 +100,7 @@ Approving or ratifying minutes is standard practice for formal meetings and good
 
 Post the minutes in the Loomio meeting thread within a few days of the meeting and invite participants to approve.  This keeps the minutes relevant and fresh in member's minds and is a great way to remind members of their actions.  It also saves some time during your meeting.
 
-![](poll_minutes.png#width-80)
+![](poll_minutes.png#width-90)
 
 The example above uses a **Simple poll** with two options 'Accept' or 'Review'.
 
@@ -113,7 +117,7 @@ With Loomio you can invite questions to the reports in your meeting thread and a
 
 Members receive and read the reports at a time and place that works for them.  So as members read and think about the reports, they can comment and ask questions in Loomio.
 
-![](poll_approve_report.png#width-80)
+![](poll_approve_report.png#width-90)
 
 If your meeting practice requires formal acceptance at the next meeting, schedule a short agenda item where you acknowledge and confirm polls and decisions made on Loomio, and record this in the meeting minutes.  
 
@@ -126,9 +130,44 @@ Use a Loomio **thread** to facilitate a discussion.  Give the thread a descripti
 
 Notify members of the thread by inviting them, so they will receive a copy of the thread by email.  Members can participate in the discussion by clicking on the link to go to Loomio, or reply to the notification email and their comment will appear as a comment in the thread.
 
-![](thread_discussion.png#width-80)
+![](thread_discussion.png#width-90)
 
 A Loomio thread enables you to attach files or link to online resources to support the discussion.
+
+Common examples include:
+- review and develop a policy
+- seek advice from the board about a topic or issue
+- discuss strategy 
+- explore an idea or opportunity
+- assess risk
+
+### Issues that arise between board meetings
+
+A lot can happen in an organization between meetings, and most people rely on email to alert board members.  Trying to keep track of a discussion on email is tricky, with replies often lost in in-boxes and people left out.  
+
+“You can’t do governance by email!” says Richard Westlake (Westlake Governance).
+
+When an issue arises requiring board attention, use a Loomio thread rather than email.  Members can reply via email and their comment will appear in the Loomio thread, keeping the discussion in one place. 
+
+Here's how:
+- Make the email subject line the title of your thread.
+- Write your email content in the thread context.
+- Invite your team to the thread with their email address or Loomio user name.
+
+A Loomio thread means that:
+- All info about a topic is organized in one easily accessible place.
+- People can respond without generating reply/reply-all email chains that risks leaving people out.
+- You can see who has read the message and who needs a nudge.
+- You can progress actual work to an outcome, and cut down on the amount of email.
+
+### When there isn't space during meetings
+
+When an agenda item cannot be resolved within the time available in your board meeting, you can move this for further discussion to Loomio. Direct people to the relevant thread, or start a new one and notify your board members.
+
+This relieves pressure on your board, allows more time for information gathering, discussion and deeper reflection which often results in a better quality decision.
+
+![](thread_topic.png#width-90)
+
 
 ---
 
@@ -136,7 +175,7 @@ A Loomio thread enables you to attach files or link to online resources to suppo
 
 Good governance exists where an organization has systems and processes in place that are appropriate to its circumstances, and which enable the organization to pursue its purpose effectively and meet its obligations under the law.
 
-*“It is participatory, consensus-oriented, accountable, transparent, responsive, effective and efficient, equitable and inclusive and follows the rule of law.”*
+*“It is participatory, consensus-oriented, accountable, transparent, responsive, effective and efficient, equitable and inclusive and follows the rule of law.”* [United Nations Economic and Social Commission for Asia and the Pacific](https://www.unescap.org/sites/default/d8files/knowledge-products/good-governance.pdf).
 
 Underpinning all of these principles is the need for good communication.
 
