@@ -159,7 +159,7 @@
                         <h1 id="subscription-management"><a class="header" href="#subscription-management">Subscription management</a></h1>
 <p><em>How to upgrade, manage or cancel your Loomio subscription.</em></p>
 <h2 id="introduction"><a class="header" href="#introduction">Introduction</a></h2>
-<p>Loomio uses Chargify billing and subscription management service to manage subscription records, initiate payments, process upgrades and cancellations.</p>
+<p>Loomio uses Maxio billing and subscription management service to manage subscription records, initiate payments, process upgrades and cancellations.</p>
 <p>Prices are based on debit/credit card payment via an automated billing portal.</p>
 <h2 id="upgrading-your-group"><a class="header" href="#upgrading-your-group">Upgrading your group</a></h2>
 <p>To continue to use Loomio beyond your free trial, you can upgrade your group to a paid subscription plan.</p>
@@ -173,20 +173,23 @@
 <li>Billing Address (to insure sales taxes are applied correctly)</li>
 <li>Confirm details and click the <strong>Place My Order</strong> button.</li>
 </ul>
-<p>The subscription is activated immediately and the group automatically upgraded. A tax invoice/statement confirming successful payment will be sent to your email address.</p>
+<p>The subscription is activated immediately and the group automatically upgraded. </p>
+<p>A tax invoice/statement confirming successful payment will be sent to your email address.</p>
+<p>You will also receive an email a secure link to the billing portal for your subscription, where you can manage your account, update credit card and contact details, and download current or past statements.</p>
+<p>The link is only valid for 30 days, so please follow it as soon as you get a chance.</p>
 <h2 id="automatic-payment-and-statement-generation"><a class="header" href="#automatic-payment-and-statement-generation">Automatic payment and statement generation</a></h2>
-<p>Your credit or debit card details are held securely by Chargify, our subscription management service provider, for future recurring payments.  Chargify is PCI DSS Level 1 Compliant.</p>
-<p>Monthly or annual payments via Chargify are automatic, and an invoice/statement is issued on successful payment.</p>
-<p>You can access statements, and update card and contact details at any time by visiting <strong>Manage payment details</strong> in your group Settings, or using the secure <strong>Account Management</strong> link at the bottom of your statement.</p>
+<p>Your credit or debit card details are held securely by Maxio, our subscription management service provider, for future recurring payments.  <a href="https://www.chargify.com/security/">Maxio</a> is PCI DSS Level 1 Compliant.</p>
+<p>Monthly or annual payments via Maxio are automatic, and an invoice/statement is issued on successful payment.</p>
 <h2 id="billing-problems"><a class="header" href="#billing-problems">Billing problems</a></h2>
-<p>Chargify may be unable to process a payment to your card when due.</p>
+<p>Maxio may be unable to process a payment to your card when due.</p>
 <p>If a payment is unsuccessful, an email notification will be sent to the email address we have on file, along with a link to the billing portal where you can update card details. The billing system will continue to retry the payment once a week, and if payment is not successful after four (4) attempts, the subscription plan will be cancelled (day 28).</p>
 <p>Card payment problems are often caused by:</p>
 <ul>
 <li>Insufficient funds</li>
 <li>Expired card</li>
-<li>Bank restrictions on new cards or changes to existing cards. Please make sure your credit or debit card is authorized for “international payments” and “internet transactions” (“Prch” and “Auth”).</li>
+<li>Bank restrictions on new cards or changes to existing cards. </li>
 </ul>
+<p>Please make sure your credit or debit card is authorized for “international payments” and “internet transactions” (“Prch” and “Auth”).</p>
 <p>The billing system will issue an alert via email when your credit card is nearing expiry.</p>
 <h2 id="alternate-payment-options"><a class="header" href="#alternate-payment-options">Alternate payment options</a></h2>
 <p>Alternate payment options are only available for annual plan subscriptions.</p>
@@ -202,22 +205,23 @@
 <p>You will see a list of all the groups you belong to.</p>
 <p>Find the group you wish to change and click the <strong>Change plan</strong> link.</p>
 <p>Choose your new plan and click on the <strong>PREVIEW CHANGE</strong> button.</p>
+<p><img src="subscription_change.png" alt="" /></p>
 <p>Any remaining credit on your previous plan will be carried to your new plan.</p>
 <p>Check the details of plan, price and payment frequency in the Plan Summary table are correct. </p>
 <h2 id="manage-billing-and-payment-details"><a class="header" href="#manage-billing-and-payment-details">Manage billing and payment details</a></h2>
-<p>You can access statements, and update card and billing details at any time.</p>
-<p>Go to your Loomio group page and click on the 3 dots (<strong>...</strong>) menu to the right of the page. </p>
-<p><img src="manage-subscription.png" alt="" /></p>
+<p>You can access statements, and update card and billing contact details at any time by visiting <strong>Manage Subscription</strong> in your group drop down menu - the 3 dots (<strong>...</strong>) menu to the right of the page.</p>
+<p>You can also access the billing portal from the secure <strong>Account Management</strong> link at the bottom of your statement.</p>
+<p><img src="subscription_manage.png" alt="" /></p>
 <p>Here, you will see your current plan status.</p>
 <p>Click on the link to the billing portal in the message:</p>
 <p><em>Visit the <strong>billing portal</strong> to change billing details</em></p>
 <p>You may need to enter your email address to receive a secure link to the portal. </p>
 <p>You can also access the billing portal with the <strong>Account Management</strong> link at the bottom of your statement.</p>
 <h2 id="cancel-your-plan"><a class="header" href="#cancel-your-plan">Cancel your plan</a></h2>
-<p>Before cancelling your plan, we recommend that you export your group data. </p>
+<p>Before cancelling your plan, we recommend that you <a href="https://help.loomio.com/en/user_manual/groups/data_export/index.html">export your group data</a>. </p>
 <p>You can cancel your plan via the billing portal.</p>
 <p>Go to your Loomio group page and click on the 3 dots (<strong>...</strong>) menu to the right of the page. </p>
-<p><img src="manage-subscription.png" alt="" /></p>
+<p><img src="subscription_manage.png" alt="" /></p>
 <p>Here, you will see your current plan status.</p>
 <p>Click on the link to the billing portal in the message:</p>
 <p><em>Visit the <strong>billing portal</strong> to cancel your plan or change billing details</em></p>
@@ -227,17 +231,18 @@
 <ol>
 <li>Find <strong>Plan Details</strong>, click <strong>Cancel</strong> (on the right).</li>
 <li>Tell us why you are canceling the plan.</li>
-<li>Choose <strong>Cancel Now</strong> or <strong>Cancel At End of Period</strong>.</li>
+<li>Choose <strong>Cancel Now</strong> or <strong>Cancel At End of Period</strong> if you want to continue using Loomio for any remaining billing period.</li>
 </ol>
+<p>In general we do not refund subscription fees for any remaining unused billing period.  See <a href="#refunds">Refunds</a> below.</p>
 <p>If you’re having trouble finding your billing portal link or need help to cancel, or manage any details of your plan, please <a href="https://www.loomio.com/contact">contact us</a>.</p>
 <h3 id="what-happens-when-a-subscription-is-cancelled"><a class="header" href="#what-happens-when-a-subscription-is-cancelled">What happens when a subscription is cancelled?</a></h3>
 <p>Initially when you cancel, your group data will remain available, however you will no longer be able to start new threads or invite members to the group. </p>
-<p>If you have not already done so, we recommend that you export your group data. </p>
+<p>If you have not already done so, we recommend that you <a href="https://help.loomio.com/en/user_manual/groups/data_export/index.html">export your group data</a>. </p>
 <p>After 30 days from cancellation, your group and all content will be deleted from our active systems and you will no longer be able to access the data. </p>
 <h2 id="refunds"><a class="header" href="#refunds">Refunds</a></h2>
 <p>When it comes to refunds, we treat our customers how we ourselves would like to be treated, and assess requests fairly.</p>
-<p><a href="https://www.loomio.com/contact">Contact us</a> if you would like a refund. </p>
 <p>To process a refund, we must receive a request within 30 days of the date payment was made.</p>
+<p><a href="https://www.loomio.com/contact">Contact us</a> if you would like a refund. </p>
 
                     </main>
 
