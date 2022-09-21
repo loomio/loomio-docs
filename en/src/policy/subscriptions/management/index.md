@@ -1,7 +1,15 @@
 # Subscription management
 _How to upgrade, manage or cancel your Loomio subscription._
 
-## Introduction
+On this page
+- [Upgrading your group](#upgrading-your-group)
+- [Billing problems](#billing-problems)
+- [Alternate payment options](#alternate-payment-options)
+- [Change your plan](#change-your-plan)
+- [Manage billing and account details](#manage-billing-and-account-details)
+- [Cancel your plan](#cancel-your-plan)
+- [Refunds](#refunds)
+
 Loomio uses Maxio billing and subscription management service to manage subscription records, initiate payments, process upgrades and cancellations.
 
 Prices are based on debit/credit card payment via an automated billing portal.
@@ -29,7 +37,7 @@ You will also receive an email a secure link to the billing portal for your subs
 
 The link is only valid for 30 days, so please follow it as soon as you get a chance.
 
-## Automatic payment and statement generation
+### Automatic payment and statement generation
 Your credit or debit card details are held securely by Maxio, our subscription management service provider, for future recurring payments.  [Maxio](https://www.chargify.com/security/) is PCI DSS Level 1 Compliant.
 
 Monthly or annual payments via Maxio are automatic, and an invoice/statement is issued on successful payment.
@@ -78,7 +86,7 @@ Any remaining credit on your previous plan will be carried to your new plan.
 
 Check the details of plan, price and payment frequency in the Plan Summary table are correct. 
 
-## Manage billing and payment details
+## Manage billing and account details
 You can access statements, and update card and billing contact details at any time by visiting **Manage Subscription** in your group drop down menu - the 3 dots (**...**) menu to the right of the page.
 
 You can also access the billing portal from the secure **Account Management** link at the bottom of your statement.
