@@ -16,7 +16,7 @@ If you're running your own Loomio server, and would rather not anymore, Loomio o
 
 Open the group drop down menu by clicking on the three dots, and select **Export group data**.
 
-![](export_group_data.png)
+![](export_data.png)
 
 ### Export group data as CSV
 
