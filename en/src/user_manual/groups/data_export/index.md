@@ -2,9 +2,11 @@
 
 With the group data export feature you can:
 
-- Open poll results in a spreadsheet or scripting language
-- Print or save PDF's of a thread or poll for archival purposes
-- Move you group, including all users, threads, polls, and files to another Loomio server.
+- Download a file containing member data to audit group membership.
+- Download content of your group including text of threads and polls for archive or analysis.
+- Open poll results in a spreadsheet or scripting language.
+- Print or save PDF's of a thread or poll for archival purposes.
+- Move your group, including all users, threads, polls, and files to another Loomio server.
 
 If you ever want to move from Loomio managed servers [to your own](https://github.com/loomio/loomio-deploy), you can use this feature.
 
