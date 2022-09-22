@@ -47,3 +47,13 @@ Within the Members tab, you can also name your role within the group, or identif
 ![](member_set_title.png)
 
 You can have different titles in different subgroups.
+
+### See member email addresses
+
+Only admins can see group member email addresses.  This is sometimes necessary to audit the members in a group.
+
+To see member email addresses: Use [Export group data](https://help.loomio.com/en/user_manual/groups/data_export/index.html) to download a CSV file, and open the file in Excel or Google sheets.
+
+The export group data file shows every person and their email address in every subgroup.
+
+You can also search for members by email address in the members tab. So if you see someone you want to remove, you can search by email to remove them.
