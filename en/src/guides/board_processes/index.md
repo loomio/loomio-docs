@@ -2,14 +2,16 @@
 
 *Work in progress - last updated September 22, 2022*
 
-Good governance is more than a board meeting. This guide is intended to help you use Loomio in your board or committee, so you can stay connected between meetings, deal with urgent matters and reduce board admin.
+Good governance is more than a board meeting, requiring good communication.
+
+This guide is intended to help you use Loomio in your board or committee, so you can stay connected between meetings, deal with urgent matters and reduce board admin.
 - Continue governance between meetings
 - Use board meetings for issues that matter
 - Keep a detailed record
 
-Loomio is a versatile discussion and decision-making tool for collaborative organizations. 
+Loomio is a versatile discussion and decision-making tool for collaborative boards and committees. 
 
-Following are some examples of common practices and how to apply these in Loomio.
+Following are some examples of common practices of boards and committees, and how to apply these in Loomio.
 
 - [Prepare for a meeting](#prepare-for-a-meeting)
   - [Meeting focus and review actions](#meeting-focus-and-review-actions)
@@ -156,7 +158,7 @@ Here's how:
 
 A Loomio thread means that:
 - All info about a topic is organized in one easily accessible place.
-- People can respond without generating reply/reply-all email chains that risks leaving people out.
+- People can respond without generating reply/reply-all email chains that risk leaving people out.
 - You can see who has read the message and who needs a nudge.
 - You can progress actual work to an outcome, and cut down on the amount of email.
 
@@ -170,7 +172,43 @@ This relieves pressure on your board, allows more time for information gathering
 
 ## Making resolutions and online decisions
 
+Board and committee members frequently need to make 'out-of-session' decisions. These are governance decisions and discussion where either;
 
+- There was insufficient time to make a decision in the board meeting,
+- The decision does not require a lot of discussion (including administrative decisions),
+- Something has happened (internally or externally) that requires the board to act before the next meeting,
+- A director has a particular interest to explore with the board.
+
+**On Loomio**
+Start a **thread** and open a discussion:
+- Introduce the topic or decision that you would like to make.
+- Invite directors to comment with their thoughts, opinions and any information they have to help everyone understand their perspective about the 'out-of-session' topic or decision.
+- Encourage members to participate by posting or reply to comments.
+
+When ready, raise a **poll** and invite members to vote. 
+If the issue is straightforward use a Proposal or if the issue is more complex use a Sense check poll to clearly ask fellow members how they feel about the proposal.
+- State the decision and invite people to vote.
+- Ask people to leave a reason for their vote, particularly if they want to qualify any points.
+- Choose the decision options that work for your board's decision-making processes. 
+- You can ratify and minute the 'out-of-session' decision at your next board meeting.
+
+Note that it can be ok if a decision fails to get agreement. You can ask directors what would changes they would make to enable them to agree to a decision. Then raise a new Proposal with the amendments that are more likely to achieve agreement.
+
+State an **outcome** when the proposal closes. Let everyone know the result of the decision and what will happen next.
+
+### Examples of out-of-session decisions
+
+**Decision about property purchase.**
+At the last board meeting, a property purchase was discussed. A director required an independent engineering report before making the decision. At the board meeting, the board agreed to purchase the property subject to a satisfactory engineering report. However as the purchase must be made before the next board meeting, the board agreed to upload the engineering report to Loomio when ready for discussion and to make the final decision for the property purchase on Loomio.
+
+**Decision to accept Directors and Officers Liability insurance**
+During the board meeting it was noted that the annual insurance renewal was coming up. As this was considered to be an administrative matter, the board agreed to use Loomio to discuss the renewal application, seek the required information from each director, submit the application and to accept the insurance renewal quote.
+
+**A security breach has occurred at one of our facilities**
+A break-in and theft of property has occurred that has put the corporation and staff at risk. Directors must be made aware of the event and risks, and evaluate an appropriate response.
+
+**A director has challenged the board about gender and diversity of board membership**
+The director has provided good reasons and evidence that the board should diversify membership to be more representative of the corporation. Directors need to digest the information, ask questions, discuss the issue and decide a response.
 
 
 ---
