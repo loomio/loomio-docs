@@ -27,6 +27,12 @@ Following are some examples of common practices of boards and committees, and ho
 - Governance practices and approaches - policies and procedures
 - Administration and record keeping
 
+##  Demo of Loomio for ORIC boards 
+
+<div class="iframe-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VSuFvlbAEVA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Prepare for a meeting
 
 Effective meetings are productive, inclusive, and collaborative - they help build strong relationships, establish alignment, make better and faster decisions, promote inclusion, facilitate creative thinking and innovation, are a great channel for feedback and continuous improvement, and improve engagement.
