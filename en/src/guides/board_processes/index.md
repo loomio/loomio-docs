@@ -27,7 +27,7 @@ Following are some examples of common practices of boards and committees, and ho
 - Governance practices and approaches - policies and procedures
 - Administration and record keeping
 
-##  Demo of Loomio for ORIC boards 
+##  Demo of Loomio for boards 
 
 <div class="iframe-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VSuFvlbAEVA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
