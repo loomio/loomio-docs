@@ -196,6 +196,8 @@ Note that it can be ok if a decision fails to get agreement. You can ask directo
 
 State an **outcome** when the proposal closes. Let everyone know the result of the decision and what will happen next.
 
+![](thread_funding.png#width-90)
+
 ### Examples of out-of-session decisions
 
 **Decision about property purchase.**
@@ -210,6 +212,7 @@ A break-in and theft of property has occurred that has put the corporation and s
 **A director has challenged the board about gender and diversity of board membership**
 The director has provided good reasons and evidence that the board should diversify membership to be more representative of the corporation. Directors need to digest the information, ask questions, discuss the issue and decide a response.
 
+![](thread_insurance.png#width-90)
 
 ---
 
