@@ -2,7 +2,7 @@
 
 *Work in progress - last updated September 22, 2022*
 
-Good governance is more than a board meeting, requiring good communication.
+Good governance is more than a board meeting, it requires good communication.
 
 This guide is intended to help you use Loomio in your board or committee, so you can stay connected between meetings, deal with urgent matters and reduce board admin.
 - Continue governance between meetings
@@ -13,6 +13,7 @@ Loomio is a versatile discussion and decision-making tool for collaborative boar
 
 Following are some examples of common practices of boards and committees, and how to apply these in Loomio.
 
+- [Demo of Loomio for boards](#demo-of-loomio-for-boards)
 - [Prepare for a meeting](#prepare-for-a-meeting)
   - [Meeting focus and review actions](#meeting-focus-and-review-actions)
   - [Announce agenda and notify](#agenda-and-notify)
@@ -39,15 +40,15 @@ Originally recorded as part of the online Governance forum hosted by the Office 
 
 ## Prepare for a meeting
 
-Effective meetings are productive, inclusive, and collaborative - they help build strong relationships, establish alignment, make better and faster decisions, promote inclusion, facilitate creative thinking and innovation, are a great channel for feedback and continuous improvement, and improve engagement.
+Effective meetings are productive, inclusive, and collaborative - they improve engagement, help build strong relationships, establish alignment, make better and faster decisions, promote inclusion, facilitate creative thinking and innovation, are a great channel for feedback and continuous improvement.
 
-Use Loomio to have an effective meeting, involve people from the outset, align towards the most important topics, and make better use of your precious time together.
+Use Loomio to plan an effective meeting; involve people from the outset, align towards the most important topics, and make better use of your precious time together.
 
 There are several things you can do to make your next board or committee meeting effective...
 
 ### Meeting focus and review actions
 
-Establish a focus for the meeting, so you talk about the most important topics.  
+Establish a focus for the meeting, so you spend your precious time together talking about the most important topics.  
 
 Inviting members to contribute to the agenda helps everyone align, think about topics and energize for the meeting.
 
@@ -67,7 +68,7 @@ Use a Loomio **Thread** to prepare for your meeting:
 
 Announce the meeting with a clear agenda. Attach papers, link to key documents and notify members. 
 
-This helps everyone prepare for the meeting by reading the materials and thinking about topics of discussion and decisions to be made.  Members are then more likely to arrive in context and ready for the meeting.
+This helps everyone prepare for the meeting, by reading the materials and thinking about topics of discussion and the decisions to be made.  Members are then more likely to arrive in context and ready for the meeting.
 
 Actions: 
 - prepare agenda, documents, materials and board papers,
@@ -92,23 +93,32 @@ Members can find all the information about the meeting readily available in one 
 #### Confirm
 A great way to confirm everyone is prepared for the meeting is to use an **Opt-in** poll.  Ask people to confirm they have read the agenda and meeting papers, and are coming to the meeting.  
 
-A Loomio poll lets everyone know that something is happening and their response is required.  It adds that extra level of participation and encouragement to read and prepare for the meeting.  Members can also leave a comment when responding.
+A Loomio poll lets everyone know that something is happening and their response is required.  It adds that extra level of participation and an encouragement to read and prepare for the meeting.  Members can also leave a comment when responding.
 
 ![](meeting_agenda_1.png#width-90)
 
 ### Find a time for meeting
+Finding a time to meet can be a frequent headache for many administrators. 
+
+#### On Loomio
 If you have not yet set a date and time for the meeting or you need to find a time for a future meeting, you can use **Time poll**.
 
 Time poll makes it easy to see everyone's availability and find the best time, reducing time and energy needed for this common admin task.
 
-Great for people in different timezones - they will see dates and times localized in their time zone.
+Members in different time zones will see dates and times localized in their time zone.
 
 ![](timepoll_vote.png#width-90)
 
-When the Time poll closes, choose the best time and send an outcome notification with calendar invitation, for members to add to their calendar. 
+When the Time poll closes, choose the best time and send an outcome notification with a calendar invitation, so members can add the meeting to their calendar. 
 
 ### Sign off minutes
-Approving or ratifying minutes is standard practice for formal meetings and good practice for most meetings.  
+Approving or ratifying minutes is standard practice for formal meetings and good practice for all meetings.  
+
+Minutes provide a record of the meeting, key points raised during discussion, results of decisions and how people voted. They include the actions agreed and the person(s) responsible, and are often the starting point for the next meeting.  
+
+Minutes are valuable as a reminder for people present, helpful for those absent and a record to consult in case of conflict.
+
+#### On Loomio
 
 Post the minutes in the Loomio meeting thread within a few days of the meeting and invite participants to approve.  This keeps the minutes relevant and fresh in member's minds and is a great way to remind members of their actions.  It also saves some time during your meeting.
 
@@ -118,25 +128,37 @@ The example above uses a **Simple poll** with two options 'Accept' or 'Review'.
 
 When everyone has voted and the poll closes, state an outcome so everyone knows what has happened.  
 
-If your meeting practice requires formal acceptance at the next meeting, schedule a short agenda item where you acknowledge and confirm polls and decisions made on Loomio, and record this in the meeting minutes.  
+If your meeting practice requires formal acceptance at the next meeting, schedule an agenda item to acknowledge and confirm polls and decisions made on Loomio, and record this in the meeting minutes.  
 
 For example; *"Does anyone wish to change their votes in Loomio?  If no, then let's resolve to formally approve polls made in Loomio during the last period."*
 
 ### Approve reports
-Valuable time in meetings is often taken discussing and approving reports. For example financial reports and the report from the CEO.  
+Most meeting agendas include time for reports to be presented, discussed and approved; for example reports from the CEO, Financial, Operations, Health & Safety, and project reports.
 
-With Loomio you can invite questions to the reports in your meeting thread and ask for approval of the reports ahead of the meeting.
+Reports are very important to help everyone get on the same page, however they can absorb valuable time in a meeting that may be used more effectively.
 
-Members receive and read the reports at a time and place that works for them.  So as members read and think about the reports, they can comment and ask questions in Loomio.
+#### On Loomio
+
+Attach or link reports to your meeting **thread** and invite questions about the reports in advance of the meeting.
+
+Members receive and read the reports at a time and place that works for them.  As members read and think about the reports, they can comment, ask questions and see responses in Loomio.
+
+A question asked by one member is likely of interest to other members, so when someone replies to the question, their response  is visible to everyone in the Loomio group.
+
+As members become familiar with discussing reports in Loomio, save a little more time by taking it a step further - seek approval of reports ahead of the meeting.
 
 ![](poll_approve_report.png#width-90)
 
-If your meeting practice requires formal acceptance at the next meeting, schedule a short agenda item where you acknowledge and confirm polls and decisions made on Loomio, and record this in the meeting minutes.  
+If your meeting practice requires formal acceptance at the next meeting, schedule an agenda item to acknowledge and confirm polls and decisions made on Loomio, and record this in the meeting minutes.  
 
 For example; *"Does anyone wish to change their votes in Loomio?  If no, then let's resolve to formally approve polls made in Loomio during the last period."*
 
 ## Facilitating discussions
-At times topics arise that require the attention of board or committee members between meetings, or there is not space for adequate discussion during a meeting.
+At times topics arise that require the attention of board or committee members mid-cycle, between meetings. 
+
+And sometimes there is just not space during a meeting for discussion or to sufficiently deliberate on a decision.
+
+#### On Loomio
 
 Use a Loomio **thread** to facilitate a discussion.  Give the thread a descriptive title that members will recognize and provide details in the thread context.  Add a relevant category tag to help members find the thread in future.
 
@@ -157,7 +179,7 @@ Common examples include:
 
 A lot can happen in an organization between meetings, and most people rely on email to alert board members.  Trying to keep track of a discussion on email is tricky, with replies often lost in in-boxes and people left out.  
 
-“You can’t do governance by email!” says Richard Westlake (Westlake Governance).
+*“You can’t do governance by email!”, Richard Westlake (Westlake Governance).*
 
 When an issue arises requiring board attention, use a Loomio thread rather than email.  Members can reply via email and their comment will appear in the Loomio thread, keeping the discussion in one place. 
 
@@ -189,20 +211,20 @@ Board and committee members frequently need to make 'out-of-session' decisions. 
 - Something has happened (internally or externally) that requires the board to act before the next meeting,
 - A director has a particular interest to explore with the board.
 
-**On Loomio**
+#### On Loomio
 Start a **thread** and open a discussion:
-- Introduce the topic or decision that you would like to make.
-- Invite directors to comment with their thoughts, opinions and any information they have to help everyone understand their perspective about the 'out-of-session' topic or decision.
-- Encourage members to participate by posting or reply to comments.
+- introduce the topic or decision that you would like to make,
+- invite directors to comment with their thoughts, opinions and any information they have to help everyone understand their perspective about the 'out-of-session' topic or decision,
+- encourage members to participate by posting or reply to comments.
 
 When ready, raise a **poll** and invite members to vote. 
-If the issue is straightforward use a Proposal or if the issue is more complex use a Sense check poll to clearly ask fellow members how they feel about the proposal.
-- State the decision and invite people to vote.
-- Ask people to leave a reason for their vote, particularly if they want to qualify any points.
-- Choose the decision options that work for your board's decision-making processes. 
+If the issue is straightforward use a **Proposal** or if the issue is more complex use a **Sense check** poll to clearly ask fellow members how they feel about the proposal.
+- state the decision and invite people to vote,
+- ask people to leave a reason for their vote, particularly if they want to qualify any points,
+- choose the decision options that work for your board's decision-making processes.
 - You can ratify and minute the 'out-of-session' decision at your next board meeting.
 
-Note that it can be ok if a decision fails to get agreement. You can ask directors what would changes they would make to enable them to agree to a decision. Then raise a new Proposal with the amendments that are more likely to achieve agreement.
+It's not a failure if a decision does not get agreement. You can ask members what changes they would make to enable them to agree to a decision. This helps you build to a better decision. A new Proposal with amendments is then more likely to achieve agreement.
 
 State an **outcome** when the proposal closes. Let everyone know the result of the decision and what will happen next.
 
@@ -210,16 +232,16 @@ State an **outcome** when the proposal closes. Let everyone know the result of t
 
 ### Examples of out-of-session decisions
 
-**Decision about property purchase.**
-At the last board meeting, a property purchase was discussed. A director required an independent engineering report before making the decision. At the board meeting, the board agreed to purchase the property subject to a satisfactory engineering report. However as the purchase must be made before the next board meeting, the board agreed to upload the engineering report to Loomio when ready for discussion and to make the final decision for the property purchase on Loomio.
+#### Decision about property purchase
+At the last board meeting, a property purchase was discussed. A director required an independent engineering report before making the decision. At the board meeting, the board agreed to purchase the property subject to a satisfactory engineering report. However as the purchase must be made before the next board meeting, the board agreed to upload the engineering report to Loomio when ready, for discussion and to make the final decision for the property purchase on Loomio.
 
-**Decision to accept Directors and Officers Liability insurance**
+#### Decision to accept Directors and Officers Liability insurance
 During the board meeting it was noted that the annual insurance renewal was coming up. As this was considered to be an administrative matter, the board agreed to use Loomio to discuss the renewal application, seek the required information from each director, submit the application and to accept the insurance renewal quote.
 
-**A security breach has occurred at one of our facilities**
+#### A security breach has occurred at one of our facilities
 A break-in and theft of property has occurred that has put the corporation and staff at risk. Directors must be made aware of the event and risks, and evaluate an appropriate response.
 
-**A director has challenged the board about gender and diversity of board membership**
+#### A director has challenged the board about gender and diversity of board membership
 The director has provided good reasons and evidence that the board should diversify membership to be more representative of the corporation. Directors need to digest the information, ask questions, discuss the issue and decide a response.
 
 ![](thread_insurance.png#width-90)
