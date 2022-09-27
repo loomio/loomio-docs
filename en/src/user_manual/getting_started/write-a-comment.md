@@ -16,13 +16,6 @@ If you want to change anything you can edit the comment by clicking on the 3 dot
 
 ![](comment_edit.png#width-90)
 
-
-### Get someone's attention with @mention
-
-You can notify people when you write a comment.
-
-![](comment_mention.png#width-90)
-
 ### Reply to a comment
 
 You can reply to someone's comment by clicking on the reply icon located at the bottom right of the comment.  
@@ -30,6 +23,12 @@ You can reply to someone's comment by clicking on the reply icon located at the 
 Your reply is published in the thread and an email notification is sent to the author of the comment.
 
 ![](comment_reply.png#width-90)
+
+### Get someone's attention with @mention
+
+You can notify people when you write a comment.
+
+![](comment_mention.png#width-90)
 
 ### Reactions
 
@@ -39,19 +38,21 @@ Reacting to a comment is a great way to encourage and acknowledge a comment by l
 
 ## Vote
 
-You may receive an invitation to vote via email or by notification in Loomio. Click on the link to have your say.
+You may receive an invitation to vote in a poll via email or by notification in Loomio. Click on the link in the email to vote.
 
-Voting in a Proposal or Poll is easy, just click or tap on the icon of your choice.
+Voting is easy, just click or tap on the icon of your choice.
 
-You can vote to **Agree**, **Abstain** or **Disagree** to the proposal. Other options may be available.
+There are many types of polls. The example below shows a typical proposal with voting options of **Agree**, **Abstain** or **Disagree**. Other options may be available.
 
-![](proposal-vote.png#width-80)
+Read the poll, and any attached files, then cast your vote by selecting one of the options.
+
+![](proposal_vote.png#width-90)
 
 ### State a reason
 
 When voting, you can also leave a **Reason** to say why you have voted this way. This is optional.
 
-![](reason.png#width-80)
+![](vote_reason.png#width-90)
 
 Up until the proposal closes, you can change your vote.  
 
@@ -61,11 +62,13 @@ There are many reasons why you might want to change your vote. For example if ne
 
 You can **change your vote**, up until the proposal closes.
 
-![](update-vote.png#width-80)
+![](vote_change.png#width-90)
 
 There are many reasons why you might want to change your vote. For example if new information emerges it may cause you to rethink your decision, and change your vote.
 
 Once again, you can leave a reason - to say why you have changed your vote.
+
+![](vote_edit.png#width-80)
 
 ### Results
 
