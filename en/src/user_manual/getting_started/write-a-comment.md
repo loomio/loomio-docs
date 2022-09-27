@@ -1,34 +1,41 @@
 # How to participate
 
 *On this page*
-- [Comment](#comment)
-- [Vote](#vote)
+- [How to write a comment](#comment)
+- [How to vote in a poll](#vote)
 
 ## Comment
 
-You can write a Comment in a Thread, and people can reply, react or post their own comment to continue the discussion.
+You can write a comment in a thread, and people can reply, react or post their own comment to continue the discussion.
 
-When you have written your text as a Comment in the thread, use **Post Comment** to instantly publish the comment. Your comment will be visible to anyone who has permission to see the thread. If you want to change anything you can edit the comment.
+When you have written your text, use **Post Comment** to instantly publish the comment. Your comment will be visible to anyone who has permission to see the thread. 
 
-![](comment.png#width-80)
+![](comment.png#width-90)
+
+If you want to change anything you can edit the comment by clicking on the 3 dots menu to the bottom right of your comment and selecting **Edit**.
+
+![](comment_edit.png#width-90)
+
 
 ### Get someone's attention with @mention
 
 You can notify people when you write a comment.
 
-![](mention.png#width-80)
+![](comment_mention.png#width-90)
 
 ### Reply to a comment
 
-You can reply to someone's comment.  Your reply is published in the thread and an email is sent to the author of the comment.
+You can reply to someone's comment by clicking on the reply icon located at the bottom right of the comment.  
 
-![](reply.png#width-80)
+Your reply is published in the thread and an email notification is sent to the author of the comment.
+
+![](comment_reply.png#width-90)
 
 ### Reactions
 
 Reacting to a comment is a great way to encourage and acknowledge a comment by letting the comment author know how you feel.  It is a quick and light-weight way to participate that does not require any text, nor send an email.
 
-![](react.png#width-80)
+![](reaction.png#width-90)
 
 ## Vote
 
