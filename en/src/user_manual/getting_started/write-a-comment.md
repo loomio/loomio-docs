@@ -74,7 +74,7 @@ Once again, you can leave a reason - to say why you have changed your vote.
 
 Results of the proposal are updated as people vote, so you can see how a proposal is trending.
 
-![](results.png#width-80)
+![](results.png#width-90)
 
 In a controversial proposal it is common to see mixed results, however this does not mean the proposal has failed.  
 
@@ -86,4 +86,4 @@ When the proposal closes, the author is prompted to state the **Outcome**.
 
 This is an important final step to record the result of the decision and let everyone know what will happen next.
 
-![](outcome.png#width-80)
+![](outcome.png#width-90)
