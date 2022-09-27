@@ -1,6 +1,6 @@
 # Loomio for boards and committees
 
-*Work in progress - last updated September 22, 2022*
+*Work in progress - last updated September 27, 2022*
 
 Good governance is more than a board meeting, it requires good communication.
 
@@ -24,9 +24,10 @@ Following are some examples of common practices of boards and committees, and ho
   - [Issues that arise between board meetings](#issues-that-arise-between-board-meetings)
   - [When there isn't space during meetings](#when-there-isnt-space-during-meetings)
 - [Making resolutions and online decisions](#making-resolutions-and-online-decisions)
-  - Keeping a record of decisions made and supporting discussion.
+  - [Keeping a record of decisions made and supporting discussion](#keeping-a-record-of-decisions-made-and-supporting-discussion)
 - Governance practices and approaches - policies and procedures
 - Administration and record keeping
+- [Why does your board need an online place for discussion and decisions?](#why-does-your-board-need-an-online-place-for-discussion-and-decisions)
 
 ##  Demo of Loomio for boards 
 
@@ -184,15 +185,15 @@ A lot can happen in an organization between meetings, and most people rely on em
 When an issue arises requiring board attention, use a Loomio thread rather than email.  Members can reply via email and their comment will appear in the Loomio thread, keeping the discussion in one place. 
 
 Here's how:
-- Make the email subject line the title of your thread.
-- Write your email content in the thread context.
-- Invite your team to the thread with their email address or Loomio user name.
+- Make the email subject line the title of your thread,
+- write your email content in the thread context,
+- invite your team to the thread with their email address or Loomio user name.
 
 A Loomio thread means that:
-- All info about a topic is organized in one easily accessible place.
-- People can respond without generating reply/reply-all email chains that risk leaving people out.
-- You can see who has read the message and who needs a nudge.
-- You can progress actual work to an outcome, and cut down on the amount of email.
+- All info about a topic is organized in one easily accessible place,
+- people can respond without generating reply/reply-all email chains that risk leaving people out,
+- you can see who has read the message and who needs a nudge,
+- you can progress actual work to an outcome, and cut down on the amount of email.
 
 ### When there isn't space during meetings
 
@@ -207,19 +208,19 @@ This relieves pressure on your board, allows more time for information gathering
 Board and committee members frequently need to make 'out-of-session' decisions. These are governance decisions and discussion where either;
 
 - There was insufficient time to make a decision in the board meeting,
-- The decision does not require a lot of discussion (including administrative decisions),
-- Something has happened (internally or externally) that requires the board to act before the next meeting,
-- A director has a particular interest to explore with the board.
+- the decision does not require a lot of discussion (including administrative decisions),
+- something has happened (internally or externally) that requires the board to act before the next meeting,
+- a director has a particular interest to explore with the board.
 
 #### On Loomio
 Start a **thread** and open a discussion:
-- introduce the topic or decision that you would like to make,
+- Introduce the topic or decision that you would like to make,
 - invite directors to comment with their thoughts, opinions and any information they have to help everyone understand their perspective about the 'out-of-session' topic or decision,
 - encourage members to participate by posting or reply to comments.
 
 When ready, raise a **poll** and invite members to vote. 
 If the issue is straightforward use a **Proposal** or if the issue is more complex use a **Sense check** poll to clearly ask fellow members how they feel about the proposal.
-- state the decision and invite people to vote,
+- State the decision and invite people to vote,
 - ask people to leave a reason for their vote, particularly if they want to qualify any points,
 - choose the decision options that work for your board's decision-making processes.
 - You can ratify and minute the 'out-of-session' decision at your next board meeting.
@@ -245,6 +246,31 @@ A break-in and theft of property has occurred that has put the corporation and s
 The director has provided good reasons and evidence that the board should diversify membership to be more representative of the corporation. Directors need to digest the information, ask questions, discuss the issue and decide a response.
 
 ![](thread_insurance.png#width-90)
+
+## Keeping a record of decisions made and supporting discussion
+
+Record keeping is a legal requirement for governance boards and good practice for committees.
+
+Today, many organizations record and store formal minutes, resolutions, policies and key decisions electronically. Document records are created and approved, distributed and used, retained and stored, and ultimately disposed of.
+
+#### On Loomio
+Minutes, reports, resolutions and other documents can be attached to a meeting **thread**, in the thread context, within a poll or any to thread comment.  This means the documents are always associated with the relevant discussion.
+
+A list of files can also be found under the **Files** tab.
+
+You can also add a link within any thread or poll to a document stored in your preferred document management system.  Find the online shareable link to the document, copy and paste into your thread, poll or comment.
+
+Anyone with permission can then click the link to open and read the document.
+
+![](thread_link.png#width-90)
+
+Because Loomio discussions and decisions are always already documented, it provides a robust way to verify all your board's decision-making. You can easily demonstrate what was decided, and when. If directors have discussed and commented, as well as voted on a resolution—you will also know how and why each decision was reached.
+
+![](thread_search.png#width-90)
+
+Over time, you are creating a history for your organization where you can easily search and find past decisions and related discussion.
+
+In Loomio all data is written and stored on multiple disks and multiple locations, *in the cloud*, backed up daily.  Files uploaded are stored on servers that use modern techniques to remove bottlenecks and points of failure.
 
 ---
 
