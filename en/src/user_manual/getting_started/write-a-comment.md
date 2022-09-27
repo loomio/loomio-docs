@@ -2,7 +2,14 @@
 
 *On this page*
 - [How to write a comment](#comment)
+  - [Reply to a comment](reply-to-a-comment)
+  - [Get someone's attention with @mention](#get-someones-attention)
+  - [Reactions](#reactions)
 - [How to vote in a poll](#vote)
+  - [State a reason](#state-a-reason)
+  - [Change your vote](#change-your-vote)
+  - [Results](#results)
+  - [Outcome](#outcome)
 
 ## Comment
 
@@ -24,7 +31,7 @@ Your reply is published in the thread and an email notification is sent to the a
 
 ![](comment_reply.png#width-90)
 
-### Get someone's attention with @mention
+### Get someone's attention
 
 You can notify people when you write a comment.
 
@@ -58,7 +65,7 @@ Up until the proposal closes, you can change your vote.
 
 There are many reasons why you might want to change your vote. For example if new information emerges it may cause you to rethink your decision, and change your vote.
 
-#### Changing your vote
+#### Change your vote
 
 You can **change your vote**, up until the proposal closes.
 
@@ -68,7 +75,7 @@ There are many reasons why you might want to change your vote. For example if ne
 
 Once again, you can leave a reason - to say why you have changed your vote.
 
-![](vote_edit.png#width-80)
+![](vote_edit.png#width-90)
 
 ### Results
 
