@@ -25,7 +25,7 @@ Following are some examples of common practices of boards and committees, and ho
   - [When there isn't space during meetings](#when-there-isnt-space-during-meetings)
 - [Making resolutions and online decisions](#making-resolutions-and-online-decisions)
   - [Keeping a record of decisions made and supporting discussion](#keeping-a-record-of-decisions-made-and-supporting-discussion)
-- Governance practices and approaches - policies and procedures
+- [Governance practices and approaches - policies and procedures](#governance-practices-and-approaches)
 - Administration and record keeping
 - [Why does your board need an online place for discussion and decisions?](#why-does-your-board-need-an-online-place-for-discussion-and-decisions)
 
@@ -258,6 +258,8 @@ Minutes, reports, resolutions and other documents can be attached to a meeting *
 
 A list of files can also be found under the **Files** tab.
 
+![](files_tab.png#width-90)
+
 You can also add a link within any thread or poll to a document stored in your preferred document management system.  Find the online shareable link to the document, copy and paste into your thread, poll or comment.
 
 Anyone with permission can then click the link to open and read the document.
@@ -266,11 +268,17 @@ Anyone with permission can then click the link to open and read the document.
 
 Because Loomio discussions and decisions are always already documented, it provides a robust way to verify all your board's decision-making. You can easily demonstrate what was decided, and when. If directors have discussed and commented, as well as voted on a resolution—you will also know how and why each decision was reached.
 
-![](thread_search.png#width-90)
-
 Over time, you are creating a history for your organization where you can easily search and find past decisions and related discussion.
 
+![](thread_search.png#width-90)
+
 In Loomio all data is written and stored on multiple disks and multiple locations, *in the cloud*, backed up daily.  Files uploaded are stored on servers that use modern techniques to remove bottlenecks and points of failure.
+
+## Governance practices and approaches
+
+
+
+
 
 ---
 
