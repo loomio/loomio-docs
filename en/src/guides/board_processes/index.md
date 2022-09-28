@@ -96,7 +96,7 @@ A great way to confirm everyone is prepared for the meeting is to use an **Opt-i
 
 A Loomio poll lets everyone know that something is happening and their response is required.  It adds that extra level of participation and an encouragement to read and prepare for the meeting.  Members can also leave a comment when responding.
 
-![](meeting_agenda_1.png#width-90)
+![](meeting_agenda.png#width-90)
 
 ### Find a time for meeting
 Finding a time to meet can be a frequent headache for many administrators. 
