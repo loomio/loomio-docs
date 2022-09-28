@@ -287,17 +287,17 @@ Use a **thread** for each document, policy or procedure. The thread is the conta
 
 With a Loomio thread, you can organize so that the 2-3 people working on the document text are discussing particulars in the thread.  The thread could be private amongst just those 2-3 people, or run openly in the group so that the work is transparent to all members.
 
-![](document_introduce_1.png#width-90)
+![](document_introduce.png#width-90)
 
 When the document reaches a draft version, use a **Sense check poll** to notify members that the draft document is ready for review, and invite members to read the document and respond with any comments or questions.  As well as letting everyone know that the work is progressing, the poll closing date encourages people to participate.
 
-![](document_integrate_1.png#width-90)
+![](document_integrate.png#width-90)
 
 The document may require several draft iterations.
 
 When a 'final' draft is ready, raise a **Proposal** to approve the document.
 
-![](document_approval_1.png#width-90)
+![](document_approval.png#width-90)
 
 Loomio enables a board to progress work on governance improvement between meetings without eating into precious time in meetings.
 
