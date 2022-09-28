@@ -1,6 +1,6 @@
 # Loomio for boards and committees
 
-*Work in progress - last updated September 27, 2022*
+*Work in progress so let us know if you have feedback or comments - last updated September 27, 2022*
 
 Good governance is more than a board meeting, it requires good communication.
 
