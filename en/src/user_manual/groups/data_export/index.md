@@ -18,7 +18,7 @@ If you're running your own Loomio server, and would rather not anymore, Loomio o
 
 Open the group drop down menu by clicking on the three dots, and select **Export group data**.
 
-![](export_data.png)
+![](export_data.png#width-90)
 
 ### Export group data as CSV
 
@@ -37,6 +37,18 @@ This will open the HTML file in another tab in your browser. If you want to save
 *For when you want to move your group data to a self-hosted Loomio instance.*
 
 You'll shortly receive an email with a link to downloading the JSON file.
+
+## Print thread to pdf
+
+You may need to extract a copy of a thread to store in a separate file archive.  
+
+**Print** thread retains all comments, polls, votes and outcomes, along with thread formatting.
+
+In the thread menu click on the 3 dots menu (⋯) and choose **Print**. Loomio will generate an HTML page that you can then print or "save to pdf" using the print tool in your browser.   
+
+You can copy the page to paste it into a document editor, file or data repository.
+
+![](thread_print.png#width-90)
 
 ## Import your group data on another Loomio server
 
