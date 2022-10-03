@@ -55,6 +55,7 @@
 
 # Governance
 - [Boards and Committees](guides/board_processes/index.md)
+  - [A chapter](guides/board_processes/a_chapter.md)
 - [AGM and General Assembly](guides/virtual_agm/index.md)
 - [Board meetings](guides/virtual_board_meetings/index.md)
 
