@@ -57,6 +57,7 @@
 - [Good Governance Guide to Loomio](guides/board_processes/index.md)
   - [Prepare for a meeting](guides/board_processes/meeting.md)
   - [Facilitating discussions](guides/board_processes/facilitating_discussions.md)
+  - [Making resolutions and online decisions](guides/board_processes/decisions.md)
 - [AGM and General Assembly](guides/virtual_agm/index.md)
 - [Board meetings](guides/virtual_board_meetings/index.md)
 
