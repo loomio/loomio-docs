@@ -31,11 +31,11 @@ Rahul walks through a demo of Loomio for a board.
 
 Originally recorded as part of the online Governance forum hosted by the Office of the Registrar of Indigenous Corporations (ORIC), Australia. 30 November 2021.
 
-## [Prepare for a meeting](board_processes/meeting.md)
+## [Prepare for a meeting](meeting.md)
 
-## [Facilitating discussions](board_processes/facilitating_discussions.md)
+## [Facilitating discussions](facilitating_discussions.md)
 
-## [Making resolutions and online decisions](board_processes/decisions.md)
+## [Making resolutions and online decisions](decisions.md)
 
 ## Governance practices and approaches
 
