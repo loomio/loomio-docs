@@ -58,6 +58,7 @@
   - [Prepare for a meeting](guides/board_processes/meeting.md)
   - [Facilitating discussions](guides/board_processes/facilitating_discussions.md)
   - [Making resolutions and online decisions](guides/board_processes/decisions.md)
+  - [Governance practices and approaches](guides/board_processes/practices.md)
 - [AGM and General Assembly](guides/virtual_agm/index.md)
 - [Board meetings](guides/virtual_board_meetings/index.md)
 
