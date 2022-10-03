@@ -13,14 +13,6 @@ Loomio is a versatile discussion and decision-making tool for collaborative boar
 
 Following are some examples of common practices of boards and committees, and how to apply these in Loomio.
 
-- [Demo of Loomio for boards](#demo-of-loomio-for-boards)
-- [Prepare for a meeting](#prepare-for-a-meeting)
-- [Facilitating discussions](#facilitating-discussions)
-- [Making resolutions and online decisions](#making-resolutions-and-online-decisions)
-- [Governance practices and approaches - policies and procedures](#governance-practices-and-approaches)
-- Administration and record keeping
-- [Why does your board need an online place for discussion and decisions?](#why-does-your-board-need-an-online-place-for-discussion-and-decisions)
-
 ##  Demo of Loomio for boards 
 
 Rahul walks through a demo of Loomio for a board.
@@ -39,7 +31,7 @@ Originally recorded as part of the online Governance forum hosted by the Office 
 
 ## [Governance practices and approaches](practices.md)
 
----
+## Administration and record keeping
 
 ## Why does your board need an online place for discussion and decisions?
 
