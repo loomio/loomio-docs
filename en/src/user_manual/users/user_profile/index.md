@@ -19,8 +19,6 @@ Click on **Edit profile**
 
 ![](edit_profile.png)
 
-Your user profile opens.
-
 ## Update your personal info
 
 You can update your personal info by changing any of the following fields:
@@ -50,7 +48,7 @@ Loomio will detect your browser’s language settings, but you can manually set 
 ## Resetting your password
 You can change your password by visiting your profile page and clicking **Reset Password**.
 
-![](reset_password.png)
+![](reset_password.png#width-80)
 
 ## Deleting your account
 
