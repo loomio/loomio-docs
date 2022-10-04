@@ -1,8 +1,6 @@
 # Your Profile
 _Configuring your online appearance and profile in Loomio._
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/0Mb2_D74ktM?rel=0" frameborder="0" allowfullscreen></iframe>
-
 ## Your profile
 
 Your profile page lets you customize your Loomio identity. To visit your profile page select the **Edit profile** option in the user menu, which is found by clicking on your name at the top of the sidebar; _if sidebar is closed, click on the menu icon_ (**☰**) _to open it._
@@ -29,7 +27,6 @@ Loomio is developed in English, but [is translated by volunteers into many langu
 
 Loomio will detect your browser’s language settings, but you can manually set your preferred language from the profile page.
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/0llDGzowrXU?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ## Resetting your password
 You can change your password by visiting your profile page and clicking **Reset Password**.
