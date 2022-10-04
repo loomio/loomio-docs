@@ -35,11 +35,11 @@
   - [Consent process](guides/consent_process/index.md)
 
 - [Your profile](user_manual/users/user_profile/index.md)
+  - [Notifications](user_manual/users/email_settings/index.md)
+  - [Navigation](user_manual/users/navigation/index.md)
   - [Merge accounts](user_manual/users/merge_accounts/index.md)
   - [Language and translation](user_manual/users/translation/index.md)
   - [Deleting your account](user_manual/users/deleting_your_account/index.md)
-  - [Notifications](user_manual/users/email_settings/index.md)
-  - [Navigation](user_manual/users/navigation/index.md)
 
 - [Chatbots](user_manual/groups/integrations/chatbots/index.md)
   - [Discord](user_manual/groups/integrations/discord/index.md)
