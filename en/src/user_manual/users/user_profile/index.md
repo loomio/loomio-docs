@@ -23,11 +23,11 @@ Click on **Edit profile**
 
 You can update your personal info by changing any of the following fields:
 
-* **Your name**
-* **Your email address** - this is the email address associated with your Loomio account, and where you will receive notifications from Loomio.
-* **Your username** - your username is a name people can recognize and alert you using @mention.
-* **Your introduction** - a few lines to tell others in your group something about you.
-* **Your location** - useful for distributed or remote groups so people can get an idea of where you are located.
+* **Name**
+* **Email address** - this is the email address associated with your Loomio account, and where you will receive notifications from Loomio.
+* **Username** - your username is a name people can recognize and alert you using @mention.
+* **Introduction** - a few lines to tell others in your group something about you.
+* **Location** - useful for distributed or remote groups so people can get an idea of where you are located.
 
 ![](user_profile.png)
 
