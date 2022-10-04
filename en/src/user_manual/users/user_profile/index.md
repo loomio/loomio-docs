@@ -1,16 +1,25 @@
 # Your Profile
-_Configuring your online appearance and profile in Loomio._
+Your Loomio user profile is how people recognize you.  
 
-## Your profile
+Being able to recognize people in Loomio helps build trust and authenticity, encouraging more genuine participation.  So wherever possible we encourage you to be you, and to add a photo or avatar.
 
-Your profile page lets you customize your Loomio identity. To visit your profile page select the **Edit profile** option in the user menu, which is found by clicking on your name at the top of the sidebar; _if sidebar is closed, click on the menu icon_ (**☰**) _to open it._
+## Edit profile
 
-![](edit_profile_1.png)
+Your profile page lets you customize your Loomio identity. To visit your profile page select the **Edit profile** option in the user menu, which is found by clicking on your name at the top of the sidebar. 
 
-![](user_profile.png)
+If the sidebar is closed, click on the menu icon (**☰**) to open it.
 
-## Uploading a profile photo
-When you first create a Loomio account, your initials will be the default image associated with your profile. You can upload a profile photo by clicking on your picture on the profile page. If you have a [Gravatar](https://en.gravatar.com/) you can set that as your profile picture by selecting **Use Gravatar**. You can also choose for Loomio to use the photo you use for other common platforms/tools.
+![](sidebar_menu.png)
+
+Click on the down arrow to the right of your name.
+
+![](sidebar_profile.png)
+
+Click on **Edit profile**
+
+![](edit_profile.png)
+
+Your user profile opens.
 
 ## Update your personal info
 
@@ -19,39 +28,30 @@ You can update your personal info by changing any of the following fields:
 * **Your name**
 * **Your email address** - this is the email address associated with your Loomio account, and where you will receive notifications from Loomio.
 * **Your username** - your username is a name people can recognize and alert you using @mention.
-* **Your introduction** - a few lines to tell others in your group know something about you.
+* **Your introduction** - a few lines to tell others in your group something about you.
 * **Your location** - useful for distributed or remote groups so people can get an idea of where you are located.
+
+![](user_profile.png)
+
+## Uploading a profile photo
+When you first create a Loomio account, your initials will be the default image associated with your profile. You can upload a profile photo by clicking on your picture on the profile page. 
+
+If you have a [Gravatar](https://en.gravatar.com/) you can set that as your profile picture by selecting **Use Gravatar**. You can also choose for Loomio to use the photo you use for other common platforms/tools.
+
+![](profile_photo.png)
 
 ## Language settings
 Loomio is developed in English, but [is translated by volunteers into many languages](https://www.loomio.com/g/cpaM3Hsv/loomio-community-translation).
 
-Loomio will detect your browser’s language settings, but you can manually set your preferred language from the profile page.
+Loomio will detect your browser’s language settings, but you can manually set your preferred language from the available options on the profile page.
 
+![](profile_language.png)
 
 ## Resetting your password
 You can change your password by visiting your profile page and clicking **Reset Password**.
 
 ![](reset_password.png)
 
-## Deactivating your account
-If you no longer want to receive notifications from Loomio, but think that you may want to access your account again some time in the future, you can deactivate your account.
-
-To deactivate your account
-
-1. Login to loomio with the email address of the account you wish to deactivate
-2. Visit the "Edit profile" page from the user menu (top right corner of the screen).
-3. Scroll to the bottom of the page and click "Deactivate account"
-4. Confirm you wish to deactivate.
-
-Once your account has been deactivated:
-
-* you will no longer be listed as a member of any groups
-* comments, proposals and discussions you’ve made will remain but your name will be removed from them
-* you will no longer receive Loomio-related emails
-
-## Reactivating your account
-If you login to your account with your email address you'll reactivate your account and regain access to your groups.
-
-## Permanently deleting your account
+## Deleting your account
 
 Go to the section on [Deleting Your Loomio Account](../deleting_your_account)
