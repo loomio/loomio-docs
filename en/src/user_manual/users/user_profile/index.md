@@ -50,6 +50,12 @@ You can change your password by visiting your profile page and clicking **Reset 
 
 ![](reset_password.png#width-90)
 
+## Merge accounts
+
+If you have two Loomio user accounts, you can merge them into a single account.
+
+See [Merge Accounts](../merge_accounts).
+
 ## Deleting your account
 
-Go to the section on [Deleting Your Loomio Account](../deleting_your_account)
+If you wish to delete your Loomio user account and leave any Loomio groups you are a member of, see [Deleting Your Loomio Account](../deleting_your_account).
