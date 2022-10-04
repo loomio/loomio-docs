@@ -48,7 +48,7 @@ Loomio will detect your browser’s language settings, but you can manually set 
 ## Resetting your password
 You can change your password by visiting your profile page and clicking **Reset Password**.
 
-![](reset_password.png#width-80)
+![](reset_password.png#width-90)
 
 ## Deleting your account
 
