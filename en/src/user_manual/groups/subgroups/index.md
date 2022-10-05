@@ -9,9 +9,7 @@ For example, you can use subgroups for your organization's
 - working team or a project working group
 - a topic (such as 'strategy' or 'learning')
 
-Unlike tags, subgroups create a separate space for a specific group of people. [Tags](/en/user_manual/threads/thread_admin/#using-category-tags) are a way to organize your threads. Subgroups allows you to change the permissions, notifications, and more for a set of threads and people.
-
-Subgroups work just like groups do, but are located within your group/organization, which we call the "parent group". Most of the features and settings are the same as what you encounter in your parent group. This also means that someone can be part of your subgroup (eg, your board) but not your parent group.
+Subgroups work just like groups do, but are located within your "parent" group. Most of the features and settings are the same as what you encounter in your parent group. This also means that someone can be a member of your subgroup, such as your board, but not of your parent group.
 
 ## Add a subgroup
 
@@ -19,53 +17,93 @@ To add a subgroup in your group, go to the **Subgroups** tab.
 
 ![](subgroups_tab.png)
 
-Click the **New subgroup** button, give it a meaningful title and decide on the desired [privacy](/en/user_manual/groups/starting_a_group/#privacy)) setting, and click **Start subgroup**. You can now start threads and invite people in.
+Click the **New subgroup** button, give it a name and select the privacy setting, then click **Start subgroup**. 
 
-However, similar to [starting a group](/en/user_manual/groups/starting_a_group), you may want to 'prepare the space,' so to speak, for those you will soon invite. A group description, and adjusting any settings including the banner image, can help people feel comfortable in the Loomio group and with the others who will be participating here. Again, this supports psychological safety – proven to improve performance.
+The subgroup is created and you can start threads and invite people into the subgroup.
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/U4qmHlEMq8E?rel=0" frameborder="0" allowfullscreen></iframe>
+Add a [group description](https://help.loomio.com/en/user_manual/groups/settings/index.html#group-description) so people you invite to the subgroup understand its purpose.  
 
-[Invite people](/en/user_manual/groups/starting_a_group/#invite-people) just like you would in a group.
+Check subgroup settings such as privacy, permissions and change the cover image and logo to suit your subgroup.
 
-### Who can see it
+When you are ready, [invite people](https://help.loomio.com/en/user_manual/groups/membership/index.html) people to the subgroup.
 
-The [privacy](/en/user_manual/groups/starting_a_group/#privacy) settings for subgroups follow the same logic as that of any group. A **secret subgroup** will not be visible to group members who are not invited to the subgroup.
+![](subgroups_new.png)
 
-**Closed subgroups** will be listed in the Subgroups tab of the relevant parent group, and, by default, members of the parent group can request and – upon approval by an admin – join them.
-
-See below for more on privacy.
-
-## Manage your subgroups
-
-### Permissions
-
-Subgroups can operate independently of the main group. For example, if the subgroup privacy setting is set to **Secret**, then only invited members can find this subgroup, see who is in it, and see threads.
-
-Subgroups can have their own coordinators, and, thus, the coordinators of a subgroup may not be the same as the coordinators of the parent group.
-
-Any coordinator of the parent group may independently make themselves coordinator of any subgroups therein.
+## Subgroup settings
 
 ### Privacy
 
-**Closed** subgroups have an additional **Advanced setting** that allow members of its parent group to see private threads, or not.
+The privacy settings for subgroups are similar to the parent group. 
 
-Otherwise, the privacy settings are the same as those for groups; [learn anything else you need to know here](/en/user_manual/groups/starting_a_group/#privacy).
+**Secret** subgroups are not visible to people not invited to the subgroup.
 
-![arrow pointing to the option for "Members of [Group name] can see private threads"](parent_group_can_see_private_threads.png)
+**Closed** subgroups are listed in the Subgroups tab of the parent group and user's sidebar menu. Members of the parent group can request to join the subgroup. Membership is approved by a subgroup admin.
+
+Closed subgroups have an additional setting that allow members of its parent group to see private threads.
+
+[Read about group privacy here](https://help.loomio.com/en/user_manual/groups/settings/index.html#privacy).
+
+### Permissions
+
+Subgroups operate independently of the main group. For example, if the subgroup privacy setting is set to **Secret**, then only invited members can find this subgroup, see who is in it, and see threads.
+
+Closed subgroups have an additional setting that allow members of its parent group to see private threads, enabling the subgroup to be transparent to members of the parent group.
+
+![](subgroup_permissions.png)
+
+## Finding subgroups
+
+Click on the **Subgroups** tab to see subgroups.
+
+The first group listed is actually the "parent" group.  Clicking on this group enables you to see the threads that are in the parent group only.
+
+Click on the subgroup to go to that subgroup.
+
+![](subgroup_view.png)
+
+You can also find your subgroup from the sidebar menu.
+
+![](subgroup_sidebar.png)
+
 
 ### Invitations
 
-Invite people just like you would invite them into a group. If they're already in your parent group you can just type their name. You can also quickly select everyone from the parent group.
+Invite people to a subgroup as you invite them into a group. If they're already in your parent group you can just type their name. You can also quickly select everyone from the parent group.
 
 #### Simultaneously invite people to subgroups and parent group
 
 If you use the **Invite people** button from your parent group's **Members** tab, you can invite people to multiple subgroups at the same time by ticking the boxes of those you would like them to join immediately.
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/EZzTe6jJL7c?rel=0" frameborder="0" allowfullscreen></iframe>
+![](subgroup_invite.png)
 
-### Deactivate a subgroup
+## Administering subgroups
 
-Coordinators can deactivate a subgroup in the same way they would a group. Learn [how to deactivate groups](/en/user_manual/groups/deleting_archiving).
+Subgroups can have their own admins, and admins of a subgroup may not be the same as the admins of the parent group.
+
+However, an admin of the parent group can make themselves admin of any subgroups.  This helps administrators of the parent group to administer subgroups as necessary.
+
+Go to the subgroup and click **Join group**.
+
+![](subgroup_join.png)
+
+Now a member of the subgroup, an admin of the parent group can make themselves an admin of the subgroup.
+
+![](subgroup_make_admin.png)
+
+## Archiving a subgroup
+
+When your subgroup has served its purpose and you want to keep the subgroup for your records, a subgroup admin can archive it with the following:
+- Rename the subgroup by appending the word Archive, e.g. **Archive - subgroup name**.
+- Update the subgroup description to let everyone know the subgroup is now closed/archived.
+- Remove members of the subgroup, leaving at least one person as admin.  (Only subgroup members can write new content.)
+
+If you want the archived subgroup to be visible to members of the parent group; 
+- Change subgroup privacy to **Closed**
+- In **Permissions** check the first box allowing members of the parent group to see the group.
+
+### Delete a subgroup
+
+Admins can deactivate a subgroup in the same way they would a group. Learn [how to deactivate groups](/en/user_manual/groups/deleting_archiving).
 
 ### Other group options
 
