@@ -11,11 +11,11 @@ In group settings you can change group name, add a group description, upload a p
 
 On your group page, find and click on the **Edit group settings** cogwheel icon to open Group settings and use the form that appears (click save when done). 
 
-![](edit_settings.png#width-90)
+![](group_edit.png)
 
 ## Group profile
 
-![](edit_group_name.png#width-90)
+![](group_profile.png)
 
 ### Upload a group photo
 
