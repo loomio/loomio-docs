@@ -27,14 +27,6 @@ Keep the thread list current by using:
 
 ![](thread_admin.png#width-90)
 
-## Maintaining the thread topic
-
-Threads work best for everyone when you can keep the thread on a single topic. 
-
-If a new topic is introduced in the middle of a thread, you can select and move specific comments to another thread, or start a new thread.
-
-![](thread_comments_move.png#width-90)
-
 ## Category tags
 
 Category tags are a great way to label threads so they can be easily found. Set tags and apply to each thread  - try to be consistent.
@@ -44,6 +36,14 @@ Common board tags include: Administration, AGM, Board meeting, Report, Finance, 
 Group members can search for threads by tag under the **tags** drop down menu.
 
 ![](thread_tags.png#width-90)
+
+## Maintaining the thread topic
+
+Threads work best for everyone when you can keep the thread on a single topic. 
+
+If a new topic is introduced in the middle of a thread, you can select and move specific comments to another thread, or start a new thread.
+
+![](thread_comments_move.png#width-90)
 
 ## Subgroups
 
