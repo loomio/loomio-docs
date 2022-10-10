@@ -8,15 +8,14 @@ However digital tools enable your board to do much more than just file meeting m
 
 Transform your board: 
 
-“Our board group has been particularly transformative, enabling continuous governance, improving response times and increasing our agility, resilience and sustainability… Loomio saves us thousands of pounds every year”
-
-Austen Cordasco Co-operative Assistance Network Limited (CAN) Business support services , United Kingdom
+*“Our board group has been particularly transformative, enabling continuous governance, improving response times and increasing our agility, resilience and sustainability… Loomio saves us thousands of pounds every year”*
+- Austen Cordasco Co-operative Assistance Network Limited (CAN) Business support services , United Kingdom
 
 Let's look at how to organize work, administer threads, keep data safe and store records in Loomio.
 
 ## Administering threads
 
-There is a range of features to help you administer threads accessible from the drop down menu to the right of the thread.
+There is a range of features in Loomio to help you administer threads accessible from the drop down menu to the right of the thread.
 
 Keep the thread list current by using:
 
@@ -43,11 +42,13 @@ Group members can search for threads by tag under the **tags** drop down menu.
 
 Subgroups help you organize your communications and members so that the right people are engaged in their work together.  For example, you can use a subgroup for a subcommittee or working group.
 
+[Setting up subgroups.](https://help.loomio.com/en/user_manual/groups/subgroups/index.html)
+
 ## Archiving records
 
-To keep a record of a thread discussion and decisions in polls, use **Print thread** and print the file to pdf.  You can then store a published copy of the thread in your chosen document storage archive.
+To keep a record of a thread discussion and decisions in polls, use **[Print thread](https://help.loomio.com/en/user_manual/groups/data_export/index.html#print-thread-to-pdf)** and print the file to pdf.  You can then store a published copy of the thread in your chosen document storage archive.
 
-To keep a complete record of the data in your Loomio group, use **Export group data**.
+To keep a complete record of the data in your Loomio group, use **[Export group data](https://help.loomio.com/en/user_manual/groups/data_export/index.html#group-data-backup-or-export)**.
 
 ## Data storage
 
@@ -58,6 +59,9 @@ All data in threads, comments, polls and file attachments are stored in this way
 Files attached to threads can also be seen under the Files tab.
 
 ![](files_tab.png#width-90)
+
+[More about security in Loomio.
+](https://help.loomio.com/en/policy/security/index.html)
 
 ## Guidelines
 
