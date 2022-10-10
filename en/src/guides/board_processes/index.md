@@ -1,6 +1,6 @@
 # Good Governance Guide to Loomio
 
-*Work in progress so let us know if you have feedback or comments - last updated September 27, 2022*
+*Work in progress so let us know if you have feedback or comments - last updated October 11, 2022*
 
 Good governance is more than a board meeting, it requires good communication before and after meetings.
 
@@ -31,7 +31,7 @@ Originally recorded as part of the online Governance forum hosted by the Office 
 
 ## [Governance practices and approaches](practices.md)
 
-## Administration and record keeping
+## [Administration and record keeping](admin.md)
 
 ## Why does your board need an online place for discussion and decisions?
 
