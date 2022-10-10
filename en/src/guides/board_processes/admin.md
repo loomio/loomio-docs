@@ -27,6 +27,13 @@ Keep the thread list current by using:
 
 ![](thread_admin.png#width-90)
 
+## Maintaining the thread topic
+
+Threads work best for everyone when you can keep the thread on a single topic. 
+
+If a new topic is introduced in the middle of a thread, you can select and move specific comments to another thread, or start a new thread.
+
+![](thread_comments_move.png#width-90)
 
 ## Category tags
 
@@ -63,5 +70,4 @@ Files attached to threads can also be seen under the Files tab.
 [More about security in Loomio.
 ](https://help.loomio.com/en/policy/security/index.html)
 
-## Guidelines
-
+ 
