@@ -25,17 +25,12 @@ Originally recorded as part of the online Governance forum hosted by the Office 
 
 In this guide:
 
-## [Prepare for a meeting](meeting.md)
-
-## [Facilitating discussions](facilitating_discussions.md)
-
-## [Making resolutions and online decisions](decisions.md)
-
-## [Governance practices and approaches](practices.md)
-
-## [Administration and record keeping](admin.md)
-
-## [Introducing Loomio to your board](introduce.md)
+- [Prepare for a meeting](meeting.md)
+- [Facilitating discussions](facilitating_discussions.md)
+- [Making resolutions and online decisions](decisions.md)
+- [Governance practices and approaches](practices.md)
+- [Administration and record keeping](admin.md)
+- [Introducing Loomio to your board](introduce.md)
 
 ## Why does your board need an online place for discussion and decisions?
 
