@@ -23,6 +23,8 @@ Rahul walks through a demo of Loomio for a board.
 
 Originally recorded as part of the online Governance forum hosted by the Office of the Registrar of Indigenous Corporations (ORIC), Australia. 30 November 2021.
 
+In this guide:
+
 ## [Prepare for a meeting](meeting.md)
 
 ## [Facilitating discussions](facilitating_discussions.md)
@@ -32,6 +34,8 @@ Originally recorded as part of the online Governance forum hosted by the Office 
 ## [Governance practices and approaches](practices.md)
 
 ## [Administration and record keeping](admin.md)
+
+## [Introducing Loomio to your board](introduce.md)
 
 ## Why does your board need an online place for discussion and decisions?
 
