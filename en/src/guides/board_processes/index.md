@@ -1,7 +1,5 @@
 # Good Governance Guide to Loomio
 
-*Work in progress so let us know if you have feedback or comments - last updated October 11, 2022*
-
 Good governance is more than a board meeting, it requires good communication before and after meetings.
 
 This guide is intended to help you use Loomio in your board or committee, so you can stay connected between meetings, deal with urgent matters and reduce board admin.
