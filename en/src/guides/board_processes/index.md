@@ -1,7 +1,5 @@
 # Good Governance Guide to Loomio
 
-*Work in progress so let us know if you have feedback or comments - last updated October 11, 2022*
-
 Good governance is more than a board meeting, it requires good communication before and after meetings.
 
 This guide is intended to help you use Loomio in your board or committee, so you can stay connected between meetings, deal with urgent matters and reduce board admin.
@@ -23,15 +21,14 @@ Rahul walks through a demo of Loomio for a board.
 
 Originally recorded as part of the online Governance forum hosted by the Office of the Registrar of Indigenous Corporations (ORIC), Australia. 30 November 2021.
 
-## [Prepare for a meeting](meeting.md)
+In this guide:
 
-## [Facilitating discussions](facilitating_discussions.md)
-
-## [Making resolutions and online decisions](decisions.md)
-
-## [Governance practices and approaches](practices.md)
-
-## [Administration and record keeping](admin.md)
+- [Prepare for a meeting](meeting.md)
+- [Facilitating discussions](facilitating_discussions.md)
+- [Making resolutions and online decisions](decisions.md)
+- [Governance practices and approaches](practices.md)
+- [Administration and record keeping](admin.md)
+- [Introducing Loomio to your board](introduce.md)
 
 ## Why does your board need an online place for discussion and decisions?
 
