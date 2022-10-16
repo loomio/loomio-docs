@@ -1,5 +1,10 @@
 # Group data backup or export
 
+*On this page*
+- [Export data](#export-data)
+- [Print thread to pdf](#print-thread-to-pdf)
+- [Import your group data on another Loomio server](#import-your-group-data-on-another-Loomio-server)
+
 With the group data export feature you can:
 
 - Download a file containing member data to audit group membership.
@@ -14,7 +19,7 @@ If you're running your own Loomio server, and would rather not anymore, Loomio o
 
 [Contact us](https://www.loomio.com/contact) if you would like to transfer your Loomio group from Loomio's global hosted service at loomio.com to one of our regional services; loomio.eu for Europe or loomio.nz for Australia and New Zealand.
 
-## Export
+## Export data
 
 Open the group drop down menu by clicking on the three dots, and select **Export group data**.
 
