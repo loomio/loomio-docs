@@ -1,5 +1,11 @@
 # Inviting people
 
+*On this page*
+- [Invite people](#invite-people)
+- [Invite people via their email](#invite-people-via-their-email)
+- [Share a link to your group](#share-a-link-to-your-group)
+- [Managing invitations](#managing-invitations)
+
 Inviting people to join your Loomio group is a critical step to success - however everyone is busy; many people are reluctant to try a new tool and can be slow to respond to your invitation.  
 
 Loomio includes tools to help you invite people; but you may also need to reach out to members by phone, text, chat or in a meeting, to tell them ***why*** you are using Loomio. If your group members resonate with this, it will encourage them to give it a go.
