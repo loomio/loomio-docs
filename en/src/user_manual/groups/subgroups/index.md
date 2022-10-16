@@ -1,5 +1,14 @@
 # Subgroups
-_Subgroups help you organize in teams._
+
+*On this page*
+- [Add a subgroup](#add-a-subgroup)
+- [Subgroup settings](#subgroup-settings)
+- [Find subgroups](#find-subgroups)
+- [Invite to subgroup](#invite-to-subgroup)
+- [Administer subgroup](#administer-subgroup)
+- [Archive a subgroup](#archive-a-subgroup)
+- [Delete a subgroup](#delete-a-subgroup)
+- 
 
 Subgroups help you organize your communications and members so that the right people are engaged in their work together.
 
@@ -51,7 +60,7 @@ Closed subgroups have an additional setting that allow members of its parent gro
 
 ![](subgroup_permissions.png)
 
-## Finding subgroups
+## Find subgroups
 
 Click on the **Subgroups** tab to see subgroups.
 
@@ -65,22 +74,21 @@ You can also find your subgroup from the sidebar menu.
 
 ![](subgroup_sidebar.png)
 
-
-### Invitations
+## Invite to subgroup
 
 Invite people to a subgroup as you invite them into a group. If they're already in your parent group you can just type their name. You can also quickly select everyone from the parent group.
 
-#### Simultaneously invite people to subgroups and parent group
+### Simultaneously invite people to subgroups and parent group
 
 If you use the **Invite people** button from your parent group's **Members** tab, you can invite people to multiple subgroups at the same time by ticking the boxes of those you would like them to join immediately.
 
 ![](subgroup_invite.png)
 
-## Administering subgroups
+## Administer subgroup
 
 Subgroups can have their own admins, and admins of a subgroup may not be the same as the admins of the parent group.
 
-However, an admin of the parent group can make themselves admin of any subgroups.  This helps administrators of the parent group to administer subgroups as necessary.
+However an admin of the 'parent' group can make themselves admin of any subgroups.  This helps administrators of the parent group to administer subgroups as necessary.
 
 Go to the subgroup and click **Join group**.
 
@@ -90,7 +98,7 @@ Now a member of the subgroup, an admin of the parent group can make themselves a
 
 ![](subgroup_make_admin.png)
 
-## Archiving a subgroup
+## Archive a subgroup
 
 When your subgroup has served its purpose and you want to keep the subgroup for your records, a subgroup admin can archive it with the following:
 - Rename the subgroup by appending the word Archive, e.g. **Archive - subgroup name**.
@@ -101,30 +109,16 @@ If you want the archived subgroup to be visible to members of the parent group;
 - Change subgroup privacy to **Closed**
 - In **Permissions** check the first box allowing members of the parent group to see the group.
 
-### Delete a subgroup
+## Delete a subgroup
 
-Admins can deactivate a subgroup in the same way they would a group. Learn [how to deactivate groups](/en/user_manual/groups/deleting_archiving).
+Admins can delete a subgroup in the same way you delete group. When deleting a subgroup, be careful to not delete the 'parent' group.
 
-### Other group options
-
-Export data, set up your Slack integration, and in all other ways use this subgroup just like you would a group; check our [help articles on **groups** for more](/en/user_manual/groups/intro_to_groups/).
-
-## Are subgroups for my organization?
-
-Does your organization have a number of working groups, committees, or task forces? Are there times when you want to alert or ask a question of a department or specific set of people who have responsibility, or are experts, in a certain area?
-
-If you answered yes, then you probably will find subgroups useful.
-
-Subgroups help if you want to…
-
-- Keep a conversation private to a smaller number of people in your group
-- Keep people from being bothered by conversations that don't matter to them; *bonus: subgroups have their own [notification settings](/en/user_manual/users/email_settings)*
-- Make sure to notify _all_ the people related to a specific topic, project, expertise… _every_ time
+Learn [how to delete groups](/en/user_manual/groups/deleting_archiving).
 
 ## Group page shows subgroup threads
 
-By default, when you go to your parent group you will see a list of its threads and the threads of its subgroups _that you are in_.
+The default view on your parent group page shows a list of all of the threads in your parent group and threads from subgroups that you have permission to see.
 
-If you wish to see _only_ threads that were started or belong to the parent group, click the **Subgroups** tab and select the first option (**…without subgroups**).
+If you wish to see only threads in your parent group, click the **Subgroups** tab and select the first option (**[Parent group name] without subgroups**).
 
 ![](parent_group_without_subgroups.png)
