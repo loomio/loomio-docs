@@ -1,10 +1,16 @@
 # Category Tags
 
+*On this page*
+- [Create tags](#create-tags)
+- [Edit tags](#edit-tags)
+
 Category tags make it easy to find threads of a certain type or topic.
 
 On your group page, click on **tags** to see the category tags used in your group.  Note that alongside each tag name is the number of threads with this tag.
 
 ![](tags_view.png)
+
+## Create tags
 
 You can create and apply tags when you start or edit a thread.
 
