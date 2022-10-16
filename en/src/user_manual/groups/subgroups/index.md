@@ -8,7 +8,7 @@
 - [Administer subgroup](#administer-subgroup)
 - [Archive a subgroup](#archive-a-subgroup)
 - [Delete a subgroup](#delete-a-subgroup)
-- 
+- [Group page shows subgroup threads](#group-page-shows-subgroup-threads)
 
 Subgroups help you organize your communications and members so that the right people are engaged in their work together.
 
