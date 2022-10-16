@@ -3,7 +3,7 @@
 *On this page*
 - [Administering your group](#administering-your-group)
 - [Managing subgroups](#managing-subgroups)
-- [Removing members](removing-members)
+- [Removing members](#removing-members)
 - [Leaving group](#leaving-group)
 - [Set title](#set-title)
 - [Member email addresses](#member-email-addresses)
