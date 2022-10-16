@@ -1,6 +1,6 @@
 # Orientation tour
 
-If you are new to Loomio lets take an orientation tour to help you quickly understand how to participate in discussions and decisions in your group.
+If you are new to Loomio, let's take an orientation tour to help you quickly understand how to participate in discussions and decisions in your group.
 
 _On this page_
 - [How Loomio works](#how-loomio-works)
