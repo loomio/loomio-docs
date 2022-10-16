@@ -7,7 +7,7 @@ _On this page_
 - [Group page](#group-page)
 - [Side bar](#side-bar)
 - [Notifications](#notifications)
-- [Finding Information Quickly](#finding-information-quickly)
+- [Finding information quickly](#finding-information-quickly)
 - [Threads](#threads)
 - [Polls](#poll-tab)
 
@@ -146,7 +146,7 @@ If you are receiving too many emails from Loomio, you can change the default ema
 
 When you receive an email from Loomio, you can reply directly from your email inbox and your reply will be posted into the Loomio thread. This works for everything except the Catch-up summary email.
 
-## Finding Information Quickly
+## Finding information quickly
 
 There are several tools included within Loomio to help you find the information you are looking for quickly.
 
@@ -187,7 +187,7 @@ The thread page includes everything you need to know about the thread;
 
 The thread context is used to introduce the topic. It will often include background information to help you participate in the discussion, such as attached files or links to online documents. The context always stays at the top of the thread.
 
-![](thread_context_example.png#width-80)
+![](thread_context_example.png#width-90)
 
 ### Thread activity
 
