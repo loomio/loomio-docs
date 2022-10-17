@@ -116,3 +116,6 @@ This provides a clear record of the decision made and a reference for the future
 
 ![](document_approval.png#width-80)
 
+**Set an outcome**
+
+![](document_outcome.png#width-80)
