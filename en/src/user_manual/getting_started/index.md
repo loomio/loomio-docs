@@ -60,6 +60,6 @@ Here are some examples of common threads used by organizations around the world.
 
 [Approve a document, policy or agreement](https://help.loomio.com/en/user_manual/threads/examples/index.html#approve-a-document) - to introduce, discuss and develop an important piece of work.
 
+### View and interact with a Loomio demo group
 
-
-**[See and interact with the Loomio demo group here.](https://www.loomio.com/demo)**
+[See and interact with the Loomio demo group here.](https://www.loomio.com/demo)
