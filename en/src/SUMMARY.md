@@ -23,6 +23,7 @@
   - [Thread admin](user_manual/threads/thread_admin/index.md)
   - [Tasks](user_manual/threads/thread_admin/tasks.md)
   - [Thread templates](user_manual/threads/templates/index.md)
+  - [Thread examples](user_manual/threads/examples/index.md)
 
 - [Polls](user_manual/polls/intro_to_decisions/index.md)
   - [Starting polls](user_manual/polls/starting_proposals/index.md)
