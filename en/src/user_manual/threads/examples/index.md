@@ -65,3 +65,9 @@ Use a Proposal poll to make a decision to approve the document.
 This provides a clear record of the decision made and a reference for the future for further discussion. 
 
 ![](document_approval.png#width-80)
+
+**Outcome**
+
+When the poll closes, state an outcome.
+
+![](document_outcome.png#width-80)
