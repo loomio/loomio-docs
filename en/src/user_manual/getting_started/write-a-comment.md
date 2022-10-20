@@ -11,6 +11,8 @@
   - [Results](#results)
   - [Outcome](#outcome)
 
+To participate in a Loomio discussion or decision, see how to write a comment in a thread and how to vote in a poll.
+
 ## Comment
 
 You can write a comment in a thread, and people can reply, react or post their own comment to continue the discussion.
