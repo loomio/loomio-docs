@@ -107,11 +107,10 @@
         </script>
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
-            <div class="sidebar-scrollbox">
-                <a style="display: flex; align-items: center; text-decoration: none; color: #DCA034" href="/">
-                  Loomio Help
+            <div class="sidebar-scrollbox" style="text-align: center";>
+                <a style="display: flex; align-items: center; justify-content: start; text-decoration: none; color: #DCA034" href="https://www.loomio.com">
+                    <img src="https://www.loomio.com/brand/logo_gold.svg" style="width: 128px; padding: 16px 0">
                 </a>
-                <hr style="border: 0.5px solid #ccc; margin: 1em 0;">
                 <!-- <strong>{{ book_title }}</strong> -->
                 {{#toc}}{{/toc}}
             </div>
@@ -132,11 +131,8 @@
                             <i class="fa fa-paint-brush"></i>
                         </button>
                         <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
-                            <li role="none"><button role="menuitem" class="theme" id="light">{{ theme_option "Light" }}</button></li>
-                            <li role="none"><button role="menuitem" class="theme" id="rust">{{ theme_option "Rust" }}</button></li>
-                            <li role="none"><button role="menuitem" class="theme" id="coal">{{ theme_option "Coal" }}</button></li>
-                            <li role="none"><button role="menuitem" class="theme" id="navy">{{ theme_option "Navy" }}</button></li>
-                            <li role="none"><button role="menuitem" class="theme" id="ayu">{{ theme_option "Ayu" }}</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Dark</button></li>
                         </ul>
                         {{#if search_enabled}}
                         <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
