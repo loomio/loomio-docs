@@ -1,7 +1,6 @@
 # Group Settings
-_Configure the privacy and permissions for your Loomio group._
 
-On this page
+*On this page*
 - [Group profile](#group-profile)
 - [Privacy](#privacy)
 - [Permissions](#permissions)

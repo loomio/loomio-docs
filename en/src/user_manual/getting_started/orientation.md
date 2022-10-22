@@ -1,13 +1,13 @@
-# A quick tour of Loomio
+# Orientation tour
 
-Lets take an orientation tour to help you quickly understand how to participate in discussions and decisions in your group.
+If you are new to Loomio, let's take an orientation tour to help you quickly understand how to participate in discussions and decisions in your group.
 
 _On this page_
 - [How Loomio works](#how-loomio-works)
 - [Group page](#group-page)
 - [Side bar](#side-bar)
 - [Notifications](#notifications)
-- [Finding Information Quickly](#finding-information-quickly)
+- [Finding information quickly](#finding-information-quickly)
 - [Threads](#threads)
 - [Polls](#poll-tab)
 
@@ -17,7 +17,7 @@ The best way to learn about Loomio is to have a go. Use your own group or:
 
 ## How Loomio works
 
-Loomio is a simple structure of three main elements; Group, Thread and Decisions. 
+Loomio is designed to help your group come together, discuss in threads and use polls to make decisions.  It has a simple structure of three main elements; Group, Threads and Polls. 
 
 ### Group
 
@@ -29,7 +29,7 @@ A Loomio group is a safe place for your organization to meet, discuss and make d
 
 Your group home page is the first place you see when you arrive. It contains a title, an image to represent the group, and some text to introduce the group: its purpose, the work you will do, and any other information to help group members participate.
 
-### Thread
+### Threads
 
 Threads are where you share information, discuss, and make decisions.
 
@@ -41,7 +41,7 @@ Threads keep everything about a topic in one place. Over time you’ll create a 
 
 ### Polls
 
-One of the best things about Loomio is its range of tools to progress a discussion to an outcome. Each poll type has a slightly different purpose. The most common one is a proposal. 
+Loomio includes a wide range of poll tools to help you progress a discussion to an outcome. Each poll type has a slightly different purpose. The most common one is a proposal. 
 
 ![](Proposals.png#width-50)
 
@@ -133,9 +133,9 @@ Loomio sends emails to keep you updated on the activity in your groups.
 Emails Loomio may send you include:
 
 * **Mention and Replies** - When someone @mentions you in a comment or replies to you, you will receive a notification email.
-* **Subscribe on participation** - If selected, when you participate in a thread you will receive emails for all further activity. Not recommended for most people.
+* **Subscribe on participation** - If selected, when you participate in a thread you will receive emails for all further activity. This is off by default because in a busy group it can generate a lot of emails.
 * **Catch-up summary email** - The 'Yesterday on Loomio' email includes activity from all your groups and threads that you have not read yet, and is a useful way to stay in touch with what's happening without having to visit Loomio every day.
-* **Invitations to threads, polls and proposals** - You may receive an email when invited to a new thread, poll or proposal.
+* **Invitations to threads and polls** - You may receive an email when invited to a new thread or poll.
 * **Reminders and Outcomes** - If you have not voted in a poll, you may receive a reminder 24 hours before close. You may also receive an email stating the outcome of a poll.
 
 These emails are to help you participate effectively with your group. The default settings are to help you stay up to date with activity on Loomio but should not overload your email inbox.
@@ -146,7 +146,7 @@ If you are receiving too many emails from Loomio, you can change the default ema
 
 When you receive an email from Loomio, you can reply directly from your email inbox and your reply will be posted into the Loomio thread. This works for everything except the Catch-up summary email.
 
-## Finding Information Quickly
+## Finding information quickly
 
 There are several tools included within Loomio to help you find the information you are looking for quickly.
 
@@ -162,13 +162,13 @@ For example, on the threads page typing 'strategy' in the search bar brings up t
 
 Category Tags make it easy to find threads of a certain type or topic. 
 
-Tags can be applied when starting or editing a Thread, Poll or Proposal.
+Tags can be applied when starting or editing a thread or poll.
 
 ![](search_tags.png)
 
 ## Threads
 
-Under the Threads tab on your group page, click on one of the threads in the list to open the thread.
+Under the **Threads** tab on your group page, click on one of the threads in the list to open the thread.
 
 ![](thread_example_brand.png)
 
@@ -187,7 +187,7 @@ The thread page includes everything you need to know about the thread;
 
 The thread context is used to introduce the topic. It will often include background information to help you participate in the discussion, such as attached files or links to online documents. The context always stays at the top of the thread.
 
-![](thread_context_example.png#width-80)
+![](thread_context_example.png#width-90)
 
 ### Thread activity
 
@@ -211,8 +211,8 @@ The thread timeline builds with key activity in the threads.  Use timeline to qu
 
 ![](thread_timeline_example.png)
 
-## Poll tab
+## Polls tab
 
-From your group page, select the Polls tab to see your list of polls. Alongside the poll name, there is an active icon that changes as the poll progresses, and indicates your vote.
+From your group page, select the **Polls** tab to see your list of polls. Alongside the poll name, there is an active icon that changes as the poll progresses, and indicates your vote.
 
 ![](polls_list.png)
