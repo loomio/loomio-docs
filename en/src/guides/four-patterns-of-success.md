@@ -1,4 +1,4 @@
-# Four patterns of high-functioning groups
+# Four patterns of successful collaboration
 _How successful groups collaborate to achieve great outcomes._
 
 
