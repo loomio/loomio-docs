@@ -1,5 +1,7 @@
 # How to participate
 
+Once signed in to a Loomio group you have been invited to, you can participate in a Loomio discussion or decision.  Read on to see  how to write a comment in a thread and how to vote in a poll.
+
 *On this page*
 - [How to write a comment](#comment)
   - [Reply to a comment](reply-to-a-comment)
@@ -10,8 +12,6 @@
   - [Change your vote](#change-your-vote)
   - [Results](#results)
   - [Outcome](#outcome)
-
-To participate in a Loomio discussion or decision, see how to write a comment in a thread and how to vote in a poll.
 
 ## Comment
 
