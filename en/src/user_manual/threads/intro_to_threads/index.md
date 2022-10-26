@@ -7,9 +7,9 @@ Loomio threads are where you can share information, discuss topics, and make dec
 - You can see who has read the thread and who needs a nudge.
 - There is a record of discussion you can easily find again.
 
-Threads have a wide range of uses; from a general discussion forum to running specific work-flow and decision-making processes.
+Threads have a wide range of uses - from a general discussion forum to running specific work-flow and decision-making processes.
 
-For example, you may facilitate an open discussion on a topic, inviting people to contribute their thoughts and opinions, and progress the discussion towards an agreed outcome.
+For example, you may frame a discussion on a particular topic, invite people to contribute their thoughts and opinions, and facilitate progress towards an agreed outcome.
 
 Or you may invite people to participate in a particular decision, using a consent or advice decision-making process.
 
