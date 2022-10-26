@@ -97,9 +97,10 @@ h6:target::before {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  box-shadow: rgba(67, 71, 85, 0.15) 0px 0px 0.25em;
+  box-shadow: rgba(67, 71, 85, 0.15) 0px 0px 0.5em;
   margin-top: 28px;
   margin-bottom: 28px;
+  border-radius: 4px;
 }
 .content .header:link,
 .content .header:visited {
