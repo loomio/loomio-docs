@@ -1,33 +1,67 @@
 # Starting threads
 
+Starting a Loomio thread is like writing an email. The subject line of an email is like the thread title, and the text you write in an email is like the context of a thread.   
+
+As you would add people in the send list of your email, in Loomio you can invite people individually or as a group to the thread - they will receive an email notification with the content of your thread.
+ 
+People can reply to your thread via email and their comments will appear in the thread.
+ 
+As with an email, a thread may be a simple question, or a more detailed introduction to a topic with links or files attached for background information.
+
+*On this page*
+- [New thread](#new-thread)
+- [Set up thread](#set-up-thread)
+- [Thread privacy](#thread-privacy)
+- [Invite-only thread](#invite-only-thread)
+ 
 ## New thread
 
-Start a thread by clicking **New thread** from a group page. 
+Find the **New thread** button on your Loomio group page to start a new thread.
 
-![new thread](thread_new.png)
+You can start a thread within your Loomio group or any subgroup.  
+
+![](thread_new.png)
+
+You can also start a thread from the sidebar menu.
+
+![](thread_new_sidebar.png)
 
 ## Set up thread
 
-The thread set up page has two tabs:
+When you start a new thread, you will see two tabs:
 
 - **Content** to write content for your thread.
-- **Settings** to configure how the thread displays and mark as template.
+- **Settings** to configure the thread display.
 
-![start new thread](thread_start_new_2.png#width-80)
+![start new thread](thread_start_new_2.png)
 
 ### Content tab
 
-**Group:** Check the name of the group is correct.  Anyone in this group will be able to see the thread. You can also start the thread in another group or as an 'Invite-only' thread (no group).
+**Group:** Check the name of the group or subgroup is correct for your thread.  Anyone in this group will be able to see the thread. You can also start the thread in another group or as an 'Invite-only' thread (no group).
+
+*Tip: If you are not ready to make the thread visible in your group, start the thread as 'Invite-only'.  You can move the thread to your Loomio group when ready.*
 
 **Tags:**  Add tag(s) to help people find your thread when searching by tag.  Admins can create new tags. 
 
-**Notify:** You can use notify to send the thread to the people you wish.  Use the drop down menu to select a group of people, and click on the group to see individual people.  You can then remove people 
+**Notify:** Use notify to send the thread to specific people via email. 
 
-![thread notification](thread_notification.png#width-80)
+Use the drop down menu to select a group of people, and click on the group to see individual people.  You can remove people from the notification list by clicking the x beside their name.  
+
+![](thread_notification.png)
+
+You can type in the first few letters of the name of a member of your group, and their name in Loomio will appear. Click on this to add to the 'Notify' panel.
+
+![](thread_notify_user.png)
+
+You can also type or paste in a person's email address.  This is useful to invite a 'guest' to the thread.  Guests can see the thread and all comments and polls within the thread, however they cannot see any other threads of your group.  You can remove a guest from a thread. 
+
+If the person is a member of your Loomio group they will receive the notification as usual.
+
+![](thread_notify_email.png)
 
 **Title:** Give your thread a relevant title.  A thread title is similar to an email subject line.
 
-**Context:** Use thread context to introduce the topic and frame the conversation or decision to make. Include background information, attach files, link to online documents and embed a video. Let people know what you expect. 
+**Context:** Use thread context to introduce the topic and frame the conversation or decision to make. Use the formatting tools to emphasize key points. Include background information, attach files, link to online documents and embed a video. 
 
 The context will always stay at the top of the thread and you can update it at any time as the discussion progresses.  When the discussion ends, update the context with the outcome.
 
@@ -41,3 +75,8 @@ If your group is "Open" then all your threads will be public, meaning that anyon
 ![](thread_public.png)
 
 See [Group privacy](https://help.loomio.com/en/user_manual/groups/settings/index.html#privacy) for more info.
+
+## Invite-only thread
+Use an ‘invite-only’ thread when you want to invite particular people to a private discussion.  They do not need to be a member of your Loomio group.
+
+
