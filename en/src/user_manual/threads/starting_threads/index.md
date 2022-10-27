@@ -2,7 +2,7 @@
 
 Starting a Loomio thread is like writing an email. The subject line of an email is like the thread title, and the text you write in an email is like the context of a thread.   
 
-As you would add people in the send list of your email, in Loomio you can invite people individually or as a group to the thread - they will receive an email notification with the content of your thread.
+As you add people in the send list of your email, in Loomio you can invite people individually or as a group to the thread - they will receive an email notification with the content of your thread.
  
 People can reply to your thread via email and their comments will appear in the thread.
  
@@ -68,7 +68,9 @@ If the person is a member of your Loomio group they will receive the notificatio
 
 You can also choose not to notify anyone about your thread.  If the thread is started in a Loomio group, then all members of the group will be able to see and participate in the thread.  Members will be alerted that the thread has started through the daily **Catch up summary email** if enabled.
 
-A Loomio thread offers a way for you to share information and work transparently - to "work out loud".  By not notifying people you are saving a few emails from their in-box, and members of your group can stay informed of progress of the thread through the 'Catch up summary email' or by signing into Loomio. 
+A Loomio thread offers a way for you to share information and work transparently - to "work out loud".  
+
+By not notifying people you are saving a few emails from their in-box, and members of your group can stay informed of progress of the thread through the 'Catch up summary email' or by signing into Loomio. 
 
 ### Title
 Give your thread a relevant title.  A thread title is similar to an email subject line.
@@ -89,11 +91,11 @@ If a particular thread is often repeated, you can mark the thread as a template.
 See [Thread templates](https://help.loomio.com/en/user_manual/threads/templates/index.html#thread-templates) for more information about setting up and using thread templates.
 
 ### Oldest or Newest first?
-Change the order that comments are displayed in the thread.  By default the oldest comments are at the top of the thread, and people scroll down to the most recent comments.  
+Change the order that comments are displayed in the thread.  By default the **Oldest** comments are at the top of the thread, and people scroll down to the most recent comments.  
 
-Changing to Newest displays the most recent comments at the top of the thread.  This is useful for threads used for reporting information or progress.  
+Changing to **Newest** displays the most recent comments at the top of the thread.  This is useful for threads used for reporting information or progress.  
 
-For example at Loomio we have a long thread running for customer feedback.  As customer feedback is received, they are posted as comments in the thread, with the most recent at the top.  Everyone in the Loomio group can then see the feedback, ask questions by replying, and easily find feedback for follow up.
+For example, at Loomio we have a long thread continously running for customer feedback.  As customer feedback is received, the text is copied and posted as a comment in the thread - with the most recent comment at the top.  Everyone in the Loomio group can then see the fresh feedback at the top of the thread, ask questions by replying, and easily find earlier feedback for follow up.
 
 ### How to display replies?
 You can choose comments to be displayed as:
