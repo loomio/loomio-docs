@@ -1,57 +1,74 @@
 # Notifying people
 
-_Catalyze interactions._
-
 Effective use of Loomio means knowing how and when to get attention from the group, group members, and even external people your group wants to engage in Loomio to keep everything in one place.
 
 If you ask for attention when it's really important, and avoid it when it's not, people will keep paying attention.
+
+## Notify people about the thread
+
+When you start a thread, you can choose to notify all members of a group, or just some of them. Notify sends the thread to specific people via email. 
+
+You can also invite guests to the thread.  Guests can see and participate in the thread, but cannot see other threads in your group that they have not been invited to.
+
+Use the drop down menu to select a group of people, and click on the group to see individual people.  You can remove people from the notification list by clicking the x beside their name.  
+
+![](thread_notification.png)
+
+You can type in the first few letters of the name of a member of your group, and their name in Loomio will appear. Click on this to add to the 'Notify' panel.
+
+![](thread_notify_user.png)
+
+You can type or paste in a person's email address.  This is useful to invite a 'guest' to the thread.  Guests can see the thread and all comments and polls within the thread, however they cannot see any other threads of your group.  You can remove a guest from a thread. 
+
+If the person is a member of your Loomio group they will receive the notification as usual.
+
+![](thread_notify_email.png)
+
+**Do not notify anyone**
+
+You can also choose not to notify anyone about your thread.  If the thread is started in a Loomio group, then all members of the group will be able to see and participate in the thread.  Members will be alerted that the thread has started through the daily **Catch up summary email** if enabled.
+
+A Loomio thread offers a way for you to share information and work transparently - to "work out loud".  
+
+By not notifying people you are saving a few emails from their in-box, and members of your group can stay informed of progress of the thread through the 'Catch up summary email' or by signing into Loomio. 
+
 
 ## Within a thread
 
 ### Mentioning people
 
-If you want to get the attention of a specific person, type **@**, start typing their name, and then select the user you want to **mention**. Click post or start. You can mention people in comments, threads, or even decisions. They will be notified that you’ve mentioned them.
+If you want to get the attention of a specific person, type **@**, start typing their name, and then select the user name of the person you want to **mention**. You can mention people in comments, threads and polls. 
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/VzM1AWnNP7c?rel=0" frameborder="0" allowfullscreen></iframe>
+![](comment_mention.png)
 
 ### Replies
 
-When you reply to a comment, you will notify the user you replied to. Find the **reply** button on the bottom of the comment to which you wish to associate your reply (it will indented or nested under the comment you replied to, by default).
+When you reply to a comment, you will notify the user you replied to. Find the **reply** button on the bottom of the comment that you want to reply to.
 
-![where to click reply on a comment](reply.png)
+![](comment_reply.png)
 
-*Note: You can also [reply to yourself](../engaging_with_threads/#comments-and-replies), but it does not send a notification.*
+*Note: You can also reply to your comment, but it does not send a notification.  Find the **reply** icon under the 3 dot menu.*
 
 ### Reactions
 
-On any comment or thread's context you can **[react](/en/user_manual/threads/engaging_with_threads/#reactions)** to quickly respond with an apt emoji.
+Reacting to a comment is a great way to encourage and acknowledge a comment by letting the comment author know how you feel.  It is a quick and light-weight way to participate that does not require any text, nor send an email.
+
+On any comment or thread's context you can **react** and choose an emoji.
 
 Reactions send a notification within Loomio, but do not send an email.
 
-### Start a decision
+![](reaction.png)
 
-The most powerful way to get attention from your group. Ensure that you have a clear decision description so people know how to participate. Loomio will notify everyone you choose (the whole group, everyone in the thread, or selected individuals) about new decisions, _although you can choose not to notify people and let them find it on their own time._
+### Invite to thread 
 
-## Starting a thread
+You can invite people to the thread at any time after the thread has started.
 
-### Notify
+![](thread_invite_icon.png)
 
-When you start a discussion, you can choose to select all members of a group, or a select number of them. When you select the whole group, you can assume it will get everyone's attention. People you invite will get a notification immediately.
+Select the people you want to invite by group, subgroup or individually.  
 
-You can also invite guests now (or later, as described just below).
+To add people individually:
+- Group members - type the first letters of their user name or type/paste their email address.
+- Guests - type/paste their email address.
 
-### Invite People
-
-When you start a thread, your whole group can access it immediately. If you want more people's participation, or want their participation sooner, you can additionally send them an alert via the box that immediately appears when you start the thread. You can also alert people in this way later on via the **[members](/en/user_manual/threads/thread_admin/#invite-guests-to-thread)** button at the thread context's bottom. Exactly like **notify**, invited parties will immediately receive a notification.
-
-If, for example, the thread is an important announcement and contains information that's ready for the whole group to take notice of, then **notify** them when you start the thread.
-
- ___Tip:___ _We've made it quick to select all of the members of the relevant group; click the link with your group's name._
-
- Use **invite people** to invite guests or experts from outside your group to a specific thread; [learn more](../thread_admin/#invite-guests-to-thread).
-
-### Notify the right people every time
-
-Subgroups are a great way to make it simple to send notifications to a specific set of people. If I click **invite people** from a thread in a subgroup, I can simply select **Members of `Subgroup Name`**.
-
-It's great to remind your working group when there hasn't been much interaction with a thread. To increase the chances of good engagement, check that the thread context and title include a clear invitation, specifying how to participate.
+![](thread_invite.png)
