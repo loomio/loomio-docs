@@ -97,17 +97,23 @@ You can choose comments to be displayed as:
 **Two levels of nested replies** - Replies to replies are indented at most two times.
 
 ## Thread privacy
-If your group privacy is **Closed** or **Secret** then your threads will be **private**. Private means that only members of the group are able to view the threads started in this group (*except* when you **invite people** such as an expert or any guest not currently part of your group).
+If your group privacy is **Closed** or **Secret** then your threads will be **private**. Private means that only members of the group or guests you have invited are able to view the thread.
 
 ![](thread_private.png)
 
-If your group is "Open" then all your threads will be public, meaning that anyone with the URL can view the thread.
+If your group is "Open" then the threads in your group will be public, meaning that anyone on the internet can potentially see the thread.  Public threads are indexed by search engines such as Google, so people may find the thread in a search.
 
 ![](thread_public.png)
 
-See [Group privacy](https://help.loomio.com/en/user_manual/groups/settings/index.html#privacy) for more info.
+See [Group privacy](https://help.loomio.com/en/user_manual/groups/settings/index.html#privacy) for more info about privacy settings for your group.
 
 ## Invite-only thread
-Use an ‘invite-only’ thread when you want to invite particular people to a private discussion.  They do not need to be a member of your Loomio group.
+An ‘invite-only’ thread is useful when you want to invite particular people to a private discussion. With **Invite** you control who can see and participate in the thread. Invited people do not need to be a member of your Loomio group.
 
+Invite-only threads have all of the benefits of Loomio threads and are often used in place of subgroups.
 
+![](thread_invite_only.png)
+
+Your invite-only threads can be found under **Invite-only threads** in the sidebar menu.
+
+![](sidebar_invite_only.png)
