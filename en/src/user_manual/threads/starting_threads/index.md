@@ -58,11 +58,17 @@ You can type in the first few letters of the name of a member of your group, and
 
 ![](thread_notify_user.png)
 
-You can also type or paste in a person's email address.  This is useful to invite a 'guest' to the thread.  Guests can see the thread and all comments and polls within the thread, however they cannot see any other threads of your group.  You can remove a guest from a thread. 
+You can type or paste in a person's email address.  This is useful to invite a 'guest' to the thread.  Guests can see the thread and all comments and polls within the thread, however they cannot see any other threads of your group.  You can remove a guest from a thread. 
 
 If the person is a member of your Loomio group they will receive the notification as usual.
 
 ![](thread_notify_email.png)
+
+**Do not notify anyone**
+
+You can also choose not to notify anyone about your thread.  If the thread is started in a Loomio group, then all members of the group will be able to see and participate in the thread.  Members will be alerted that the thread has started through the daily **Catch up summary email** if enabled.
+
+A Loomio thread offers a way for you to share information and work transparently - to "work out loud".  By not notifying people you are saving a few emails from their in-box, and members of your group can stay informed of progress of the thread through the 'Catch up summary email' or by signing into Loomio. 
 
 ### Title
 Give your thread a relevant title.  A thread title is similar to an email subject line.
