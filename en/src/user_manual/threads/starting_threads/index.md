@@ -11,6 +11,8 @@ As with an email, a thread may be a simple question, or a more detailed introduc
 *On this page*
 - [New thread](#new-thread)
 - [Set up thread](#set-up-thread)
+- [Content tab](#content-tab)
+- [Settings tab](#settings)
 - [Thread privacy](#thread-privacy)
 - [Invite-only thread](#invite-only-thread)
  
