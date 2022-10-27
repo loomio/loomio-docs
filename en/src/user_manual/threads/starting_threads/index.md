@@ -48,29 +48,10 @@ Check the name of the group or subgroup is correct for your thread.  Anyone in t
 Add tag(s) to help people find your thread when searching by tag.  Admins can create new tags. 
 
 ### Notify
+
 Use notify to send the thread to specific people via email. 
 
-Use the drop down menu to select a group of people, and click on the group to see individual people.  You can remove people from the notification list by clicking the x beside their name.  
-
-![](thread_notification.png)
-
-You can type in the first few letters of the name of a member of your group, and their name in Loomio will appear. Click on this to add to the 'Notify' panel.
-
-![](thread_notify_user.png)
-
-You can type or paste in a person's email address.  This is useful to invite a 'guest' to the thread.  Guests can see the thread and all comments and polls within the thread, however they cannot see any other threads of your group.  You can remove a guest from a thread. 
-
-If the person is a member of your Loomio group they will receive the notification as usual.
-
-![](thread_notify_email.png)
-
-**Do not notify anyone**
-
-You can also choose not to notify anyone about your thread.  If the thread is started in a Loomio group, then all members of the group will be able to see and participate in the thread.  Members will be alerted that the thread has started through the daily **Catch up summary email** if enabled.
-
-A Loomio thread offers a way for you to share information and work transparently - to "work out loud".  
-
-By not notifying people you are saving a few emails from their in-box, and members of your group can stay informed of progress of the thread through the 'Catch up summary email' or by signing into Loomio. 
+See [Notifying people](https://help.loomio.com/en/user_manual/threads/notifying_people/index.html) for guidance.
 
 ### Title
 Give your thread a relevant title.  A thread title is similar to an email subject line.
