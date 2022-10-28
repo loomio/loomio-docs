@@ -5,6 +5,7 @@ Be inspired with the following thread examples used by organizations around the 
 *On this page*
 - [Prepare for a meeting](#prepare-for-a-meeting)
 - [Approve a document](#approve-a-document)
+- [Raise an issue](#raise-an-issue)
 
 ## Prepare for a meeting
 Use Loomio to prepare for your next meeting by involving people from the outset - to establish a focus for the meeting and co-create the agenda. This will help everyone align towards the most important issues, making better use of your precious time together.
@@ -71,3 +72,19 @@ This provides a clear record of the decision made and a reference for the future
 When the poll closes, state an outcome.
 
 ![](document_outcome.png#width-90)
+
+## Raise an issue
+
+Is there an issue, problem or opportunity you want to raise with your group?
+
+A Loomio thread is a great way to raise an issue at the moment you are thinking about it, or when following up from a meeting.
+- Start the thread in your own time
+- People respond in their time
+- The thread builds a record of the discussion and any decisions
+
+Tips for raising issues in Loomio:
+- Describe the issue, attach or link to background information and ask for comments, ideas and help.
+- Notify people you want to hear from.  Shoulder-tap people with @mention to get their attention.
+- Or don't notify anyone. For nonurgent issues, get a discussion started in your group without clogging people's in-boxes.
+ 
+![](thread_raise_issue.png#width-90)
