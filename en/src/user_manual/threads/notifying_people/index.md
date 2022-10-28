@@ -1,10 +1,17 @@
 # Notifying people
 
-Effective use of Loomio means knowing how and when to get attention from the group, group members, and even external people your group wants to engage in Loomio to keep everything in one place.
+Loomio includes tools to help you notify people about activity within Loomio. For example; when you start a new thread discussion, require a response, invite people to take an action or just want to make sure people are alerted to new information.
 
-If you ask for attention when it's really important, and avoid it when it's not, people will keep paying attention.
+A notification in Loomio sends an email to the people you notify.  Notifications also appear under the bell icon at the top right of Loomio.
 
-## Notify people about the thread
+Notification needs vary from group to group, and often vary over time as people become more familiar with Loomio as part of their daily work.  Consider how people in your group want to be notified, and try to strike a balance of letting people know about new activity in Loomio without overwhelming their inbox.
+
+*On this page*
+- [Notify about new thread](#notify-about-new-thread)
+- [Within a thread](#within-a-thread)
+- [Invite to thread](#invite-to-thread)
+
+## Notify about new thread
 
 When you start a thread, you can choose to notify all members of a group, or just some of them. Notify sends the thread to specific people via email. 
 
@@ -59,7 +66,7 @@ Reactions send a notification within Loomio, but do not send an email.
 
 ![](reaction.png)
 
-### Invite to thread 
+## Invite to thread
 
 You can invite people to the thread at any time after the thread has started.
 
