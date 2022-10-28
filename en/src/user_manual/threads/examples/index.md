@@ -84,7 +84,10 @@ A Loomio thread is a great way to raise an issue at the moment you are thinking 
 
 Tips for raising issues in Loomio:
 - Describe the issue, attach or link to background information and ask for comments, ideas and help.
-- Notify people you want to hear from.  Shoulder-tap people with @mention to get their attention.
-- Or don't notify anyone. For nonurgent issues, get a discussion started in your group without clogging people's in-boxes.
+- Notify people you want to hear from.  
+- Shoulder-tap people with @mention to get their attention.
+- Or don't notify anyone - for nonurgent issues, just get a discussion started in your group without clogging people's in-boxes.
+
+Don't wait until you have all the info to start a thread! Use the thread to invite people help you figure out a resolution to the issue.
  
 ![](thread_raise_issue.png#width-90)
