@@ -18,7 +18,6 @@
 - [Threads](user_manual/threads/intro_to_threads/index.md)
   - [Starting a thread](user_manual/threads/starting_threads/index.md)
   - [Notifying people](user_manual/threads/notifying_people/index.md)
-  - [Engaging with threads](user_manual/threads/engaging_with_threads/index.md)
   - [Navigating threads](user_manual/threads/navigating_threads/index.md)
   - [Thread admin](user_manual/threads/thread_admin/index.md)
   - [Tasks](user_manual/threads/thread_admin/tasks.md)
