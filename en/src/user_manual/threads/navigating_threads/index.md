@@ -6,7 +6,9 @@
 
 ## Thread title
 
+The thread title is the largest type font on the page, so easy to spot.  
 
+Just above the thread title is the name of the group the thread belongs to.  Click on this group name to go back to the group page.
 
 ## Thread context
 
