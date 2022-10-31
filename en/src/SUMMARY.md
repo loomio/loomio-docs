@@ -33,6 +33,7 @@
   - [Simple decision process](user_manual/polls/decisions/index.md)
   - [Advice process](guides/advice_process/index.md)
   - [Consent process](guides/consent_process/index.md)
+  - [Consent process example](user_manual/getting_started/decisions/consent/index.md)
 
 - [Your profile](user_manual/users/user_profile/index.md)
   - [Notifications](user_manual/users/email_settings/index.md)
