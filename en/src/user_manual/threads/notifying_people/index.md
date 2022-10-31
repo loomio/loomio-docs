@@ -11,8 +11,9 @@ Notification needs vary from group to group, and often vary over time as people 
 - [Within a thread](#within-a-thread)
 - [Invite to thread](#invite-to-thread)
 - [Notify about thread changes](#notify-about-thread-changes)
-- [Who has seen the thread? 'Seen by'](#who-has-seen-the-thread-seen-by)
-- [Who has been notified? 'Notified'](#who-has-been-notified-notified)
+- [Who has seen or been notified about the thread?](#who-has-seen-or-been-notified-about-the-thread)
+  - [Seen by](#seen-by)
+  - [Notified](#notified)
 
 ## Notify about new thread
 
@@ -83,19 +84,22 @@ To add people individually:
 
 ![](thread_invite.png)
 
+## Notify about thread changes
+
+
+
+
 ## Who has seen or been notified about the thread? 
 
 At the top of each thread is **Seen by** and **Notified**.  
 
-These features help you track engagement in a thread or poll.  Although someone may not yet have commented in the thread, you can check to see if they have seen the thread and when.
-
-You can also see who has been notified, and if the notification has been read or the email has been opened.
+These features help you track engagement in a thread or poll.  Although someone may not yet have commented in the thread, you can check to see if they have seen the thread, who has been notified, and if the notification has been read or the email has been opened.
 
 ![](thread_engagement.png)
 
 ### Seen by
 
-Click on **Seen by** to see who has seen the thread.
+Click on **Seen by** to see who has seen the thread and when.
 
 ![](thread_seenby.png)
 
@@ -103,7 +107,7 @@ Click on **Seen by** to see who has seen the thread.
 
 Click on **Notified** to see who has been notified about the thread
 
-The @check; indicates that the notification has been read or the email has been opened.
+The &#10003; indicates that the notification has been read or the email has been opened.
 
 In **Thread notification history** you can see all notifications for that thread, including thread invitation and comment mentions and replies.
 
