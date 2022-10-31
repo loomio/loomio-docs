@@ -1,0 +1,281 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Consent process example - Loomio Help</title>
+                <!--  -->
+
+        <!-- Custom HTML head -->
+        
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+                        <link rel="shortcut icon" href="../../../../favicon.png">
+                <link rel="stylesheet" href="../../../../css/variables.css">
+        <link rel="stylesheet" href="../../../../css/general.css">
+        <link rel="stylesheet" href="../../../../css/chrome.css">
+                <link rel="stylesheet" href="../../../../css/print.css" media="print">
+        
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../../../../FontAwesome/css/font-awesome.css">
+                <link rel="stylesheet" href="../../../../fonts/fonts.css">
+        
+        <!-- roboto -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Roboto:ital,wght@0,300;0,400;0,700;1,400&display=swap" rel="stylesheet">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../../../../highlight.css">
+        <link rel="stylesheet" href="../../../../tomorrow-night.css">
+        <link rel="stylesheet" href="../../../../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+                <script defer data-domain="help.loomio.com,all.loomio.com" src="https://measure.loomio.com/js/script.outbound-links.js"></script>
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../../../../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox" style="text-align: center";>
+                <a style="display: flex; align-items: center; justify-content: start; text-decoration: none; color: #DCA034" href="https://www.loomio.com">
+                    <img src="https://www.loomio.com/brand/logo_gold.svg" style="width: 128px; padding: 16px 0">
+                </a>
+                <!-- <strong>Loomio Help</strong> -->
+                <ol class="chapter"><li class="chapter-item expanded "><a href="../../../../user_manual/getting_started/index.html">Overview</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../../../user_manual/getting_started/orientation.html">Orientation tour</a></li><li class="chapter-item expanded "><a href="../../../../user_manual/users/sign_in/index.html">Signing in</a></li><li class="chapter-item expanded "><a href="../../../../user_manual/getting_started/write-a-comment.html">How to participate</a></li></ol></li><li class="chapter-item expanded "><a href="../../../../user_manual/groups/intro_to_groups/index.html">Groups</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../../../user_manual/groups/starting_a_group/index.html">Starting a group</a></li><li class="chapter-item expanded "><a href="../../../../user_manual/groups/settings/index.html">Group settings</a></li><li class="chapter-item expanded "><a href="../../../../user_manual/groups/membership/index.html">Inviting people</a></li><li class="chapter-item expanded "><a href="../../../../user_manual/groups/membership/management.html">Member management</a></li><li class="chapter-item expanded "><a href="../../../../user_manual/groups/tags/index.html">Category tags</a></li><li class="chapter-item expanded "><a href="../../../../user_manual/groups/subgroups/index.html">Subgroups</a></li><li class="chapter-item expanded "><a href="../../../../user_manual/groups/data_export/index.html">Data export</a></li><li class="chapter-item expanded "><a href="../../../../user_manual/groups/deleting_archiving/index.html">Deleting your group</a></li></ol></li><li class="chapter-item expanded "><a href="../../../../user_manual/threads/intro_to_threads/index.html">Threads</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../../../user_manual/threads/starting_threads/index.html">Starting a thread</a></li><li class="chapter-item expanded "><a href="../../../../user_manual/threads/notifying_people/index.html">Notifying people</a></li><li class="chapter-item expanded "><a href="../../../../user_manual/threads/navigating_threads/index.html">Navigating threads</a></li><li class="chapter-item expanded "><a href="../../../../user_manual/threads/thread_admin/index.html">Thread admin</a></li><li class="chapter-item expanded "><a href="../../../../user_manual/threads/thread_admin/tasks.html">Tasks</a></li><li class="chapter-item expanded "><a href="../../../../user_manual/threads/templates/index.html">Thread templates</a></li><li class="chapter-item expanded "><a href="../../../../user_manual/threads/examples/index.html">Thread examples</a></li></ol></li><li class="chapter-item expanded "><a href="../../../../user_manual/polls/intro_to_decisions/index.html">Polls</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../../../user_manual/polls/starting_proposals/index.html">Starting polls</a></li><li class="chapter-item expanded "><a href="../../../../user_manual/polls/proposal_types/index.html">Poll types</a></li><li class="chapter-item expanded "><a href="../../../../user_manual/polls/outcomes/index.html">Outcomes</a></li></ol></li><li class="chapter-item expanded "><a href="../../../../user_manual/getting_started/decisions/index.html">Making decisions</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../../../user_manual/polls/decisions/index.html">Simple decision process</a></li><li class="chapter-item expanded "><a href="../../../../guides/advice_process/index.html">Advice process</a></li><li class="chapter-item expanded "><a href="../../../../guides/consent_process/index.html">Consent process</a></li><li class="chapter-item expanded "><a href="../../../../user_manual/getting_started/decisions/consent/index.html" class="active">Consent process example</a></li></ol></li><li class="chapter-item expanded "><a href="../../../../user_manual/users/user_profile/index.html">Your profile</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../../../user_manual/users/email_settings/index.html">Notifications</a></li><li class="chapter-item expanded "><a href="../../../../user_manual/users/navigation/index.html">Navigation</a></li><li class="chapter-item expanded "><a href="../../../../user_manual/users/merge_accounts/index.html">Merge accounts</a></li><li class="chapter-item expanded "><a href="../../../../user_manual/users/translation/index.html">Language and translation</a></li><li class="chapter-item expanded "><a href="../../../../user_manual/users/deleting_your_account/index.html">Deleting your account</a></li></ol></li><li class="chapter-item expanded "><a href="../../../../user_manual/groups/integrations/chatbots/index.html">Chatbots</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../../../user_manual/groups/integrations/discord/index.html">Discord</a></li><li class="chapter-item expanded "><a href="../../../../user_manual/groups/integrations/matrix/index.html">Matrix</a></li><li class="chapter-item expanded "><a href="../../../../user_manual/groups/integrations/mattermost/index.html">Mattermost</a></li><li class="chapter-item expanded "><a href="../../../../user_manual/groups/integrations/microsoft_teams/index.html">Microsoft Teams</a></li><li class="chapter-item expanded "><a href="../../../../user_manual/groups/integrations/slack/index.html">Slack</a></li></ol></li><li class="chapter-item expanded "><a href="../../../../user_manual/groups/integrations/api/index.html">API</a></li><li class="chapter-item expanded "><a href="../../../../newsletter/index.html">Newsletter</a></li><li class="spacer"></li><li class="chapter-item expanded affix "><li class="part-title">Guides</li><li class="chapter-item expanded affix "><li class="part-title">Governance</li><li class="chapter-item expanded "><a href="../../../../guides/board_processes/index.html">Good Governance Guide to Loomio</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../../../guides/board_processes/meeting.html">Prepare for a meeting</a></li><li class="chapter-item expanded "><a href="../../../../guides/board_processes/facilitating_discussions.html">Facilitating discussions</a></li><li class="chapter-item expanded "><a href="../../../../guides/board_processes/decisions.html">Making resolutions and online decisions</a></li><li class="chapter-item expanded "><a href="../../../../guides/board_processes/practices.html">Governance practices and approaches</a></li><li class="chapter-item expanded "><a href="../../../../guides/board_processes/admin.html">Administration and record keeping</a></li><li class="chapter-item expanded "><a href="../../../../guides/board_processes/introduce.html">Introducing Loomio to your board</a></li></ol></li><li class="chapter-item expanded "><a href="../../../../guides/virtual_agm/index.html">AGM and General Assembly</a></li><li class="chapter-item expanded "><a href="../../../../guides/virtual_board_meetings/index.html">Board meetings</a></li><li class="chapter-item expanded affix "><li class="part-title">Facilitation</li><li class="chapter-item expanded "><a href="../../../../guides/facilitators_guide/index.html">The Facilitator's Guide to Loomio</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../../../guides/facilitators_guide/preparation/index.html">Preparation</a></li><li class="chapter-item expanded "><a href="../../../../guides/facilitators_guide/commencing/index.html">Commencing</a></li><li class="chapter-item expanded "><a href="../../../../guides/facilitators_guide/underway/index.html">Underway</a></li><li class="chapter-item expanded "><a href="../../../../guides/facilitators_guide/concluding/index.html">Concluding</a></li><li class="chapter-item expanded "><a href="../../../../guides/facilitators_guide/ongoing_practice/index.html">Ongoing Practice</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">Success on Loomio</li><li class="chapter-item expanded "><a href="../../../../guides/engage-group.html">Let’s get your team working in Loomio</a></li><li class="chapter-item expanded "><a href="../../../../guides/four-patterns-of-success.html">4 patterns of successful groups</a></li><li class="chapter-item expanded "><a href="../../../../guides/5_ways_to_use_threads/index.html">5 ways to use threads</a></li><li class="chapter-item expanded "><a href="../../../../guides/mapping-tools.html">Loomio and other collaboration tools</a></li><li class="chapter-item expanded "><a href="../../../../guides/practical_examples.html">Practical examples</a></li><li class="spacer"></li><li class="chapter-item expanded affix "><li class="part-title">Subscriptions</li><li class="chapter-item expanded "><a href="../../../../policy/subscriptions/pricing.html">Subscription plans</a></li><li class="chapter-item expanded "><a href="../../../../policy/subscriptions/pricing_faq.html">Customer FAQs</a></li><li class="chapter-item expanded "><a href="../../../../policy/subscriptions/management/index.html">Subscription management</a></li><li class="chapter-item expanded "><a href="../../../../policy/subscriptions/pro_support/index.html">Training and Support</a></li><li class="spacer"></li><li class="chapter-item expanded affix "><li class="part-title">Policies</li><li class="chapter-item expanded "><a href="../../../../policy/terms/index.html">Terms of Service</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../../../policy/ownership/index.html">Account Ownership</a></li><li class="chapter-item expanded "><a href="../../../../policy/abuse/index.html">Use restrictions</a></li></ol></li><li class="chapter-item expanded "><a href="../../../../policy/privacy/index.html">Privacy Policy</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../../../policy/privacy/regulations/index.html">Regulations</a></li><li class="chapter-item expanded "><a href="../../../../policy/privacy/loomio-subprocessors/index.html">Loomio Subprocessors</a></li><li class="chapter-item expanded "><a href="../../../../policy/privacy/company-processors/index.html">Company Processors</a></li></ol></li><li class="chapter-item expanded "><a href="../../../../policy/security/index.html">Security</a></li></ol>            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Dark</button></li>
+                        </ul>
+                                                <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                                            </div>
+
+                    <h1 class="menu-title">Loomio Help</h1>
+
+                    <div class="right-buttons">
+                                                <a href="../../../../print.html" rel="nofollow" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                                                                                                <a href="https://github.com/loomio/loomio-docs/edit/main/en/src/user_manual/getting_started/decisions/consent/index.md" rel="nofollow" title="Suggest an edit" aria-label="Suggest an edit">
+                            <i id="git-edit-button" class="fa fa-edit"></i>
+                        </a>
+                        
+                    </div>
+                </div>
+
+                                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="consent-process"><a class="header" href="#consent-process">Consent process</a></h1>
+<p><em>Seek consent to make a decision. A decision can be made as long as no team member has a valid objection.</em></p>
+<p>The Consent decision process invites people into decision making towards a solution that is <em><strong>&quot;safe to try&quot;</strong></em>. Focus is on progress over perfection, and consent is reached when there are no valid objections.</p>
+<p>Use Consent when you need an inclusive, transparent, collaborative and faster decision.</p>
+<p>This guide outlines how you can use the consent process within Loomio to involve your group in decisions.</p>
+<p>There are a number of variations in the practice of the consent process. For deeper reading, see the article <a href="https://help.loomio.com/en/guides/consent_process/index.html">Integrative Consent decision making</a> co-authored with Round Sky Solutions.  The example in the guide below follows the Integrative Consent process.</p>
+<h2 id="integrative-consent"><a class="header" href="#integrative-consent">Integrative Consent</a></h2>
+<p>There are four steps, or rounds:</p>
+<ol>
+<li>Proposal</li>
+<li>Questions and Comments</li>
+<li>Amendment</li>
+<li>Integration</li>
+</ol>
+<p>In this process there are a few named roles:</p>
+<ul>
+<li><strong>Proposer</strong> - the person who has an idea, puts it in writing and starts the process.</li>
+<li><strong>Facilitator</strong> - someone who can help the proposer through the process.</li>
+</ul>
+<h2 id="step-1-proposal"><a class="header" href="#step-1-proposal">Step 1: Proposal</a></h2>
+<p>The first step is for the <strong>proposer</strong> to raise open a discussion by starting a Loomio thread. </p>
+<p>In the thread title, say what you are proposing.</p>
+<p>Use the thread context to frame the discussion with relevant details.</p>
+<p><img src="step1_thread.png#width-90" alt="" /></p>
+<p>You don't need to notify anyone at this stage, as you will do so in the next step.  Once started, the thread will be visible to any member of your group. Group members will also be alerted in the &quot;Yesterday on Loomio&quot; daily summary if enabled.</p>
+<h2 id="step-2-questions-and-comments"><a class="header" href="#step-2-questions-and-comments">Step 2: Questions and Comments</a></h2>
+<p>Using a Loomio Opt-in poll, invite people to ask questions, share information or comment.</p>
+<p>In the poll context, include the details of the proposal, so everyone knows what is intended if the proposal passes.</p>
+<p>As we are only asking for people to indicate when they have asked questions or commented, you can edit the standard Opt-in options to be a single &quot;Yes&quot; option. </p>
+<p>Copy the Integrative Consent thread example from the <a href="https://www.loomio.com/templates">Loomio Examples &amp; Templates group</a> to save as a template for use in your group so that this poll is ready to use.</p>
+<p>Set the poll closing date and time to give people time to participate, and to end this round.</p>
+<p>Remember Loomio will alert people who have not participated 24 hours before the poll closes, so choose a time when people are likely to be able to respond.</p>
+<p>Invite people to the poll by group or individually.</p>
+<p><img src="step2_opt_in.png#width-90" alt="" /></p>
+<p>Participants click the &quot;Yes&quot; vote and ask questions or leave comments in the vote &quot;Reason&quot; or as comments in the thread.</p>
+<p>As well as responding to the questions, the proposer listens carefully for anything that they would like to change about their proposal.</p>
+<h2 id="step-3-amendment"><a class="header" href="#step-3-amendment">Step 3: Amendment</a></h2>
+<p>Having considered the questions and feedback from participants, the proposer may amend their proposal.</p>
+<p><img src="step3_amendment.png#width-90" alt="" /></p>
+<h2 id="step-4-integration-objections"><a class="header" href="#step-4-integration-objections">Step 4: Integration (Objections)</a></h2>
+<p>When ready, the proposer raises a proposal asking if anyone has <strong>Objections</strong> to the amended proposal.</p>
+<p>As before, use a descriptive title for the poll, and add the version number.  This helps people keep track as subsequent versions develop.</p>
+<p>Similarly in the poll details field, state the amended proposal.</p>
+<p>As we are running a Consent process, edit the poll options for <strong>Consent</strong> and <strong>Objection</strong>. You can further edit the &quot;Meaning&quot; and &quot;Reason prompt&quot; text if you wish to guide participants.</p>
+<p>Options example:</p>
+<p><strong>Consent</strong></p>
+<ul>
+<li>Icon: Thumbs up</li>
+<li>Meaning: This proposal is safe to try</li>
+<li>Reason prompt: Is there anything further you'd like to add?</li>
+</ul>
+<p><strong>Objection</strong></p>
+<ul>
+<li>Icon: Thumbs down</li>
+<li>Meaning: You are concerned the proposal might cause harm to the team or organization</li>
+<li>Reason prompt: How will the proposal cause harm? Be explicit, impersonal, evidenced and not 'safe to fail'.</li>
+</ul>
+<p>Copy the Integrative Consent thread example from the <a href="https://www.loomio.com/templates">Loomio Examples &amp; Templates group</a> to save as a template for use in your group so that this poll is ready to use.</p>
+<p><img src="step4_integrate1.png#width-90" alt="" /></p>
+<h3 id="integrate-objection"><a class="header" href="#integrate-objection">Integrate Objection</a></h3>
+<p>In the above example, an objection to the proposal has been raised.</p>
+<p>Mary adds a comment in the thread inviting an open discussion, and Chloe responds with a suggestion to resolve the objection.</p>
+<p><img src="step4_integrate2.png#width-90" alt="" /></p>
+<p>Now, to integrate the objection raise a new proposal poll as before, with the amended proposal labelled with the current version and invite your team for a further round.</p>
+<p><img src="step4_integrate3.png#width-90" alt="" /></p>
+<p>In most cases one round of integration after objections are raised is sufficient, however you can continue discussion and use polls in the same way until all objections are integrated.</p>
+<p><img src="step4_integrate4.png#width-90" alt="" /></p>
+<h3 id="outcome"><a class="header" href="#outcome">Outcome</a></h3>
+<p>Once voting is complete and there are no further objections the proposal can be closed.</p>
+<p>State an outcome to let everyone know the result of the decision and what will happen next.</p>
+<p><img src="step4_outcome.png#width-90" alt="" /></p>
+<h2 id="decision-record"><a class="header" href="#decision-record">Decision record</a></h2>
+<p>As our Consent decision has progressed, you will notice a timeline forming on the right hand side of the app.</p>
+<p>Loomio automatically documents questions raised, information added and objections raised, at each stage of the process.</p>
+<p>This record is valuable to refer to, for people new to your organization to see how decisions are made, and as an archive for audit purposes.</p>
+<p>Loomio is building a history of decisions made for your organization, the discussion and process used.</p>
+<p><img src="thread_timeline.png#width-90" alt="" /></p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                                                    <a rel="prev" href="../../../../guides/consent_process/index.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+                                                    <a rel="next" href="../../../../user_manual/users/user_profile/index.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                                    <a rel="prev" href="../../../../guides/consent_process/index.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+                                    <a rel="next" href="../../../../user_manual/users/user_profile/index.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                            </nav>
+
+        </div>
+
+        
+        
+        
+                <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+        
+                <script src="../../../../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../../../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../../../searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+        <script src="../../../../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../../../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../../../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+            </body>
+</html>
