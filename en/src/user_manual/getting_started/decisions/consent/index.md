@@ -1,4 +1,4 @@
-# Consent process
+# Consent process example
 
 *Seek consent to make a decision. A decision can be made as long as no team member has a valid objection.*
 
