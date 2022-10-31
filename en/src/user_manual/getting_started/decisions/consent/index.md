@@ -13,10 +13,10 @@ There are a number of variations in the practice of the consent process. For dee
 ## Integrative Consent
 
 There are four steps, or rounds:
-1. Proposal
-2. Questions and Comments
-3. Amendment
-4. Integration
+1. [Proposal](#step-1-proposal)
+2. [Questions and Comments](#step-2-questions-and-comments)
+3. [Amendment](#step-3-amendment)
+4. [Integration](#step-4-integration-objections)
 
 In this process there are a few named roles:
 - **Proposer** - the person who has an idea, puts it in writing and starts the process.
@@ -30,7 +30,7 @@ In the thread title, say what you are proposing.
 
 Use the thread context to frame the discussion with relevant details.
 
-![](step1_thread.png#width-90)
+![](step1_thread.png)
 
 You don't need to notify anyone at this stage, as you will do so in the next step.  Once started, the thread will be visible to any member of your group. Group members will also be alerted in the "Yesterday on Loomio" daily summary if enabled.
 
@@ -50,7 +50,7 @@ Remember Loomio will alert people who have not participated 24 hours before the 
 
 Invite people to the poll by group or individually.
 
-![](step2_opt_in.png#width-90)
+![](step2_opt_in.png)
 
 Participants click the "Yes" vote and ask questions or leave comments in the vote "Reason" or as comments in the thread.
 
@@ -60,7 +60,7 @@ As well as responding to the questions, the proposer listens carefully for anyth
 
 Having considered the questions and feedback from participants, the proposer may amend their proposal.
 
-![](step3_amendment.png#width-90)
+![](step3_amendment.png)
 
 ## Step 4: Integration (Objections)
 
@@ -86,7 +86,7 @@ Options example:
 
 Copy the Integrative Consent thread example from the [Loomio Examples & Templates group](https://www.loomio.com/templates) to save as a template for use in your group so that this poll is ready to use.
 
-![](step4_integrate1.png#width-90)
+![](step4_integrate1.png)
 
 ### Integrate Objection
 
@@ -94,15 +94,15 @@ In the above example, an objection to the proposal has been raised.
 
 Mary adds a comment in the thread inviting an open discussion, and Chloe responds with a suggestion to resolve the objection.
 
-![](step4_integrate2.png#width-90)
+![](step4_integrate2.png)
 
 Now, to integrate the objection raise a new proposal poll as before, with the amended proposal labelled with the current version and invite your team for a further round.
 
-![](step4_integrate3.png#width-90)
+![](step4_integrate3.png)
 
 In most cases one round of integration after objections are raised is sufficient, however you can continue discussion and use polls in the same way until all objections are integrated.
 
-![](step4_integrate4.png#width-90)
+![](step4_integrate4.png)
 
 ### Outcome
 
@@ -110,7 +110,7 @@ Once voting is complete and there are no further objections the proposal can be 
 
 State an outcome to let everyone know the result of the decision and what will happen next.
 
-![](step4_outcome.png#width-90)
+![](step4_outcome.png)
 
 ## Decision record
 
@@ -122,4 +122,4 @@ This record is valuable to refer to, for people new to your organization to see 
 
 Loomio is building a history of decisions made for your organization, the discussion and process used.
 
-![](thread_timeline.png#width-90)
+![](thread_timeline.png)
