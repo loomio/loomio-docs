@@ -90,9 +90,14 @@ Notify people to let them know when a thread has been updated.
 
 The thread can be updated at any time by adding/removing text in the thread context.  
 
-When updated, you can write a comment in **What's changed?** describing the change. The comment will appear  in the thread. 
+When updated, you can write a comment in **What's changed?** describing the change. 
 
 ![](thread_editcontext.png)
+
+The thread edit comment will appear in the thread. 
+
+![](thread_edit_comment.png)
+
 
 ## Who has seen or been notified about the thread? 
 
