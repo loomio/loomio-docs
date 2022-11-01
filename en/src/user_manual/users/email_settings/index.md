@@ -1,9 +1,19 @@
 # Notifications
+
+The notifications you receive from Loomio help you stay in touch with activity in your Loomio groups, be alerted to new threads, polls, outcomes and when someone wants to get your attention.
+
+The default notification settings are intended to alert you to important activity in your group without overwhelming your email in-box.  
+
+The default settings work for most people.  Change notification settings to suit the way you work. 
+
 _On this page_
 
 - [Notifications in Loomio](#notifications-in-loomio)
 - [Email notifications](#email-notifications)
 - [User email settings](#user-email-settings)
+- [Group email settings](#group-email-settings)
+- [Thread email settings](#thread-email-settings)
+- [Turn off all notifications](#turn-off-all-notifications)
 
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/0Mb2_D74ktM?start=2?rel=0" frameborder="0" allowfullscreen></iframe>
 
@@ -11,9 +21,9 @@ When you are notified, Loomio will send a notification within the app and, by de
 
 ## Notifications in Loomio
 
-![](notification_bell.png)
+The bell icon in the top-right is where notifications are accessed within the app; a number will display the number of notifications you have yet to read.
 
-The bell icon in the top-right is where notifications are accessed within the app; a prominent number will display the number of notifications you have yet to read.
+![](notification_bell.png)
 
 ## Email notifications
 
@@ -32,6 +42,14 @@ Emails we send out include:
 For any thread-specific email (that's most except the Yesterday on Loomio email) you can reply directly from your email and your replies will be posted into the Loomio thread.
 
 ## User email settings
+
+### Notification settings
+
+To see and change notification settings, go to **Notification settings** under your user profile on the sidebar menu.
+
+If the sidebar is closed, click on the menu icon (**☰**) to open it.
+
+![](sidebar_notification_settings.png)
 
 There are three settings that apply to every group you belong to.
 
@@ -55,14 +73,6 @@ Enabling this setting means you will get an email with any activity that you mis
 - 'Monday', 'Tuesday'...'Sunday' to receive the email once a week on a particular day.
 
 ![catchup summary email setting](catchup_summary_email_setting.png)
-
-### Change email notification settings
-
-To change these settings, go to **Notification settings** under your user profile on the sidebar menu.
-
-If the sidebar is closed, click on the menu icon (**☰**) to open it.
-
-![](sidebar_notification_settings.png)
 
 ## Group email settings
 
