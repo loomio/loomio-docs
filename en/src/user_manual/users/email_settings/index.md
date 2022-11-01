@@ -93,6 +93,8 @@ To change the email notification settings for an individual thread, click on **(
 
 ![](thread_subscribe.png)
 
+![](thread_notifications.png)
+
 To receive notifications for all activity about this thread, change the setting to **whenever there is activity (subscribed)**.
 
 To receive notifications when someone asks for your attention, select **when someone asks for your attention (normal)**.  This is the default setting.
@@ -101,7 +103,7 @@ To turn off notifications for this thread, select **no notifications (ignore)**.
 
 Note the settings changes in Thread notifications are only for the particular thread you have open.  Click **Change notifications for group** to change the default settings for all threads.
 
-![](thread_notifications.png)
+
 
 ## Turn off all notifications
 
