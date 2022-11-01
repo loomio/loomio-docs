@@ -105,24 +105,3 @@ In the thread menu click on the 3 dots menu (**⋯**) and choose **Print**. Then
 
 ![](thread_print_thread.png)
 
-## Tracking engagement
-
-### Seen by
-
-Click **Seen by** to see who has or has not seen the thread.
-
-![](thread_seen_by.png)
-
-### Notification history
-
-You can check if someone has been sent an email notification about a thread, decision, or comment. Additionally, you can see if they have _opened_ this notification email or if they saw it on Loomio.
-
-#### For comments and threads
-In the extra options you find from the three horizontal dots (**⋯**), click **See notifications**.
-
-#### For proposals and polls
-Click on the dots (**⋯**) under the Results section of your proposal or poll, and then click **See notifications** to see who has been invited to – and who has viewed the notification of – your proposal or poll.
-
-Here's how it looks if you sent some notifications:
-
-![](https://miro.medium.com/max/2000/0*-fhId7QsU-rFM982.jpg)
