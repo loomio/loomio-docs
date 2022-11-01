@@ -39,7 +39,15 @@ Enabling this setting means when someone wants to get your attention, they can @
 
 ### Subscribe on participation
 
-Enabling this setting means when you participate in a thread, all further activity will be emailed to you immediately.  If it is an active thread, you may receive many emails. The default setting is 'off'.
+Enabling this setting means when you participate in a thread, all further activity will be emailed to you immediately.  If it is an active thread, you may receive many emails. The default setting is **when someone asks for your attention (normal)**.
+
+![](thread_subscribe.png)
+
+To receive notifications for all activity about this thread, change the setting to **whenever there is activity (subscribed)**.
+
+Note the settings changes in Thread notifications are only for the particular thread you have open.  Click **Change notifications for group** to change the default settings for all threads.
+
+![](thread_notifications.png)
 
 ### Catch-up summary email
 
