@@ -13,7 +13,9 @@ Notification needs vary from group to group, and often vary over time as people 
 - [Notify about thread changes](#notify-about-thread-changes)
 - [Who has seen or been notified about the thread?](#who-has-seen-or-been-notified-about-the-thread)
   - [Seen by](#seen-by)
-  - [Notified](#notified)
+  - [Notified (Thread notification history)](#notified-thread-notification-history)
+  - [Comment notification history](#comment-notification-history)
+  - [Poll notification history](#poll-notification-history)
 
 ## Notify about new thread
 
@@ -113,16 +115,37 @@ Click on **Seen by** to see who has seen the thread and when.
 
 ![](thread_seenby.png)
 
-### Notified
+### Notified (Thread notification history)
 
 Click on **Notified** to see who has been notified about the thread
 
 The &#10003; indicates that the notification has been read or the email has been opened.
 
-In **Thread notification history** you can see all notifications for that thread, including thread invitation and comment mentions and replies.
+In **Thread notification history** you can see all notifications for that thread, including the thread invitation, and mentions and replies within comments.
 
 ![](thread_notified.png)
 
+### Comment notification history
+Alongside the comment, click on the 3 dots drop-down menu (**⋯**) to find **Notification history**.
+
+![](comment_notification_history.png)
+
+Opening the **Notification history** will show if any notifications for the comment have been sent, and when.
+
+The &#10003; indicates that the notification has been read or the email has been opened.
+
+![](comment_notification_example.png)
+
+### Poll notification history
+At the bottom of the poll, click on the 3 dots drop-down menu (**⋯**) to find **Show notifications**.
+
+![](poll_notification_history.png)
+
+The poll notification history shows who has been invited to the poll and the date invited.
+
+The &#10003; indicates that the notification has been read or the email has been opened.
+
+![](poll_notification_example.png)
 
 
 
