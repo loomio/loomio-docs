@@ -37,17 +37,9 @@ There are three settings that apply to every group you belong to.
 
 Enabling this setting means when someone wants to get your attention, they can @mention your name in a comment, which will notify you. We recommend you leave this setting on, so you'll get an email when this happens. The default setting is 'on'.
 
-### Subscribe
+### Subscribe on participation
 
-Enabling this setting means when you participate in a thread, all further activity will be emailed to you immediately.  If it is an active thread, you may receive many emails. The default setting is **when someone asks for your attention (normal)**.
-
-![](thread_subscribe.png)
-
-To receive notifications for all activity about this thread, change the setting to **whenever there is activity (subscribed)**.
-
-Note the settings changes in Thread notifications are only for the particular thread you have open.  Click **Change notifications for group** to change the default settings for all threads.
-
-![](thread_notifications.png)
+Enabling this setting means when you participate in a thread, all further activity will be emailed to you immediately.  If it is an active thread, you may receive many emails. The default setting is off.
 
 ### Catch-up summary email
 
@@ -68,7 +60,7 @@ To change these settings, go to [Notification settings](https://www.loomio.com/e
 
 From Notification settings you can also change _all_ of your group email preferences at once.
 
-## Group email Notification settings
+## Group email settings
 
 You can configure what notification emails you get for each group you belong to.
 
@@ -95,19 +87,21 @@ You can apply a particular setting to all of your groups by checking **Apply to 
 
 ![Group email settings](group_email_settings.png)
 
-## Thread email settings & Subscribe
+## Thread email settings
 
-To _mute_ a thread, use the **no notifications (ignore)** option.
+To change the email notification settings for an individual thread, click on **(subscribe)**.
 
-To keep up-to-date with _all activity_ by email, tick the **(subscribe)** option.
+![](thread_subscribe.png)
 
+To receive notifications for all activity about this thread, change the setting to **whenever there is activity (subscribed)**.
 
-![](subscribe_to_thread.png)
+To receive notifications when someone asks for your attention, select **when someone asks for your attention (normal)**.  This is the default setting.
 
-Note that the **subscribe on participation** setting affects your thread email settings. If **subscribe on participation** is enabled, when you participate in a thread your email settings will change to "All activity" for that thread.
+To turn off notifications for this thread, select **no notifications (ignore)**.  You will not receive email notifications about this thread, so to stay informed you will need to keep any eye on the bell icon at top right of the app, read the Catch-up summary email or sign in to Loomio regularly.
 
-![thread email settings](thread_email_settings.png)
+Note the settings changes in Thread notifications are only for the particular thread you have open.  Click **Change notifications for group** to change the default settings for all threads.
 
+![](thread_notifications.png)
 
 ## Turn off all notifications
 
