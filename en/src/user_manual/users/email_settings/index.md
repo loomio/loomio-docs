@@ -37,7 +37,7 @@ There are three settings that apply to every group you belong to.
 
 Enabling this setting means when someone wants to get your attention, they can @mention your name in a comment, which will notify you. We recommend you leave this setting on, so you'll get an email when this happens. The default setting is 'on'.
 
-### Subscribe on participation
+### Subscribe
 
 Enabling this setting means when you participate in a thread, all further activity will be emailed to you immediately.  If it is an active thread, you may receive many emails. The default setting is **when someone asks for your attention (normal)**.
 
