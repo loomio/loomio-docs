@@ -9,27 +9,13 @@ Polls help you make decisions and progress discussion to an outcome.
 
 There are many types of decision tools in Loomio and many ways to use them.   
 
-## Proposal
-
-At the heart of Loomio is the proposal.  
-
-A proposal helps convert a discussion into a clear, practical outcome. 
-
-For example, someone suggests a course of action and invites people to respond by voting agree, abstain or disagree. 
-
-As people vote, they can give a reason why they have voted this way. You can see where everyone else stands on the matter, and why. If someone contributes some new information or a strong opinion you can change your vote, if you wish.
-
-In this way you can use proposals to prompt people for a response, uncover new information, and build shared understanding - to help your group make a better, more informed decision.
-
-A proposal and associated discussion, creates a record of how the decision came about.
-
-![](proposal_example.png)
-
 ## Other poll types
 
 Loomio includes a range of poll types to support participation in decision making.  You can configure polls to suit a particular decision process or voting method. 
 
 **Sense check**: To ask people for feedback, questions and concerns before moving to a decision.
+
+**Proposal**: To raise a proposal and make a decision.
 
 **Simple poll**: A simple poll to ask people which option or options they approve.
 
@@ -46,6 +32,20 @@ Loomio includes a range of poll types to support participation in decision makin
 **New poll type**: Configure the poll type you need with custom terminology, options and settings.
 
 ![](poll_list.png#width-80)
+
+## Proposal
+
+The proposal poll is the heart of Loomio. A proposal helps convert a discussion into a clear, practical outcome. 
+
+For example, someone suggests a course of action and invites people to respond by voting agree, abstain or disagree. 
+
+As people vote, they can give a reason why they have voted this way. You can see where everyone else stands on the matter, and why. If someone contributes some new information or a strong opinion you can change your vote, if you wish.
+
+In this way you can use proposals to prompt people for a response, uncover new information, and build shared understanding - to help your group make a better, more informed decision.
+
+A proposal and associated discussion, creates a record of how the decision came about.
+
+![](proposal_example.png)
 
 ## All poll types have a similar structure
 
