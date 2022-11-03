@@ -9,7 +9,7 @@ Polls help you make decisions and progress discussion to an outcome.
 
 There are many types of decision tools in Loomio and many ways to use them.   
 
-## Other poll types
+## Poll types
 
 Loomio includes a range of poll types to support participation in decision making.  You can configure polls to suit a particular decision process or voting method. 
 
