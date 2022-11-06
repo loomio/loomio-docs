@@ -56,7 +56,7 @@ Closed subgroups have an additional setting that allow members of its parent gro
 
 Subgroups operate independently of the main group. For example, if the subgroup privacy setting is set to **Secret**, then only invited members can find this subgroup, see who is in it, and see threads.
 
-Closed subgroups have an additional setting that allow members of its parent group to see private threads, enabling the subgroup to be transparent to members of the parent group.
+**Closed** subgroups have an additional setting that allow members of its parent group to see private threads, enabling the subgroup to be transparent to members of the parent group.
 
 ![](subgroup_permissions.png)
 
