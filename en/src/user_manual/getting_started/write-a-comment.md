@@ -6,7 +6,7 @@ Read on to see  how to write a comment in a thread and how to vote in a poll.
 
 *On this page*
 - [How to write a comment](#comment)
-  - [Reply to a comment](reply-to-a-comment)
+  - [Reply to a comment](#reply-to-a-comment)
   - [Get someone's attention with @mention](#get-someones-attention)
   - [Reactions](#reactions)
 - [How to vote in a poll](#vote)
