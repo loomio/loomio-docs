@@ -6,7 +6,12 @@ Loomio threads are versatile and you have many tools available to help you progr
 - [Thread navigation](#thread-navigation)
 - [Thread context](#thread-context)
 - [Thread formatting](#thread-formatting)
-
+- [Comments](#comments)
+- [Reactions](#reactions)
+- [Automatic translation](#automatic-translation)
+- [Timeline](#timeline)
+- [Thread layout](#thread-layout)
+- [Unread comments](#unread-comments)
 
 ## Thread navigation
 
@@ -210,7 +215,7 @@ You can reply to your _own_ comment in order to nest your reply underneath the c
 
 If Loomio has emailed you a comment and says you can reply to the email, you can reply directly from your email and your message will appear in the thread.
 
-## Editing comments
+### Editing comments
 If you've made a typo, or want to add a bit more information to your comment shortly after you've posted it, click **edit** on your comment. Editing does not take anyone else's attention with notifications nor unread signals.
 
 ![](comment_edit.png)
@@ -223,6 +228,7 @@ Changes you've made will be visible _to others_ via the **edited** button, so yo
 
 ## Reactions
 ![](reactions.png)
+
 Click **react** on any thread context or comment to share how a comment made you feel, or acknowledge something someone has said, without writing a comment. They're a light-weight way to participate without interrupting the conversation, and they only send a notification within the app (not by email).
 
 ## Automatic translation
