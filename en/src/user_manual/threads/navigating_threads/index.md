@@ -155,7 +155,6 @@ Now anyone with access to your Loomio thread and permission to view the video ca
 
 **Tip:** Make sure you set the visibility of the video in Youtube or Vimeo so that the people you want to can view it. In Youtube 'Unlisted' is a good option if you do not want to make the video public.
 
-
 ### Quote
 
 Quote adds emphasis to your text, and can be useful to draw attention to an instruction.
