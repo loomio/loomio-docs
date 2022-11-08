@@ -1,6 +1,8 @@
 # Formatting
 
-When starting a thread, poll or writing a comment, you will see the formatting bar under the text. Hover the mouse or cursor over each item for the name of each tool.
+When starting a thread, poll or writing a comment, you will see the formatting bar under the text. 
+
+Hover the mouse or cursor over each item for the name of each tool.
 
 ![](thread_format_bar.png)
 
