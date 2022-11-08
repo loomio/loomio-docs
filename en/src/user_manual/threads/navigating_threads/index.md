@@ -51,9 +51,11 @@ The thread **context** is always found at the top of the thread. Use the context
 
 Think of your group as you write content in the thread context.  Your aim is to get a discussion going. So consider what people in your group need to be motivated to participate.  In general, keep the thread context simple and clear.
 
-At the bottom of the context panel is a formatting bar, where you can format text, attach files, images and embed a video. 
+![](thread_context.png)
 
-![](thread_formatting.png)
+When starting or editing a thread At the bottom of the context panel is a formatting bar, where you can format text, attach files, images and embed a video. 
+
+![](thread_context_edit.png)
 
 As the thread progresses, refresh the context with latest information to help people see current status of the discussion.  Think of the context like a whiteboard in your meeting room, where you can write the agenda, the outcomes intended and how you plan to get there. 
 
