@@ -10,7 +10,7 @@ Loomio threads are versatile and you have many tools available to help you progr
 - [Interacting with threads](#interacting-with-threads)
 - [Thread display](#thread-display)
 - [Administering threads](#administering-threads)
-- [Administering comments and polls](#administering-comments-and-polls)
+- [Administering comments](#administering-comments)
 
 ## Thread navigation
 
