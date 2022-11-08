@@ -281,7 +281,7 @@ You can easily  **pin** or **un-pin** from the thread preview options.
 
 To keep the list of discussions on your group page relevant, you can close threads which people don't need to see.
 
-![](close_thread.png)
+![](thread_closed.png)
 
 To view closed threads, first navigate to the relevant **group page**. You will need to use the drop-down just under the Threads tab to change the thread filter from its default of **open**.
 
