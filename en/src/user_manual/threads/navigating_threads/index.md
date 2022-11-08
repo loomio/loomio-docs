@@ -63,7 +63,7 @@ At the bottom of the context panel is a formatting bar, where you can format tex
 
 ## Thread timeline
 
-The thread timeline is on the right of the thread, and helps you quickly access comments and polls in a thread. It is a visual, interactive history building with important comments, polls and thread milestones.
+The thread timeline is on the right of the thread, and helps you quickly access comments and polls in a thread. It is a visual, interactive history automatically building as the thread progresses with important comments, polls and milestones.
 
 Comments that include a header (H2 or H3), polls and proposals are automatically pinned to the timeline. 
 
@@ -73,12 +73,10 @@ Click on the item in the timeline to go directly to the comment or poll in the t
 
 Jump to the top of the thread by clicking on "**Context**".
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/Dy8Hi_QM-Gw?rel=0" frameborder="0" allowfullscreen></iframe>
-
 ## Comments
 The most common activity in a thread is commenting. Comments are visible to anyone who has permission to see the thread.  
 
-### Unread comments 
+### Reading comments 
 When you open a thread, Loomio will first show you new comments. 
 
 Unread comments are shown with a yellow line on the left side. 
@@ -100,7 +98,7 @@ Write your comment and press **Post Comment**.
 ### Reactions
 Reacting to a comment is a great way to encourage and acknowledge a comment by letting the comment author know how you feel.  
 
-It is a quick and light-weight way to participate that does not require any text, nor send an email.
+It is a quick and easy way to participate that does not require any text, nor send an email.
 
 ![](reaction.png)
 
@@ -130,11 +128,24 @@ Once a thread is started, a set of tools is available just under the thread cont
 
 ### Subscribe
 
+Click **Subscribe** to watch the thread for any activity.  All further activity will be emailed to you immediately. If it is an active thread, you may receive many emails. 
+
 ### Invite
 
-Consult an expert or external party while keeping relevant communications all in one place: Invite them to a specific thread by clicking **members**, at the bottom of the thread's context. They won't get access to any other threads in your group, just this one. They do not need to already have a Loomio account, and they can participate by email just like all Loomio users.  _If you_ do _want them to be in the group, then invite them to join from the group page._
+You can invite people to the thread at any time after the thread has started.
 
-You can remove them (or give them permissions) by clicking the dots to the right of their name, again from the context's **members** button.
+Select the people you want to invite to the thread by group, subgroup or individually.
+
+![](invite_thread.png)
+
+You can remove a person from the thread by clicking the 3 dots menu to the right of their name and selecting **Remove from thread**.
+
+#### Invite a guest
+Consult an expert or external party while keeping relevant communications all in one place. 
+
+Guests can not see any other threads in your group, only the thread you specifically invite the guest to. A guest does not need to already have a Loomio account, and they can participate by email just like all Loomio users.
+
+![](invite_guest.png)
 
 
 ### React
