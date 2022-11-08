@@ -49,17 +49,17 @@ Description of thread features from the top.
 
 The thread **context** is always found at the top of the thread. Use the context to frame the discussion or decision.
 
-Think of your group as you write content in the thread context.  Your aim is to get a discussion going. So consider what people in your group need to be motivated to participate.  In general, keep the thread context simple and clear.
+Think of your group as you write content in the thread context.  Your aim is to get a discussion going, so consider how you can motivate people to participate.  In general, keep the thread context simple and clear.
 
 ![](thread_context.png)
 
-When starting or editing a thread At the bottom of the context panel is a formatting bar, where you can format text, attach files, images and embed a video. 
+Write the thread context when starting or editing a thread. **Edit** a thread with the pencil icon.
+
+As the thread progresses, update thread context.  Think of the context like a whiteboard in your meeting room, where you can write the agenda, the outcomes intended and how you plan to get there. 
+
+At the bottom of the context panel is a formatting bar, where you can format text, attach files, images and embed a video. 
 
 ![](thread_context_edit.png)
-
-As the thread progresses, refresh the context with latest information to help people see current status of the discussion.  Think of the context like a whiteboard in your meeting room, where you can write the agenda, the outcomes intended and how you plan to get there. 
-
-Threads can be edited at any time with the pencil icon **edit**.
 
 ## Thread timeline
 
