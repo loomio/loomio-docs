@@ -5,17 +5,16 @@ Loomio threads are versatile and you have many tools available to help you progr
 *On this page*
 - [Thread navigation](#thread-navigation)
 - [Thread context](#thread-context)
-- [Thread formatting](#thread-formatting)
+- [Thread timeline](#thread-timeline)
 - [Comments](#comments)
-- [Reactions](#reactions)
-- [Automatic translation](#automatic-translation)
-- [Timeline](#timeline)
-- [Thread layout](#thread-layout)
-- [Unread comments](#unread-comments)
+- [Interacting with threads](#interacting-with-threads)
+- [Thread display](#thread-display)
+- [Administering threads](#administering-threads)
+- [Administering comments and polls](#administering-comments-and-polls)
 
 ## Thread navigation
 
-A typical thread might look like this:
+A typical thread looks like this:
 
 ![](thread_discussion.png)
 
@@ -43,6 +42,8 @@ Description of thread features from top to bottom.
 
 **Comments** - Comments are displayed under the thread context. The default display is from oldest to newest. You can change the order of display if you wish, however this applies to everyone in the group.   The comment author, image and date comment added helps you see who has written the comment and when.   Interaction and administration tools are also available for each comment.
 
+**Timeline** - As comments and polls are posted in the thread, a timeline builds marking important milestones in the discussion.  Polls are automatically pinned to the timeline.  Any comment may be pinned to the timeline.
+
 ## Thread context
 
 The thread **context** is always found at the top of the thread. Use the context to frame the discussion or decision.
@@ -55,200 +56,89 @@ At the bottom of the context panel is a formatting bar, where you can format tex
 
 As the thread progresses, refresh the context with latest information to help people see current status of the discussion.  Think of the context like a whiteboard in your meeting room, where you can write the agenda, the outcomes intended and how you plan to get there. 
 
-## Thread formatting
+## Thread timeline
 
-When starting a thread, poll or writing a comment, you will see the formatting bar under the text. Hover the mouse or cursor over each item for the name of each tool.
+The thread timeline is on the right of the thread, and helps you quickly access comments and polls in a thread. It is a visual, interactive history building with important comments, polls and thread milestones.
 
-Use the formatting tools to add information, emphasis and structure to your thread; so as to communicate clearly and encourage people to participate in the thread.
+Comments that include a header (H2 or H3), polls and proposals are automatically pinned to the timeline. 
 
-### Attach file
+Click on the item in the timeline to go directly to the comment or poll in the thread.
 
-Use the paper clip icon, just below the text form, to add file attachments from your computer.
+![](thread_timeline_1.png)
 
-![](format_attach.png)
+Jump to the top of the thread by clicking on "**Context**".
 
-#### Remove attachments
-
-While editing the context, click the **X** to the right of the file name to remove it.
-
-![](thread_file_remove.png)
-
-### Insert image
-
-Use this tool to insert and display an image.
-
-### Insert link
-
-You can add a link to any shareable document or page on the internet.  
-
-To add a link for a Google doc: 
-1. Select the text you want to link to - say the name of a document.
-2. Click the link icon.
-3. Find the document link - go to your Google drive and ‘Get link’, or in your Google doc ‘Share link’.  Check the link permissions so members can open the link - usually ‘Anyone with the link’. Copy the link to your clipboard.
-4. Now, go back to Loomio and paste the link.
-
-A preview of the doc will appear under the text space. You can remove this if you want.
-
-Now, anyone with access to your Loomio thread and permission to view the doc can open and read it.
-
-![](format_link.png)
-
-<iframe width="100%" height="380px" src="https://www.youtube.com/embed/84FAbGJbTws" frameborder="0" allowfullscreen></iframe>
-
-### Insert Emoji
-
-Emojis are great way to lighten the mood and encourage people.  Select the emoji you like from the pop up screen.
-
-![](thread_insert_emoji.png)
-
-### Headings
-
-H1, H2, H3 headings can help you structure your thread or comment.
-
-Select the text to mark as a heading and click on the heading format tool.
-
-If a heading is used in a comment, the comment will automatically be pinned to the thread timeline.
-
-### Bold, Italicize, Strikethrough
-
-Select the text to format and click on the required format tool.
-
-### List
-
-Use to add a list of items formatted as bullet points.
-
-![](thread_bullets.png)
-
-### Numbered list
-
-Use to add a numbered list of items.
-
-### Task list
-
-Use the task list to add check boxes for each task, and assign someone with a due date for completion.
-
-See the page on [Tasks](https://help.loomio.com/en/user_manual/threads/thread_admin/tasks.html) for more information.
-
-### Colors
-
-Use colors to add a highlight color to text.
-
-![](thread_colors.png)
-
-### Align
-
-Select to align text to left, center or right.
-
-![](thread_align.png)
-
-### Embed videos
-
-You can embed a video from popular video platforms like Youtube and Vimeo into Loomio anywhere there is a text space; when starting a thread or poll, writing a comment, or updating your group description. The embed video icon is one of the formatting tools, under the space where you write text in Loomio.
-
-To use the embed video feature: 
-1. Click the embed video icon.
-2. Go to the video you want to embed, find and copy the shareable link.
-3. Now, go back to Loomio and paste the link.
-
-A preview of the video will appear.
-
-Now anyone with access to your Loomio thread and permission to view the video can play it from within Loomio.
-
-![](format_embed.png)
-
-<iframe width="100%" height="380px" src="https://www.youtube.com/embed/gbWUCPzxTUQ" frameborder="0" allowfullscreen></iframe>
-
-**Tip:** Make sure you set the visibility of the video in Youtube or Vimeo so that the people you want to can view it. In Youtube 'Unlisted' is a good option if you do not want to make the video public.
-
-### Quote
-
-Quote adds emphasis to your text, and can be useful to draw attention to an instruction.
-
-![](thread_quote.png)
-
-### Code block
-
-Typically used to show code in text, code block formatting is also available to help you distinguish text in your thread.
-
-![](thread_codeblock.png)
-
-### Divider
-
-Use the divider to draw a horizontal line to separate sections.
-
-![](thread_line.png)
-
-### Add table
-
-Add a table to your thread. 
-
-Additional tools are available to add/remove columns and rows.
-
-![](thread_table.png)
-
-### Markdown
-
-To revert to markdown editing, click **M↓**. 
-
-If you click this while there is text in the form, some formatting may be lost upon conversion.
-
-#### WYSIWYG
-
-Click **WYSIWYG** to return to the formatting tools. This will convert any text and markdown formatting to display how it will appear when posted. 
-
-***PREVIEW*** shows how your text will appear, but without converting.
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/Dy8Hi_QM-Gw?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ## Comments
-The most common activity in a thread is commenting. Comments are shared with everyone in the thread – usually this is just the members of your group. 
+The most common activity in a thread is commenting. Comments are visible to anyone who has permission to see the thread.  
 
-Look for **Add Comment**.  You can write a comment alongside your profile image or initials.
+### Unread comments 
+When you open a thread, Loomio will first show you new comments. 
+
+Unread comments are shown with a yellow line on the left side. 
+
+![](thread_unread_comments.png)
+
+### Writing a comment
+
+You can write a comment in a thread, and people can reply, react or post their own comment to continue the discussion.
+
+When you have written your text, use **Post Comment** to instantly publish the comment. Your comment will be visible to anyone who has permission to see the thread. 
 
 ![](comment.png)
 
-The full range of formatting tools described in [Thread formatting](#thread-formatting) are available for use in comments.
+The full range of formatting tools described in [Formatting](https://help.loomio.com/en/user_manual/threads/thread_admin/index.html) are available for use in comments.
 
 Write your comment and press **Post Comment**.
 
-Replies are comments where the author of the original comment is notified of the reply. Click **reply** on the comment you would like to associate your comment with, as it will be nested underneath theirs – by default – in the thread in which you replied.
+### Reactions
+Reacting to a comment is a great way to encourage and acknowledge a comment by letting the comment author know how you feel.  
 
-You can reply to your _own_ comment in order to nest your reply underneath the comment. Click the three horizontal dots (**⋯**) to find **reply** in this case.
+It is a quick and light-weight way to participate that does not require any text, nor send an email.
+
+![](reaction.png)
+
+### Replying to a comment
+
+You can reply to someone's comment by clicking on the reply icon located at the bottom right of the comment.
+
+Your reply is published in the thread and an email notification is sent to the author of the comment.
+
+![](comment_reply.png)
+
+You can reply to your own comment so as to nest your reply underneath the comment. Click the three horizontal dots (**⋯**) to find the **reply** feature.
 
 If Loomio has emailed you a comment and says you can reply to the email, you can reply directly from your email and your message will appear in the thread.
 
-### Editing comments
-If you've made a typo, or want to add a bit more information to your comment shortly after you've posted it, click **edit** on your comment. Editing does not take anyone else's attention with notifications nor unread signals.
 
-![](comment_edit.png)
-
-Changes you've made will be visible _to others_ via the **edited** button, so you can see what people have changed in their comment.
-
-![](comment_history_button.png)
-
-![](comment_history_modal.png)
-
-## Reactions
-![](reactions.png)
-
-Click **react** on any thread context or comment to share how a comment made you feel, or acknowledge something someone has said, without writing a comment. They're a light-weight way to participate without interrupting the conversation, and they only send a notification within the app (not by email).
-
-## Automatic translation
+### Automatic translation
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/ZI_ZxJKoiy0?rel=0" frameborder="0" allowfullscreen></iframe>
 
 Loomio can translate user content (eg, votes, comments…) from one language into another automatically (with the help of Google Translate). If the author of a comment uses a language other than yours, **Translate comment** will be available in the drop-down options of the comment in question, from the three horizontal dots (**⋯**).
 
-## Timeline
+## Interacting with threads
 
-The timeline helps you quickly access content in the thread such as comments, polls, decisions and outcomes. It is a visual, interactive history of key events, milestones and decision processes where you can see how a conversation evolved over time and the discussion that led to a decision.  
+Once a thread is started, a set of tools is available just under the thread context. 
 
-![](thread_timeline_1.png)
+![](thread_interact.png)
 
-Comments formatted with a header, proposals and polls are automatically added to the timeline as links. Click the timeline text to go directly to the thread item.
+### Subscribe
 
-You can pin or unpin any comment to the timeline, and edit the text displayed on the timeline.  See more at [Thread admin: Pin to Timeline](../thread_admin/#pin-to-timeline).
+### Invite
 
-Jump to the top of the thread by clicking on "**Context**".
+Consult an expert or external party while keeping relevant communications all in one place: Invite them to a specific thread by clicking **members**, at the bottom of the thread's context. They won't get access to any other threads in your group, just this one. They do not need to already have a Loomio account, and they can participate by email just like all Loomio users.  _If you_ do _want them to be in the group, then invite them to join from the group page._
 
-## Thread layout
+You can remove them (or give them permissions) by clicking the dots to the right of their name, again from the context's **members** button.
+
+
+### React
+
+### Edit
+
+### Show edits
+
+## Thread display
 
 By default comments in threads are listed one after the other as you scroll down the thread page - oldest comments first.  However you can change the thread order so that newest comments are listed at the top of the thread.  Seeing the latest comments first is useful for threads used for reporting or threads that have been active for some time.
 
@@ -256,15 +146,119 @@ The grey text just under the context will indicate in which order the activity i
 
 To change this setting, click that grey text, choose your preference, and save. _This changes the layout for everyone, not just you._
 
-![](thread_order.png)
+![](thread_display.png)
 
-### Options
+### Thread display options
 
 ![](thread_layout_options.png)
 
-## Unread comments 
-When you open a thread, Loomio will first show you new comments. 
+## Administering threads
 
-Unread comments are shown with a yellow line on the left side. 
+There is a set of tools to help you administer threads.  Find the tools under the (**⋯**) three dots menu, located under the thread context on the right.
 
-![](thread_unread_comments.png)
+![](options_from_thread_context.png)
+
+### Make a copy
+
+### Show notifications
+
+### Print
+
+In the thread menu click on the 3 dots menu (**⋯**) and choose **Print**. Then use your browser's ability to "save to pdf", or copy and paste it into the file or repository of your choosing.
+
+![](thread_print_thread.png)
+
+### Pin thread
+Admins can pin threads to the top of the group page to make them easier to find. 
+
+Pinned threads will appear above your other threads on your group page and will be ordered by the most recently pinned item at the top. You can change position of the pinned thread by pinning and unpinning threads.
+
+You can **pin** or **un-pin** from the thread preview options on the Group page.
+
+![](thread_pin_thread.png)
+
+### Close thread
+
+To keep the list of discussions on your group page relevant, you can close threads which people don't need to see.
+
+![](close_thread.png)
+
+To view closed threads, first navigate to the relevant **group page**. You will need to use the drop-down just under the Threads tab to change the thread filter from its default of **open**.
+
+![](sort_threads_on_group_page.png)
+
+Choose "closed" to view all your closed threads in the thread filter.
+
+![](closed_threads.png)
+
+#### Re-open thread
+
+Re-opening a closed thread is done from within the thread's page – again, the three horizontal dots (**⋯**). See [organizing threads](#thread-options-and-organizing-threads) for a depiction.
+
+### Move to group
+
+You can move a thread to another group or subgroup. Select **Move to group** from the 3 dot menu to the right of the thread.
+
+### Delete thread
+
+If you're the admin of a group you can delete any thread – or comments in any of the threads – in the group.
+
+If you started a thread, you can delete that thread, but only your comments within it.
+
+## Administering comments
+
+The following tools can be used on any comment by clicking on the three horizontal dots (**⋯**) at the bottom-right of the comment.
+
+### Pin to timeline
+
+Use **Pin to timeline** to pin a comment to the timeline.
+
+You an edit the comment label on the timeline. Unpin and then pin it again; this will give you the opportunity to reword the text that appears as a link in the timeline.
+
+> **Tip:** Highlight the words that you would like to use as the text in the timeline
+
+**Unpin**  removes the item from the timeline.
+
+### Editing comment
+If you want to change anything you can edit the comment by clicking on the 3 dots menu to the bottom right of your comment and selecting **Edit**.
+
+![](comment_edit.png)
+
+### Show edits
+
+When a comment has been edited, the **Show edits** icon appears.
+
+![](comment_show_edits.png)
+
+Click on **Show edits** to see what changes have been made.  Red highlighted text has been deleted, and green highlighted text added.  
+
+The person who edited the comment, and the date and time of edit, is recorded in Loomio.  
+
+Click on the arrows to see previous edits.
+
+![](comment_edits.png)
+
+You cannot edit other people's comments unless:
+- You are the comment author
+- You are a group admin and the group permission [Admins can edit members' comments](https://help.loomio.com/en/user_manual/groups/settings/index.html#permissions) is enabled. 
+
+### Copy link
+
+### Notification history
+
+### Move item
+Sometimes a comment is useful, but off-topic for the thread; _it may be a short conversation took place that would have been better held in another thread or subgroup._ In this case you will want to move one or more related comment(s) and replies by selecting **move item** in the comment's options (**⋯**). This will allow you to select any number of thread items, _including_ polls or proposals. You can then add them to a pre-existing thread of your choice, or start a new thread.
+
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/qaaQkA2myRc?rel=0" frameborder="0" allowfullscreen></iframe>
+
+### Discard
+
+You can delete your own comments at any time.
+
+Again, an admin can delete any comment.
+
+Select **delete** from the comment's options (**⋯**).
+
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/cGc8_1zWrzE?rel=0" frameborder="0" allowfullscreen></iframe>
+
+
