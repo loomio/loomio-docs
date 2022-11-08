@@ -17,9 +17,9 @@ Loomio threads are versatile and you have many tools available to help you progr
 
 A typical thread looks like this:
 
-![](thread_discussion.png)
+![](thread_navigation.png)
 
-Description of thread features from top to bottom.
+Description of thread features from the top.
 
 **Group name** - At the top left of the thread page is the name of the group or subgroup that the thread belongs to.  Click on this name to go back to the group page.
 
