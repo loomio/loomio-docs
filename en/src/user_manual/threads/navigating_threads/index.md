@@ -56,6 +56,8 @@ At the bottom of the context panel is a formatting bar, where you can format tex
 
 As the thread progresses, refresh the context with latest information to help people see current status of the discussion.  Think of the context like a whiteboard in your meeting room, where you can write the agenda, the outcomes intended and how you plan to get there. 
 
+Threads can be edited at any time with the pencil icon **edit**.
+
 ## Thread timeline
 
 The thread timeline is on the right of the thread, and helps you quickly access comments and polls in a thread. It is a visual, interactive history building with important comments, polls and thread milestones.
@@ -136,6 +138,8 @@ You can remove them (or give them permissions) by clicking the dots to the right
 
 ### Edit
 
+
+
 ### Show edits
 
 ## Thread display
@@ -201,9 +205,9 @@ You can move a thread to another group or subgroup. Select **Move to group** fro
 
 ### Delete thread
 
-If you're the admin of a group you can delete any thread – or comments in any of the threads – in the group.
+You can delete any thread that you start. 
 
-If you started a thread, you can delete that thread, but only your comments within it.
+Group admins you can delete any thread in the group.
 
 ## Administering comments
 
@@ -255,7 +259,7 @@ Sometimes a comment is useful, but off-topic for the thread; _it may be a short 
 
 You can delete your own comments at any time.
 
-Again, an admin can delete any comment.
+The group admin can delete any comment.
 
 Select **delete** from the comment's options (**⋯**).
 
