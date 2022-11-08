@@ -1,4 +1,4 @@
-# Making Collaborative Decisions
+# Making collaborative decisions
 
 Making decisions collaboratively involves people, shares power and responsibility, reduces risk and increases the prospect that it will be a good decision.
 
