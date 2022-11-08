@@ -24,7 +24,7 @@ This guide will help you get started with Loomio to make online collaborative de
 
 **[Consent process](https://help.loomio.com/en/guides/consent_process/index.html)** - Seek consent to make a decision. A decision can be made as long as no team member has a valid objection.
 
-## Loomio Proposal
+## Loomio proposal
 
 Loomio is built around the proposal.
 
