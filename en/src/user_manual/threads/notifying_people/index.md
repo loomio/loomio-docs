@@ -16,7 +16,7 @@ Notification needs vary from group to group, and often vary over time as people 
   - [Notified (Thread notification history)](#notified-thread-notification-history)
   - [Comment notification history](#comment-notification-history)
   - [Poll notification history](#poll-notification-history)
-- [Interacting with threads](#interacting-with-threads)
+- [Subscribe](#subscribe)
 
 ## Notify about new thread
 
