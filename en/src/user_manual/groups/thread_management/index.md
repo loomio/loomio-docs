@@ -9,6 +9,10 @@ You can easily  **pin** or **un-pin** from the thread preview options.
 
 ![](pin_thread.png)
 
+## Edit
+
+## Move to group
+
 ## Close thread
 
 To keep the list of discussions on your group page relevant, you can close threads that are no longer active.
@@ -22,3 +26,5 @@ To view closed threads, go to the group page and click on the drop-down menu jus
 Change the thread filter from default **Open** to **Closed**.   You can also use this filter to see **All** threads, **Unread** threads and **Templates**
 
 ![](thread_closed.png)
+
+## Delete thread
