@@ -10,6 +10,7 @@
   - [Group settings](user_manual/groups/settings/index.md)
   - [Inviting people](user_manual/groups/membership/index.md)
   - [Member management](user_manual/groups/membership/management.md)
+  - [Thread management](user_manual/groups/thread_management/index.md)
   - [Category tags](user_manual/groups/tags/index.md)
   - [Subgroups](user_manual/groups/subgroups/index.md)
   - [Data export](user_manual/groups/data_export/index.md)
