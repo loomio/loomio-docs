@@ -7,11 +7,8 @@ Loomio threads are versatile and you have many tools available to help you progr
 - [Thread context](#thread-context)
 - [Thread timeline](#thread-timeline)
 - [Comments](#comments)
-- [Interacting with threads](#interacting-with-threads)
 - [Thread display](#thread-display)
 - [Administering threads](#administering-threads)
-- [Administering comments](#administering-comments)
-- [Administering threads on your group page](#administering-threads-on-your-group-page)
 
 ## Thread navigation
 
@@ -114,47 +111,88 @@ You can reply to your own comment so as to nest your reply underneath the commen
 
 If Loomio has emailed you a comment and says you can reply to the email, you can reply directly from your email and your message will appear in the thread.
 
-
 ### Automatic translation
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/ZI_ZxJKoiy0?rel=0" frameborder="0" allowfullscreen></iframe>
 
 Loomio can translate user content (eg, votes, comments…) from one language into another automatically (with the help of Google Translate). If the author of a comment uses a language other than yours, **Translate comment** will be available in the drop-down options of the comment in question, from the three horizontal dots (**⋯**).
 
-## Interacting with threads
+### Comment tools
 
-Once a thread is started, a set of tools is available just under the thread context. 
+The following tools can be used on any comment by clicking on the three horizontal dots (**⋯**) at the bottom-right of the comment.
 
-![](thread_interact.png)
+### Pin to timeline
 
-### Subscribe
+Use **Pin to timeline** to pin a comment to the timeline.
 
-Click **Subscribe** to watch the thread for any activity.  All further activity will be emailed to you immediately. If it is an active thread, you may receive many emails. 
+You an edit the comment label on the timeline. Unpin and then pin it again; this will give you the opportunity to reword the text that appears as a link in the timeline.
 
-### Invite
+> **Tip:** Highlight the words that you would like to use as the text in the timeline
 
-You can invite people to the thread at any time after the thread has started.
+**Unpin**  removes the item from the timeline.
 
-Select the people you want to invite to the thread by group, subgroup or individually.
+### Editing comment
+If you want to change anything you can edit the comment by selecting **Edit** under the 3 dot menu.
 
-![](invite_thread.png)
-
-You can remove a person from the thread by clicking the 3 dots menu to the right of their name and selecting **Remove from thread**.
-
-#### Invite a guest
-Consult an expert or external party while keeping relevant communications all in one place. 
-
-Guests can not see any other threads in your group, only the thread you specifically invite the guest to. A guest does not need to already have a Loomio account, and they can participate by email just like all Loomio users.
-
-![](invite_guest.png)
-
-
-### React
-
-### Edit
-
-
+![](comment_edit.png)
 
 ### Show edits
+
+When a comment has been edited, the **Show edits** icon appears.
+
+![](comment_show_edits.png)
+
+Click on **Show edits** to see what changes have been made.  Red highlighted text has been deleted, and green highlighted text added.  
+
+The person who edited the comment, and the date and time of edit, is recorded in Loomio.  
+
+Click on the arrows to see previous edits.
+
+![](comment_edits.png)
+
+You cannot edit other people's comments unless:
+- You are the comment author
+- You are a group admin and the group permission [Admins can edit members' comments](https://help.loomio.com/en/user_manual/groups/settings/index.html#permissions) is enabled. 
+
+### Copy link
+
+### Notification history
+
+### Move item
+Sometimes a comment is useful, but off-topic for the thread; _it may be a short conversation took place that would have been better held in another thread or subgroup._ In this case you will want to move one or more related comment(s) and replies by selecting **move item** in the comment's options (**⋯**). This will allow you to select any number of thread items, _including_ polls or proposals. You can then add them to a pre-existing thread of your choice, or start a new thread.
+
+### Discard comment
+
+Discarding a comment removes it from the thread, but retains the comment in a trash bin.
+
+You can discard your own comments at any time with **Discard** under the 3 dot (*...*) menu located at the bottom right of your comment.
+
+![](comment_discard.png)
+
+#### Restore comment
+
+You can restore your own comment with **Restore**.  The location of the comment will be labeled as **Item removed**.  Click on the 3 dot (*...*) menu located at the bottom right of your discarded comment and select **Restore**.
+
+![](comment_restore.png)
+
+### Delete comment
+
+Delete comment removes the comment permanently from the thread.  It cannot be restored.
+
+If "Members can delete their own comments" is permitted in [Group Settings](https://help.loomio.com/en/user_manual/groups/settings/index.html#permissions), you can delete your comment.
+
+![](permissions_delete_comment.png)
+
+The location of the comment will be labeled as **Item removed**.  Click on the 3 dot (*...*) menu located at the bottom right of your discarded comment and select **Delete**.
+
+![](comment_delete.png)
+
+A warning message will appear and ask you to acknowledge that the comment will be permanently from the thread and cannot be restored.
+
+![](comment_delete_message.png)
+
+Admins can delete any comment - their own comments and the comments of other people in the group.
+
+
 
 ## Thread display
 
@@ -223,84 +261,5 @@ You can delete any thread that you start.
 
 Group admins you can delete any thread in the group.
 
-## Administering comments
 
-The following tools can be used on any comment by clicking on the three horizontal dots (**⋯**) at the bottom-right of the comment.
-
-### Pin to timeline
-
-Use **Pin to timeline** to pin a comment to the timeline.
-
-You an edit the comment label on the timeline. Unpin and then pin it again; this will give you the opportunity to reword the text that appears as a link in the timeline.
-
-> **Tip:** Highlight the words that you would like to use as the text in the timeline
-
-**Unpin**  removes the item from the timeline.
-
-### Editing comment
-If you want to change anything you can edit the comment by clicking on the 3 dots menu to the bottom right of your comment and selecting **Edit**.
-
-![](comment_edit.png)
-
-### Show edits
-
-When a comment has been edited, the **Show edits** icon appears.
-
-![](comment_show_edits.png)
-
-Click on **Show edits** to see what changes have been made.  Red highlighted text has been deleted, and green highlighted text added.  
-
-The person who edited the comment, and the date and time of edit, is recorded in Loomio.  
-
-Click on the arrows to see previous edits.
-
-![](comment_edits.png)
-
-You cannot edit other people's comments unless:
-- You are the comment author
-- You are a group admin and the group permission [Admins can edit members' comments](https://help.loomio.com/en/user_manual/groups/settings/index.html#permissions) is enabled. 
-
-### Copy link
-
-### Notification history
-
-### Move item
-Sometimes a comment is useful, but off-topic for the thread; _it may be a short conversation took place that would have been better held in another thread or subgroup._ In this case you will want to move one or more related comment(s) and replies by selecting **move item** in the comment's options (**⋯**). This will allow you to select any number of thread items, _including_ polls or proposals. You can then add them to a pre-existing thread of your choice, or start a new thread.
-
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/qaaQkA2myRc?rel=0" frameborder="0" allowfullscreen></iframe>
-
-### Discard
-
-You can delete your own comments at any time.
-
-The group admin can delete any comment.
-
-Select **delete** from the comment's options (**⋯**).
-
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/cGc8_1zWrzE?rel=0" frameborder="0" allowfullscreen></iframe>
-
-## Administering threads on your group page
-
-On the group page there are several tools to help you display and administer threads.
-
-## Pin thread
-Group admins can pin a thread to the top of the list of threads to make it easier to find. Pinned threads will appear above your other threads on your group page and are ordered by the most recently pinned item at the top. You can change position of the pinned thread by pinning and unpinning threads.
-
-You can easily  **pin** or **un-pin** from the thread preview options.
-
-![](pin_thread.png)
-
-## Close thread
-
-To keep the list of discussions on your group page relevant, you can close threads which people don't need to see.
-
-![](thread_closed.png)
-
-To view closed threads, first navigate to the relevant **group page**. You will need to use the drop-down just under the Threads tab to change the thread filter from its default of **open**.
-
-![](sort_threads_on_group_page.png)
-
-Choose "closed" to view all your closed threads in the thread filter.
-
-![](closed_threads.png)
 
