@@ -64,6 +64,17 @@ To view closed threads, go to the group page and click on the drop-down menu jus
 
 Change the thread filter from default **Open** to **Closed**.   You can also use this filter to see **All** threads, **Unread** threads and **Templates**
 
+You can re-open a closed thread.
+
 ![](thread_closed.png)
 
 ## Delete thread
+
+Deleting a thread removes it from your group.  You can not restore a deleted thread.
+
+If you are not sure if you will need to access the thread again, use **Close thread**.  Closed threads can be re-opened.
+
+When you select **Delete thread** you will be asked to confirm before proceeding.
+
+![](thread_delete.png)
+
