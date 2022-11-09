@@ -15,14 +15,10 @@ To keep the list of discussions on your group page relevant, you can close threa
 
 Go to the Threads tab on your group page, and open the 3 dot menu (**...**) 
 
-![](thread_close.png)
+![](thread_close1.png)
+
+To view closed threads, go to the group page and click on the drop-down menu just under the Threads tab. 
+
+Change the thread filter from default **Open** to **Closed**.   You can also use this filter to see **All** threads, **Unread** threads and **Templates**
 
 ![](thread_closed.png)
-
-To view closed threads, first navigate to the relevant **group page**. You will need to use the drop-down just under the Threads tab to change the thread filter from its default of **open**.
-
-![](sort_threads_on_group_page.png)
-
-Choose "closed" to view all your closed threads in the thread filter.
-
-![](closed_threads.png)
