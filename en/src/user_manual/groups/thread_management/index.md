@@ -64,9 +64,11 @@ To view closed threads, go to the group page and click on the drop-down menu jus
 
 Change the thread filter from default **Open** to **Closed**.   You can also use this filter to see **All** threads, **Unread** threads and **Templates**
 
-You can re-open a closed thread.
-
 ![](thread_closed.png)
+
+Use **Re-open thread** to restore it to the open thread list.
+
+![](closed_threads.png)
 
 ## Delete thread
 
