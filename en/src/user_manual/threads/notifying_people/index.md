@@ -16,6 +16,7 @@ Notification needs vary from group to group, and often vary over time as people 
   - [Notified (Thread notification history)](#notified-thread-notification-history)
   - [Comment notification history](#comment-notification-history)
   - [Poll notification history](#poll-notification-history)
+- [Interacting with threads](#interacting-with-threads)
 
 ## Notify about new thread
 
@@ -86,6 +87,17 @@ To add people individually:
 
 ![](thread_invite.png)
 
+You can remove a person from the thread by clicking the 3 dots menu to the right of their name and selecting **Remove from thread**.
+
+#### Invite a guest
+You can invite any person outside your group to see and participate in a thread.
+
+Guests can not see any other threads in your group - only the thread they have been specifically invited to. 
+
+Invite a guest with their email address. 
+
+![](invite_guest.png)
+
 ## Notify about thread changes
 
 Notify people to let them know when a thread has been updated.
@@ -99,7 +111,6 @@ When updated, you can write a comment in **What's changed?** describing the chan
 The thread edit comment will appear in the thread. 
 
 ![](thread_edit_comment.png)
-
 
 ## Who has seen or been notified about the thread? 
 
@@ -147,5 +158,14 @@ The &#10003; indicates that the notification has been read or the email has been
 
 ![](poll_notification_example.png)
 
+
+## Subscribe
+
+Click **Subscribe** to watch the thread for any activity.  All further activity will be emailed to you immediately. If it is an active thread, you may receive many emails. 
+
+![](thread_interact.png)
+
+
+## React
 
 
