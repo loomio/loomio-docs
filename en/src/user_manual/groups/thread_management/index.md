@@ -11,7 +11,11 @@ You can easily  **pin** or **un-pin** from the thread preview options.
 
 ## Close thread
 
-To keep the list of discussions on your group page relevant, you can close threads which people don't need to see.
+To keep the list of discussions on your group page relevant, you can close threads that are no longer active.
+
+Go to the Threads tab on your group page, and open the 3 dot menu (**...**) 
+
+![](thread_close.png)
 
 ![](thread_closed.png)
 
