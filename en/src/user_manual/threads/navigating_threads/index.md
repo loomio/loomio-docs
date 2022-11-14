@@ -118,7 +118,7 @@ Loomio can translate user content (eg, votes, comments…) from one language int
 
 ### Comment tools
 
-The following tools can be used on any comment by clicking on the three horizontal dots (**⋯**) at the bottom-right of the comment.
+The following tools can be used on any comment by clicking on the three dot menu (**⋯**) at the bottom-right of the comment.
 
 ### Pin to timeline
 
@@ -154,6 +154,14 @@ You cannot edit other people's comments unless:
 - You are a group admin and the group permission [Admins can edit members' comments](https://help.loomio.com/en/user_manual/groups/settings/index.html#permissions) is enabled. 
 
 ### Copy link
+
+Use **Copy link** to copy the unique address (url) of the comment.  
+
+The link will be copied to your computer or mobile device clipboard, where you can paste or add it as a link in another part of Loomio or any online document.
+
+This is a great way to directly refer to youw own comment or a comment someone has posted.
+
+![](comment_copy_link.png)
 
 ### Notification history
 
