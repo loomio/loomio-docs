@@ -136,6 +136,10 @@ In **Thread notification history** you can see all notifications for that thread
 
 ![](thread_notified.png)
 
+You can also access thread notification history from within the thread. Go to the thread 3 dot (**...**) menu.
+
+![](thread_notification_history.png)
+
 ### Comment notification history
 Alongside the comment, click on the 3 dots drop-down menu (**⋯**) to find **Notification history**.
 
