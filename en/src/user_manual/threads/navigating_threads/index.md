@@ -236,7 +236,11 @@ See [Notified: (Thread notification history)](https://help.loomio.com/en/user_ma
 
 ### Print
 
-In the thread menu click on the 3 dots menu (**⋯**) and choose **Print**. Then use your browser's ability to "save to pdf", or copy and paste it into the file or repository of your choosing.
+In the thread menu click on the 3 dots menu (**⋯**) and choose **Print**. 
+
+A page suitable for print is generated.
+
+To save as a file, use your browser's ability to "save to pdf", or copy and paste it into a file or repository of your choosing.
 
 ![](thread_print_thread.png)
 
@@ -253,23 +257,31 @@ You can **pin** or **un-pin** from the thread preview options on the Group page.
 
 To keep the list of discussions on your group page relevant, you can close threads which people don't need to see.
 
-![](close_thread.png)
+![](thread_close_thread.png)
 
-To view closed threads, first navigate to the relevant **group page**. You will need to use the drop-down just under the Threads tab to change the thread filter from its default of **open**.
+To view closed threads, go to your group page. Click the drop-down menu just under the **Threads** tab and change the thread filter from **Open** to **Closed**.
 
-![](sort_threads_on_group_page.png)
+![](closed_thread_filter.png)
 
-Choose "closed" to view all your closed threads in the thread filter.
-
-![](closed_threads.png)
+Closed threads are marked with a **Closed** tag.
 
 #### Re-open thread
 
-Re-opening a closed thread is done from within the thread's page – again, the three horizontal dots (**⋯**). See [organizing threads](#thread-options-and-organizing-threads) for a depiction.
+You can re-open a closed thread from the [group page](https://help.loomio.com/en/user_manual/groups/thread_management/index.html#close-thread) or from within the thread.
+
+![](thread_reopen.png)
 
 ### Move to group
 
-You can move a thread to another group or subgroup. Select **Move to group** from the 3 dot menu to the right of the thread.
+You can move a thread to another group or subgroup, or to an invite-only thread.
+
+Select **Move to group** from the 3 dot menu to the right of the thread.
+
+![](thread_move_to.png)
+
+Select the destination group or subgroup.
+
+![](destination_group.png)
 
 ### Delete thread
 
