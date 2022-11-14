@@ -192,7 +192,7 @@ Click **Move** in the banner at the top of the thread.
 
 Choose the group or subgroup.
 
-Choose either an existing thread or start a new thread.
+Choose either an existing thread to move the comments in to, or start a new thread on a new topic.
 
 If you want to start a new thread, add thread title and context.
 
