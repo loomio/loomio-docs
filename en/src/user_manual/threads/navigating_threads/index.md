@@ -166,7 +166,7 @@ Use **Copy link** to copy the unique address (url) of the comment.
 
 The link will be copied to your computer or mobile device clipboard, where you can paste or add it as a link in another part of Loomio or any online document.
 
-This is a great way to directly refer to youw own comment or a comment someone has posted.
+This is a great way to directly refer to your own comment or a comment someone has posted.
 
 ![](comment_copy_link.png)
 
@@ -175,7 +175,35 @@ This is a great way to directly refer to youw own comment or a comment someone h
 See [Comment notification history](https://help.loomio.com/en/user_manual/threads/notifying_people/index.html#comment-notification-history).
 
 ### Move item
-Sometimes a comment is useful, but off-topic for the thread; _it may be a short conversation took place that would have been better held in another thread or subgroup._ In this case you will want to move one or more related comment(s) and replies by selecting **move item** in the comment's options (**⋯**). This will allow you to select any number of thread items, _including_ polls or proposals. You can then add them to a pre-existing thread of your choice, or start a new thread.
+
+If a comment is posted on a new or different topic, you can move comments to another thread, or to start a new thread.
+
+Open the 3 dot menu (**...**) and select **Move item**.
+
+![](comment_move.png)
+
+Select the comments you want to move to another thread.
+
+![](comment_select.png)
+
+Click **Move** in the banner at the top of the thread.
+
+![](move_items.png)
+
+Choose the group or subgroup.
+
+Choose either an existing thread or start a new thread.
+
+![](move_items.png)
+
+If you want to start a new thread, add thread title and context.
+
+![](move_items_new_thread.png)
+
+A new thread is created with comments moved from the old thread.
+
+![](new_thread.png)
+
 
 ### Discard comment
 
