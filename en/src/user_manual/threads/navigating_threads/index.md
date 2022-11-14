@@ -273,7 +273,7 @@ You can re-open a closed thread from the [group page](https://help.loomio.com/en
 
 ### Move to group
 
-You can move a thread to another group or subgroup, or to an invite-only thread.
+You can move a thread to another group or subgroup.  The thread will then be visible to any member of the destination group, and anyone who have been specifically invited to the thread.
 
 Select **Move to group** from the 3 dot menu to the right of the thread.
 
@@ -289,5 +289,7 @@ You can delete any thread that you start.
 
 Group admins you can delete any thread in the group.
 
+You will be asked to confirm you want to delete the thread.  Delete thread can not be undone.
 
+![](delete_thread_1.png)
 
