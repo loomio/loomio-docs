@@ -289,7 +289,9 @@ You can delete any thread that you start.
 
 Group admins you can delete any thread in the group.
 
+![](delete_thread_1.png)
+
 You will be asked to confirm you want to delete the thread.  Delete thread can not be undone.
 
-![](delete_thread_1.png)
+![](delete_thread.png)
 
