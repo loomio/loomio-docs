@@ -157,6 +157,8 @@ You cannot edit other people's comments unless:
 
 ### Notification history
 
+See [Comment notification history](https://help.loomio.com/en/user_manual/threads/notifying_people/index.html#comment-notification-history).
+
 ### Move item
 Sometimes a comment is useful, but off-topic for the thread; _it may be a short conversation took place that would have been better held in another thread or subgroup._ In this case you will want to move one or more related comment(s) and replies by selecting **move item** in the comment's options (**⋯**). This will allow you to select any number of thread items, _including_ polls or proposals. You can then add them to a pre-existing thread of your choice, or start a new thread.
 
@@ -192,8 +194,6 @@ A warning message will appear and ask you to acknowledge that the comment will b
 
 Admins can delete any comment - their own comments and the comments of other people in the group.
 
-
-
 ## Thread display
 
 By default comments in threads are listed one after the other as you scroll down the thread page - oldest comments first.  However you can change the thread order so that newest comments are listed at the top of the thread.  Seeing the latest comments first is useful for threads used for reporting or threads that have been active for some time.
@@ -218,7 +218,7 @@ Find the tools under the 3 dot (**⋯**) menu, under the thread context on the r
 
 ### Make a copy
 
-**Make a copy** creates a copy of a thread title ("Copy of...") and thread context, along with any tags and formatting used.   
+Create a copy of a thread - title ("Copy of...") and the thread context, along with any tags and formatting used.   
 
 Use **Make a copy** when you want to start a new thread based on an existing thread.  
 
@@ -228,9 +228,11 @@ Edit the thread title and context for your new thread.
 
 ![](thread_copy_start.png)
 
-Note: **Make a copy** does not copy comments or polls from the source thread.  Although Loomio remembers the polls used in the source thread, so that when you start a poll in the thread, the poll types used in the source thread will show at the top of the list of polls.
+> Note: **Make a copy** does not copy comments or polls from the source thread.  Although Loomio remembers the polls used in the source thread, so that when you start a poll in the thread, the poll types used in the source thread will show at the top of the list of polls.
 
 ### Show notifications
+
+See [Notified: (Thread notification history)](https://help.loomio.com/en/user_manual/threads/notifying_people/index.html#notified-thread-notification-history).
 
 ### Print
 
