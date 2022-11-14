@@ -210,11 +210,25 @@ To change this setting, click that grey text, choose your preference, and save. 
 
 ## Administering threads
 
-There is a set of tools to help you administer threads.  Find the tools under the (**⋯**) three dots menu, located under the thread context on the right.
+There are a set of tools on the thread page to help you make a copy, print, move thread, close or delete thread.  
 
-![](options_from_thread_context.png)
+Find the tools under the 3 dot (**⋯**) menu, under the thread context on the right.
+
+![](thread_admin.png)
 
 ### Make a copy
+
+**Make a copy** creates a copy of a thread title ("Copy of...") and thread context, along with any tags and formatting used.   
+
+Use **Make a copy** when you want to start a new thread based on an existing thread.  
+
+![](thread_copy.png)
+
+Edit the thread title and context for your new thread.
+
+![](thread_copy_start.png)
+
+Note: **Make a copy** does not copy comments or polls from the source thread.  Although Loomio remembers the polls used in the source thread, so that when you start a poll in the thread, the poll types used in the source thread will show at the top of the list of polls.
 
 ### Show notifications
 
