@@ -194,8 +194,6 @@ Choose the group or subgroup.
 
 Choose either an existing thread or start a new thread.
 
-![](move_items.png)
-
 If you want to start a new thread, add thread title and context.
 
 ![](move_items_new_thread.png)
