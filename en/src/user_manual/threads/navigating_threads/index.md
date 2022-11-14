@@ -112,9 +112,16 @@ You can reply to your own comment so as to nest your reply underneath the commen
 If Loomio has emailed you a comment and says you can reply to the email, you can reply directly from your email and your message will appear in the thread.
 
 ### Automatic translation
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/ZI_ZxJKoiy0?rel=0" frameborder="0" allowfullscreen></iframe>
 
-Loomio can translate user content (eg, votes, comments…) from one language into another automatically (with the help of Google Translate). If the author of a comment uses a language other than yours, **Translate comment** will be available in the drop-down options of the comment in question, from the three horizontal dots (**⋯**).
+Loomio can translate user content - written in thread context, comment or polls -  into your language.
+
+If the author uses a language other than yours, **Translate comment** will be available in the drop-down options of that comment.
+
+![](comment_translate.png)
+
+Click **Translate comment** to see the comment in your language.
+
+![](comment_translated.png)
 
 ### Comment tools
 
