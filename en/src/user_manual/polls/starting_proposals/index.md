@@ -108,7 +108,7 @@ Setting options:
 
 > **Warning**: Once a poll has started you cannot edit the poll to make it anonymous or to undo the anonymous setting.  
 
-> **Warning**: You cannot re-open a closed anonymous poll.  Voter information including the voter identity is discarded, so Loomio doesn't know who has voted.
+> **Warning**: You cannot re-open an anonymous poll after it has closed.  Voter information including the voter identity is discarded, so Loomio doesn't know who has voted.
 
 **Vote reason:** It can be helpful to understand why people voted the way they did. With this setting, you can prompt people to share their thoughts when they vote.
 
