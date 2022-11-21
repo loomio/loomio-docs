@@ -104,7 +104,11 @@ Setting options:
 - Until vote is cast - means voting results are not visible until you vote, and are then revealed.
 - Until proposal is closed - means voting results are not visible until the proposal closes. 
 
-**Anonymous voting:** If enabled, this allows people to vote anonymously - the identify of voters will not be associated to their votes.  This is useful for elections and secret ballots.  However this cannot be undone.
+**Anonymous voting:** If enabled, this allows people to vote anonymously - the identify of voters will not be associated to their votes.  This is useful for elections and secret ballots.  
+
+> Warning: Once a poll has started you can not edit the poll to make it anonymous or undo the anonymous setting.  
+
+> Warning: You can not re-open a closed anonymous poll.  Voter information including the voter identity is discarded, so Loomio doesn't know who has voted.
 
 **Vote reason:** It can be helpful to understand why people voted the way they did. With this setting, you can prompt people to share their thoughts when they vote.
 
@@ -112,6 +116,8 @@ Setting options:
 - Required - people must write something in the reason field before their vote is submitted.
 - Optional (default) - reason is optional.
 - Disabled - the reason text box is not available.
+
+> Tip: In an election or anonymous poll, consider disabling vote reason to avoid a voter inadvertently revealing their identity with their text comment.
 
 **Limit reason to maximum 500 characters:** Keeping vote reasons short makes them easier to understand. A collection of concise reasons is a great resource for making a decision.  So this setting is ticked by default.
 
