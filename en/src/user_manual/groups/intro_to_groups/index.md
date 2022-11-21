@@ -53,4 +53,4 @@ Many features available to admins in Loomio are to help you facilitate.
 
 Admins can edit and delete member's comments, so take on a further role of group moderation. 
 
-Loomio does not support the ability for admins to approve member's comments before they are posted to the group.  We recommend a more open moderation policy to encourage group participation and made safe with a code of conduct.
+Loomio does not support the ability for admins to approve member's comments before they are posted to the group.  We recommend a more open moderation policy to encourage group participation, made safe with a code of conduct.
