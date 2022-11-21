@@ -106,9 +106,9 @@ Setting options:
 
 **Anonymous voting:** If enabled, this allows people to vote anonymously - the identify of voters will not be associated to their votes.  This is useful for elections and secret ballots.  
 
-> Warning: Once a poll has started you can not edit the poll to make it anonymous or undo the anonymous setting.  
+> Warning: Once a poll has started you can not edit the poll to make it anonymous or to undo the anonymous setting.  
 
-> Warning: You can not re-open a closed anonymous poll.  Voter information including the voter identity is discarded, so Loomio doesn't know who has voted.
+> Warning: You cannot re-open a closed anonymous poll.  Voter information including the voter identity is discarded, so Loomio doesn't know who has voted.
 
 **Vote reason:** It can be helpful to understand why people voted the way they did. With this setting, you can prompt people to share their thoughts when they vote.
 
