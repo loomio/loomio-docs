@@ -22,35 +22,8 @@ Loomio is built to foster inclusive participation, diversity and trust - helping
 
 Some topics bring tension in a group.  So it's important to allow a robust discussion to take place, while ensuring it is also a safe place, particularly for vulnerable people in your group. 
 
-We recommend establishing a code of conduct for your group, to help everyone be aware of their responsibility for appropriate behaviour and encourage self-regulation.  
+We recommend establishing a code of conduct for your group, to help everyone be aware of their responsibility for appropriate behaviour and encourage self-regulation. 
 
 Ask people to accept a code of conduct, or make it a condition of group membership.  
 
-Most people behave well in online groups, and an open dialogue encourages more active participation in discussion.  
-
-Here are some suggestions:
-- Add a code of conduct to the Loomio group description (link or attach a document)
-- Use a Loomio poll and invite people to read and accept the code.  (This could be a light 'Opt-in' poll or a more formal 'Proposal' poll to agree.)
-
 See the [Facilitator's Guide](https://help.loomio.com/en/guides/facilitators_guide/commencing/index.html#culture-protocol-expectations) to further explore the value of a code of conduct.
-
-> *"People often want to leave things to “common sense” and avoid agreeing a code of conduct or explicit protocols. However, this can disproportionately affect the most vulnerable members of the group, since they will feel the negative impacts of bad behavior or culture first and strongest, and are least empowered to counteract it themselves. It's the responsibility of the more privileged or influential members of the group to think through these questions carefully.*
-*Like a legal contract, you hope you never have to enforce a code of conduct, but if you need it you’re very glad it’s there. You want to agree before it becomes necessary. In order for a facilitator or any member of the group to effectively stand up and say, “that’s not OK here”, you need to have already invested in culture-building and expectation-setting."*
-
-### Administration
-
-When you set up a Loomio group, you have full admin permissions for your group.
-
-Admins perform administrative tasks for your group including the ability to add and remove members, make and remove admin permissions, change group privacy and member permission settings, upgrade and manage subscription plans, administer threads and polls.
-
-### Facilitation
-
-Admins are often also facilitators - encouraging people to participate, progressing discussions and nurturing decisions, while maintaining a safe environment.
-
-Many features available to admins in Loomio are to help you facilitate.
-
-### Moderation
-
-Admins can edit and delete member's comments, so take on a further role of group moderation. 
-
-Loomio does not support the ability for admins to approve member's comments before they are posted to the group.  We recommend a more open moderation policy to encourage group participation, made safe with a code of conduct.
