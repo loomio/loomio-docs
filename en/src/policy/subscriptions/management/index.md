@@ -120,6 +120,8 @@ Click on the link to the billing portal in the message:
 
 You may need to enter your email address to receive a secure link to the portal. 
 
+![](billingportal_sign_in.png#width-80)
+
 You can also access the billing portal with the **Account Management** link at the bottom of your statement.
 
 In the billing portal:
