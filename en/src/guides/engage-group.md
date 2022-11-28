@@ -9,7 +9,7 @@ Here are some tips that may help you and your group to actively participate in d
 1. [Warm up your group](#warm-up-your-group)
 2. [Bring your work plan into Loomio](#bring-your-work-plan-into-loomio)
 3. [Use a Loomio thread instead of writing an email](#use-a-loomio-thread-instead-of-writing-an-email)
-4. [Seek participation through a Proposal or Poll](#seek-participation-through-a-proposal-or-poll)
+4. [Seek participation with a Poll](#seek-participation-with-a-poll)
 5. [Point people to Loomio as the preferred place for communication](#point-people-to-loomio-as-the-preferred-place-for-communication)
 
 ## Warm up your group
@@ -63,7 +63,7 @@ A Loomio thread means that:
 - You can see who has read the message and who needs a nudge.
 - You can progress actual work to an outcome, and cut down on the amount of email.
 
-## Seek participation through a Proposal or Poll 
+## Seek participation with a Poll 
 
 Have a report to approve? A recommendation seeking endorsement? Or simply need acknowledgement that your team has read a document and had the opportunity to ask questions?
 
