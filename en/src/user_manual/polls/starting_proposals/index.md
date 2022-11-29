@@ -97,20 +97,23 @@ You can later add or remove people from an ‘Invite people only’ poll.
 
 ![](proposal_settings.png#width-80)
 
-**Hide results:** If you want people to vote without knowing how others have voted, you can hide the results of the poll.  Useful if you do not want people to be affected by how other people have voted.
+### Hide results
+If you want people to vote without knowing how others have voted, you can hide the results of the poll.  Useful if you do not want people to be affected by how other people have voted.
 
 Setting options:
 - Off (default) - means voting results are visible.
 - Until vote is cast - means voting results are not visible until you vote, and are then revealed.
 - Until proposal is closed - means voting results are not visible until the proposal closes. 
 
-**Anonymous voting:** If enabled, this allows people to vote anonymously - the identify of voters will not be associated to their votes.  This is useful for elections and secret ballots.  
+### Anonymous voting
+If enabled, this allows people to vote anonymously - the identify of voters will not be associated to their votes.  This is useful for elections and secret ballots.  
 
 > **Warning**: Once a poll has started you cannot edit the poll to make it anonymous or to undo the anonymous setting.  
 
 > **Warning**: You cannot re-open an anonymous poll after it has closed.  Voter information including the voter identity is discarded, so Loomio doesn't know who has voted.
 
-**Vote reason:** It can be helpful to understand why people voted the way they did. With this setting, you can prompt people to share their thoughts when they vote.
+### Vote reason
+It can be helpful to understand why people voted the way they did. With this setting, you can prompt people to share their thoughts when they vote.
 
 Setting options:
 - Required - people must write something in the reason field before their vote is submitted.
@@ -123,7 +126,8 @@ Setting options:
 
 However you can untick this setting to allow for longer reasons.
 
-**Reminder:** Send a 'Closing soon' notification 24 hours before the poll closes. This can be an opportunity for people to see how others have voted and reconsider their own vote, or just a way to increase participation in the poll.
+### Reminder
+Send a 'Closing soon' notification 24 hours before the poll closes. This can be an opportunity for people to see how others have voted and reconsider their own vote, or just a way to increase participation in the poll.
 
 Setting options:
 - Nobody
