@@ -106,7 +106,7 @@ Setting options:
 - Until proposal is closed - means voting results are not visible until the proposal closes. 
 
 ### Anonymous voting
-If enabled, this allows people to vote anonymously - the identify of voters will not be associated to their votes.  This is useful for elections and secret ballots.  
+If enabled, this allows people to vote anonymously - the identity of voters will not be associated to their votes.  This is useful for elections and secret ballots.  
 
 > **Warning**: Once a poll has started you cannot edit the poll to make it anonymous or to undo the anonymous setting.  
 
