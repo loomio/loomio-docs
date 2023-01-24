@@ -49,8 +49,6 @@ In the proposal include a clear statement of what agreement means, say 'for this
 
 Use proposals to build shared understanding, uncover disagreements and make a better decision.
 
-Proposal 
-
 ![](proposal_options_new.png#width-80)
 
 Use the default voting options or change to suit your decision process.
