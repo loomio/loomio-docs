@@ -45,7 +45,9 @@ A Proposal is used to present a decision to be made. For example an agreement, d
 
 Proposal is commonly used for building Consensus, however is also used in Advice, Consent and other collaborative decision making processes.
 
-In the proposal include a clear statement of what agreement means, say 'for this proposal to pass, we need everyone to vote agree' or 'for this proposal to pass, we need 75% of members to agree'.  Invite people to leave a vote 'Reason', and if they do not agree as people to say why, and what needs to change for them to agree.
+In the proposal include a clear statement of what agreement means, say 'for this proposal to pass, we need everyone to vote agree' or 'for this proposal to pass, we need 75% of members to agree'.  Invite people to leave a vote 'Reason', and if they do not agree to say why, and what needs to change for them to agree.  
+
+Use proposals to build shared understanding, uncover disagreements and make a better decision.
 
 Proposal 
 
