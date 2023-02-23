@@ -73,6 +73,10 @@ People who **Ask to join group** are invited to write a short reason - *"Why do 
 
 ![](join_group_request.png)
 
+Group admins will receive an email, with a link to where you can approve or deny the request to join.
+
+![](join_group_email.png)
+
 ## Managing invitations
 
 To manage invitations, open the filter/ drop down from the Members tab of your Group page and select **Invitations**; click on the three dot menu to the right of the member invitation.
