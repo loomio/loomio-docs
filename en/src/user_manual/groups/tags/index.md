@@ -10,15 +10,19 @@ On your group page, click on **tags** to see the category tags used in your grou
 
 ![](tags_view.png)
 
-## Create tags
+## Applying tags
 
-You can create and apply tags when you start or edit a thread.
+Tags can be applied by any member of the group or subgroup to threads and polls.  Tags are applied when you start or edit a thread or poll.
 
 ![](tags_add.png)
 
 Click on the tags field to display a list of the current tags in your group.  Click a tag to add to the thread.
 
 Or you can start typing and existing tags will appear for you to add. 
+
+## Create tags
+
+Only admins of the parent group can create tags for the parent group and any subgroup. 
 
 To add a tag, go to the 'tag +' icon to the right of the page.
 
