@@ -1,6 +1,7 @@
 # Category Tags
 
 *On this page*
+- [Apply tags](#apply-tags)
 - [Create tags](#create-tags)
 - [Edit tags](#edit-tags)
 
@@ -10,7 +11,7 @@ On your group page, click on **tags** to see the category tags used in your grou
 
 ![](tags_view.png)
 
-## Applying tags
+## Apply tags
 
 Tags can be applied by any member of the group or subgroup to threads and polls.  Tags are applied when you start or edit a thread or poll.
 
