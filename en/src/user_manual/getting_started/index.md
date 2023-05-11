@@ -36,7 +36,7 @@ The rest of Loomio Help is for anyone starting and administering a Loomio group.
 
 [Making decisions](https://help.loomio.com/en/user_manual/getting_started/decisions/index.html) can help you get started with collaborative decision making in your group.  It outlines how you can make decisions in Loomio and describes a [simple decision process](https://help.loomio.com/en/user_manual/polls/decisions/index.html).  See this section for how to apply the [Advice process](https://help.loomio.com/en/guides/advice_process/index.html) and [Consent process](https://help.loomio.com/en/guides/consent_process/index.html) in Loomio.
 
-[Subscriptions](https://help.loomio.com/en/policy/subscriptions/pricing.html)** has information about Loomio plans and subscription management if you are using one of our hosted services.
+[Subscriptions](https://help.loomio.com/en/policy/subscriptions/pricing.html) has information about Loomio plans and subscription management if you are using one of our cloud services.
 
 ## How people use Loomio
 
