@@ -25,15 +25,25 @@ Or you can start typing and existing tags will appear for you to add.
 
 Only admins of the parent group can create tags for the parent group and any subgroup. 
 
+Find Category tags on your parent group page.
+
+![](tags_find.png)
+
+Click **New tag** to add a new tag.
+
+![](tags_new.png)
+
+Type the tag name and select a color, then **Save**.
+
+![](tags_new_save.png)
+
+### Add tag within a thread
+
 To add a tag, go to the 'tag +' icon to the right of the page.
 
 ![](tags_add_new.png)
 
-A page opens showing current tags.  Click **New tag** to add a new tag.
-
-![](tags_create.png)
-
-Type the tag name and select a color, then **Save**.
+Follow the same process as above to create a tag.
 
 When creating tags, use familiar category names - for example; AGM, Board meeting, Finance, Members, Legal...
 
