@@ -17,7 +17,7 @@ Click on the three dots (**⋮**) to the right of the group member you wish to *
 ## Administering your group
 There are only two user types in a Loomio group; **member** and **admin**. 
 
-Admins perform administrative tasks for your group including; add and remove members, make and remove admin permissions, change group privacy and member permission settings, upgrade and manage subscription plans.
+Admins perform administrative tasks for your group including; add and remove members, make and remove admin permissions, change group privacy and member permission settings, upgrade and manage subscription plans. Admins are also able to see the email address of invited members and to export group data. 
 
 The person creating a new Loomio group is made admin by default. We recommend to make at least one other person in your group admin, to insure someone can always administer your group. 
 
