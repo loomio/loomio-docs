@@ -88,9 +88,9 @@ If you use the **Invite people** button from your parent group's **Members** tab
 
 Subgroups can have their own admins, and admins of a subgroup may not be the same as the admins of the parent group.
 
-However an admin of the 'parent' group can make themselves admin of any subgroups.  This helps administrators of the parent group to administer subgroups as necessary.
+However an admin of the 'parent' group can make themselves admin of any subgroup.  This helps administrators of the parent group to administer subgroups as necessary.
 
-Go to the subgroup and click **Join group**.
+Go to the Subgroup tab, find the subgroup and click **Join group**.
 
 ![](subgroup_join.png)
 
