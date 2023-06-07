@@ -4,8 +4,9 @@ Good governance is more than a board meeting, it requires good communication bef
 
 This guide is intended to help you use Loomio in your board or committee, so you can stay connected between meetings, deal with urgent matters and reduce board admin.
 - Continue governance between meetings
+- Keep track of communications
 - Use board meetings for issues that matter
-- Keep a detailed record
+- Preserve institutional memory with a detailed record
 
 Loomio is a versatile discussion and decision-making tool for collaborative boards and committees. 
 
@@ -42,10 +43,12 @@ Here are some or the challenges directors and boards experience:
 
 * Getting directors together in person
 * Time available to consider important issues 
+* Tracking communication
 * Urgency of critical issues
 * Online video meeting fatigue
 * Directors in multiple, remote locations, sometimes with poor internet connectivity
 * Mixed governance practice and experience
 * Dealing with high volumes of transactional business 
+* Maintaining institutional memory
 
 Loomio offers an opportunity to strengthen governance, to extend collaboration beyond board meetings, to include everyone in open, honest and respectful discussion while documenting everything.
