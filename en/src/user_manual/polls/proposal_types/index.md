@@ -21,13 +21,15 @@ Collaborative decisions include one or more rounds of feedback before a decision
 
 ![](sense_check.png#width-80)
 
-The **Sense check** poll is a simple way to get feedback on a decision before things get finalized - clarify and improve an idea before moving to a proposal. 
+The **Sense check** proposal is a good way to get feedback, invite questions and uncover concerns. It helps to clarify and improve a proposal before moving to a decision.
 
-Sense check lets people know a proposal is forming and encourages them to engage. It is an opportunity to listen to people, sense how they feel and respond appropriately - opening the potential to incorporate their contributions to make a better proposal - that’s more likely to pass.
+Sense check lets people know a proposal is forming and encourages them to engage. It is an opportunity to listen to people, sense how they feel and respond appropriately - opening the potential to incorporate their contributions to make a better decision.
 
 ![](sense_options.png#width-80)
 
-Use Sense check when you want to survey opinions, rather than advocate for a particular position. It is a great way to surface concerns before moving to a formal agreement.  You can find out if people are happy with where this is going, if they have questions or need more time, or if they are concerned and want something to change.
+Use Sense check when you want to survey opinions and surface concerns before moving to a formal agreement.  You can find out if people are happy with where this is going, if they have questions or need more time, or if they are concerned and want something to change.
+
+Use the Sense check proposal in the Consent process to invite reactions and comments to improve the proposal, and in a Consensus process to test for consensus.
 
 You can use one or more rounds of ‘Sense check’ to help you co-create a better, more cohesive decision with less stress and anxiety.
 
