@@ -4,7 +4,7 @@ Loomio can become the online place where your board or committee meet, discuss, 
 
 However Loomio will be of little value if only some of your board participate.  Information and communication will likely remain scattered over multiple tools, lost in email inboxes and the confusion will waste everyone's time.
 
-Consider the problem you are trying to solve by using Loomio, say to improve and track communication or build institutional memory.  Then commit as a board to move your work into Loomio, and everyone makes a genuine effort.  
+Consider the problem you are trying to solve by using Loomio, say to improve and track communication or build institutional memory.  Then commit as a board to move your work into Loomio, and encourage everyone to make a genuine effort.  
 
 As administrator your primary objective is to set up Loomio effectively for your board.
 
