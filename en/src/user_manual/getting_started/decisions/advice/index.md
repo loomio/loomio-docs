@@ -9,7 +9,7 @@ Key points:
 - invite people to offer their advice
 - take into account other people’s voices
 
-Advice process key steps:
+The Advice proposal is a key stage in the Advice process:
 1. You notice a problem or opportunity and take the initiative.
 2. Seek input to sound out perspectives before proposing action - start a Loomio **thread**.
 3. Make a proposal and seek advice - run an **Advice proposal**.
