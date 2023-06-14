@@ -5,9 +5,9 @@ Seek advice on a decision you need to make, with the advice of people impacted o
 > “With the advice process, any person can make any decision but must seek advice from affected parties and people with expertise.” Frederick Laloux, Reinventing Organizations.
 
 Key points:
-- freedom to make a decision
-- invite people to offer their advice
-- take into account other people’s voices
+- Freedom to make a decision.
+- Invite people to offer their advice.
+- Take into account other people’s voices.
 
 ![](nadir-syzygy-den6gTowZKs-unsplash.jpg)
 Photo by <a href="https://unsplash.com/@nadir_syzygy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nadir sYzYgY</a> on <a href="https://unsplash.com/s/photos/advice?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
