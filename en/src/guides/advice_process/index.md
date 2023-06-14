@@ -12,7 +12,7 @@ Key points:
 ![](nadir-syzygy-den6gTowZKs-unsplash.jpg)
 Photo by <a href="https://unsplash.com/@nadir_syzygy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nadir sYzYgY</a> on <a href="https://unsplash.com/s/photos/advice?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
-The Advice proposal is a key step in the Advice process:
+Key steps in the Advice process:
 1. You notice a problem or opportunity and take the initiative.
 2. Seek input to sound out perspectives before proposing action - start a Loomio **thread**.
 3. Make a proposal and seek advice - run an **Advice proposal**.
