@@ -9,7 +9,7 @@ Key points:
 - Invite people to offer their advice.
 - Take into account other people’s voices.
 
-![](nadir-syzygy-den6gTowZKs-unsplash.jpg)
+![Photo by Nadir sYzYgY on Unsplash](nadir-syzygy-den6gTowZKs-unsplash.jpg)
 *Photo by <a href="https://unsplash.com/@nadir_syzygy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nadir sYzYgY</a> on <a href="https://unsplash.com/s/photos/advice?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>*
 
 Key steps in the Advice process:
