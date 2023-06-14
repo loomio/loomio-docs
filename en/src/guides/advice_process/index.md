@@ -74,5 +74,4 @@ The outcome is a clear statement of the decision made, what will happen next, an
 
 ![](advice_step4_outcome.png)
 
-Photo by <a href="https://unsplash.com/@nadir_syzygy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nadir sYzYgY</a> on <a href="https://unsplash.com/s/photos/advice?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
+
