@@ -2,12 +2,15 @@
 
 Seek advice on a decision you need to make, with the advice of people impacted or who have expertise, so you can make a better decision for your organization.
 
-*“With the advice process, any person can make any decision but must seek advice from affected parties and people with expertise.” Frederick Laloux, Reinventing Organizations.*
+> “With the advice process, any person can make any decision but must seek advice from affected parties and people with expertise.” Frederick Laloux, Reinventing Organizations.
 
 Key points:
 - freedom to make a decision
 - invite people to offer their advice
 - take into account other people’s voices
+
+![](nadir-syzygy-den6gTowZKs-unsplash.jpg)
+Photo by <a href="https://unsplash.com/@nadir_syzygy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nadir sYzYgY</a> on <a href="https://unsplash.com/s/photos/advice?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 The Advice proposal is a key step in the Advice process:
 1. You notice a problem or opportunity and take the initiative.
@@ -70,3 +73,6 @@ When everyone has offered advice, or the proposal closes, Takashi makes a decisi
 The outcome is a clear statement of the decision made, what will happen next, and becomes an important record for the organization.
 
 ![](advice_step4_outcome.png)
+
+Photo by <a href="https://unsplash.com/@nadir_syzygy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nadir sYzYgY</a> on <a href="https://unsplash.com/s/photos/advice?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
