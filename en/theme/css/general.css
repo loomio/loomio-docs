@@ -116,8 +116,9 @@ table {
     border-collapse: collapse;
 }
 table td {
-    padding: 3px 20px;
+    padding: 12px 20px;
     border: 1px var(--table-border-color) solid;
+    vertical-align: top;
 }
 table thead {
     background: var(--table-header-bg);
