@@ -12,7 +12,7 @@ Seek consent on a decision you need to make, where there are no meaningful objec
 - Ask if anyone has a valid objection.
 - Amend the proposal to resolve objections.
 
-![Loomio retreat]](Loomio-retreat-decision-time.jpg)
+![Loomio retreat](Loomio-retreat-decision-time.jpg)
 
 ### Consent process steps
 1. You notice a problem or opportunity and take the initiative.
