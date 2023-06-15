@@ -7,8 +7,7 @@ Including people in decision making leads to better decisions, and better outcom
 - Involving people reduces the decision risk.
 
 ![](hannah-busing-Zyx1bK9mqmA-unsplash.jpg)
-Photo by <a href="https://unsplash.com/@hannahbusing?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Hannah Busing</a> on <a href="https://unsplash.com/s/photos/group-decision-making?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
+*Photo by <a href="https://unsplash.com/@hannahbusing?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Hannah Busing</a> on <a href="https://unsplash.com/s/photos/group-decision-making?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>*
 
 For many organizations today, getting everyone together in one place at the same time is near impossible. People work remotely and communicate at different times. Email and online chat tools are not well equipped to support decision making. 
 
