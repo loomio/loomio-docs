@@ -6,11 +6,10 @@
   - [How to participate](user_manual/getting_started/write-a-comment.md)
 
 - [Making decisions](user_manual/getting_started/decisions/index.md)
-  - [Simple decision process](user_manual/polls/decisions/index.md)
   - [Advice process](guides/advice_process/index.md)
   - [Consent process](guides/consent_process/index.md)
-  - [Consent process example](user_manual/getting_started/decisions/consent/index.md)
-
+  - [Simple decision process](user_manual/polls/decisions/index.md)
+ 
 - [Groups](user_manual/groups/intro_to_groups/index.md)
   - [Starting a group](user_manual/groups/starting_a_group/index.md)
   - [Group settings](user_manual/groups/settings/index.md)
