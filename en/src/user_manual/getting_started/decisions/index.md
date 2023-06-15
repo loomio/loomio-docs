@@ -18,7 +18,7 @@ Your organization needs a safe place online for communication and decision makin
 
 ## Decision making practices in Loomio
 
-There are many ways to make collaborative decisions, and the tools within Loomio are versatile to adapt to most practices.
+There are many ways to involve people in making decisions. The tools within Loomio are versatile to adapt to most practices.
 
 Many organizations use one or more decision processes, depending on the type of decision, governing policy, values and culture.  
 
