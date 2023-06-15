@@ -1,19 +1,13 @@
-# Distributed decision making
+# Making decisions
+
+![](hannah-busing-Zyx1bK9mqmA-unsplash.jpg)
+*Photo by <a href="https://unsplash.com/@hannahbusing?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Hannah Busing</a> on <a href="https://unsplash.com/s/photos/group-decision-making?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>*
 
 Including people in decision making leads to better decisions, and better outcomes;
 - People are well-informed and can exercise their voice,
 - More engagement and diverse input strengthens decisions, 
 - Sharing power and responsibility builds trust and buy-in, 
 - Involving people reduces the decision risk.
-
-![](hannah-busing-Zyx1bK9mqmA-unsplash.jpg)
-*Photo by <a href="https://unsplash.com/@hannahbusing?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Hannah Busing</a> on <a href="https://unsplash.com/s/photos/group-decision-making?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>*
-
-For many organizations today, getting everyone together in one place at the same time is near impossible. People work remotely and communicate at different times. Email and online chat tools are not well equipped to support decision making. 
-
-Distributed decision making involves people impacted by the decision. It accommodates people working remotely and offers space for people to build context and shared understanding, and to consider implications before deciding. 
-
-Your organization needs a safe place online for communication and decision making - to discuss important topics, progress towards a decision, agree on an outcome and store a record of decisions.  
 
 ## Decision making practices in Loomio
 
@@ -27,7 +21,7 @@ Check out these common decision making processes and how to apply these within L
 
 **[Consent process](https://help.loomio.com/en/guides/consent_process/index.html)** - Seek consent on a decision you need to make, where there are no meaningful objections to your proposal, so you can make a fast decision that is 'safe to try' now.
 
-**[Collaborative decision process](https://help.loomio.com/en/user_manual/polls/decisions/index.html)** - A simple process to introduce and discuss the decision to be made, listen and sense how people think about it, propose and decide. Start here if you are new to collaborative decision making.
+**[Simple decision process](https://help.loomio.com/en/user_manual/polls/decisions/index.html)** - A simple process to introduce and discuss the decision to be made, listen and sense how people think about it, propose and decide. Start here if you are new to collaborative decision making.
 
 ## Examples of decision making practices
 
