@@ -9,7 +9,7 @@ Loomio is a discussion forum with a set of tools to allow you to facilitate a di
 Watch this video for an intro to Loomio (8:45). We walk through how people use Loomio to make decisions, share news and events and prepare for meetings.
 
 <div class="iframe-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/itXYid8eSiI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/itXYid8eSiI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## Getting started with Loomio

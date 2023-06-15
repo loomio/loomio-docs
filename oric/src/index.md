@@ -32,7 +32,7 @@ With all those challenges in mind, we looked around for a tool and service that 
 Loomio is a New Zealand-based cooperative. It offers a collaborative online working space for groups to make decisions. 
 
 <div class="iframe-container">
-<iframe width="608" height="380" src="https://www.youtube.com/embed/Zlzuqsunpxc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="608" height="380" src="https://www.youtube-nocookie.com/embed/Zlzuqsunpxc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 

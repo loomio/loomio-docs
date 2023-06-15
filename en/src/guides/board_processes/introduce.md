@@ -18,7 +18,7 @@ Aim to encourage directors to join and participate. They should be easily able t
 Send this 6 minute video to members to help them sign in, comment and vote.
 
 <div class="iframe-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hFWVuwqmJKI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hFWVuwqmJKI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## Check technical proficiency 

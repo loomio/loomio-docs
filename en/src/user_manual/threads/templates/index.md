@@ -33,7 +33,7 @@ However, the real benefit comes when you add the polls for a particular decision
 See this video as Michael walks through the creation of a thread template.
 
 <div class="iframe-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_uDWQ0p2CXQ?start=327" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_uDWQ0p2CXQ?start=327" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 In the video example of the [Simple decision process](https://help.loomio.com/en/user_manual/polls/decisions/index.html), the first poll is a Sense check:
