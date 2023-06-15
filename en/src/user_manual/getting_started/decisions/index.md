@@ -1,39 +1,36 @@
-# Making collaborative decisions
+# Distributed decision making
 
-Making decisions collaboratively involves people, shares power and responsibility, reduces risk and increases the prospect that it will be a good decision.
+Including people in decision making leads to better decisions, and better outcomes;
+- People are well-informed and can exercise their voice,
+- More engagement and diverse input strengthens decisions, 
+- Sharing power and responsibility builds trust and buy-in, 
+- Involving people reduces the decision risk.
 
-Practices for making good collaborative decisions have evolved and there are now a number of decision-making processes you can employ.  Many collaborative organizations use one or more processes, depending on the type of decision, governing policy and culture.  Consensus, advice and consent processes are common.
+![](hannah-busing-Zyx1bK9mqmA-unsplash.jpg)
+Photo by <a href="https://unsplash.com/@hannahbusing?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Hannah Busing</a> on <a href="https://unsplash.com/s/photos/group-decision-making?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
 
-Making decisions with other people often happens when everyone involved is present in one room. The topic and need for decision is introduced, clarifying questions asked, and a discussion takes place to help everyone understand the context for the decision.  The decision to be made is proposed and people are invited to vote. 
+For many organizations today, getting everyone together in one place at the same time is near impossible. People work remotely and communicate at different times. Email and online chat tools are not well equipped to support decision making. 
 
-Straight-forward decisions are often resolved quickly, although more complex or challenging decisions may require further deliberation.  A facilitator can help uncover tensions and disagreement. There is also the potential for new information to be introduced that may change people's minds.
+Distributed decision making involves people impacted by the decision. It accommodates people working remotely and offers space for people to build context and shared understanding, and to consider implications before deciding. 
 
-When voting is complete and the decision is made, the decision proposer or facilitator announces the outcome of the decision and what will happen next.
+Your organization needs a safe place online for communication and decision making - to discuss important topics, progress towards a decision, agree on an outcome and store a record of decisions.  
 
-However for many organizations today, getting everyone together in one room at the right time is nigh on impossible.  People work remotely and communicate at different times.  Email and online chat tools are not equipped to support collaborative decision making.
+## Decision making practices in Loomio
 
-## Collaborative decision making in Loomio
+There are many ways to make collaborative decisions, and the tools within Loomio are versatile to adapt to most practices.
 
-Loomio is designed for collaborative decision making, enabling you to replicate in-person decision making practices online -  inclusive, transparent, participative and facilitated.
+Many organizations use one or more decision processes, depending on the type of decision, governing policy, values and culture.  
 
-This guide will help you get started with Loomio to make online collaborative decisions in your organization.    
+Check out these common decision making processes and how to apply these within Loomio:
+ 
+**[Advice process](https://help.loomio.com/en/guides/advice_process/index.html)** - Seek advice on a decision you need to make, with the advice of people impacted or who have expertise, so you can make a better decision for your organization.
 
-**[Simple decision process](https://help.loomio.com/en/user_manual/polls/decisions/index.html)** - A simple process to introduce and discuss the decision to be made, listen and sense how people think about it, propose and decide. Start here if you are new to collaborative decision making.
+**[Consent process](https://help.loomio.com/en/guides/consent_process/index.html)** - Seek consent on a decision you need to make, where there are no meaningful objections to your proposal, so you can make a fast decision that is 'safe to try' now.
 
-**[Advice process](https://help.loomio.com/en/guides/advice_process/index.html)** - Seek the feedback and advice to help you make a better decision. Anyone can make a decision as long as they listen to input from people impacted or with relevant expertise.
+**[Collaborative decision process](https://help.loomio.com/en/user_manual/polls/decisions/index.html)** - A simple process to introduce and discuss the decision to be made, listen and sense how people think about it, propose and decide. Start here if you are new to collaborative decision making.
 
-**[Consent process](https://help.loomio.com/en/guides/consent_process/index.html)** - Seek consent to make a decision. A decision can be made as long as no team member has a valid objection.
+## Examples of decision making practices
 
-## Loomio proposal
+Raise Recruiting document practices in their Teal Operating System: [Raise Recruiting Teal OS](https://teal.raiserecruiting.com/)
 
-Loomio is built around the proposal.
-
-A proposal helps convert a discussion into a clear, practical outcome. For example someone suggests a course of action and invites people to respond by voting agree, abstain or disagree. Proposal voting options are available for common decision-making processes and you can create voting options to suit your organization.
-
-As people vote, they can give a reason why they have voted this way. You can all see where everyone else stands on the matter, and why. And then, if the proposal is still open, you can change your response.
-
-In this way you can use proposals to prompt people for a response, uncover new information, and build shared understanding - to help your group make a better, more informed decision.
-
-A proposal and associated discussion, creates its own record of how the decision came about.
-
-![](proposal_vote.png)
