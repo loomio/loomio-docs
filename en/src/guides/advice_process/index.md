@@ -23,6 +23,8 @@ Seek advice on a decision you need to make, with the advice of people impacted o
 - Foster relationships, learning opportunities and diverse input.  
 - Stimulate initiative and creativity, and more enjoyable work.
 
+## Applying the Advice process on Loomio
+
 | **Advice process** | **On Loomio** |
 |---|---|
 | You notice a problem or opportunity and take the initiative. |  |
@@ -30,7 +32,7 @@ Seek advice on a decision you need to make, with the advice of people impacted o
 | Make a proposal and seek advice from those affected by, or with expertise of, the proposal. | Run an **Advice proposal** and invite people to respond within a set time frame. <br /><br />*In the title:* Name the decision you want to make.  <br /><br />*In the proposal context:* Clearly state the decision you want to make, and say why. Include any background information you feel necessary.   <br /><br />Invite people to comment, offer advice or ask clarifying questions, and to do so before the Advice proposal closes.  <br />@mention particular people you would like to hear from.  <br /><br />Reply to advice and feedback received, and acknowledge contributions with reactions. |
 | Taking advice received into account, you make a decision and inform the people who have given advice. | Close the proposal and state an **outcome**.   <br /><br />State the decision made and thank people for their advice and feedback.  <br /><br />Say what will happen next and notify people about the outcome.  <br /><br />The outcome statement is an important record of the decision for future reference. |        
 
-## Advice process example on Loomio
+## Example of an Advice process on Loomio
 
 ### Step 1 - You notice a problem or opportunity and take the initiative.
 
