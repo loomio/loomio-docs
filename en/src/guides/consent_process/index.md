@@ -17,10 +17,10 @@ Seek consent on a decision you need to make, where there are no meaningful objec
 ### Consent process steps
 1. You notice a problem or opportunity and take the initiative.
 2. Present a proposal - start a Loomio **thread**.
-3. Facilitate a clarifying questions round - start a **Questions round**.
+3. Facilitate a clarifying questions round - start a ***Questions round**.
 4. Facilitate a round of reactions and comments inviting people to improve the proposal - run a **Sense check proposal**.
 5. Amend the proposal with suggestions and comments.
-6. Ask if anyone has a meaningful objection to the amended proposal - run a **Consent proposal**.
+6. Ask if anyone has a meaningful objection to the amended proposal - run a ***Consent proposal**.
 7. Integrate valid objections to create an amended version of the proposal that everyone consents is ‘safe to try’ - state the decision **outcome**.
 
 ### Benefits
@@ -96,4 +96,4 @@ Once all objections are integrated, consent has been reached and Chloe states th
 
 ![](consent_step7_outcome.png)
 
-
+***NOTE** The Consent and Questions round proposal templates are not yet released.  However you can create your own poll templates with [New poll type](https://help.loomio.com/en/user_manual/polls/proposal_types/index.html#new-poll-type).
