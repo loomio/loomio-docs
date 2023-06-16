@@ -92,7 +92,7 @@ Now Chloe seeks consent to adopt the policy by running a Consent proposal.
 
 ### Step 7. Integrate valid objections to create an amended version of the proposal that everyone consents is ‘safe to try’
 
-Once all objections are integrated, Consent has been reached and Chloe states the decision outcome :-)
+Once all objections are integrated, consent has been reached and Chloe states the decision outcome :-)
 
 ![](consent_step7_outcome.png)
 
