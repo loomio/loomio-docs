@@ -15,7 +15,7 @@ Seek advice on a decision you need to make, with the advice of people impacted o
 ### Steps in the Advice process
 1. You notice a problem or opportunity and take the initiative.
 2. Seek input to sound out perspectives before proposing action - start a Loomio **thread**.
-3. Make a proposal and seek advice - run an **Advice proposal**.
+3. Make a proposal and seek advice - run an **Advice proposal***.
 4. Taking advice received into account, you make a decision and inform the people who have given advice - state an **outcome**.
 
 ### Benefits
@@ -76,4 +76,4 @@ The outcome is a clear statement of the decision made, what will happen next, an
 
 ![](advice_step4_outcome.png)
 
-
+***NOTE** The Advice proposal template is not yet released.  However you can create your own poll templates with [New poll type](https://help.loomio.com/en/user_manual/polls/proposal_types/index.html#new-poll-type).
