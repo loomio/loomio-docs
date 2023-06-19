@@ -8,6 +8,7 @@
 - [Making decisions](user_manual/getting_started/decisions/index.md)
   - [Advice process](guides/advice_process/index.md)
   - [Consent process](guides/consent_process/index.md)
+  - [Consensus process](guides/consensus_process/index.md)
   - [Simple decision process](user_manual/polls/decisions/index.md)
  
 - [Groups](user_manual/groups/intro_to_groups/index.md)
