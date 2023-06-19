@@ -21,6 +21,8 @@ Check out these common decision making processes and how to apply these within L
 
 **[Consent process](https://help.loomio.com/en/guides/consent_process/index.html)** - Seek consent on a decision you need to make, where there are no meaningful objections to your proposal, so you can make a fast decision that is 'safe to try' now.
 
+**[Consensus process](https://help.loomio.com/en/guides/consensus_process/index.html)** - Build consensus for a decision you need to make together, to reach an agreement that satisfies the needs and concerns of all participants.
+
 **[Simple decision process](https://help.loomio.com/en/user_manual/polls/decisions/index.html)** - A simple process to introduce and discuss the decision to be made, listen and sense how people think about it, propose and decide. Start here if you are new to collaborative decision making.
 
 ## Examples of decision making practices
