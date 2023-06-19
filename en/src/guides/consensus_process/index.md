@@ -45,7 +45,7 @@ Build consensus for a decision you need to make together, to reach an agreement 
 
 ## Example of a Consensus process on Loomio
 
-### Step 1. You notice a problem or opportunity and take the initiative.
+### Step 1. You notice a problem or opportunity and take the initiative
 
 *Is the problem or opportunity is worth pursuing?* Vivien noticed it's time to review the Oatmilk Coop brand.
 
@@ -68,6 +68,8 @@ Vivien runs a Sense check proposal to survey opinions to see how people feel abo
 ![](consensus_step3_sensecheck.png)
 
 ### Step 4. Amendment
+
+When the Sense check proposal closes, Vivien notifies everyone and facilitates a discussion to address concerns and modify the proposal.
 
 ### Step 5. Agreement
 
