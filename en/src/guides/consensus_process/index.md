@@ -53,13 +53,19 @@ Build consensus for a decision you need to make together, to reach an agreement 
 
 *Does it impact other people and your organization?* Brand impacts on the perception of the co-op and impacts everyone in the organization. 
 
-### Step 2. State the problem or issue to be decided - start a Loomio **thread**.
+### Step 2. State the problem or issue
 
 Vivien starts a Loomio thread outlining the need to review the organization's brand, inviting participation to develop a new brand concept, and that the approval decision is to be made by the governance board using the consensus process.
 
 ![](consensus_step2_thread.png)
 
+Group members comment
+
 ### Step 3. Present a proposal 
+
+Vivien runs a Sense check proposal to survey opinions to see how people feel about key elements of the brand concept, and test for consensus.   The Sense check proposal lets people know a proposal is forming and encourages them to engage.  It's a good way to surface concerns.
+
+![](consensus_step3_sensecheck.png)
 
 ### Step 4. Amendment
 
