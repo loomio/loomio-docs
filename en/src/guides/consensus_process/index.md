@@ -69,6 +69,11 @@ Vivien runs a Sense check proposal to survey opinions to see how people feel abo
 
 When the Sense check proposal closes, Vivien notifies everyone and facilitates a discussion to address concerns and modify the proposal.
 
+![](consensus_step4_sensecheck_outcome.png)
+
 ### Step 5. Agreement
+
+
+
 
 ### Step 6. Outcome
