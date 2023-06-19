@@ -59,10 +59,10 @@ Vivien starts a Loomio thread outlining the need to review the organization's br
 
 ![](consensus_step2_thread.png)
 
-### Step 3. Prepare and present a proposal to test for consensus - start a **Sense check proposal**.
+### Step 3. Present a proposal 
 
-Step 4. Discuss, clarify and amend the proposal  - facilitate discussion in the thread.
+### Step 4. Amendment
 
-Step 5. Test for agreement - start a **Consensus proposal**.
+### Step 5. Agreement
 
-Step 6. Outcome - state the decision **outcome**.
+### Step 6. Outcome
