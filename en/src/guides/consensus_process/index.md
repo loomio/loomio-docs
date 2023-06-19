@@ -1,6 +1,7 @@
 # Consensus process
 
-![](better_collaboration.png)
+![](aaron-burden-NXt5PrOb_7U-unsplash.jpg)
+*Photo by <a href="https://unsplash.com/es/@aaronburden?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Aaron Burden</a> on <a href="https://unsplash.com/s/photos/navigation?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>*
 
 Reach collective agreement with everyone involved.
 
