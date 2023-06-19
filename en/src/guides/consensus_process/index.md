@@ -45,11 +45,21 @@ Build consensus for a decision you need to make together, to reach an agreement 
 
 ## Example of a Consensus process on Loomio
 
-Step 1. You notice a problem or opportunity and take the initiative.
+### Step 1. You notice a problem or opportunity and take the initiative.
 
-Step 2. State the problem or issue to be decided - start a Loomio **thread**.
+*Is the problem or opportunity is worth pursuing?* Vivien noticed it's time to review the Oatmilk Coop brand.
 
-Step 3. Prepare and present a proposal to test for consensus - start a **Sense check proposal**.
+*Is there a decision to be made?* The governance board has responsibility to approve a new brand concept.
+
+*Does it impact other people and your organization?* Brand impacts on the perception of the co-op and impacts everyone in the organization. 
+
+### Step 2. State the problem or issue to be decided - start a Loomio **thread**.
+
+Vivien starts a Loomio thread outlining the need to review the organization's brand, inviting participation to develop a new brand concept, and that the approval decision is to be made by the governance board using the consensus process.
+
+![](consensus_step2_thread.png)
+
+### Step 3. Prepare and present a proposal to test for consensus - start a **Sense check proposal**.
 
 Step 4. Discuss, clarify and amend the proposal  - facilitate discussion in the thread.
 
