@@ -59,8 +59,6 @@ Vivien starts a Loomio thread outlining the need to review the organization's br
 
 ![](consensus_step2_thread.png)
 
-Group members comment
-
 ### Step 3. Present a proposal 
 
 Vivien runs a Sense check proposal to survey opinions to see how people feel about key elements of the brand concept, and test for consensus.   The Sense check proposal lets people know a proposal is forming and encourages them to engage.  It's a good way to surface concerns.
