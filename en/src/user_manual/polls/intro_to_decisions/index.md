@@ -1,27 +1,31 @@
-# Intro to Polls
+# Proposals and Polls
 
-Polls help you make decisions and progress discussion to an outcome.
+Proposals and Polls help you make decisions and progress discussion to an outcome.
 
 - Involve the right people to make better decisions 
 - Get engagement, test ideas, listen and sense, identify priorities, and clarify issues, even if the solution might not yet be apparent 
 - Set a deadline, prompt people who haven’t participated, and state an outcome
 - Flexibly use decision making processes that work for your group
 
-There are many types of decision tools in Loomio and many ways to use them.   
+## Proposals
 
-## Poll types
+**Advice proposal**: Seek advice on a decision you need to make.
 
-Loomio includes a range of poll types to support participation in decision making.  You can configure polls to suit a particular decision process or voting method. 
+**Consent proposal**: Make a decision that is ‘safe to try’, without objections.
+
+**Consensus proposal**: Reach collective agreement with everyone involved.
+
+**Question round**: Invite clarifying questions to help people understand a proposal.
 
 **Sense check**: To ask people for feedback, questions and concerns before moving to a decision.
 
-**Proposal**: To raise a proposal and make a decision.
+**Gradients of agreement**: Express support for a proposal on an 8-point scale.
+
+**Proposal (classic)**: Raise a proposal to make a decision.
+
+## Polls
 
 **Simple poll**: A simple poll to ask people which option or options they approve.
-
-**Time poll**: Find the best time to meet, or to schedule an event. Like Doodle without all the ads…  
-
-**Opt-in**: Find volunteers or participants to help or join a working group.
 
 **Score poll**: Find the degree of support for each option.
 
@@ -29,9 +33,15 @@ Loomio includes a range of poll types to support participation in decision makin
 
 **Ranked choice**: Rank a list of options in order of preference — useful for elections.
 
-**New poll type**: Configure the poll type you need with custom terminology, options and settings.
+## Meetings
 
-![](poll_list.png#width-80)
+**Time poll**: Find the best time to meet, or to schedule an event. Like Doodle without all the ads…  
+
+**Opt-in**: Find volunteers or participants to help or join a working group.
+
+## Settings
+
+**New poll type**: Configure the poll type you need with custom terminology, options and settings.
 
 ## Proposal
 
@@ -47,12 +57,12 @@ A proposal and associated discussion, creates a record of how the decision came 
 
 ![](proposal_example.png)
 
-## All poll types have a similar structure
+## All proposals and polls have a similar structure
 
-As you start using polls, you will notice the poll setup, running and closing follow a similar pattern:
+As you start using proposals and polls, you will notice the setup, running and closing follow a similar pattern:
 
-**Set up poll:**
-- Give the poll a title
+**Set up proposal or poll:**
+- Give it a title
 - Assign a category tag
 - Describe the poll question, and how you want people to vote
 - Configure poll options
@@ -65,12 +75,12 @@ In the "Settings" tab you can also set:
 - Vote reason to required, optional or disabled
 - Reminder that poll is closing soon to nobody, author, undecided voters or all voters
 
-**Running poll:**
+**Running proposal or poll:**
 - People vote and add a reason (optional) 
 - Results are updated live
 - People can change their vote if new info emerges
 - A reminder is sent to people who haven’t voted 
 
-**Poll closed:**
+**Proposal or poll closed:**
 - The proposal or poll closes, and everyone can see the results
 - The author sets an outcome, notifying everyone of what will happen next.
