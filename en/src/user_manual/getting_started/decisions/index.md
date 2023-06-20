@@ -25,7 +25,10 @@ Check out these common decision making processes and how to apply these within L
 
 **[Simple decision process](https://help.loomio.com/en/user_manual/polls/decisions/index.html)** - A simple process to introduce and discuss the decision to be made, listen and sense how people think about it, propose and decide. Start here if you are new to collaborative decision making.
 
-## Examples of decision making practices
+## Examples of organizations practicing inclusive decision making
 
-Raise Recruiting document practices in their Teal Operating System: [Raise Recruiting Teal OS](https://teal.raiserecruiting.com/)
+- [Raise Recruiting Teal Operating System](https://teal.raiserecruiting.com/)
 
+- [The Loomio Co-op Handbook](https://www.loomio.coop/#the-loomio-co-op-handbook)
+
+*[Get in touch](https://www.loomio.com/contact) if you would like to add your handbook or operating system here!*
