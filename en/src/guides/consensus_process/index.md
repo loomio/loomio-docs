@@ -40,7 +40,7 @@ Build consensus for a decision you need to make together, to reach an agreement 
 | **State the issue to be decided**  <br /><br />Provide background information and open a broad ranging discussion to build shared understanding. Look for emerging proposals. | Start a Loomio thread <br /><br />Name the topic of discussion in the thread title, and what you hope to achieve. <br /><br />Attach or link to background information. Invite people to ask questions, contribute information and write comments. |
 | **Present a proposal** <br /><br />Test for consensus. | Run a **Sense check proposal**. <br /><br />*In the title:* Name the proposal. <br /><br />*In the proposal details:* Clearly frame the proposal and say why it is important.  Include any background information necessary and a link to the proposal.  <br /><br />Invite everyone to respond, and to do so before the proposal closes.  |
 | **Amendment** <br /><br />Discuss, clarify and amend the proposal  | Facilitate discussion in the thread to address concerns and modify the proposal. |
-| **Agreement** <br /><br />Do you have an agreement?  Check for: <br /><br />Agreement: I support the proposal. <br /><br />Abstain: This decision does not affect me and I am happy with whatever the group decides. <br /><br />Disagreement: Something in the proposal needs to be changed before I can support it. <br /><br />Block: I have a fundamental disagreement with the proposal that cannot be resolved. | Start a **Consensus proposal** with the current proposal version. <br /><br />*In the title:* Name the decision to be made. <br /><br />*In the proposal details:* Present the proposal and invite people to vote. <br /><br />Include a clear statement of what agreement means, say 'for this proposal to pass, we need everyone to vote agree' or 'for this proposal to pass, we need 75% of members to agree'.  <br /><br />Ask participants to leave a vote 'Reason' - and if they do not agree to say why, and what needs to change for them to agree. <br /><br />Some organizations also use the Block (or veto) voting option. <br /><br />As voting progresses, respond to comments, post updates, close early, or let the proposal run to conclusion. <br /><br />Participants can *“change vote”* up to proposal close time, say in response to new information that arrives during voting. |
+| **Agreement** <br /><br />Do you have an agreement?  Check for: <br /><br />Agreement: I support the proposal. <br /><br />Abstain: This decision does not affect me and I am happy with whatever the group decides. <br /><br />Disagreement: Something in the proposal needs to be changed before I can support it. <br /><br />Block: I have a fundamental disagreement with the proposal that cannot be resolved. | Run a **Consensus proposal** with the current proposal version. <br /><br />*In the title:* Name the decision to be made. <br /><br />*In the proposal details:* Present the proposal and invite people to vote. <br /><br />Include a clear statement of what agreement means, say 'for this proposal to pass, we need everyone to vote agree' or 'for this proposal to pass, we need 75% of members to agree'.  <br /><br />Ask participants to leave a vote 'Reason' - and if they do not agree to say why, and what needs to change for them to agree. <br /><br />Some organizations also use the Block (or veto) voting option. <br /><br />As voting progresses, respond to comments, post updates, close early, or let the proposal run to conclusion. <br /><br />Participants can *“change vote”* up to proposal close time, say in response to new information that arrives during voting. |
 | **Outcome** <br /><br />State if agreement was reached and the decision that has been made. <br /><br />Implement the decision and plan actions to be taken. | Consider voting results and state the decision made. <br /><br />Summarize results of the process and say what will happen next. <br /><br />If results are inconclusive, you may choose to re-open the discussion and run a new proposal. <br /><br />The outcome statement is an important record of the decision for future reference. |
 
 ## Example of a Consensus process on Loomio
@@ -67,13 +67,21 @@ Vivien runs a Sense check proposal to survey opinions to see how people feel abo
 
 ### Step 4. Amendment
 
-When the Sense check proposal closes, Vivien notifies everyone and facilitates a discussion to address concerns and modify the proposal.
+When the Sense check proposal closes, Vivien states an outcome and notifies everyone about the results and what will happen next.
+Vivien facilitates a discussion to address concerns and modify the Brand Concept document.
 
 ![](consensus_step4_sensecheck_outcome.png)
 
 ### Step 5. Agreement
 
+Having completed the latest version of the Brand Concept document, Vivien is now ready to seek approval from the governance board by running a Consensus proposal.
 
+![](consensus_step5_proposal_1.png)
 
+Governance board members are invited to vote and approve the Brand Concept.  The board has previously agreed that proposals like this require >75% of members to vote Agree for it to pass. 
+
+The standard Consensus proposal includes the 'Block' voting option, however this can be removed if not appropriate.   
+
+![](consensus_step5_proposal_2.png)
 
 ### Step 6. Outcome
