@@ -85,3 +85,8 @@ The standard Consensus proposal includes the 'Block' voting option, however this
 ![](consensus_step5_proposal_2.png)
 
 ### Step 6. Outcome
+
+When the Consensus proposal closes, Vivien states an outcome and notifies everyone that agreement has been reached, and that work to implement the new brand will commence. 
+
+![](consensus_step6_outcome.png)
+
