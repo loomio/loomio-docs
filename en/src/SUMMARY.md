@@ -30,11 +30,14 @@
   - [Tasks](user_manual/threads/thread_admin/tasks.md)
   - [Thread examples](user_manual/threads/examples/index.md)
 
-- [Polls](user_manual/polls/intro_to_decisions/index.md)
+- [Proposals and Polls](user_manual/polls/intro_to_decisions/index.md)
+  - [Proposals](user_manual/polls/polls/proposals/index.md)
+  - [Polls](user_manual/polls/proposal_types/index.md)
+  - [Meeting polls](user_manual/polls/meeting_polls/index.md)
   - [Starting polls](user_manual/polls/starting_proposals/index.md)
-  - [Poll types](user_manual/polls/proposal_types/index.md)
+  - [Inviting people](user_manual/polls/inviting_people/index.md)
   - [Outcomes](user_manual/polls/outcomes/index.md)
-
+  - [Poll templates](user_manual/polls/poll_templates/index.md)
 
 - [Your profile](user_manual/users/user_profile/index.md)
   - [Notifications](user_manual/users/email_settings/index.md)
