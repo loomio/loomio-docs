@@ -31,7 +31,7 @@
   - [Thread examples](user_manual/threads/examples/index.md)
 
 - [Proposals and Polls](user_manual/polls/intro_to_decisions/index.md)
-  - [Proposals](user_manual/polls/polls/proposals/index.md)
+  - [Proposals](user_manual/polls/proposals/index.md)
   - [Polls](user_manual/polls/proposal_types/index.md)
   - [Meeting polls](user_manual/polls/meeting_polls/index.md)
   - [Starting polls](user_manual/polls/starting_proposals/index.md)
