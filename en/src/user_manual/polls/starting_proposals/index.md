@@ -1,4 +1,4 @@
-# Starting a Poll
+# Starting proposals and polls
 
 *On this page*
 - [Start a poll](#start-a-poll)
