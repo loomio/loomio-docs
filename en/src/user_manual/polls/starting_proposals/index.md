@@ -1,30 +1,9 @@
-# Starting proposals and polls
+# Poll settings
 
 *On this page*
-- [Start a poll](#start-a-poll)
 - [Set up poll](#set-up-poll)
 - [Poll settings](#poll-settings)
 - [Managing polls](#managing-polls)
-
-## Start a poll
-
-### Within a thread
-
-You can start a poll within a thread to progress a discussion or make a decision. 
-
-Open the thread, scroll down and click on the **Start Poll** tab.
-
-![](refreshing_our_brand.png)
-
-### Standalone poll
-
-You can also start a standalone poll from your group page, by going to the **Polls** and click on **New Poll**.
-
-![](standalone_poll.png)
-
-Select the poll type you want.
-
-![](poll_list.png#width-80)
 
 ## Set up poll
 
