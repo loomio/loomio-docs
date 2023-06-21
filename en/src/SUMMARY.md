@@ -34,8 +34,8 @@
   - [Proposals](user_manual/polls/proposals/index.md)
   - [Polls](user_manual/polls/proposal_types/index.md)
   - [Meeting polls](user_manual/polls/meeting_polls/index.md)
-  - [Starting polls](user_manual/polls/starting_proposals/index.md)
-  - [Inviting people](user_manual/polls/inviting_people/index.md)
+  - [Poll settings](user_manual/polls/starting_proposals/index.md)
+  - [Invite to vote](user_manual/polls/inviting_people/index.md)
   - [Outcomes](user_manual/polls/outcomes/index.md)
   - [Poll templates](user_manual/polls/poll_templates/index.md)
 
