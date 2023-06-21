@@ -83,7 +83,7 @@ A Questions round is commonly used as a step in the Consent process.
 
 [Read more about the Consent process](https://help.loomio.com/en/guides/consensus_process/index.html).
 
-Example image
+![](proposal_question.png)
 
 
 
