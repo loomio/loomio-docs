@@ -53,7 +53,7 @@ Seek consent on a decision you need to make, where there are no meaningful objec
 
 [Read more about the Consent process](https://help.loomio.com/en/guides/consent_process/index.html).
 
-Example image
+![](proposal_consent.png)
 
 ## Consensus proposal
 
