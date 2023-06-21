@@ -1,4 +1,4 @@
-# Poll types
+# Polls
 
 Polls help you facilitate collaborative decision-making.  Use polls to engage people, survey opinion, seek contributions, uncover information, identify priorities, vote on issues, approve documents, organize events and hold elections.
 
