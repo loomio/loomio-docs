@@ -3,65 +3,11 @@
 Polls help you facilitate collaborative decision-making.  Use polls to engage people, survey opinion, seek contributions, uncover information, identify priorities, vote on issues, approve documents, organize events and hold elections.
 
 *On this page*
-- [Sense check](#sense-check)
-- [Proposal](#proposal)
 - [Simple poll](#simple-poll)
-- [Time poll](#time-poll)
-- [Opt-in](#opt-in)
 - [Score poll](#score-poll)
 - [Dot vote](#dot-vote)
 - [Ranked choice](#ranked-choice)
 - [New poll type](#new-poll-type)
-
-## Sense check
-
-_Ask for feedback, questions and concerns_
-
-Collaborative decisions include one or more rounds of feedback before a decision is made.
-
-![](sense_check.png#width-80)
-
-The **Sense check** proposal is a good way to get feedback, invite questions and uncover concerns. It helps to clarify and improve a proposal before moving to a decision.
-
-Sense check lets people know a proposal is forming and encourages them to engage. It is an opportunity to listen to people, sense how they feel and respond appropriately - opening the potential to incorporate their contributions to make a better decision.
-
-![](sense_options.png#width-80)
-
-Use Sense check when you want to survey opinions and surface concerns before moving to a formal agreement.  You can find out if people are happy with where this is going, if they have questions or need more time, or if they are concerned and want something to change.
-
-Use the Sense check proposal in the Consent process to invite reactions and comments to improve the proposal, and in a Consensus process to test for consensus.
-
-You can use one or more rounds of ‘Sense check’ to help you co-create a better, more cohesive decision with less stress and anxiety.
-
-![](sense_results.png)
-
-## Proposal
-
-_Make a decision together_
-
-The Proposal poll is at the heart of collaborative decisions.
-
-![](proposal_label.png#width-80)
-
-A Proposal is used to present a decision to be made. For example an agreement, document or policy for approval, resolution or appointment.  
-
-Proposal is commonly used for building Consensus, however is also used in Advice, Consent and other collaborative decision making processes.
-
-In the proposal include a clear statement of what agreement means, say 'for this proposal to pass, we need everyone to vote agree' or 'for this proposal to pass, we need 75% of members to agree'.  Invite people to leave a vote 'Reason', and if they do not agree to say why, and what needs to change for them to agree.  
-
-Use proposals to build shared understanding, uncover disagreements and make a better decision.
-
-![](proposal_options_new.png#width-80)
-
-Use the default voting options or change to suit your decision process.
-
-![](proposal_results.png)
-
-### Consent process
-
-Edit voting options for the Consent process.
-
-![](proposal_consent_options.png#width-80)
 
 ## Simple poll
 
@@ -109,24 +55,6 @@ When the poll closes, state an **Outcome** and say what will happen next.
 
 ![](poll_outcome.png#width-80)
 
-## Time poll
-
-_Find when people are available to meet_
-
-Save time arranging a date for your meeting or event. 
-
-![](timepoll_label.png#width-80)
-
-Time poll makes it easy to see everyone's availability and find the best time.
-
-Give your Time poll a title and details. Enter a list of date and time options in your time zone.  
-
-When setting timeslots, consider people in different time zones. Participants will see times localized in their time zone.
-
-Set a meeting duration.
-
-![](timepoll_options.png#width-80)
-
 ### Voting
 
 People mark the timeslots they are available with the green 'thumbs up' icon or leave the red 'thumbs down' in place when unavailable.  They can also use the 'thumbs sideways' icon to say they are available 'if need be'. 
@@ -158,27 +86,6 @@ When the Time poll closes, pick the best time slot and state an Outcome.
 Loomio will include a calendar invitation with the Outcome notification email, so participants can add to their calendar.
 
 ![](timepoll_calendar.png#width-80)
-
-## Opt-in
-
-_Find volunteers or participants_
-
-Use Opt-in to invite people to a join a team, committee or working group, or to participate in an event.  
-
-![](opt_in_label.png#width-80)
-
-‘Opt-in’ has two voting options: Accept or Decline. 
-
-Set how many people you are looking for, say 3 people to join your working group.
-
-![](opt_in_options.png#width-80)
-
-Use Opt-in to seek engagement and encourage participation.  For example think of Opt-in as the online way to ask a room of people *"Raise you hand if ..."*
-
-![](opt_in_results.png#width-80)
-
-Like other Loomio polls, Opt-in asks you to set a closing time and will automatically notify people 24 hours before close - encouraging people to participate in a timely way so you can get on with the work. 
-
 
 ## Score Poll
 
