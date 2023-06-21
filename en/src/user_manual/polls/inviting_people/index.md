@@ -1,4 +1,4 @@
-# Inviting people
+# Invite to vote
 
 ## Inviting people to vote in a poll
 
