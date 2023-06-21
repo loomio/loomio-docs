@@ -7,6 +7,26 @@ Proposals and Polls help you make decisions and progress discussion to an outcom
 - Set a deadline, prompt people who haven’t participated, and state an outcome
 - Flexibly use decision making processes that work for your group
 
+## Start a poll
+
+### Within a thread
+
+You can start a poll within a thread to progress a discussion or make a decision. 
+
+Open the thread, scroll down and click on the **Start Poll** tab.
+
+![](refreshing_our_brand.png)
+
+### Standalone poll
+
+You can also start a standalone poll from your group page, by going to the **Polls** and click on **New Poll**.
+
+![](standalone_poll.png)
+
+Select the poll type you want.
+
+![](poll_list.png#width-80)
+
 ## Proposals
 
 **Advice proposal**: Seek advice on a decision you need to make.
