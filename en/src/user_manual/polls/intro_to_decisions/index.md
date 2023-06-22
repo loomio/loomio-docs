@@ -7,57 +7,53 @@ Proposals and Polls help you make decisions and progress discussion to an outcom
 - Set a deadline, prompt people who haven’t participated, and state an outcome
 - Flexibly use decision making processes that work for your group
 
-## Start a poll
+## Start a proposal or poll
 
 ### Within a thread
 
-You can start a poll within a thread to progress a discussion or make a decision. 
+You can start a proposal or poll within a thread to run a decision process or progress a discussion. 
 
-Open the thread, scroll down and click on the **Start Poll** tab.
+Open the thread, scroll to the **Add Comment** bar and click on the **Run Process** tab, and select your proposal or poll template.
 
-![](refreshing_our_brand.png)
+![](process_run.png)
 
-### Standalone poll
+### Standalone proposal or poll
 
-You can also start a standalone poll from your group page, by going to the **Polls** and click on **New Poll**.
+You can also start a standalone proposal or poll from your group page, from the **Polls** tab on your group page. Click on **New Poll** and select your proposal or poll template.
 
 ![](standalone_poll.png)
 
-Select the poll type you want.
-
-![](poll_list.png#width-80)
-
 ## Proposals
 
-**Advice proposal**: Seek advice on a decision you need to make.
+**[Advice proposal](https://help.loomio.com/en/user_manual/polls/proposals/index.html#advice-proposal)**: Seek advice on a decision you need to make.
 
-**Consent proposal**: Make a decision that is ‘safe to try’, without objections.
+**[Consent proposal](https://help.loomio.com/en/user_manual/polls/proposals/index.html#consent-proposal)**: Make a decision that is ‘safe to try’, without objections.
 
-**Consensus proposal**: Reach collective agreement with everyone involved.
+**[Consensus proposal](https://help.loomio.com/en/user_manual/polls/proposals/index.html#consensus-proposal)**: Reach collective agreement with everyone involved.
 
-**Question round**: Invite clarifying questions to help people understand a proposal.
+**[Question round](https://help.loomio.com/en/user_manual/polls/proposals/index.html#question-round)**: Invite clarifying questions to help people understand a proposal.
 
-**Sense check**: To ask people for feedback, questions and concerns before moving to a decision.
+**[Sense check](https://help.loomio.com/en/user_manual/polls/proposals/index.html#sense-check)**: To ask people for feedback, questions and concerns before moving to a decision.
 
-**Gradients of agreement**: Express support for a proposal on an 8-point scale.
+**[Gradients of agreement](https://help.loomio.com/en/user_manual/polls/proposals/index.html#gradients-of-agreement)**: Express support for a proposal on an 8-point scale.
 
-**Proposal (classic)**: Raise a proposal to make a decision.
+**[Proposal (classic)](https://help.loomio.com/en/user_manual/polls/proposals/index.html#proposal-classic)**: Raise a proposal to make a decision.
 
 ## Polls
 
-**Simple poll**: A simple poll to ask people which option or options they approve.
+**[Simple poll](https://help.loomio.com/en/user_manual/polls/proposal_types/index.html#simple-poll)**: A simple poll to ask people which option or options they approve.
 
-**Score poll**: Find the degree of support for each option.
+**[Score poll](https://help.loomio.com/en/user_manual/polls/proposal_types/index.html#score-poll)**: Find the degree of support for each option.
 
-**Dot vote**: Find degree of support by asking people to allocate a budget of points to options. 
+**[Dot vote](https://help.loomio.com/en/user_manual/polls/proposal_types/index.html#dot-vote)**: Find degree of support by asking people to allocate a budget of points to options. 
 
-**Ranked choice**: Rank a list of options in order of preference — useful for elections.
+**[Ranked choice](https://help.loomio.com/en/user_manual/polls/proposal_types/index.html#ranked-choice)**: Rank a list of options in order of preference — useful for elections.
 
 ## Meetings
 
-**Time poll**: Find the best time to meet, or to schedule an event. Like Doodle without all the ads…  
+**[Time poll](https://help.loomio.com/en/user_manual/polls/meeting_polls/index.html#time-poll)**: Find the best time to meet, or to schedule an event. Like Doodle without all the ads…  
 
-**Opt-in**: Find volunteers or participants to help or join a working group.
+**[Opt-in](https://help.loomio.com/en/user_manual/polls/meeting_polls/index.html#opt-in)**: Find volunteers or participants to help or join a working group.
 
 ## Settings
 
