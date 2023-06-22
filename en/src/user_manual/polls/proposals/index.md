@@ -14,13 +14,13 @@ Read on to see proposal templates you can use to involve people in decisions.
 
 # Proposal templates
 
-Loomio offers proposal templates for Advice, Consent and Consensus decision making processes.
+Under **Proposals** you can select proposal templates for Advice, Consent and Consensus decision making processes.  There are more templates under **Settings**.
 
 ![](proposal_templates.png)
 
 ## Using proposal templates with decision processes
 
-Here is a summary of the Loomio proposal templates you can use with common decision processes:
+Quick summary of Loomio proposal templates you can use with common decision processes.
 
 | **Decision process** | **Loomio proposal templates** |
 |---|---|
@@ -40,7 +40,7 @@ Invite advice from people impacted or who have expertise, so you can make a bett
 
 [Read more about the Advice process](https://help.loomio.com/en/guides/advice_process/index.html).
 
-**Vote options example**
+**Voting with the Advice proposal**
 
 ![](proposal_advice_voting.png)
 
@@ -61,7 +61,7 @@ Seek consent on a decision you need to make, where there are no meaningful objec
 
 [Read more about the Consent process](https://help.loomio.com/en/guides/consent_process/index.html).
 
-**Vote options example**
+**Voting with the Consent proposal**
 
 ![](proposal_consent_voting.png)
 
@@ -81,7 +81,7 @@ Build consensus for a decision you need to make, to reach an agreement that sati
 
 [Read more about the Consensus process](https://help.loomio.com/en/guides/consensus_process/index.html).
 
-**Vote options example**
+**Voting with the Consensus proposal**
 
 ![](proposal_consensus_voting.png)
 
@@ -119,7 +119,7 @@ You can use one or more rounds of ‘Sense check’ to help you co-create a bett
 
 [Read more about using Sense check in the Simple decision process](https://help.loomio.com/en/user_manual/polls/decisions/index.html).
 
-**Vote options example**
+**Voting with the Sense check proposal**
 
 ![](proposal_sense_check_voting.png)
 
@@ -150,7 +150,7 @@ A proposal and associated discussion creates its own record of how the decision 
 
 [Read more about using the classic Loomio proposal in the Simple decision process](https://help.loomio.com/en/user_manual/polls/decisions/index.html).
 
-**Vote options example**
+**Voting with the classic proposal**
 
 ![](proposal_classic_voting.png)
 
@@ -164,7 +164,7 @@ Use Gradients of agreement as a preliminary round, to test support for a proposa
 
 Gradients of agreement lets people know a proposal is forming and encourages them to engage. It is an opportunity to listen to people, sense how they feel and respond appropriately - opening the potential to incorporate their contributions to make a better decision.
 
-**Vote options example**
+**Voting with the Gradients of agreement proposal**
 
 ![](proposal_gradients_voting.png)
 
