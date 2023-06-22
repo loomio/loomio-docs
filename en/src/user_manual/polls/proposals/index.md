@@ -10,7 +10,7 @@ In this way you can use proposals to prompt people for a response, uncover new i
 
 A proposal and associated discussion, creates a record of how the decision came about.
 
-![](decision_step3.png)
+Read on to see proposal templates you can use to involve people in decisions.
 
 # Proposal templates
 
@@ -40,7 +40,13 @@ Invite advice from people impacted or who have expertise, so you can make a bett
 
 [Read more about the Advice process](https://help.loomio.com/en/guides/advice_process/index.html).
 
-![](proposal_advice.png)
+**Vote options example**
+
+![](proposal_advice_voting.png)
+
+**Example results**
+
+![](proposal_advice_results.png)
 
 ## Consent proposal
 
@@ -55,7 +61,13 @@ Seek consent on a decision you need to make, where there are no meaningful objec
 
 [Read more about the Consent process](https://help.loomio.com/en/guides/consent_process/index.html).
 
-![](proposal_consent.png)
+**Vote options example**
+
+![](proposal_consent_voting.png)
+
+**Example results**
+
+![](proposal_consent_results.png)
 
 ## Consensus proposal
 
@@ -69,7 +81,13 @@ Build consensus for a decision you need to make, to reach an agreement that sati
 
 [Read more about the Consensus process](https://help.loomio.com/en/guides/consensus_process/index.html).
 
-Example image
+**Vote options example**
+
+![](proposal_consensus_voting.png)
+
+**Example results**
+
+![](proposal_consensus_results.png)
 
 ## Question round
 
@@ -83,9 +101,9 @@ A Questions round is commonly used as a step in the Consent process.
 
 [Read more about the Consent process](https://help.loomio.com/en/guides/consensus_process/index.html).
 
+**Example**
+
 ![](proposal_question.png)
-
-
 
 ## Sense check
 
@@ -101,7 +119,14 @@ You can use one or more rounds of ‘Sense check’ to help you co-create a bett
 
 [Read more about using Sense check in the Simple decision process](https://help.loomio.com/en/user_manual/polls/decisions/index.html).
 
-Example image
+**Vote options example**
+
+![](proposal_sense_check_voting.png)
+
+**Example results**
+
+![](proposal_sense_check_results.png)
+
 
 # More proposal templates
 
@@ -125,7 +150,9 @@ A proposal and associated discussion creates its own record of how the decision 
 
 [Read more about using the classic Loomio proposal in the Simple decision process](https://help.loomio.com/en/user_manual/polls/decisions/index.html).
 
-Example image
+**Vote options example**
+
+![](proposal_classic_voting.png)
 
 ## Gradients of agreement
 
@@ -137,6 +164,11 @@ Use Gradients of agreement as a preliminary round, to test support for a proposa
 
 Gradients of agreement lets people know a proposal is forming and encourages them to engage. It is an opportunity to listen to people, sense how they feel and respond appropriately - opening the potential to incorporate their contributions to make a better decision.
 
-Example image
+**Vote options example**
 
+![](proposal_gradients_voting.png)
+
+**Example results**
+
+![](proposal_gradients_results.png)
 
