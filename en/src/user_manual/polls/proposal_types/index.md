@@ -8,19 +8,19 @@ Polls help you facilitate collaborative decision-making.  Use polls to engage pe
 - [Dot vote](#dot-vote)
 - [Ranked choice](#ranked-choice)
 
+![](polls_templates.png)
+
 ## Simple poll
 
 _Find the most popular option_
 
 Before making a decision, find which option(s) people care most about.
 
-![](poll_label.png#width-80)
-
 Simple poll helps you find the most popular option or options with single or multiple choice.
 
 Write any details about the options in the details field, then enter the name of the option and click + to add.
 
-![](poll_options_new.png#width-80)
+![](new_simple_poll.png)
 
 Set the **Minimum choices** and **Maximum choices** a voter may choose.  Leave the maximum choice as 1 for a single choice poll.
 
@@ -28,19 +28,19 @@ You can use the pencil icon alongside each option to add a meaning, or elaborati
 
 ![](poll_edit_option.png)
 
-### Settings
+### Advanced Settings
 
 As well as the usual Poll Settings, simple poll includes a setting: 
 
-**Shuffle options** allows you to show options in random order, if you are concerned the order of options may bias voting.
+**Show options in random order** - helpful if you are concerned the order of options may bias voting.
 
-![](poll_shuffle_options.png#width-80)
+![](new_simple_poll_random.png)
 
 ### Voting
 
 People invited to the simple poll can choose options and leave a reason for their choice.
 
-![](poll_vote.png#width-80)
+![](new_simple_poll_voting.png)
 
 ### Results 
 
@@ -53,38 +53,6 @@ Results update as voting takes place.
 When the poll closes, state an **Outcome** and say what will happen next.
 
 ![](poll_outcome.png#width-80)
-
-### Voting
-
-People mark the timeslots they are available with the green 'thumbs up' icon or leave the red 'thumbs down' in place when unavailable.  They can also use the 'thumbs sideways' icon to say they are available 'if need be'. 
-
-Participants can leave a reason comment to help the organizer find a suitable time.
-
-If the times don't work, participants can suggest alternatives using the message field. You can then update the poll with new times.
-
-![](timepoll_vote.png#width-80)
-
-The results update as voting proceeds in a table showing who is available when, so everyone can see which timeslots are popular.
-
-### Outcome
-
-When the Time poll closes, pick the best time slot and state an Outcome.
-
-![](timepoll_outcome.png#width-80)
-
-**Notify**: Add the people you are inviting to the meeting or event.
-
-**Meeting time**: Click on the meeting time to select the best meeting time.  
-
-**Meeting name**: Give your meeting a name. (Default name is the Time poll title.)
-
-**Location**: You can add a location for the meeting.
-
-**Statement**: State the outcome of the Time poll and any instructions for the meeting.
-
-Loomio will include a calendar invitation with the Outcome notification email, so participants can add to their calendar.
-
-![](timepoll_calendar.png#width-80)
 
 ## Score Poll
 
