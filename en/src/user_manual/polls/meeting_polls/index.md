@@ -18,6 +18,38 @@ Set a meeting duration.
 
 ![](timepoll_options.png#width-80)
 
+### Voting
+
+People mark the timeslots they are available with the green 'thumbs up' icon or leave the red 'thumbs down' in place when unavailable.  They can also use the 'thumbs sideways' icon to say they are available 'if need be'. 
+
+Participants can leave a reason comment to help the organizer find a suitable time.
+
+If the times don't work, participants can suggest alternatives using the message field. You can then update the poll with new times.
+
+![](timepoll_vote.png#width-80)
+
+The results update as voting proceeds in a table showing who is available when, so everyone can see which timeslots are popular.
+
+### Outcome
+
+When the Time poll closes, pick the best time slot and state an Outcome.
+
+![](timepoll_outcome.png#width-80)
+
+**Notify**: Add the people you are inviting to the meeting or event.
+
+**Meeting time**: Click on the meeting time to select the best meeting time.  
+
+**Meeting name**: Give your meeting a name. (Default name is the Time poll title.)
+
+**Location**: You can add a location for the meeting.
+
+**Statement**: State the outcome of the Time poll and any instructions for the meeting.
+
+Loomio will include a calendar invitation with the Outcome notification email, so participants can add to their calendar.
+
+![](timepoll_calendar.png#width-80)
+
 ## Opt-in
 
 _Find volunteers or participants_
