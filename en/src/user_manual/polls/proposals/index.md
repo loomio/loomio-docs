@@ -97,7 +97,7 @@ A Question round is an opportunity for people to ask clarifying questions about 
 
 The Loomio Question round is a special proposal with no voting options. It enables participants to ask questions within a duration you set for the round.
 
-A Questions round is commonly used as a step in the Consent process.
+A Question round is commonly used as a step in the Consent process.
 
 [Read more about the Consent process](https://help.loomio.com/en/guides/consensus_process/index.html).
 
