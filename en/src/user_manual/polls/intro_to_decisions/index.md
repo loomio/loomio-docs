@@ -1,15 +1,20 @@
 # Proposals and polls
 
-Proposals and polls help you make decisions and progress discussion to an outcome.
+Loomio proposals and polls help you involve people in decisions.  They are used to progress a discussion to an outcome.
 
 - Involve the right people to make better decisions 
 - Get engagement, test ideas, listen and sense, identify priorities, and clarify issues, even if the solution might not yet be apparent 
 - Set a deadline, prompt people who haven’t participated, and state an outcome
 - Apply decision making processes that work for your organization
 
-Loomio includes a series of pre-defined proposal templates for common decision processes such as;  Advice, Consent and Consensus.  The proposal templates are the scaffolding to help you involve people in decisions and make it easy to run your own decision processes.
+Loomio includes a series of predefined proposal templates for common decision processes such as; Advice process, Consent process and Consensus. 
 
-A decision process is usually contained within a Loomio thread.  See the guides for Advice, Consent or Consensus process for help to use proposal templates at key steps in the process.
+The proposal templates are the scaffolding to run a process. You can edit the templates to suit your particular needs, create new templates, or remove and rearrange templates to customize the experience for your organization.
+
+A decision process is usually contained within a Loomio thread and may use one or more proposal templates as you progress towards an outcome. 
+
+See our guides for [Advice process](https://help.loomio.com/en/guides/advice_process/index.html), [Consent process](https://help.loomio.com/en/guides/consent_process/index.html) and [Consensus process](https://help.loomio.com/en/guides/consensus_process/index.html) for help and examples of using proposal templates at key steps in each process.
+
 
 ## Start a proposal or poll
 
