@@ -1,11 +1,15 @@
-# Proposals and Polls
+# Proposals and polls
 
-Proposals and Polls help you make decisions and progress discussion to an outcome.
+Proposals and polls help you make decisions and progress discussion to an outcome.
 
 - Involve the right people to make better decisions 
 - Get engagement, test ideas, listen and sense, identify priorities, and clarify issues, even if the solution might not yet be apparent 
 - Set a deadline, prompt people who haven’t participated, and state an outcome
-- Flexibly use decision making processes that work for your group
+- Apply decision making processes that work for your organization
+
+Loomio includes a series of pre-defined proposal templates for common decision processes such as;  Advice, Consent and Consensus.  The proposal templates are the scaffolding to help you involve people in decisions and make it easy to run your own decision processes.
+
+A decision process is usually contained within a Loomio thread.  See the guides for Advice, Consent or Consensus process for help to use proposal templates at key steps in the process.
 
 ## Start a proposal or poll
 
@@ -25,11 +29,11 @@ You can also start a standalone proposal or poll from your group page, from the 
 
 ## Proposals
 
-**[Advice proposal](https://help.loomio.com/en/user_manual/polls/proposals/index.html#advice-proposal)** Seek advice on a decision you need to make.
+**[Advice](https://help.loomio.com/en/user_manual/polls/proposals/index.html#advice-proposal)** Seek advice on a decision you need to make.
 
-**[Consent proposal](https://help.loomio.com/en/user_manual/polls/proposals/index.html#consent-proposal)** Make a decision that is ‘safe to try’, without objections.
+**[Consent](https://help.loomio.com/en/user_manual/polls/proposals/index.html#consent-proposal)** Make a decision that is ‘safe to try’, without objections.
 
-**[Consensus proposal](https://help.loomio.com/en/user_manual/polls/proposals/index.html#consensus-proposal)** Reach collective agreement with everyone involved.
+**[Consensus](https://help.loomio.com/en/user_manual/polls/proposals/index.html#consensus-proposal)** Reach collective agreement with everyone involved.
 
 **[Question round](https://help.loomio.com/en/user_manual/polls/proposals/index.html#question-round)** Invite clarifying questions to help people understand a proposal.
 
