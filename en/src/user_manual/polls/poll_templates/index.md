@@ -1,14 +1,20 @@
 # Poll templates
 
-## New poll type
+*Note, this page is currently being updated with new poll templates. Some descriptions and screenshots may differ from the current software version.*
 
-_Create your own poll type_
+## Create your own poll template
 
-![](poll_type_label.png#width-80)
+![](proposal_template_setting.png)
 
-Create a new type of poll for use in your group. Customize terminology and settings so it's easy for other people in your group to run a specific decision making process.
+Create a new poll template for use in your organization. Customize terminology and settings so it's easy for other people to run a specific decision making process.
 
-With the new poll type form, you can change voting options, name, description and default duration.
+Only group admins can create poll templates.
+
+**Choose the Loomio group for your template**: Poll templates are associated with a particular Loomio group.  (So it's a good idea to create your templates in a group that everyone can access.)  (For example, this could be your Loomio 'parent' group or a special group/subgroup you set up for templates.)
+
+Tip: Invite-only threads can use prposal and poll templates from any group you are a member of.
+
+With the **New poll template** form, you can add a process name, subtitle and introduction.  You can give it an example title to help people using the template, provide default Category tag(s), and provide some example details. You can change voting options, name, meaning and reason prompt.
 
 ### Voting method
 
