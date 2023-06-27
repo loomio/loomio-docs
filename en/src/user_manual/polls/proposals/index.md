@@ -14,7 +14,7 @@ Read on to see proposal templates you can use to involve people in decisions.
 
 # Proposal templates
 
-Under **Proposals** you can select proposal templates for Advice, Consent and Consensus decision making processes.  There are more templates under **Settings**.
+Under **Proposal** you can select proposal templates for Advice, Consent and Consensus decision making processes.  There are more templates under the other tabs.
 
 ![](proposal_templates.png)
 
@@ -132,7 +132,7 @@ You can use one or more rounds of ‘Sense check’ to help you co-create a bett
 
 There are more proposal templates! They can be found in the **New poll** menu under **Settings**.
 
-Unhide the proposal templates to make them available for use in your group.
+**Unhide** the proposal templates to make them available for use in your group.
 
 ## Proposal (Classic)
 
