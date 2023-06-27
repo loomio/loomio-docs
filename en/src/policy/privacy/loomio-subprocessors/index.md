@@ -10,6 +10,6 @@ Update 2023-06-28 - We've moved our main database and application servers to Dig
 - [Amazon Web Services](https://aws.amazon.com/compliance/gdpr-center/) - Cloud computing services. We use S3 for file uploads and SES for sending emails.
 - [Chargify](https://help.chargify.com/my-account/gdpr.html) - Billing and subscription management
 - [Cloudflare](https://www.cloudflare.com/gdpr/introduction/) - Security and performance
-- [Google Cloud Platform](https://cloud.google.com/security/gdpr/resource-center/). Cloud services provider. We use Google Translate and Google account authentication on Sign in.
+- [Google Cloud Platform](https://cloud.google.com/security/gdpr/resource-center/) - Cloud services provider. We use Google Translate and Google account authentication on Sign in.
 - [Google reCAPTCHA](https://developers.google.com/recaptcha/) - Anti-bot protection.
 - [Windcave](https://sec.windcave.com/pxmi3/privacy-policy) - Creditcard payment processor
