@@ -53,23 +53,7 @@ See our guides for [Advice process](https://help.loomio.com/en/guides/advice_pro
 
 **Hidden poll templates** Poll templates hidden from the poll menus to make it easier for people to find the poll template they need.
 
-## Start a proposal or poll
-
-### Within a thread
-
-You can start a proposal or poll within a thread to run a decision process or progress a discussion. 
-
-Open the thread, scroll to the **Add Comment** bar and click on the **Run Process** tab, select a proposal or poll template.
-
-![](process_run.png)
-
-### Standalone proposal or poll
-
-You can also start a standalone proposal or poll from your group page, from the **Polls** tab on your group page. Click on **New Poll** and select your proposal or poll template.
-
-![](standalone_poll.png)
-
-## All proposals and poll templates have a similar structure
+## Poll structure
 
 As you start using proposals and polls, you will notice the setup, running and closing follow a similar pattern:
 
