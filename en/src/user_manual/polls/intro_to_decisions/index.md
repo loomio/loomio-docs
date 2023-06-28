@@ -17,19 +17,13 @@ See our guides for [Advice process](https://help.loomio.com/en/guides/advice_pro
 
 ## Proposal templates
 
+**[Sense check](https://help.loomio.com/en/user_manual/polls/proposals/index.html#sense-check)** To ask people for feedback, questions and concerns before moving to a decision.
+
 **[Advice](https://help.loomio.com/en/user_manual/polls/proposals/index.html#advice-proposal)** Seek advice on a decision you need to make.
 
 **[Consent](https://help.loomio.com/en/user_manual/polls/proposals/index.html#consent-proposal)** Make a decision that is ‘safe to try’, without objections.
 
 **[Consensus](https://help.loomio.com/en/user_manual/polls/proposals/index.html#consensus-proposal)** Reach collective agreement with everyone involved.
-
-**[Question round](https://help.loomio.com/en/user_manual/polls/proposals/index.html#question-round)** Invite clarifying questions to help people understand a proposal.
-
-**[Sense check](https://help.loomio.com/en/user_manual/polls/proposals/index.html#sense-check)** To ask people for feedback, questions and concerns before moving to a decision.
-
-**[Gradients of agreement](https://help.loomio.com/en/user_manual/polls/proposals/index.html#gradients-of-agreement)** Express support for a proposal on an 8-point scale.
-
-**[Proposal (classic)](https://help.loomio.com/en/user_manual/polls/proposals/index.html#proposal-classic)** Raise a proposal to make a decision.
 
 ## Poll templates
 
@@ -51,7 +45,14 @@ See our guides for [Advice process](https://help.loomio.com/en/guides/advice_pro
 
 **[New poll template](https://help.loomio.com/en/user_manual/polls/poll_templates/index.html)** Create a new poll or proposal template with your own terminology and options.
 
-**Hidden poll templates** Poll templates hidden from the poll menus to make it easier for people to find the poll template they need.
+### Hidden poll templates
+Poll templates hidden from the poll menus to make it easier for people to find the poll template they need.  **Unhide** the template to make it available to your group.
+
+**[Question round](https://help.loomio.com/en/user_manual/polls/proposals/index.html#question-round)** Invite clarifying questions to help people understand a proposal.
+
+**[Gradients of agreement](https://help.loomio.com/en/user_manual/polls/proposals/index.html#gradients-of-agreement)** Express support for a proposal on an 8-point scale.
+
+**[Proposal (classic)](https://help.loomio.com/en/user_manual/polls/proposals/index.html#proposal-classic)** Raise a proposal to make a decision.
 
 ## Poll structure
 
