@@ -2,7 +2,7 @@
 
 *On this page*
 - [Start a proposal or poll](#start-a-proposal-or-poll)
-- [Poll settings](#poll-settings)
+- [Advanced settings](#advanced-settings)
 - [Managing polls](#managing-polls)
 
 ## Start a proposal or poll
@@ -21,13 +21,13 @@ You can also start a standalone proposal or poll from your group page, from the 
 
 ![](standalone_poll.png)
 
-# Proposal and poll templates
+### Proposal and poll templates
 
 Choose the proposal template you want to use. 
 
 ![](proposal_templates.png)
 
-## Add content
+### Add content
 
 **Group:** Check that the correct group is selected for your proposal or poll.
 
@@ -45,7 +45,7 @@ Use the formatting tools to support your poll.  For example, attach a document f
 
 ![](proposal_new.png)
 
-## Voting options
+### Voting options
 
 Each proposal and poll template provide options for voting.
 
@@ -59,7 +59,7 @@ You can add, edit and remove voting options to suit the proposal or decision pro
 ![](vote_options.png)
 
 
-#### Edit voting options
+### Edit voting options
 There is a lot of flexibility to configure voting options to suit the way your organization makes decisions.
 
 Use the pencil icon alongside the voting option to open the edit modal:
