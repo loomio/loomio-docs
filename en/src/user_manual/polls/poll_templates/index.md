@@ -67,49 +67,63 @@ Results are available as people participate.
 
 ## Creating your own templates
 
-You can create your own proposal or poll template under the Settings tab.
+Create a new poll template for use in your organization. Customize terminology and settings so it's easy for other people to use it and run a specific decision making process.
 
-![](proposal_template_setting.png)
+With the **New poll template** form, you can add a template name, subtitle and introduction.  You can give it an example title to help people using the template, provide default Category tag(s), and provide some example details. You can change voting method and voting options; name, meaning and reason prompt.
 
-The new poll template page provides all of the tools you need to design your template and help people to use it.
-
-
-
-Create a new poll template for use in your organization. Customize terminology and settings so it's easy for other people to run a specific decision making process.
+**Choose the Loomio group for your template**: Poll templates are created within a particular Loomio group.  They can be accessed for use within your Loomio group and when using Invite-only threads.
 
 Only group admins can create poll templates.
 
-**Choose the Loomio group for your template**: Poll templates are associated with a particular Loomio group.  (So it's a good idea to create your templates in a group that everyone can access.)  (For example, this could be your Loomio 'parent' group or a special group/subgroup you set up for templates.)
+Create your poll template under the Settings tab.
 
-Tip: Invite-only threads can use prposal and poll templates from any group you are a member of.
+![](proposal_template_setting.png)
 
-With the **New poll template** form, you can add a process name, subtitle and introduction.  You can give it an example title to help people using the template, provide default Category tag(s), and provide some example details. You can change voting options, name, meaning and reason prompt.
+The **New poll template** page provides all of the tools you need to design your template and help people to use it.
+
+![](poll_template_new.png)
 
 ### Voting method
 
 Choose the voting method you want to use.
 
-Show of thumbs is the voting method for Proposal, Sense check and common in Advice and Consent processes.
+![](poll_type_voting_method.png)
+
+Show of thumbs is the voting method for proposals; Sense check, Advice, Consent, Consensus and classic Proposal.
 
 Other methods include:
 - Simple poll - single or multiple choice of options
-- Dot vote - allocate a budget of points across a list of options, where people can assign points to options however they like.
+- Dot vote - allocate a budget of points across a list of options, where people can assign points to options however they like
 - Score poll - people can assign a score on a scale, say 1 to 10 for each option
-- Ranked choice - invite people to put options in their order of preference, first to last.
+- Ranked choice - invite people to put options in their order of preference, first to last
 
-![](poll_type_voting_method.png#width-80)
+### Template title and subtitle
 
-### Poll type name and description
+Name your template in the title.
 
-Give the poll type a name and add a description of the purpose of your poll type.
+Add a one-line description of when or why to use this template.
 
-Then give your poll type an example title and details to prompt people using your poll.  The title and details can be edited when used.
+### Template help
 
-![](poll_type_setup.png#width-80)
+You can add a description of the template and how to use it.  Include links to resources that might be helpful.
 
-### Poll type options
+The description will appear in the top blue box whenever someone uses the template. 
 
-There is a lot of flexibility to configure voting options for your new poll type.
+Here is an example of a specific process.
+
+![](template_WAAP_intro.png)
+
+### Poll template example title and details
+
+You can write an example title for the template, preset category tags, and add text in the details field to help people using the template.
+
+The title and details can be edited when the template is used.
+
+![](template_WAAP_details.png)
+
+### Poll template options
+
+Configure the voting options for your new template.
 
 Use the pencil icon alongside the voting option to open the edit modal:
 
@@ -121,38 +135,47 @@ Use the pencil icon alongside the voting option to open the edit modal:
 
 **Reason prompt**: A question to prompt voters to provide their reasoning or reconsider their position.  Use the reason prompt to uncover what people like or dislike about the poll. It is also an opportunity to find out what needs to changed to reach agreement.
 
-![](poll_type_edit_option.png#width-80)
+![](poll_type_edit_option.png)
 
 ### Default duration
 
 You can set the default duration for your poll type.  This can be changed by people using the poll.
 
-![](poll_type_duration.png#width-80)
+![](poll_type_duration.png)
 
 ### Settings
 
-You can configure default settings for your poll type.
+You can configure default advanced settings for your poll template.
 
-See [Poll Settings](https://help.loomio.com/en/user_manual/polls/starting_proposals/index.html#poll-settings).
-
-### Invite to give feedback
-
-When configured, you can invite colleagues to view the new poll type and provide feedback.
-
-![](poll_type_feedback.png)
+See [Advanced Settings](https://help.loomio.com/en/user_manual/polls/starting_proposals/index.html#advanced-settings).
 
 ### Poll template
 
-Your new poll type is now saved as a poll template.
+Your new poll template is ready to use. When anyone in your group run a new process, your poll template is available for use in the list of poll templates.
 
-![](poll_type_template.png)
+![](template_WAAP_list.png)
 
-Notice that as this poll is a template, voting is disabled.
+![](template_WAAP_start.png)
 
-To use the poll template, click **Make a copy**.
+## Managing poll templates
 
-When anyone in your group starts a new poll, your new poll template is available for use and included in the list of custom poll types.
+You can manage the poll templates available for use within your group.
 
-![](poll_type_view.png)
+**Edit template** - Edit any template to suit your needs.
 
-The ability to configure poll types is a new feature, so please do [Contact us](https://www.loomio.com/contact) and let us know how you use it!
+**Move** - Change the order templates are displayed.
+
+**Hide** - Hide the template so it is not visible.  
+
+![](template_manage.png)
+
+Under the **Settings** tab, you can see all hidden poll templates and **Unhide** to restore for use in your group.
+
+Default and Custom templates are tagged.
+
+You can **Delete** a Custom template, but not the default templates.
+
+![](template_manage_settings.png)
+
+
+> The ability to configure poll templates is a new feature, so please do [Contact us](https://www.loomio.com/contact) and let us know how you use it!
