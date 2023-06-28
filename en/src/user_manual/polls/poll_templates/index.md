@@ -2,9 +2,78 @@
 
 *Note, this page is currently being updated with new poll templates. Some descriptions and screenshots may differ from the current software version.*
 
-## Create your own poll template
+## Introducing proposal templates
+
+We’re delighted to introduce a big update to proposal templates in Loomio.
+
+Loomio proposals and polls help you involve people in decisions.  They are used to progress a discussion to an outcome.
+
+Loomio now includes a series of predefined proposal templates for common decision processes such as Advice process, Consent process and Consensus. 
+
+The proposal templates are part of the scaffolding used to run a process. You can edit the templates to suit your particular needs, create new templates, or remove and rearrange templates to customize the experience for your organization.
+
+A decision process is usually contained within a Loomio thread and may use one or more proposal templates as you progress towards an outcome. 
+
+See our guides for [Advice process](https://help.loomio.com/en/guides/advice_process/index.html), [Consent process](https://help.loomio.com/en/guides/consent_process/index.html) and [Consensus](https://help.loomio.com/en/guides/consensus_process/index.html) for help and examples of using proposal templates at key steps in each process.
+
+## Using templates
+
+When you next open a thread in Loomio, or start a new poll, you have the option to run a predefined Loomio proposal template. 
+
+![](proposal_templates.png)
+
+Under the Proposal tab, you will find templates for proposals commonly used in decision processes like Advice, Consent and Consensus. 
+
+The Question round template uses the standard Loomio proposal format to invite questions, and does not have any voting options.  It is often used as an early step in the Consent process.
+
+Sense check is an easy way to invite feedback, questions and concerns.  Sense check can also be used in the Consent process or to test for consensus.
+
+You will find more proposal and poll templates under the tabs:
+- Poll - Simple poll, Score poll, Dot vote and Ranked choice
+- Meeting - Time poll, Opt-in
+- Settings - Proposal (classic), Gradients of Agreement
+
+### Example
+
+Let's look at how to use a proposal template when running an Advice process.
+
+![](proposal_advice_new.png)
+
+There is an info box at the top of the page outlining what this proposal is intended for, and a link to a guide in the Loomio user manual outlining how to run the Advice process with Loomio.
+
+The proposal template includes some text prompts to help you write a great proposal; for example a clear title, tag and proposal details.
+
+![](proposal_advice_new_details.png)
+
+The proposal template has predefined voting options, however you can edit these to suit your proposal.
+
+![](proposal_new_voting_options.png)
+
+As usual you can set a closing date for the proposal to give some time for people to respond.
+
+![](proposal_advice_new_closing.png)
+
+See **Advanced settings** if you want to change settings like anonymous voting, and start the poll.
+
+![](proposal_advice_new_advanced.png)
+
+People invited to offer advice can vote and write their comment.
+
+![](proposal_advice_new_voting.png)
+
+Results are available as people participate.
+
+![](proposal_advice_new_results.png)
+
+## Creating your own templates
+
+You can create your own proposal or poll template under the Settings tab.
 
 ![](proposal_template_setting.png)
+
+The new poll template page provides all of the tools you need to design your template and help people to use it.
+
+
 
 Create a new poll template for use in your organization. Customize terminology and settings so it's easy for other people to run a specific decision making process.
 
