@@ -8,32 +8,39 @@
 
 We’re delighted to introduce a big update to proposal templates in Loomio.
 
-Loomio proposals and polls help you involve people in decisions.  They are used to progress a discussion to an outcome.
-
 Loomio now includes a series of predefined proposal templates for common decision processes such as Advice process, Consent process and Consensus. 
+
+![](proposal_templates_list.png)
 
 The proposal templates are part of the scaffolding used to run a process. You can edit the templates to suit your particular needs, create new templates, or remove and rearrange templates to customize the experience for your organization.
 
-A decision process is usually contained within a Loomio thread and may use one or more proposal templates as you progress towards an outcome. 
+Watch the video - [Intro to proposal templates - DRAFT](https://youtu.be/pDlIvh3PiR0)
+
+You will find more proposal and poll templates under the tabs:
+- Poll - Simple poll, Score poll, Dot vote, Ranked choice
+- Meeting - Time poll, Opt-in
+- Settings - Proposal (classic), Gradients of Agreement, Question round
+
+The classic Loomio proposal is still available under the Proposal tab if you have used it in your group. Otherwise you can find the Proposal under the Settings tab.
 
 See our guides for [Advice process](https://help.loomio.com/en/guides/advice_process/index.html), [Consent process](https://help.loomio.com/en/guides/consent_process/index.html) and [Consensus](https://help.loomio.com/en/guides/consensus_process/index.html) for help and examples of using proposal templates at key steps in each process.
+
+---
 
 ## Using templates
 
 When you next open a thread in Loomio, or start a new poll, you have the option to run a predefined Loomio proposal template. 
 
-![](proposal_templates.png)
+![](proposal_templates_list.png)
 
 Under the Proposal tab, you will find templates for proposals commonly used in decision processes like Advice, Consent and Consensus. 
 
-The Question round template uses the standard Loomio proposal format to invite questions, and does not have any voting options.  It is often used as an early step in the Consent process.
-
-Sense check is an easy way to invite feedback, questions and concerns.  Sense check can also be used in the Consent process or to test for consensus.
+Sense check is an easy way to invite feedback, questions and concerns.  Sense check can also be used in the Consent process or to test for Consensus.
 
 You will find more proposal and poll templates under the tabs:
 - Poll - Simple poll, Score poll, Dot vote and Ranked choice
 - Meeting - Time poll, Opt-in
-- Settings - Proposal (classic), Gradients of Agreement
+- Settings - Proposal (classic), Gradients of Agreement, Question round
 
 ### Example
 
