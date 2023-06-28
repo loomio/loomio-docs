@@ -1,23 +1,30 @@
 # Outcome
-_Take time to consider the results then share an outcome so people know what will happen next._
 
-When your poll closes, you’ll be prompted to set a poll outcome.
+When your proposal or poll closes, you’ll be prompted to set an **outcome**.
 
-![](outcome_prompt.png#width-80)
+![](outcome_prompt.png)
 
-In Loomio, the outcome or conclusion of a poll is up to you to define on behalf of the group - it's not assumed that majority wins.  
+State the results of the proposal or poll and say what will happen next.
 
-A formal decision may be governed by constitution or by prior agreement within your organization.  
+The outcome statement is an important record of the poll or decision - a succinct statement for future reference.
 
-Sometimes it makes sense to go with the majority, but sometimes even one dissenting voice means it's a no.  For example, the Consent decision process continues until there are no objections.
+## Outcome statements for common decision processes
 
-Whatever the results, there is always something to learn from the proposal. 
+| **Decision process** | **When the decision is made** | **Outcome** |
+|---|---|---|
+| Advice process | When advice has been received and taken into account. | State the decision made and thank people for their advice and feedback. |
+| Consent process | When there are no remaining objections. | State that no valid objections remain and there is consent that the proposal is 'safe to try'.  |
+| Consensus process | When most* people agree. | State proposal results and the decision made. |
 
-Your outcome statement is an opportunity to state the results and what has been learnt.  Use outcome to let everyone know what will happen next.
+**The majority or supermajority as governed by constitution or by prior agreement within your organization.*  
+
+Whatever the results, there is always something to learn from the proposal and poll. 
+
+If your proposal fails, consider what new understanding has been gained, and if this can be accommodated to reach a better decision.
+
+The outcome statement is an opportunity to state the results and what has been learnt.  
 
 ![](outcome_statement.png)
-
-Review the poll intentions and results and write your outcome.
 
 You can notify people - they will receive an email from Loomio containing the poll results and your outcome statement.
 
@@ -25,7 +32,7 @@ You can also choose to set a **Review date** - a future date when you would like
 
 ![](outcome_published.png)
 
-**Example outcomes**
+**Example outcome statements**
 
 > _This proposal did not reach consensus because several people were concerned about budget impacts. George and Jimena will do some financial modelling and raise a new proposal next week._
 
@@ -33,4 +40,4 @@ or
 
 > _I've taken on board everyone's input. As the project manager, this is my call to make and I've decided we are going to extend the timeline by 10 days._
 
-Setting outcomes makes your decision archive easy to search, because you have a succinct statement for each proposal.
+
