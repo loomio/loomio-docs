@@ -49,15 +49,15 @@ The proposal template has predefined voting options, however you can edit these 
 
 ![](proposal_new_voting_options.png)
 
-As usual you can set a closing date for the proposal to give some time for people to respond.
+As usual, you can set a closing date for the proposal to give some time for people to respond.
 
 ![](proposal_advice_new_closing.png)
 
-See **Advanced settings** if you want to change settings like anonymous voting, and start the poll.
+See **Advanced settings** if you want to change settings like the reminder email, anonymous voting, vote reason requirement and character limit, and hide results.
 
 ![](proposal_advice_new_advanced.png)
 
-People invited to offer advice can vote and write their comment.
+When the poll is started, participants invited can vote to offer advice and write it in the reason field.
 
 ![](proposal_advice_new_voting.png)
 
