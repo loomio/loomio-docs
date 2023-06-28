@@ -16,7 +16,7 @@ Read on to see proposal templates you can use to involve people in decisions.
 
 Under **Proposal** you can select proposal templates for Advice, Consent and Consensus decision making processes.  There are more templates under the other tabs.
 
-![](proposal_templates.png)
+![](proposal_templates_list.png)
 
 ## Using proposal templates with decision processes
 
@@ -24,9 +24,9 @@ Quick summary of Loomio proposal templates you can use with common decision proc
 
 | **Decision process** | **Loomio proposal templates** |
 |---|---|
-| Advice process | Advice proposal |
-| Consent process | Question round <br /><br />Sense check proposal <br /><br />Consent proposal |
-| Consensus process | Sense check proposal <br /><br />Consensus proposal |
+| Advice process | [Advice proposal](advice-proposal) |
+| Consent process | [Question round](question-round) <br /><br />[Sense check proposal](sense-check) <br /><br />[Consent proposal](consent-proposal) |
+| Consensus process | [Sense check proposal](sense-check) <br /><br />[Consensus proposal](consensus-proposal) |
 
 ## Advice proposal
 
@@ -88,22 +88,6 @@ Build consensus for a decision you need to make, to reach an agreement that sati
 **Example results**
 
 ![](proposal_consensus_results.png)
-
-## Question round
-
-Invite clarifying questions to help people understand a proposal.
-
-A Question round is an opportunity for people to ask clarifying questions about the proposal, so that everyone understands the proposal before they say what they think about it.
-
-The Loomio Question round is a special proposal with no voting options. It enables participants to ask questions within a duration you set for the round.
-
-A Question round is commonly used as a step in the Consent process.
-
-[Read more about the Consent process](https://help.loomio.com/en/guides/consensus_process/index.html).
-
-**Example**
-
-![](proposal_question.png)
 
 ## Sense check
 
@@ -171,4 +155,20 @@ Gradients of agreement lets people know a proposal is forming and encourages the
 **Example results**
 
 ![](proposal_gradients_results.png)
+
+## Question round
+
+Invite clarifying questions to help people understand a proposal.
+
+A Question round is an opportunity for people to ask clarifying questions about the proposal, so that everyone understands the proposal before they say what they think about it.
+
+The Loomio Question round is a special proposal with no voting options. It enables participants to ask questions within a duration you set for the round.
+
+A Question round is commonly used as a step in the Consent process.
+
+[Read more about the Consent process](https://help.loomio.com/en/guides/consensus_process/index.html).
+
+**Example**
+
+![](proposal_question.png)
 
