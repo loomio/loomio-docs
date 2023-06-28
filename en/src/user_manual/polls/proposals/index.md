@@ -24,9 +24,9 @@ Quick summary of Loomio proposal templates you can use with common decision proc
 
 | **Decision process** | **Loomio proposal templates** |
 |---|---|
-| Advice process | [Advice proposal](advice-proposal) |
-| Consent process | [Question round](question-round) <br /><br />[Sense check proposal](sense-check) <br /><br />[Consent proposal](consent-proposal) |
-| Consensus process | [Sense check proposal](sense-check) <br /><br />[Consensus proposal](consensus-proposal) |
+| Advice process | [Advice proposal](#advice-proposal) |
+| Consent process | [Question round](#question-round) <br /><br />[Sense check proposal](#sense-check) <br /><br />[Consent proposal](#consent-proposal) |
+| Consensus process | [Sense check proposal](#sense-check) <br /><br />[Consensus proposal](#consensus-proposal) |
 
 ## Advice proposal
 
