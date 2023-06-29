@@ -2,11 +2,7 @@
 
 ![](Loomio-retreat-decision-time-small.jpg)
 
-Ever since Loomio was founded, we have experimented, worked on and practiced what it means to make collaborative decisions.
-
-Some organizations arrive at Loomio having already developed a deep culture and practice of collaborative decision making.  Such organizations have often written handbooks and codified their practices, and want to see how their decision making processes can be realized within Loomio.  If this sounds like you, then skip on to see how to apply your decision making processes in Loomio with templates.
-
-However most organizations are still on the journey and looking for some helpful first steps towards making better decisions together.  If the burning question in your organization is **how do we make decisions together?**, then this guide is for you.
+Some organizations arrive at Loomio having already developed a deep culture and practice of collaborative decision making.  Such organizations have often written handbooks and codified their practices, however, most organizations are still on the journey and looking for some helpful first steps towards making better decisions together.  If the burning question in your organization is **how do we make decisions together?**, then this guide is for you.
 
 ***Here are three steps to help you co-create a better, more cohesive decision with less stress and anxiety.***
 
