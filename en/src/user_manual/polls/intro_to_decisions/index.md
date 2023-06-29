@@ -15,24 +15,9 @@ A decision process is usually contained within a Loomio thread and may use one o
 
 See our guides for [Advice process](https://help.loomio.com/en/guides/advice_process/index.html), [Consent process](https://help.loomio.com/en/guides/consent_process/index.html) and [Consensus process](https://help.loomio.com/en/guides/consensus_process/index.html) for help and examples of using proposal templates at key steps in each process.
 
+## Proposal templates
 
-## Start a proposal or poll
-
-### Within a thread
-
-You can start a proposal or poll within a thread to run a decision process or progress a discussion. 
-
-Open the thread, scroll to the **Add Comment** bar and click on the **Run Process** tab, and select your proposal or poll template.
-
-![](process_run.png)
-
-### Standalone proposal or poll
-
-You can also start a standalone proposal or poll from your group page, from the **Polls** tab on your group page. Click on **New Poll** and select your proposal or poll template.
-
-![](standalone_poll.png)
-
-## Proposals
+**[Sense check](https://help.loomio.com/en/user_manual/polls/proposals/index.html#sense-check)** To ask people for feedback, questions and concerns before moving to a decision.
 
 **[Advice](https://help.loomio.com/en/user_manual/polls/proposals/index.html#advice-proposal)** Seek advice on a decision you need to make.
 
@@ -40,15 +25,7 @@ You can also start a standalone proposal or poll from your group page, from the 
 
 **[Consensus](https://help.loomio.com/en/user_manual/polls/proposals/index.html#consensus-proposal)** Reach collective agreement with everyone involved.
 
-**[Question round](https://help.loomio.com/en/user_manual/polls/proposals/index.html#question-round)** Invite clarifying questions to help people understand a proposal.
-
-**[Sense check](https://help.loomio.com/en/user_manual/polls/proposals/index.html#sense-check)** To ask people for feedback, questions and concerns before moving to a decision.
-
-**[Gradients of agreement](https://help.loomio.com/en/user_manual/polls/proposals/index.html#gradients-of-agreement)** Express support for a proposal on an 8-point scale.
-
-**[Proposal (classic)](https://help.loomio.com/en/user_manual/polls/proposals/index.html#proposal-classic)** Raise a proposal to make a decision.
-
-## Polls
+## Poll templates
 
 **[Simple poll](https://help.loomio.com/en/user_manual/polls/proposal_types/index.html#simple-poll)** A simple poll to ask people which option or options they approve.
 
@@ -58,7 +35,7 @@ You can also start a standalone proposal or poll from your group page, from the 
 
 **[Ranked choice](https://help.loomio.com/en/user_manual/polls/proposal_types/index.html#ranked-choice)** Rank a list of options in order of preference — useful for elections.
 
-## Meetings
+## Meeting poll templates
 
 **[Time poll](https://help.loomio.com/en/user_manual/polls/meeting_polls/index.html#time-poll)** Find the best time to meet, or to schedule an event. Like Doodle without all the ads…  
 
@@ -66,9 +43,18 @@ You can also start a standalone proposal or poll from your group page, from the 
 
 ## Settings
 
-**New poll type**: Configure the poll type you need with custom terminology, options and settings.
+**[New poll template](https://help.loomio.com/en/user_manual/polls/poll_templates/index.html)** Create a new poll or proposal template with your own terminology and options.
 
-## All proposals and polls have a similar structure
+### Hidden poll templates
+Poll templates hidden from the poll menus to make it easier for people to find the poll template they need.  **Unhide** the template to make it available to your group.
+
+**[Question round](https://help.loomio.com/en/user_manual/polls/proposals/index.html#question-round)** Invite clarifying questions to help people understand a proposal.
+
+**[Gradients of agreement](https://help.loomio.com/en/user_manual/polls/proposals/index.html#gradients-of-agreement)** Express support for a proposal on an 8-point scale.
+
+**[Proposal (classic)](https://help.loomio.com/en/user_manual/polls/proposals/index.html#proposal-classic)** Raise a proposal to make a decision.
+
+## Poll structure
 
 As you start using proposals and polls, you will notice the setup, running and closing follow a similar pattern:
 
@@ -76,20 +62,20 @@ As you start using proposals and polls, you will notice the setup, running and c
 - Give it a title
 - Assign a category tag
 - Describe the poll question, and how you want people to vote
-- Configure poll options
+- Configure voting options
 - Set a closing deadline 
 - Invite people
 
-In the "Settings" tab you can also set:
+In "Advanced settings" you can also set:
 - Hide results, until vote is cast or poll closes
 - Anonymous voting
 - Vote reason to required, optional or disabled
 - Reminder that poll is closing soon to nobody, author, undecided voters or all voters
 
 **Running proposal or poll:**
-- People vote and add a reason (optional) 
+- Participants vote and add a reason (optional) 
 - Results are updated live
-- People can change their vote if new info emerges
+- Participants can change their vote if new info emerges
 - A reminder is sent to people who haven’t voted 
 
 **Proposal or poll closed:**

@@ -1,46 +1,65 @@
 # Poll settings
 
 *On this page*
-- [Set up poll](#set-up-poll)
-- [Poll settings](#poll-settings)
+- [Start a proposal or poll](#start-a-proposal-or-poll)
+- [Advanced settings](#advanced-settings)
 - [Managing polls](#managing-polls)
 
-## Set up poll
+## Start a proposal or poll
 
-The poll set up page has two tabs: 
-- **Content** to write content for your poll and configure voting options. 
-- **Settings** to configure how the poll runs.
+### Within a thread
 
-![](proposal_new.png#width-80)
+You can start a proposal or poll within a thread to run a decision process or progress a discussion. 
 
-### Content tab
+Open the thread, scroll to the **Add Comment** bar and click on the **Run Process** tab, select a proposal or poll template.
 
-**Group:** (Standalone poll only.) If you are starting a standalone poll, check that the correct group is selected for your poll.
+![](process_run.png)
 
-**Title:** Give your poll a short, relevant title.
+### Standalone proposal or poll
 
-**Details:** Explain what you are asking people to do and include enough details so everyone knows what it means to 'agree' or 'disagree'.
+You can also start a standalone proposal or poll from your group page, from the **Polls** tab on your group page. Click on **New Poll** and select your proposal or poll template.
+
+![](standalone_poll.png)
+
+### Proposal and poll templates
+
+Choose the proposal template you want to use. 
+
+![](proposal_templates.png)
+
+### Add content
+
+**Group:** Check that the correct group is selected for your proposal or poll.
+
+**Title:** Give your proposal or poll a short, relevant title.
+
+**Details:** Explain what you are asking of people and include enough details so everyone knows what it means to vote.  
+
+The predefined templates include some prompts to help you write a good proposal - use these or add your own details.
 
 Avoid combining a range of ideas in one proposal, because people might agree to some aspects but not others and be unsure how to respond. You can break complex decisions down into multiple proposals.
 
-When making a proposal, state your expectations and describe the impact the proposal will have if adopted. If it's a formal or binding proposal it's often worth describing what a 'disagree' or 'block' means.
+When making a proposal, state your expectations and describe the impact the proposal will have if adopted. If it's a formal or binding proposal it's often worth describing what it means if the proposal is not adopted.
 
 Use the formatting tools to support your poll.  For example, attach a document file with the paperclip icon, insert an image, link to a website or online document, or even embed a video.
 
-**Options:** Each poll type provides options for voting.
+![](proposal_new.png)
 
-In a Proposal poll, the default options are Agree, Abstain and Disagree with corresponding ‘show of thumbs’ voting icons.
+### Voting options
 
-You can add, edit and remove options to suit the decision process you are running.  
+Each proposal and poll template provide options for voting.
 
-For example if you are using a Consent process;
-- Type ‘Consent’ in the new option panel, and click the + button to add the option
-- Type ‘Objection’ in the new option panel
-- Remove unwanted voting options by clicking the trash can symbol beside each option.
+You can add, edit and remove voting options to suit the proposal or decision process you are running.  
 
-![](proposal_options.png#width-80)
+- Use the pencil icon to edit voting option 
+- Use the trash can icon to remove unwanted voting options
+- Use the handle to move the order of voting options
+- Add voting options with **New option** and click the + button 
 
-#### Edit voting options
+![](vote_options.png)
+
+
+### Edit voting options
 There is a lot of flexibility to configure voting options to suit the way your organization makes decisions.
 
 Use the pencil icon alongside the voting option to open the edit modal:
@@ -53,56 +72,19 @@ Use the pencil icon alongside the voting option to open the edit modal:
 
 **Reason prompt:** A question to prompt voters to provide their reasoning or reconsider their position. 
 
-![](proposal_edit_option.png#width-80)
-
-### Content tab continued
-
-![](proposal_voting_open.png#width-80)
-
-**Voting open:** When ticked, voting will open as soon as the poll starts.  
-
-Untick if you want voting to open at a later time. For example if you are setting up a poll in advance of a general assembly meeting.
+![](proposal_edit_option.png)
 
 **Closing date and time:** Select the closing date and time for your poll. 
 
 Give sufficient time for people to vote. You could time the proposal so it closes before a meeting, or avoid closing over a weekend, so that people will receive a timely reminder. If necessary, you can close the poll early or extend the closing time.
 
-**Who can vote?** Invite everyone in the group or only specific people.  
+**Who can vote?** Invite everyone in the group or only specific people that you invite.  
 
 You can later add or remove people from an ‘Invite people only’ poll.
 
-## Poll Settings
+## Advanced Settings
 
-![](proposal_settings.png#width-80)
-
-### Hide results
-If you want people to vote without knowing how others have voted, you can hide the results of the poll.  Useful if you do not want people to be affected by how other people have voted.
-
-Setting options:
-- Off (default) - means voting results are visible.
-- Until vote is cast - means voting results are not visible until you vote, and are then revealed.
-- Until proposal is closed - means voting results are not visible until the proposal closes. 
-
-### Anonymous voting
-If enabled, this allows people to vote anonymously - the identity of voters will not be associated to their votes.  This is useful for elections and secret ballots.  
-
-> **Warning**: Once a poll has started you cannot edit the poll to make it anonymous or to undo the anonymous setting.  
-
-> **Warning**: You cannot re-open an anonymous poll after it has closed.  Voter information including the voter identity is discarded, so Loomio doesn't know who has voted.
-
-### Vote reason
-It can be helpful to understand why people voted the way they did. With this setting, you can prompt people to share their thoughts when they vote.
-
-Setting options:
-- Required - people must write something in the reason field before their vote is submitted.
-- Optional (default) - reason is optional.
-- Disabled - the reason text box is not available.
-
-> **Tip**: In an election or anonymous poll, consider disabling vote reason to avoid a voter inadvertently revealing their identity with their text comment.
-
-**Limit reason to maximum 500 characters:** Keeping vote reasons short makes them easier to understand. A collection of concise reasons is a great resource for making a decision.  So this setting is ticked by default.
-
-However you can untick this setting to allow for longer reasons.
+![](settings_advanced.png)
 
 ### Reminder
 Send a 'Closing soon' notification 24 hours before the poll closes. This can be an opportunity for people to see how others have voted and reconsider their own vote, or just a way to increase participation in the poll.
@@ -113,52 +95,39 @@ Setting options:
 - Undecided voters (default)
 - All voters
 
+### Votes are anonymous
+If enabled, this allows people to vote anonymously - the identity of voters will not be associated to their votes.  This is useful for elections and secret ballots.  
+
+> **Warning**: Once a poll has started you cannot edit the poll to make it anonymous or to undo the anonymous setting.  
+
+> **Warning**: You cannot re-open an anonymous poll after it has closed.  Voter information including the voter identity is discarded, so Loomio doesn't know who has voted.
+
+### Vote reason
+It can be helpful to understand why people voted the way they did. With this setting, you can prompt people to share their thoughts when they vote.
+
+Setting options:
+- Optional (default) - reason is optional.
+- Required - people must write something in the reason field before their vote is submitted.
+- Disabled - the reason text box is not available.
+
+> **Tip**: In an election or anonymous poll, consider disabling vote reason to avoid a voter inadvertently revealing their identity with their text comment.
+
+**Limit reason to maximum 500 characters:** Keeping vote reasons short makes them easier to understand. A collection of concise reasons is a great resource for making a decision.  This setting is ticked by default. Untick to allow for longer reasons.
+
+### Hide results
+If you want people to vote without knowing how others have voted, you can hide the results of the poll.  Useful if you do not want people to be affected by how other people have voted.
+
+Setting options:
+- Off (default) - means voting results are visible.
+- Until vote is cast - means voting results are not visible until you vote, and are then revealed.
+- Until proposal is closed - means voting results are not visible until the proposal closes. 
+
 ### Start Poll
 Click the **Start Poll** button.
 
 ## Managing polls
 
-At the bottom of the poll are several features to help you manage the poll after start.
-
-![](proposal_after_start.png)
-
-### Inviting new people to the poll
-
-You can add new people to the poll after it has started.
-
-Click **invite**, and enter the names or the email addresses of the people you want to invite.
-
-### Remove people from the poll
-
-You may want to remove a person(s) from the poll.  Click **invite**, find the person's name and click on the 3 dot menu to the right and select **Remove from proposal**. 
-
-For example an administrator sets up a poll on behalf of board members.  The administrator is not authorized to vote, so is removed from the poll. 
-
-![](proposal_invite_remove.png)
-
-### Remind to vote
-
-If voting is slow, you can **remind** people to vote by sending them a notification.  The page is similar to **invite** and shows a pre-group of 'Everyone invited to vote'.  Click on the group to see the people you are reminding.  
-
-![](proposal_remind.png)
-
-### Close early
-
-You can close the poll early, before the closing time with **close early**.  
-
-This is used when everyone has voted or you need to close the poll for some other reason.
-
-![](proposal_close_early.png)
-
-### Reopen
-
-You can **reopen** a poll that has closed.  Set the new closing date and time.
-
-![](proposal_reopen.png)
-
-## More actions
-
-Click on the 3 dot menu at the bottom right of the poll to open more actions.
+Click on the 3 dot menu at the bottom right of the poll.
 
 ![](proposal_edit.png)
 

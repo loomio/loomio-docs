@@ -1,6 +1,6 @@
 # Polls
 
-Polls help you facilitate collaborative decision-making.  Use polls to engage people, survey opinion, seek contributions, uncover information, identify priorities, vote on issues, approve documents, organize events and hold elections.
+Polls help you involve people in decisions.  Use polls to engage people, survey opinion, seek contributions, uncover information, identify priorities, vote on issues, approve documents, organize events and hold elections.
 
 *On this page*
 - [Simple poll](#simple-poll)
@@ -46,33 +46,33 @@ People invited to the simple poll can choose options and leave a reason for thei
 
 Results update as voting takes place.
 
-![](poll_results.png#width-80)
+![](poll_results.png)
 
 ### Outcome
 
 When the poll closes, state an **Outcome** and say what will happen next.
 
-![](poll_outcome.png#width-80)
+![](poll_outcome.png)
 
 ## Score Poll
 
 _Measure the degree of support for each option_
 
-![](score_label.png#width-80)
+![](score_label.png)
 
 Use Score poll when you want to survey people for their desire, preference or interest in each option. 
 
 'Anonymous voting' and 'Shuffle options' settings are common for Score poll to reduce any voting bias.
 
-![](score_options.png#width-80)
+![](score_options.png)
 
 Participants are asked to evaluate each option and assign a score by moving a slider along a scale.
 
-![](score_voting.png#width-80)
+![](score_voting.png)
 
 Results are displayed graphically along with a table for each option showing total points, mean points and the number of voters.
 
-![](score_results.png#width-80)
+![](score_results.png)
 
 Examples:
 
@@ -84,21 +84,21 @@ Examples:
 
 _Allocate a budget of points to reveal priorities_
 
-![](dot_vote_label.png#width-80)
+![](dot_vote_label.png)
 
 This poll type is useful for groups trying to allocate a limited resource to a number of options.  It goes beyond a simple poll by helping participants appreciate there is a constraint when selecting options.
 
-![](dot_vote_options.png#width-80)
+![](dot_vote_options.png)
 
 Participants are each given a set number of dots.  You decide how many.
 
-![](dot_vote_voting.png#width-80)
+![](dot_vote_voting.png)
 
 They place dots next to options presented that they like.  Participants can place all their dots on a single option or spread over multiple options.  
 
 As participants allocate dots, they may exceed the dot budget limit and so are encouraged to consider how they spend their dots carefully.
 
-![](dot_vote_results.png#width-80)
+![](dot_vote_results.png)
 
 Options with the most dots “win”.  The results table provides additional data to help you analyse results.
 - % of points
@@ -116,7 +116,7 @@ Examples:
 
 _Understand the ordered preference of options_
 
-![](ranked_choice_label.png#width-80)
+![](ranked_choice_label.png)
 
 Ranked choice is particularly useful when you have a large number of options or holding an election. 
 
@@ -124,15 +124,15 @@ This poll type offers a series of options for people to vote in their preferred 
 
 'Anonymous voting' and 'Shuffle options' settings are common for Ranked choice to reduce any voting bias.
 
-![](ranked_choice_options.png#width-80)
+![](ranked_choice_options.png)
 
 You can choose the number of votes people can give and rank. 
 
-![](ranked_choice_voting.png#width-80)
+![](ranked_choice_voting.png)
 
 Voters drag and drop options in order of preference (#1 being your most preferred option). 
 
-![](ranked_choice_results.png#width-80)
+![](ranked_choice_results.png)
 
 Results are showed in ranked order. The results table provides additional data to help you analyse results.
 - Rank
