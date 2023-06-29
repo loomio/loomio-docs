@@ -119,7 +119,7 @@ Use this option to make a group and it's threads available to anyone as read-onl
 
 ### Privacy settings of trial groups
 
-Group privacy settings cannot be change for a group in trial. 
+Group privacy settings cannot be changed for a group in trial. 
 
 ---
 
