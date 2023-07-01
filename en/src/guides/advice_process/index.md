@@ -75,5 +75,3 @@ When everyone has offered advice, or the proposal closes, Takashi makes a decisi
 The outcome is a clear statement of the decision made, what will happen next, and becomes an important record for the organization.
 
 ![](advice_step4_outcome.png)
-
-***NOTE** The Advice proposal template is not yet released.  However you can create your own poll templates with [New poll type](https://help.loomio.com/en/user_manual/polls/proposal_types/index.html#new-poll-type).
