@@ -1,9 +1,5 @@
 # New poll template
 
-*Note, this page is currently being updated with new poll templates. Some descriptions and screenshots may differ from the current software version.*
-
----
-
 ## Introducing proposal templates
 
 We’re delighted to introduce a big update to proposal templates in Loomio.
