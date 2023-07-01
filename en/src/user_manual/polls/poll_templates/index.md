@@ -1,4 +1,4 @@
-# New poll template
+# Custom templates
 
 ## Introducing proposal templates
 
