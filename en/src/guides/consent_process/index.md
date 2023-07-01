@@ -95,5 +95,3 @@ Now Chloe seeks consent to adopt the policy by running a Consent proposal.
 Once all objections are integrated, consent has been reached and Chloe states the decision outcome :-)
 
 ![](consent_step7_outcome.png)
-
-***NOTE** The Consent and Questions round proposal templates are not yet released.  However you can create your own poll templates with [New poll type](https://help.loomio.com/en/user_manual/polls/proposal_types/index.html#new-poll-type).
