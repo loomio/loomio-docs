@@ -10,8 +10,9 @@ Loomio now includes a series of predefined proposal templates for common decisio
 
 The proposal templates are part of the scaffolding used to run a process. You can edit the templates to suit your particular needs, create new templates, or remove and rearrange templates to customize the experience for your organization.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/at--PUMjXfo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<div class="iframe-container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/at--PUMjXfo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 You will find more proposal and poll templates under the tabs:
 - Poll - Simple poll, Score poll, Dot vote, Ranked choice
