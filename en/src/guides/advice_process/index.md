@@ -15,7 +15,7 @@ Seek advice on a decision you need to make, with the advice of people impacted o
 ### Steps in the Advice process
 1. You notice a problem or opportunity and take the initiative.
 2. Seek input to sound out perspectives before proposing action - start a Loomio **thread**.
-3. Make a proposal and seek advice - run an **Advice proposal***.
+3. Make a proposal and seek advice - run an **Advice proposal**.
 4. Taking advice received into account, you make a decision and inform the people who have given advice - state an **outcome**.
 
 ### Benefits
@@ -50,7 +50,7 @@ Takashi starts a Loomio thread with a clear statement of the decision he needs t
 
 ### Step 3. Make a proposal and seek advice
 
-Following a short discussion, Takashi runs an **Advice proposal** clearly stating the decision he needs to make.  
+Following a short discussion, Takashi runs an **[Advice proposal](https://help.loomio.com/en/user_manual/polls/proposals/index.html#advice-proposal)** clearly stating the decision he needs to make.  
 
 Takashi says why this decision is important now and asks for advice; asking Mary a specific question about budget. 
 
@@ -70,7 +70,7 @@ As people offer advice and comments, the proposal results are updated showing pr
 
 ### Step 4. Make a decision with advice and inform people
 
-When everyone has offered advice, or the proposal closes, Takashi makes a decision and states the **outcome**.
+When everyone has offered advice, or the proposal closes, Takashi makes a decision and states the **[outcome](https://help.loomio.com/en/user_manual/polls/outcomes/index.html)**.
 
 The outcome is a clear statement of the decision made, what will happen next, and becomes an important record for the organization.
 
