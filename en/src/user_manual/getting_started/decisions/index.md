@@ -29,6 +29,8 @@ Check out these common decision making processes and how to apply these within L
 
 - [Raise Recruiting Teal Operating System](https://teal.raiserecruiting.com/)
 
+- [Greaterthan Handbook](https://handbook.greaterthan.works/)
+
 - [Enspiral Decisions Agreement](https://handbook.enspiral.com/agreements/decisions) 
 
 - [The Loomio Co-op Handbook](https://www.loomio.coop/#the-loomio-co-op-handbook)
