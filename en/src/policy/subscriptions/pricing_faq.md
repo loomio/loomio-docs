@@ -68,7 +68,7 @@ After 30 days from cancellation, your group and all content will be deleted from
 ## Problems, enhancements, feature requests and complaints
 
 ### I want to request a new feature or enhancement
-We listen to our customers and your Loomio experience today is significantly influenced by people just like you.  New feature request priority are assessed alongside our development roadmap, other customer requests and value to other Loomio users. 
+We listen to our customers and your Loomio experience today is significantly influenced by people just like you.  New feature request priority is assessed alongside our development roadmap, other customer requests and value to other Loomio users.  Some of our larger customers pay for blocks of developer time to accelerate development of certain features.  This is a good indication of how important the feature is, however we still have to balance this with the needs of all our customers and our market focus.  
 Please submit your request via our [Contact form](https://www.loomio.com/contact) and tell us why this is important to you.
 
 ### I am experiencing a problem. What should I do?
