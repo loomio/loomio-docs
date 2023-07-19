@@ -1,7 +1,7 @@
 # Advice process
 
 ![Photo by Nadir sYzYgY on Unsplash](nadir-syzygy-den6gTowZKs-unsplash.jpg)
-*Photo by <a href="https://unsplash.com/@nadir_syzygy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nadir sYzYgY</a> on <a href="https://unsplash.com/s/photos/advice?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>*
+*Photo by Nadir sYzYgY on Unsplash*
 
 Seek advice on a decision you need to make, with the advice of people impacted or who have expertise, so you can make a better decision for your organization.
 
