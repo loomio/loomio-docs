@@ -25,36 +25,34 @@ Or you can start typing and existing tags will appear for you to add.
 
 Only admins of the parent group can create tags for the parent group and any subgroup. 
 
-Find Category tags on your parent group page.
+You can create a tag when you start or edit a thread or poll. Type in the name of the new tag and 'Enter'.
 
-![](tags_find.png)
+![create new tag](tags_create_new.png)
 
-Click **New tag** to add a new tag.
+![new tag created](tags_created_new.png)
 
-![](tags_new.png)
-
-Type the tag name and select a color, then **Save**.
-
-![](tags_new_save.png)
-
-### Add tag within a thread
-
-To add a tag, go to the 'tag +' icon to the right of the page.
-
-![](tags_add_new.png)
-
-Follow the same process as above to create a tag.
-
-When creating tags, use familiar category names - for example; AGM, Board meeting, Finance, Members, Legal...
+When creating tags, use familiar category names that members of your group will easily recognize - for example; AGM, Board meeting, Finance, Members, Legal...
 
 ## Edit tags
 
-To edit the tag use the pencil icon.
+You can change the color of a tag. Go to your group page and select **Category tags** from the Settings menu.
 
-You can change the order that tags are displayed by dragging the tag to the position you want. 
+![edit category tags](tags_edit_new.png)
 
-![](tags_new_tag.png)
+Select the pencil icon to change the tag color and click Save.
 
-To change the tag of an existing thread, go to the thread and click the Edit thread pencil icon.
+![edit category tags](tags_edit_new_pencil.png)
+
+![edit tag color](tags_edit_color.png)
+
+You can change the order that tags are displayed by dragging the tag handle, on the left of the tag name. 
+
+![rearrange category tag display](tag_handle_move.gif)
+
+### Edit tag in thread or poll
+
+To change the tag of an existing thread, go to the thread and click the edit thread pencil icon.
+
+Click the x on the tag to remove it, and add or create tags as described above.
 
 ![](tags_edit.png)
