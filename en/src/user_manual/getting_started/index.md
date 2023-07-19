@@ -32,7 +32,7 @@ Read on if you are starting and administering a Loomio group.
 
 [Threads](https://help.loomio.com/en/user_manual/threads/intro_to_threads/index.html) for help starting, using and administering threads.
 
-[Proposals and polls](https://help.loomio.com/en/user_manual/polls/intro_to_decisions/index.html) for use proposals and polls to engage your group, make a decision and use a particular decision process.
+[Proposals and polls](https://help.loomio.com/en/user_manual/polls/intro_to_decisions/index.html) for how to use proposals and polls to engage your group, make a decision and use a particular decision process.
 
 [Making decisions](https://help.loomio.com/en/user_manual/getting_started/decisions/index.html) can help you get started with collaborative decision making in your group.  It outlines how to  make decisions in Loomio and introduces a [simple decision process](https://help.loomio.com/en/user_manual/polls/decisions/index.html).  See this section for how to use Loomio for:
 - [Advice process](https://help.loomio.com/en/guides/advice_process/index.html)
