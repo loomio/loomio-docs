@@ -15,7 +15,7 @@ On your group page, click on **tags** to see the category tags used in your grou
 
 Tags can be applied by any member of the group or subgroup to threads and polls.  Tags are applied when you start or edit a thread or poll.
 
-![](tags_add.png)
+![](tags_add_new.png)
 
 Click on the tags field to display a list of the current tags in your group.  Click a tag to add to the thread.
 
@@ -55,4 +55,4 @@ To change the tag of an existing thread, go to the thread and click the edit thr
 
 Click the x on the tag to remove it, and add or create tags as described above.
 
-![](tags_edit.png)
+![edit tags in thread](tags_thread_edit.png)
