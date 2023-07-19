@@ -5,7 +5,7 @@
 - [Create tags](#create-tags)
 - [Edit tags](#edit-tags)
 
-Category tags make it easy to find threads of a certain type or topic.
+Category tags make it easy to find threads and polls of a certain type or topic.
 
 On your group page, click on **tags** to see the category tags used in your group.  Note that alongside each tag name is the number of threads with this tag.
 
@@ -13,11 +13,15 @@ On your group page, click on **tags** to see the category tags used in your grou
 
 ## Apply tags
 
-Tags can be applied by any member of the group or subgroup to threads and polls.  Tags are applied when you start or edit a thread or poll.
+Tags can be applied by any member of the group or subgroup to threads and polls.  
+
+Tags are applied when you start or edit a thread or poll.
 
 ![](tags_add_new.png)
 
-Click on the tags field to display a list of the current tags in your group.  Click a tag to add to the thread.
+Click on the tags field to display a list of the current tags in your group.  
+
+Click a tag to add to the thread.
 
 Or you can start typing and existing tags will appear for you to add. 
 
