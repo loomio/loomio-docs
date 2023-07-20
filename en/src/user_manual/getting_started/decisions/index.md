@@ -1,7 +1,7 @@
 # Making decisions
 
-![](hannah-busing-Zyx1bK9mqmA-unsplash.jpg)
-*Photo by <a href="https://unsplash.com/@hannahbusing?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Hannah Busing</a> on <a href="https://unsplash.com/s/photos/group-decision-making?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>*
+![photo of the hands of a group of people coming together](hannah-busing-Zyx1bK9mqmA-unsplash.jpg)
+*Photo by Hannah Busing on Unsplash*
 
 Including people in decision making leads to better decisions, and better outcomes;
 - People are well-informed and can exercise their voice,
