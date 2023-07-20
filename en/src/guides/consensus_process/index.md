@@ -2,6 +2,8 @@
 
 ![Photo by Aaron Burden on Unsplash](aaron-burden-NXt5PrOb_7U-unsplash.jpg)
 
+*Photo by Aaron Burden on Unsplash*
+
 Reach collective agreement with everyone involved.
 
 Build consensus for a decision you need to make together, to reach an agreement that satisfies the needs and concerns of all participants.
