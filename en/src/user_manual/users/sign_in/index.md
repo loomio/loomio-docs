@@ -17,7 +17,7 @@ You won’t need a password and your computer will remember you in future.
 
 You will need to provide an email address to make sure your Loomio user account is yours.
 
-- ***Tip**: Use an email address that is uniquely yours, so other group members will easily recognize you and know that your comments are from you.  To avoid confusion, do not use shared and role based email addresses like info@... or ceo@... where more than one person can access the account.*
+> **Tip**: Use an email address that is uniquely yours, so other group members will easily recognize you and know that your comments are from you.  To avoid confusion, do not use shared and role based email addresses like info@... or ceo@... where more than one person can access the account.
 
 If you have any problem signing in to Loomio, you can always regain access with the email address you used when you set up your Loomio account.
 
@@ -25,7 +25,7 @@ If you have any problem signing in to Loomio, you can always regain access with 
 
 You may receive an invitation to join a Loomio group via your email inbox:
 
-![](email_invitation_1.png#width-50)
+![](email_invitation_1.png#width-80)
 
 Click the **Accept invitation** button at the centre of the email.
 
