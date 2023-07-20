@@ -1,6 +1,6 @@
 # Consent process
 
-![](better_collaboration.jpg)
+![photo of people collaborating](better_collaboration.jpg)
 
 Make a decision that is ‘safe to try’, without objections.
 
