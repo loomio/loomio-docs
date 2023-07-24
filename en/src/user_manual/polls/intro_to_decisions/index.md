@@ -17,12 +17,6 @@ Open the thread, scroll to the **Add Comment** bar and click on the **Run Proces
 
 ![](process_run.png)
 
-### Standalone proposal or poll
-
-You can also run a standalone proposal or poll from your group page, from the **Polls** tab on your group page. Click on **New Poll** and select your proposal or poll template.
-
-![](standalone_poll.png)
-
 ## Templates
 
 Loomio includes a series of predefined templates for common decision processes such as; Advice process, Consent process and Consensus. 
