@@ -7,7 +7,25 @@ Loomio proposals and polls help you involve people in decisions.  They are used 
 - Set a deadline, prompt people who haven’t participated, and state an outcome
 - Apply decision making processes that work for your organization
 
-Loomio includes a series of predefined proposal templates for common decision processes such as; Advice process, Consent process and Consensus. 
+## Run a proposal or poll
+
+### Within a thread
+
+You can start a proposal or poll within a thread to run a decision process or progress a discussion. 
+
+Open the thread, scroll to the **Add Comment** bar and click on the **Run Process** tab, select a proposal or poll template.
+
+![](process_run.png)
+
+### Standalone proposal or poll
+
+You can also run a standalone proposal or poll from your group page, from the **Polls** tab on your group page. Click on **New Poll** and select your proposal or poll template.
+
+![](standalone_poll.png)
+
+## Templates
+
+Loomio includes a series of predefined templates for common decision processes such as; Advice process, Consent process and Consensus. 
 
 The proposal templates are the scaffolding to run a process. You can edit the templates to suit your particular needs, create new templates, or remove and rearrange templates to customize the experience for your organization.
 
