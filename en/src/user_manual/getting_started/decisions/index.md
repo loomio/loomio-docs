@@ -27,7 +27,7 @@ Check out these common decision making processes and how to apply these within L
 
 ## Examples of organizations practicing inclusive decision making
 
-- [Raise Recruiting Teal Operating System](https://teal.raiserecruiting.com/)
+- [Raise Teal Operating System](https://teal.raiserecruiting.com/)
 
 - [Greaterthan Handbook](https://handbook.greaterthan.works/)
 
