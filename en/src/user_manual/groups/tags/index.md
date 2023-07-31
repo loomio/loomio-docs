@@ -39,15 +39,23 @@ When creating tags, use familiar category names that members of your group will 
 
 ## Edit tags
 
-You can change the color of a tag. Go to your group page and select **Category tags** from the Settings menu.
+Only admins can edit tags.  Admins of a subgroup can edit tags in the subgroup, and admins of the parent group can edit tags in the parent group and any subgroup.   
+
+Go to your group page and select **Category tags** from the Settings menu.
 
 ![edit category tags](tags_edit_new.png)
 
-Select the pencil icon to change the tag color and click Save.
+Select the pencil icon to edit or delete the tag.
 
 ![edit category tags](tags_edit_new_pencil.png)
 
-![edit tag color](tags_edit_color.png)
+Edit the tag name and color and click **Save**.
+
+![edit tag color](tags_edit_name.png)
+
+Or click **Delete** to remove the tag from all threads in the group.
+
+![delete tag](tags_delete.png)
 
 You can change the order that tags are displayed by dragging the tag handle, on the left of the tag name. 
 
