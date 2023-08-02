@@ -1,25 +1,11 @@
-# Using polls and proposals
+# Settings
 
 *On this page*
-- [Run a proposal or poll](#run-a-proposal-or-poll)
+- [Setting up a proposal or poll](#setting-up-a-proposal-or-poll)
 - [Advanced settings](#advanced-settings)
 - [Managing polls](#managing-polls)
 
-## Run a proposal or poll
-
-### Within a thread
-
-You can run a proposal or poll within a thread to run a decision process or progress a discussion. 
-
-Open the thread, scroll to the **Add Comment** bar and click on the **Run Process** tab, select a proposal or poll template.
-
-![](process_run.png)
-
-### Standalone proposal or poll
-
-You can also run a standalone proposal or poll from your group page, from the **Polls** tab on your group page. Click on **New Poll** and select your proposal or poll template.
-
-![](standalone_poll.png)
+## Setting up a proposal or poll
 
 ### Proposal and poll templates
 
