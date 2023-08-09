@@ -4,7 +4,9 @@
 
 *Photo by Nadir sYzYgY on Unsplash*
 
-Seek advice on a decision you need to make, with the advice of people impacted or who have expertise, so you can make a better decision for your organization.
+Seek advice on a decision you need to make.
+
+Make a decision with the advice of people impacted or who have expertise, so you can make a better decision for your organization.
 
 > *“With the advice process, any person can make any decision but must seek advice from affected parties and people with expertise.” - Frederick Laloux, Reinventing Organizations.*
 
@@ -14,10 +16,10 @@ Seek advice on a decision you need to make, with the advice of people impacted o
 - Take into account other people’s voices.
 
 ### Steps in the Advice process
-1. You notice a problem or opportunity and take the initiative.
-2. Seek input to sound out perspectives before proposing action - start a Loomio **thread**.
-3. Make a proposal and seek advice - run an **Advice proposal**.
-4. Taking advice received into account, you make a decision and inform the people who have given advice - state an **outcome**.
+You notice a problem or opportunity and take the initiative.
+1. Seek input to sound out perspectives before proposing action - start a Loomio **thread**.
+2. Make a proposal and seek advice - run an **Advice proposal**.
+3. Taking advice received into account, you make a decision and inform the people who have given advice - state an **outcome**.
 
 ### Benefits
 - Advice helps you make a better decision for your organization. 
@@ -35,7 +37,7 @@ Seek advice on a decision you need to make, with the advice of people impacted o
 
 ## Example of an Advice process on Loomio
 
-### Step 1 - You notice a problem or opportunity and take the initiative.
+### Step 0 - You notice a problem or opportunity and take the initiative.
 
 Is the problem or opportunity is worth pursuing?  Takashi is experiencing problems with his old computer, and it crashed during a recent presentation.
 
@@ -43,13 +45,13 @@ Is there a decision to be made?  It's time to replace the computer.
 
 Does it impact other people and your organization?  Takashi's colleagues want him to perform his role effectively, not waste time in meetings, and so appreciate he needs a working computer.  Purchase of a piece of equipment also impacts on the organization budget, purchasing policies and may need to be aligned with other team members.
 
-### Step 2. Seek input to sound out perspectives before proposing action
+### Step 1. Seek input to sound out perspectives before proposing action
 
 Takashi starts a Loomio thread with a clear statement of the decision he needs to make.  He provides some context to open a discussion, that he is starting an advice process.
 
 ![](advice_step2_thread.png)
 
-### Step 3. Make a proposal and seek advice
+### Step 2. Make a proposal and seek advice
 
 Following a short discussion, Takashi runs an **[Advice proposal](https://help.loomio.com/en/user_manual/polls/proposals/index.html#advice-proposal)** clearly stating the decision he needs to make.  
 
@@ -69,7 +71,7 @@ As people offer advice and comments, the proposal results are updated showing pr
 
 ![](advice_step3_voting.png)
 
-### Step 4. Make a decision with advice and inform people
+### Step 3. Make a decision with advice and inform people
 
 When everyone has offered advice, or the proposal closes, Takashi makes a decision and states the **[outcome](https://help.loomio.com/en/user_manual/polls/outcomes/index.html)**.
 
