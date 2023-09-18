@@ -26,7 +26,7 @@ We depend on the support of our user community to help translate Loomio (the app
 
 If you would like to help translate Loomio..
 
-1. Visit the [Loomio Transifex page](https://www.transifex.com/projects/p/loomio-1/), and select your language
+1. Visit the [Loomio Transifex page](https://app.transifex.com/rdbartlett/loomio-1/dashboard/), and select your language
 
 2. Select the resource you want to translate
   - Client is the front end code that your browser runs.
