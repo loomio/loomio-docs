@@ -4,9 +4,6 @@
 ### How do I buy a subscription?
 Start a Loomio group (if you have not already done so) from this page: [Try Loomio](https://www.loomio.com/try). Your group will start on a 7 day free trial on the service of your choice.
 
-### What support do I get with Loomio Pro?
-Our Loomio Pro plan offers a dedicated Loomio expert to help you set up and optimize Loomio for success in your organization. Starting with an initial one hour video call, we schedule regular follow-ups to check in on your needs, introduce new features and offer tips to get the most from Loomio. Pro plan customers receive priority support all year round, to answer questions, help onboard new people and more. [Find out more about Loomio Pro support and training](https://help.loomio.com/en/policy/subscriptions/pro_support)
-
 ### Can I upgrade to Loomio Pro after purchasing Loomio Starter?
 You can upgrade at any time and we will automatically apply a prorated credit for any pre-paid subscription fees.
 

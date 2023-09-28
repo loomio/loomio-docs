@@ -89,7 +89,6 @@
 - [Subscription plans](policy/subscriptions/pricing.md)
 - [Customer FAQs](policy/subscriptions/pricing_faq.md)
 - [Subscription management](policy/subscriptions/management/index.md)
-- [Training and Support](policy/subscriptions/pro_support/index.md)
 ---
 
 # Policies
