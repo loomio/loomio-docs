@@ -67,17 +67,7 @@ Pro plan includes:
 - Up to 10 groups and 2,000 users
 - Unlimited subgroups
 - All discussion, decision and facilitation features
-- Training and setup support from Loomio
 - Priority helpdesk
-
-Loomio Pro plan offers a dedicated Loomio expert to help you set up and optimize Loomio for success in your organization.
-
-Starting with an initial one hour video call, we schedule regular follow-ups to check in on your needs, introduce new features and offer tips to get the most from Loomio.
-
-Pro plan customers receive priority support all year round, to answer questions, help onboard new people and more.
-
-[Find out more about Loomio Pro support and training](
-https://help.loomio.com/en/policy/subscriptions/pro_support/)
 
 ## Loomio Pro Nonprofit plan
 Loomio Pro Nonprofit plan is available to nonprofit organizations validated via our partner [TechSoup Global Network](https://www.techsoup.org/).
@@ -94,17 +84,7 @@ Pro Nonprofit plan includes:
 - Up to 10 groups and 2,000 users
 - Unlimited subgroups
 - All discussion, decision and facilitation features
-- Training and setup support from Loomio
 - Priority helpdesk
-
-Loomio Pro Nonprofit plan offers a dedicated Loomio expert to help you set up and optimize Loomio for success in your organization.
-
-Starting with an initial one hour video call, we schedule regular follow-ups to check in on your needs, introduce new features and offer tips to get the most from Loomio.
-
-Pro Nonprofit plan customers receive priority support all year round, to answer questions, help onboard new people and more.
-
-[Find out more about Loomio Pro support and training](
-https://help.loomio.com/en/policy/subscriptions/pro_support/)
 
 ## Community plan
 We encourage community and volunteer groups with a special price.
