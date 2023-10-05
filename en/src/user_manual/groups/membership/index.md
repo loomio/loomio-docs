@@ -87,14 +87,14 @@ Follow up on people who don't make it into the group and give them a nudge. If s
 
 Click on the three dots (**⋮**) next to the person you want to resend the invitation to, and then choose **Resend invitation**. 
 
+![](resend_invitation.png)
+
 ### Encourage people to participate
 
 If people join but don't begin to participate right away, you might like to welcome them to the group with an @mention, for example:
 
 > “Welcome to the group @Jane :) It's great to have you here! Would you saying a little bit about your work in this space?”
 
-
-![](resend_invitation.png)
 
 ### Cancelling invitations
 If you entered the wrong email address, or have changed your mind about inviting someone, you can cancel an invitation from the Members tab on your Group page. Select **Cancel Invitation** from the drop down menu to the right of the member invitation (**⋮**).
