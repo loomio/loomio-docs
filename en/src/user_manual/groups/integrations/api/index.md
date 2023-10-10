@@ -1,29 +1,11 @@
 # Loomio integrations API
 
-We have a simple API. With each API Key, there is a documentation page that includes working examples of how to use your API key.
+As of October 2023 we have a new API. It's very similar to the last API, except it uses normal user accounts rather than per group API keys.
 
-To view the documentation for your API key follow these steps to create an API Key for your group:
+Each user of Loomio has an API key, there is a documentation page that includes working examples of how to use your API key.
 
-## Create an API Key
+It's likely you'll have a user account just for API requests - to ensure that a user account is not invited to polls and discussions, visit the profile page and select "This is a bot account".
 
-As a group admin, on your Loomio group page, click the settings dropdown menu and then click API Keys
+## See the documentation
 
-![](find_api_keys.png)
-
-Add a new integration
-![](click_add_integration.png)
-
-Give your integration a name, and select what it will be permitted to do within your group.
-![](setup_integration.png)
-
-After you save it, you can view the documentation for your API Key
-![](find_api_docs.png)
-
-It will look something like this:
-![](api_docs_example.png)
-
-## See the documentation without an API key
-
-Here a link to the documentation, with a bogus API key. We recommend you follow the steps above to get working examples.
-
-[https://www.loomio.com/help/api?api_key=examplekey](https://www.loomio.com/help/api?api_key=examplekey)
+[https://www.loomio.com/help/api2](https://www.loomio.com/help/api2)
