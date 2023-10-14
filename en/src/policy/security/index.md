@@ -19,7 +19,7 @@ Access to data is tightly controlled and protected internally within Loomio.
 
 ## We protect your data
 
-All data are written to multiple disks instantly, backed up daily, and stored in multiple locations. Files that our customers upload are stored on servers that use modern techniques to remove bottlenecks and points of failure.
+All data are written to multiple disks instantly, backed up daily, and stored in multiple secure locations. Files that our customers upload are stored on servers that use modern techniques to remove bottlenecks and points of failure.
 
 ## Loomio is open source software
 
@@ -29,31 +29,23 @@ Loomio software is licensed under the [GNU Affero General Public License v3.0](h
 
 ## Cloud Services
 
-Loomio Limited operate cloud services using Loomio software goverened by our [Terms of Service](../terms/index.md).
+Loomio Limited operate services using Loomio software goverened by our [Terms of Service](../terms/index.md).
 
 ### LOOMIO.COM
 
-[loomio.com](https://www.loomio.com/) is our most widely used service and available globally.  Loomio.com is hosted on servers based in the USA operated by Heroku.
+[loomio.com](https://www.loomio.com/) is our most widely used service and available globally.  Loomio.com is hosted on servers based in the USA operated by DigitalOcean, LLC.
 
-Heroku is a cloud application platform used by organizations of all sizes to deploy and operate applications throughout the world. Heroku’s platform provides infrastructure management, scaling, security, monitoring and backups.
-
-Heroku applies security best practices and manages platform security, protecting customers from threats. Heroku applies security controls at every layer from physical to application, isolating applications and data, and rapidly deploys security updates without customer interaction or service interruption.
-
-More information can be found at [Heroku’s security policy](https://www.heroku.com/policy/security).
-
-Heroku utilises ISO 27001 and FISMA certified data centres managed by Amazon. You can read about security at Amazon data centres at [AWS Cloud Security](https://aws.amazon.com/security/).
+More information can be found at [DigitalOceans’s security page](https://www.digitalocean.com/security).
 
 **Backup data and Recovery**
 
-Loomio.com backup and data recovery is managed by Heroku. The software and data is automatically backed up as part of the deployment process on secure, access controlled, and redundant storage. Heroku use these backups to deploy Loomio software and data across the platform and automatically bring the application back online in the event of an outage.
-
-More information can be found at [Heroku’s security policy](https://www.heroku.com/policy/security).
+Loomio.com backup and data recovery is managed by DigitalOcean. The software and data is automatically backed up on secure, access controlled, and redundant storage.
 
 ### Regional Services 
 
 **LOOMIO.NZ**
 
-loomio.nz is a service running on Amazon Web Services (AWS) datacenters in Sydney, Australia. 
+loomio.nz is a service running in DigitalOcean's Sydney datacenter.
 
 This service is available only on request and approved for use for New Zealand Government data processing. 
 
@@ -61,7 +53,7 @@ The service holds a Tier 3 security status. For more information read New Zealan
 
 **LOOMIO.EU**
 
-loomio.eu is a service running on Amazon Web Services (AWS) datacenters in Amsterdam.
+loomio.eu is a service running in DigitalOcean's Amsterdam datacenter.
 
 ### Private host and Self-host Services
 
@@ -71,6 +63,6 @@ Loomio offers direct support for customers self-hosting Loomio.  Contact us for 
 
 Private and Self-host services ensure the highest level of security, configuration and flexibility for your organization.
 
-## Over 9 years in business.
+## Over 10 years in business.
 
 We’ve been operating loomio since 2013. Security isn’t just about technology, it’s about trust. We’ve worked hard to earn the trust of hundreds of thousands of people world wide in tens of thousands Loomio groups. We’ll continue to work hard every day to maintain that trust. Longevity and stability is core to our mission at Loomio.
