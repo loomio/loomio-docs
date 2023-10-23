@@ -1,6 +1,6 @@
 # Privacy policy
 
-*Last updated: 2021-10-08*
+*Last updated: 2022-10-24*
 
 The privacy of your data — and it is your data, not ours — is a big deal to us. In this policy, we lay out what data we collect and why, how your data is handled, and your rights to your data.
 
@@ -38,7 +38,7 @@ We use [CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA) services across our appl
 
 ### Cookies and Do Not Track
 
-We do use persistent first-party cookies to store certain preferences, make it easier for you to use our applications, and support some in-house analytics. A cookie is a piece of text stored by your browser to help it remember your login information, site preferences, and more. You can adjust cookie retention settings in your own browser. To learn more about cookies, including how to view which cookies have been set and how to manage and delete them, please visit: [www.allaboutcookies.org](https://www.allaboutcookies.org).
+We use first-party cookies to store certain preferences, make it easier for you to use our applications, and support some in-house analytics. A cookie is a piece of text stored by your browser to help it remember your login information, site preferences, and more. You can adjust cookie retention settings in your own browser. To learn more about cookies, including how to view which cookies have been set and how to manage and delete them, please visit: [www.allaboutcookies.org](https://www.allaboutcookies.org).
 
 At this time, our sites and applications do not respond to Do Not Track beacons sent by browser plugins.
 
@@ -130,11 +130,11 @@ Our design strives to provide:
 
 When it comes to discussions, comments, polls, votes, files and other records that are not user accounts, we have three functions available:
 
-- __Discard__ will remove the record from view. Discarded records are automatically deleted 90 days after they were discarded.
-- __Restore__ can be used to reverse the discard action before the 90 day period has ended, bringing a record back to its normal state.
-- __Delete__ will immediately and irreversibly delete a record. When a record is deleted, it cannot be restored.
+- __Discard__ will remove the record from view, only the author or an administrator can restore it.
+- __Restore__ can be used to reverse the discard action, bringing a record back to its normal state.
+- __Delete__ will immediately delete a record from the database. When a record is deleted, it cannot be restored.
 
-Our application database has 4 day point-in-time recovery, meaning that 4 days after you delete a record it has been completely removed from our systems and backups.
+We retain backups of our system for 60 days, meaning that 60 days after you delete a record it has been completely removed from our systems and backups.
 
 If you accidentally delete a record, we do not offer recovery from these backups.
 
