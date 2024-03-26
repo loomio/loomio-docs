@@ -1,7 +1,7 @@
 # Terms of Service
 _All the terms that you agree to when you sign up for a Loomio product._
 
-*Last updated: 2021-11-22*
+*Last updated: 2024-03-26*
 
 From everyone at Loomio, thank you for using our products! We build them to help you do your best work. There are thousands of people using Loomio products every day. Because we don't know every one of our customers personally, we have to put in place some Terms of Service to help keep the ship afloat.
 
@@ -123,7 +123,7 @@ Our total aggregate liability to you in any circumstances is limited to the tota
 ## Indemnity
 You indemnify us against all losses, costs (including legal costs), expenses, demands or liability that we incur arising out of, or in connection with, a third-party claim against us relating to your use of our services or any third-party product (except as far as we’re at fault).  
 
-Exception: The indemnity clause does not apply to New Zealand Government agencies and departments.
+Exception: The indemnity clause does not apply to US Government agencies, or New Zealand Government agencies and departments.
 
 ## Disclaimer of warranties
 The Company and its suppliers and licensors hereby disclaim all warranties of any kind, express or implied, including, without limitation, the warranties of merchantability, fitness for a particular purpose and non-infringement. Neither the Company nor its suppliers and licensors, make any warranty that the Services will be error free or that access thereto will be continuous or uninterrupted. You understand that you access, download from, or otherwise obtain content or services through, the Service at your own discretion and risk.
