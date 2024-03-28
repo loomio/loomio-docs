@@ -4,6 +4,7 @@ We use third party subprocessors, such as cloud computing providers and customer
 
 The following is a list of personal data subprocessors we use.
 
+Update 2024-03-28 - Added OpenAI to list of our subprocessors.
 Update 2023-06-28 - We've moved our main database and application servers to Digital Ocean. We no longer use Heroku.
 
 - [DigitalOcean](https://www.digitalocean.com/security/gdpr/) - Cloud computing services. The majority of our application stack is on Digital Ocean.
