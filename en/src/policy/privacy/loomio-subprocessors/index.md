@@ -11,5 +11,6 @@ Update 2023-06-28 - We've moved our main database and application servers to Dig
 - [Chargify](https://help.chargify.com/my-account/gdpr.html) - Billing and subscription management
 - [Cloudflare](https://www.cloudflare.com/gdpr/introduction/) - Security and performance
 - [Google Cloud Platform](https://cloud.google.com/security/gdpr/resource-center/) - Cloud services provider. We use Google Translate and Google account authentication on Sign in.
+- [Open AI](https://trust.openai.com/) - If you record an audio message it will be transcribed by OpenAI.
 - [Google reCAPTCHA](https://developers.google.com/recaptcha/) - Anti-bot protection.
 - [Windcave](https://sec.windcave.com/pxmi3/privacy-policy) - Creditcard payment processor
