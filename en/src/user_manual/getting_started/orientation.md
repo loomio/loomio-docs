@@ -11,10 +11,6 @@ _On this page_
 - [Threads](#threads)
 - [Polls](#poll-tab)
 
-The best way to learn about Loomio is to have a go. Use your own group or:
-- see the [demo](https://www.loomio.com/demo)
-- start a [free trial](https://www.loomio.com/g/new)
-
 ## How Loomio works
 
 Loomio is designed to help your group come together, discuss in threads and use polls to make decisions.  It has a simple structure of three main elements; Group, Threads and Polls. 
@@ -60,7 +56,7 @@ A proposal, and associated discussion, helps your group build shared understandi
 
 The best way to learn what to use when is to have a go. Use your own group or:
 - see the [demo](https://www.loomio.com/demo)
-- start a [free trial](https://www.loomio.com/g/new)
+- start a [free trial](https://www.loomio.com/try)
 
 
 ## Group page

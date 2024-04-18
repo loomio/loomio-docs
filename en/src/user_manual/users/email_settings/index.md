@@ -15,11 +15,14 @@ _On this page_
 - [Thread email settings](#thread-email-settings)
 - [Turn off all notifications](#turn-off-all-notifications)
 
+## Overview video
+
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/0Mb2_D74ktM?start=2?rel=0" frameborder="0" allowfullscreen></iframe>
 
-When you are notified, Loomio will send a notification within the app and, by default, to your email.
 
 ## Notifications in Loomio
+
+When you are notified, Loomio will send a notification within the app and, by default, to your email.
 
 The bell icon in the top-right is where notifications are accessed within the app; a number will display the number of notifications you have yet to read.
 

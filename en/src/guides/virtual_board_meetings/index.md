@@ -58,7 +58,7 @@ These steps are detailed below with some examples. It is a great way to help you
 
 ### 1. Set up your group
 
-First, [click here](https://www.loomio.com/g/new/?utm_campaign=virtual_board_guide&utm_term=help) to start a new organization on Loomio if you haven't already. If you are considering using Loomio in other parts of your organization, I suggest setting up a [subgroup](/en/user_manual/groups/subgroups) for your board.
+First, [click here](https://www.loomio.com/try/?utm_campaign=virtual_board_guide&utm_term=help) to start a new organization on Loomio if you haven't already. If you are considering using Loomio in other parts of your organization, I suggest setting up a [subgroup](/en/user_manual/groups/subgroups) for your board.
 
 Edit group settings to add your Group description, so your board understands how you plan to use Loomio.
 

@@ -45,7 +45,7 @@ They do regular check-ins to make sure that everyone is on the same page and fee
 
 ## Work better together with Loomio
 
-Groups around the world use Loomio to achieve better outcomes with less time and effort. Loomio is an all-in-one platform where you can discuss, collaborate and make decisions as a team. [Start a group on Loomio](https://www.loomio.com/g/new/?utm_campaign=guide&utm_term=help).
+Groups around the world use Loomio to achieve better outcomes with less time and effort. Loomio is an all-in-one platform where you can discuss, collaborate and make decisions as a team. [Start a group on Loomio](https://www.loomio.com/try/?utm_campaign=guide&utm_term=help).
 
 
 > “Loomio has led to better decisions, higher engagement, fewer meetings, and faster implementation.” —James Bloemendal, Ian Martin Group, Canada

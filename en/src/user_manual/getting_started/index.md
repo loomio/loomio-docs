@@ -12,6 +12,12 @@ Watch this video for an intro to Loomio (8:45). We walk through how people use L
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/itXYid8eSiI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+## Try it out
+
+The best way to learn about Loomio is to have a go.
+- see the [demo](https://www.loomio.com/demo)
+- start a [free trial](https://www.loomio.com/try)
+
 ## Getting started with Loomio
 
 If you are new to Loomio, go to the [orientation tour](https://help.loomio.com/en/user_manual/getting_started/orientation.html) to see how it works and how to navigate around the app. 
@@ -55,7 +61,7 @@ See the [Good Governance Guide to Loomio](https://help.loomio.com/en/guides/boar
 
 Loomio builds a living record of your organization; the decisions made, who was involved and the discussion leading up to the decision. 
 
-### Example threads
+## Example threads
 
 Here are some examples of common threads used by organizations around the world.
 
@@ -63,6 +69,6 @@ Here are some examples of common threads used by organizations around the world.
 
 [Approve a document, policy or agreement](https://help.loomio.com/en/user_manual/threads/examples/index.html#approve-a-document) - to introduce, discuss and develop an important piece of work.
 
-### View and interact with a Loomio demo group
+## View and interact with a Loomio demo group
 
 [Try the Loomio demo group here.](https://www.loomio.com/demo)

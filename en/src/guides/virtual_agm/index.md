@@ -45,7 +45,7 @@ You’ll be able to get your organization started with Loomio in 10 minutes with
 
 ### 1. Set up your group
 
-First, [click here to start a new organization on Loomio](https://www.loomio.com/g/new/ "open in new tab") if you haven't already. If you are considering using Loomio in other parts of your organization, we suggest setting up a [subgroup](/en/user_manual/groups/subgroups/#add-a-subgroup/ "open in new tab").
+First, [click here to start a new organization on Loomio](https://www.loomio.com/try/ "open in new tab") if you haven't already. If you are considering using Loomio in other parts of your organization, we suggest setting up a [subgroup](/en/user_manual/groups/subgroups/#add-a-subgroup/ "open in new tab").
 
 A Loomio group is a secure online place for your members, which helps you increase communication and continue work between meetings, connecting your members wherever they are and at a time that suits them.
 

@@ -4,7 +4,7 @@
 - [Create new user account](#create-new-user-account)
 - [Sign in on phone or tablet](#sign-in-on-phone-or-tablet)
 - [Returning to Loomio](#returning-to-loomio)
-- [Add Loomio to your phone home screen](#add-loomio-to-your-phone-home-screen)
+- [Add Loomio to your phone](#add-loomio-to-your-phone)
 - [Troubleshooting](#troubleshooting)
 
 ## Create new user account
@@ -21,7 +21,7 @@ You will need to provide an email address to make sure your Loomio user account 
 
 If you have any problem signing in to Loomio, you can always regain access with the email address you used when you set up your Loomio account.
 
-### Invitation via email
+## Invitation via email
 
 You may receive an invitation to join a Loomio group via your email inbox:
 
@@ -122,22 +122,7 @@ If you have previously signed in to Loomio you can:
 
 If you are not signed into Loomio, you will be asked to sign in. 
 
-### Returning to Loomio after some time
-
-If you are returning to Loomio after some time, or signing in to Loomio on a new device, you may need to sign in again.
-
-You can sign in to Loomio from our website at [loomio.com](https://www.loomio.com/) with **Sign in** or by going directly to the Loomio service you are using; [loomio.com](https://www.loomio.com/dashboard), [loomio.eu](https://loomio.eu/dashboard) or [loomio.nz](https://loomio.nz/dashboard).
-
-![](return_sign_in.png#width-80)
-
-**Remember to enter the email address you used when you set up your Loomio account:**
-- Type in your email address and tap **CONTINUE WITH EMAIL**.
-- On the next page tap **SIGN IN VIA EMAIL**. Loomio will send an email to your email address with a 6 digit code.  
-- Go to your email inbox and open the email from Loomio with subject 'Sign in to Loomio'.
-- Copy the code from that email, go back to your internet browser screen and enter the code.
-- Tap **SIGN IN**.
-
-## Add Loomio to your phone home screen
+## Add Loomio to your phone
 
 Loomio is a mobile optimized web app and you can add the Loomio icon to your phone home screen.
 
@@ -169,7 +154,7 @@ Tap the menu icon (3 dots in upper right-hand corner) and tap Add to homescreen.
 
 The Loomio icon will appear on your home screen.
 
-### Tap the Loomio icon on your homescreen to open Loomio
+### Sign in for the first time
 
 The first time you do this, you will need to sign in to Loomio.
 - Enter your email address and tap 'CONTINUE WITH EMAIL'

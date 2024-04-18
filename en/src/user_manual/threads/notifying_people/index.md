@@ -169,7 +169,3 @@ Click **Subscribe** to watch the thread for any activity.  All further activity 
 
 ![](thread_interact.png)
 
-
-## React
-
-

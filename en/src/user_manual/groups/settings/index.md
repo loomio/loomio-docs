@@ -6,7 +6,7 @@
 - [Permissions](#permissions)
 - [Threads](#thread-settings)
 
-In group settings you can change group name, add a group description, upload a photo or image for your group, change group privacy and member permissions, and set thread view default. Only people who are 'admin' can see and edit group settings. 
+In group settings you can change group name, add a group description, upload a photo or image for your group, change group privacy and member permissions, and set thread view default. Only people who are 'admin' can see and edit group settings.
 
 On your group page, find and click on the **Edit group settings** cogwheel icon to open Group settings and use the form that appears (click save when done). 
 
@@ -87,11 +87,11 @@ Open groups may contain secret and closed subgroups.
 
 A member of an open group can see that a closed subgroup exists, but not secret subgroups.
 
-### Open group privacy - How do people join?
+### How do people join?
 
 ![](settings_open_group.png#width-90)
 
-#### Anyone can join 
+#### Anyone can join
 
 In open groups use this option if you want anyone on the internet to be able to join without restriction by clicking the 'Join group' button.  A Loomio user account is required to participate.  If the person joining does not already have a Loomio user account, they will be invited to create one.
 
@@ -135,53 +135,51 @@ Contact us if you have questions about the best permission settings for your gro
 
 ![](settings_permissions.png#width-90)
 
-### Members can invite members
+#### Members can invite members
 
 This allows everyone in your group to invite new people. When deselected only group admins will be able to invite and approve new members.
 
-### Members can invite guests
+#### Members can invite guests
 
 Allows anyone in your group to invite a guest into a particular thread or poll in the group.  A guest can only see and participate in the thread or poll they are invited to - they cannot see other threads or polls in the group.
 
 For example a board may want to invite their accountant to participate in a discussion about a financial report, so invites the accountant to the particular thread.
 
-### Members can notify everyone in group
+#### Members can notify everyone in group
 
 This allows a member to send a notification email to anyone or everyone in the group about a thread or poll.
 
-### Members can create subgroups
+#### Members can create subgroups
 
 This allows everyone in your group to create subgroups and become the admin of the subgroup. 
 
-### Members can start new threads
+#### Members can start new threads
 
 This allows everyone in your group to start new threads. 
 
-### Members can manage threads and comments
+#### Members can manage threads and comments
 
 This allows everyone in your group to edit, move, pin, tag or close threads.
 
-### Members can edit their own comments
+#### Members can edit their own comments
 
 This allows everyone in your group to edit their comments at any time. 
 
-### Members can delete their own comments
+#### Members can delete their own comments
 
 This allows everyone in your group to delete their own comments from threads.
 
-### Members can start polls
+#### Members can start polls
 
 This allows everyone in your group to start a poll within a thread. 
 
-### Admins can edit members' comments
+#### Admins can edit members' comments
 
 This allows an admin to edit content written by a member.  Use this if you need to moderate or edit comments.
 
-## Subgroup permissions
+#### Members of parent group can see private threads
 
-There is an additional permission setting available in subgroups.
-
-### Members of parent group can see private threads
+This is an additional permission setting available in __subgroups__.
 
 In closed subgroups you can allow members of the parent group to see discussions within the subgroup.  This setting is used to enable transparency of the discussions and decisions taking place within a subgroup to be visible to members of the parent group.   For example, a board that wishes to operate transparently within the organization.
 

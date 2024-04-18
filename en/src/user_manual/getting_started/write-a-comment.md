@@ -69,7 +69,7 @@ Up until the proposal closes, you can change your vote.
 
 There are many reasons why you might want to change your vote. For example if new information emerges it may cause you to rethink your decision, and change your vote.
 
-#### Change your vote
+### Change your vote
 
 You can **change your vote**, up until the proposal closes.
 
