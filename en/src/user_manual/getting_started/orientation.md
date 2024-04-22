@@ -54,9 +54,7 @@ A proposal, and associated discussion, helps your group build shared understandi
 
 ![](key_concept_1.png)
 
-The best way to learn what to use when is to have a go. Use your own group or:
-- see the [demo](https://www.loomio.com/demo)
-- start a [free trial](https://www.loomio.com/try)
+The best way to learn what to use when is to have a go. Use your own group or [start a free trial](https://www.loomio.com/try)
 
 
 ## Group page

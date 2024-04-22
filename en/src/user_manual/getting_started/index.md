@@ -14,9 +14,7 @@ Watch this video for an intro to Loomio (8:45). We walk through how people use L
 
 ## Try it out
 
-The best way to learn about Loomio is to have a go.
-- see the [demo](https://www.loomio.com/demo)
-- start a [free trial](https://www.loomio.com/try)
+The best way to learn about Loomio is to [start a free trial](https://www.loomio.com/try)
 
 ## Getting started with Loomio
 
@@ -68,7 +66,3 @@ Here are some examples of common threads used by organizations around the world.
 [Prepare for a meeting](https://help.loomio.com/en/user_manual/threads/examples/index.html#prepare-for-a-meeting) - to involve people, establish a focus and co-create the agenda.
 
 [Approve a document, policy or agreement](https://help.loomio.com/en/user_manual/threads/examples/index.html#approve-a-document) - to introduce, discuss and develop an important piece of work.
-
-## View and interact with a Loomio demo group
-
-[Try the Loomio demo group here.](https://www.loomio.com/demo)

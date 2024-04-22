@@ -22,7 +22,7 @@ Translation of the user content is provided by Google Translate, and done automa
 
 ### Help translate Loomio
 
-We depend on the support of our user community to help translate Loomio (the app) into other languages.
+We appreciate the support of our user community to help translate Loomio (the app) into other languages.
 
 If you would like to help translate Loomio..
 
@@ -45,8 +45,6 @@ If you would like to help translate Loomio..
 If you have any questions, please feel free to reach out to me, rob@loomio.org and I'll be delighted to help you with any translation issues or questions you may have.
 
 ## Tips
-
-You can use a [demo](https://www.loomio.com/try) to see Loomio in action, this can help provide contexts for strings when you see them via Transifex.
 
 If your language distinguishes between personal and impersonal, use the more personal!
 
