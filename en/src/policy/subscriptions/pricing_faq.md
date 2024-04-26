@@ -2,10 +2,7 @@
 
 ## Subscription Plans
 ### How do I buy a subscription?
-Start a Loomio group (if you have not already done so) from this page: [Try Loomio](https://www.loomio.com/try). Your group will start on a 7 day free trial on the service of your choice.
-
-### Can I upgrade to Loomio Pro after purchasing Loomio Starter?
-You can upgrade at any time and we will automatically apply a prorated credit for any pre-paid subscription fees.
+Start a Loomio group (if you have not already done so) from this page: [Try Loomio](https://www.loomio.com/try). Your group will start on a 14 day free trial on the service of your choice.
 
 ### Does my organization qualify for the nonprofit discount?
 Loomio is proud to support nonprofit and member funded organisations. These organizations may be eligible to receive 25% to 50% off our plans.
@@ -22,6 +19,9 @@ Examples of organizations that qualify:
 Examples of organizations that do not qualify:
 - Government agencies
 - Commercial businesses
+- 
+### Can I upgrade to Loomio Pro after purchasing Loomio Starter?
+You can upgrade at any time and we will automatically apply a prorated credit for any pre-paid subscription fees.
 
 ## Payment
 ### What payment methods do you accept?
