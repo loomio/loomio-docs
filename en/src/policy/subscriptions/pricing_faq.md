@@ -55,7 +55,7 @@ We've been in business for more than 9 years. We have great relationships with o
 
 We work with investors who support our social mission, and are committed to ensuring we provide the highest level of privacy and protection for our customer’s data. 
 
-Our software is open source, which means anyone can download and read the code. To the best of our knowledge, we've never had an attacker steal any of our customers' data.
+Our software is open source, which means anyone can download and read the code.
 
 Loomio is based in Aotearoa, New Zealand, ranked by the World Bank and Forbes as the best country in the world to do business, as well as lacking red tape and corruption.
 
