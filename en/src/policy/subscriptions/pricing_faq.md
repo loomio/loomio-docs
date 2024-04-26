@@ -7,11 +7,21 @@ Start a Loomio group (if you have not already done so) from this page: [Try Loom
 ### Can I upgrade to Loomio Pro after purchasing Loomio Starter?
 You can upgrade at any time and we will automatically apply a prorated credit for any pre-paid subscription fees.
 
-### Does my organization qualify for the Pro Nonprofit plan?
-We love nonprofits and have created a 50% discount on the Loomio Pro plan. 
-Nonprofit organizations can upgrade to this plan for immediate subscription to Loomio. We'll then send you an email with a link to validate your organization’s nonprofit status via our partner [TechSoup](https://www.techsoup.org/loomio).
+### Does my organization qualify for the nonprofit discount?
+Loomio is proud to support nonprofit and member funded organisations. These organizations may be eligible to receive 25% to 50% off our plans.
+Nonprofit discounted pricing is available to organisations who operate as a charity, nonprofit, nongovernmental, member funded, or social change organisation.
 
-[View TechSoup's nonprofit validation criteria for your country.](https://www.techsoup.global/techsoup-local-ngo-definitions)
+Examples of organizations that qualify:
+- Community, environmental and social organizations
+- Collectives and networks
+- Political parties
+- Educational organizations
+- Cohousing organizations
+- Worker owned cooperatives
+
+Examples of organizations that do not qualify:
+- Government agencies
+- Commercial businesses
 
 ### How do I know if my group qualifies for the Community Lifetime plan?
 The Community Lifetime plan is available for community groups and organizations run by volunteers who have no full-time paid staff. 
