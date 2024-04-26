@@ -51,7 +51,7 @@ At the end of the trial period you will be asked to upgrade to a paid subscripti
 
 ## Nonprofit discount
 
-Please see [Does my organization qualify for the nonprofit discount](https://github.com/loomio/loomio-docs/blob/main/en/src/policy/subscriptions/pricing_faq.md#does-my-organization-qualify-for-the-nonprofit-discount) for details about qualifying for nonprofit pricing.
+Please see [Does my organization qualify for the nonprofit discount](/en/policy/subscriptions/pricing_faq.html#does-my-organization-qualify-for-the-nonprofit-discount) for details about qualifying for nonprofit pricing.
 
 
 ## Need something else?
