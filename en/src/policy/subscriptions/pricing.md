@@ -51,22 +51,7 @@ At the end of the trial period you will be asked to upgrade to a paid subscripti
 
 ## Nonprofit discount
 
-Loomio is proud to support nonprofit organisations. Nonprofits may be eligible to receive 25% to 50% off our plans. 
-
-Nonprofit discounted pricing is available to organisations who operate as a charity, nonprofit, nongovernmental, member funded, or social change organisation.
-
-Examples of organizations that qualify:
-- Community, Environmental and Social organizations
-- Collectives focused on Art or Activism
-- Political parties
-- Early childhood, primary schools and high schools
-- Cohousing organizations
-- Worker owned cooperatives
-
-Examples of organizations that do not qualify:
-- Government agencies
-- Commerical businesses
-
+Please see [Does my organization qualify for the nonprofit discount](https://github.com/loomio/loomio-docs/blob/main/en/src/policy/subscriptions/pricing_faq.md#does-my-organization-qualify-for-the-nonprofit-discount) for details about qualifying for nonprofit pricing.
 
 
 ## Need something else?
