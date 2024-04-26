@@ -19,7 +19,7 @@ Examples of organizations that qualify:
 Examples of organizations that do not qualify:
 - Government agencies
 - Commercial businesses
-- 
+
 ### Can I upgrade to Loomio Pro after purchasing Loomio Starter?
 You can upgrade at any time and we will automatically apply a prorated credit for any pre-paid subscription fees.
 
