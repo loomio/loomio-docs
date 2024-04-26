@@ -23,11 +23,6 @@ Examples of organizations that do not qualify:
 - Government agencies
 - Commercial businesses
 
-### How do I know if my group qualifies for the Community Lifetime plan?
-The Community Lifetime plan is available for community groups and organizations run by volunteers who have no full-time paid staff. 
-When you upgrade to this plan we will ask you to make a declaration that your group has no full-time staff.
-If you are in doubt, ask “am I being paid by my organization to do this work?” If yes, it’s likely a Loomio Starter or Pro plan is more appropriate for your group. We trust you to make the right decision.  
-
 ## Payment
 ### What payment methods do you accept?
 We accept all major credit or debit cards (Visa, Mastercard, American Express). All payments are processed in USD and deducted in the currency of your credit card.
