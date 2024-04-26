@@ -13,7 +13,7 @@ Our goal is to provide Loomio to as many people as possible, while also developi
 
 To sustainably work towards our vision, we have structured our pricing based on the type of organization we serve.
 
-We aim to offer a competitive price for enterprise organizations, an affordable price for businesses, nonprofit organizations, and special rates for community groups.
+We aim to offer a competitive price for enterprise organizations, an affordable price for businesses, nonprofit organizations and community groups.
 
 Loomio is open source software, and you are free to set up your own instance of Loomio for internal use in your organization.  
 
@@ -26,8 +26,10 @@ A Loomio subscription is one price per group - a subscription plan for your orga
 
 Loomio subscriptions are on a pre-pay basis and cover the use of the service for the selected subscription period.
 
+Please see our [https://www.loomio.com/pricing] pricing page for details about our available subscription plans.
+
 All plans come with:
-- 7 day free trial
+- 14 day free trial
 - Loomio group with unlimited subgroups
 - Choice of USA, EU or NZ/AU servers
 - All discussion, decision and facilitation features
@@ -41,74 +43,31 @@ All plans come with:
 ## Free trial
 All new Loomio Cloud groups start on a free trial, so you can evaluate Loomio for your organization.
 
-Free trials are for 7 days, limited to 10 people and 10 threads.
+Free trials are for 14 days, limited to 10 people and 10 threads.
 
 [Contact us](https://www.loomio.com/contact) if you wish to extend your trial.
 
 At the end of the trial period you will be asked to upgrade to a paid subscription plan.
 
-## Loomio Starter plan
-Loomio Starter plan will suit most organizations getting started with Loomio.
+## Nonprofit discount
 
-Price: $US 199.00 per year or $US 25.00 per month.
+Loomio is proud to support nonprofit organisations. Nonprofits may be eligible to receive 25% to 50% off our plans. 
 
-Starter plan includes:
-- Single Loomio group of up to 100 users
-- Unlimited subgroups
-- All discussion, decision and facilitation features
-- Self-service set up with Loomio's online guides
+Nonprofit discounted pricing is available to organisations who operate as a charity, nonprofit, nongovernmental, member funded, or social change organisation.
 
-## Loomio Pro plan
-Loomio Pro plan is for organizations looking for support to set up and optimize Loomio, administrator training and priority support.
+Examples of organizations that qualify:
+- Community, Environmental and Social organizations
+- Collectives focused on Art or Activism
+- Political parties
+- Early childhood, primary schools and high schools
+- Cohousing organizations
+- Worker owned cooperatives
 
-Price: $US 1,299.00 per year or $US 149.00 per month.
+Examples of organizations that do not qualify:
+- Government agencies
+- Commerical businesses
 
-Pro plan includes:
-- Up to 10 groups and 2,000 users
-- Unlimited subgroups
-- All discussion, decision and facilitation features
-- Priority helpdesk
 
-## Loomio Pro Nonprofit plan
-Loomio Pro Nonprofit plan is available to nonprofit organizations validated via our partner [TechSoup Global Network](https://www.techsoup.org/).
-
-Nonprofit organizations can upgrade to this plan for immediate subscription to Loomio. 
-
-You can validate your organization's nonprofit status with this link:  [Validate my organization](https://app.ngok.techsoup.org/Default.aspx?vendorAppId=bbc8a1ce-89f4-4caf-a12b-93c7608a29c1).
-
-[See this link to check TechSoup's nonprofit validation criteria for your country.](https://www.techsoup.global/techsoup-local-ngo-definitions)
-
-Price: $US 649.00 per year or $US 75.00 per month.
-
-Pro Nonprofit plan includes:
-- Up to 10 groups and 2,000 users
-- Unlimited subgroups
-- All discussion, decision and facilitation features
-- Priority helpdesk
-
-## Community plan
-We encourage community and volunteer groups with a special price.
-
-The Community plan is available for community groups and organizations run by volunteers who have **no full-time paid staff**.
-
-Price: $US 10.00 per month or $US 199.00 one-time payment.
-
-Community plan includes:
-- Single Loomio group of up to 100 users
-- Unlimited subgroups
-- All discussion, decision and facilitation features
-- Self-service set up with Loomio’s online guides
-
-The Community Lifetime option:
-- Single payment for the life of your group
-
-To access these special rates, just select the Community plan when you upgrade your group.
-
-If you are in doubt whether the Community plan applies to your group, you may ask *“am I being paid by my organization to do this work?”* If yes, it’s likely a Loomio Starter or Pro plan is more appropriate for your organization. We trust you to make the right decision.  
-
-We will check in with you once a year, near the annual renewal date of your plan, to see if you are still actively using Loomio and if your group still meets the criteria for the Community plan. If your group has acquired funding and at least one full-time staff member, we will invite you to upgrade to the Loomio Starter or Loomio Pro plan.
-
-This plan is “self-service” with limited support. However you can learn all you need to use Loomio effectively with [Loomio Help](https://help.loomio.com) which includes the user manual and guides.
 
 ## Need something else?
 Contact us to discuss pricing and configuration of Loomio for:
