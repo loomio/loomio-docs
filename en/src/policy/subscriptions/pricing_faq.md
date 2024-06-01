@@ -26,7 +26,7 @@ You can upgrade at any time and we will automatically apply a prorated credit fo
 ## Payment
 ### What payment methods do you accept?
 We accept all major credit or debit cards (Visa, Mastercard, American Express). All payments are processed in USD and deducted in the currency of your credit card.
-Payment via invoice and bank transfer is available for annual plans. Additional fees may apply.
+Payment via invoice is available for annual plans. Payment via international bank transfer is only accepted on annual Loomio Private Server plans. Additional fees may apply.
 
 ### Will I have to provide my credit card details up front if I want to start a trial only?
 No, we do not require any payment information until you choose to purchase a plan.
@@ -51,9 +51,9 @@ Our global service at loomio.com is hosted in the USA, operated by Heroku and ru
 Our regional services loomio.eu run on Amazon Web Services in the Netherlands, and loomio.nz on Amazon Web Services in Australia.
 
 ### Why should we trust Loomio?
-We've been in business for more than 9 years. We have great relationships with our customers. We're run by a worker-owned cooperative - which means the people who create Loomio also have ownership in it. 
+We've been in business for more than 10 years. We have great relationships with our customers. We're run by a worker-owned cooperative - which means the people who create Loomio also have ownership in it. 
 
-We work with investors who support our social mission, and are committed to ensuring we provide the highest level of privacy and protection for our customer’s data. 
+We work with people who support our social mission, and are committed to ensuring we provide the highest level of privacy and protection for our customer’s data. 
 
 Our software is open source, which means anyone can download and read the code.
 
