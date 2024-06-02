@@ -24,6 +24,13 @@ However if the poll is within a thread, they will also be able to see the thread
 
 ![](proposal_invite_guest.png)
 
+### Managing a subgroup of people with voting rights
+
+This is useful if you have a situation where only some people in the group should have voting rights, but you want the entire group to be able to see proposals. If you do this regularly, we recommend creating a subgroup called (for example) "Voters subgroup" and adding everyone who has voting rights to this group. Then create your proposals within your parent group, but select "Only invited people can vote", then when inviting people, enter the name of the voters subgroup.
+
+![seleting invited people only](invited-people-only.png)
+![inviting voters subgroup](invite-voters-subgroup.png)
+
 ## Engaging people when poll is running 
 
 At the bottom of the poll are several features to help you engage with people once the poll is running.
