@@ -20,7 +20,10 @@ Understand how much participation happens in your group over a given period of t
 
 The report shows how many threads, comments, polls, votes and reactions have happened per month. This is graphed so you can see ebbs and flows of usage.
 
+Click specific labels on the graph to remove them from.
+
 Click specific headings in the table to sort the table by that column.
+
 
 ### Tag usage
 
