@@ -8,7 +8,7 @@ You can find the report by clicking the group settings menu cog, as shown below.
 
 ![](participation_report_menu.png)
 
----
+## What's in the report?
 
 ![](participation_report_graph.png)
 
@@ -18,7 +18,7 @@ Understand how much participation happens in your group over a given period of t
 
 The report shows how many threads, comments, polls, votes and reactions have happened per month. This is graphed so you can see ebbs and flows of usage.
 
-### Tags
+### Tag usage
 
 This shows how frequently various tags have been applied during the specified time frame.
 
