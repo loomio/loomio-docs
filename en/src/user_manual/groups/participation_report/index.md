@@ -18,6 +18,8 @@ Understand how much participation happens in your group over a given period of t
 
 The report shows how many threads, comments, polls, votes and reactions have happened per month. This is graphed so you can see ebbs and flows of usage.
 
+Click specific headings in the table to sort the table by that column.
+
 ### Tag usage
 
 This shows how frequently various tags have been applied during the specified time frame.
@@ -25,7 +27,7 @@ This shows how frequently various tags have been applied during the specified ti
 ### Actions per user
 Understand who are the most and least active contributors in your group.
 
-This table shows how many threads, comments, polls, votes and reactions each user in the specified groups was responsible for during the time frame. You can click specific headings in the table to sort the table by that column.
+This table shows how many threads, comments, polls, votes and reactions each user in the specified groups was responsible for during the time frame. Click specific headings in the table to sort the table by that column.
 
 ### Users per country
 
