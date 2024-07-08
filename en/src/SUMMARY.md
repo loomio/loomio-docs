@@ -19,6 +19,7 @@
   - [Thread management](user_manual/groups/thread_management/index.md)
   - [Category tags](user_manual/groups/tags/index.md)
   - [Subgroups](user_manual/groups/subgroups/index.md)
+  - [Participation report](user_manual/groups/participation_report/index.md)
   - [Data export](user_manual/groups/data_export/index.md)
   - [Deleting your group](user_manual/groups/deleting_archiving/index.md)
 
