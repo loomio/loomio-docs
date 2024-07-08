@@ -1,10 +1,14 @@
 # Participation report
 
-The group participation report gives insights into the usage of your Loomio group.
+The group participation report gives insights into the usage of your Loomio group. 
+
+You're able to choose which groups to include in the report, the start and end date for the report, and the interval (year, month, week or day) for grouping results. 
+
+You can find the report by clicking the group settings menu cog, as shown below. The report is available to everyone in your group, however users can only see results for groups that they belong to, this means that different users may see slighlty different reports.
 
 ![](participation_report_menu.png)
 
-You're able to choose which groups to include in the report, the start and end date for the report, and the interval for grouping results. 
+---
 
 ![](participation_report_graph.png)
 
