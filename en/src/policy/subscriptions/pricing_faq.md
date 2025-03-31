@@ -6,6 +6,7 @@ Start a Loomio group (if you have not already done so) from this page: [Try Loom
 
 ### Does my organization qualify for the nonprofit discount?
 Loomio is proud to support nonprofit and member funded organisations. These organizations may be eligible to receive 25% to 50% off our plans.
+
 Nonprofit discounted pricing is available to organisations who operate as a charity, nonprofit, nongovernmental, member funded, or social change organisation.
 
 Examples of organizations that qualify:
@@ -46,9 +47,13 @@ However you have our promise that we'll run our loomio.com service for our custo
 Keeping customer data safe and secure is a huge responsibility and a top priority. We work hard to protect our customers from the latest threats. See [Security overview ](https://help.loomio.com/en/policy/security) for details on how we protect your data. Your input and feedback on our security is always appreciated.
 
 ### Where are Loomio cloud services hosted?
-Our global service at loomio.com is hosted in the USA, operated by Heroku and running on Amazon Web Services data center.
+Our services run within DigitalOcean datacenters.
 
-Our regional services loomio.eu run on Amazon Web Services in the Netherlands, and loomio.nz on Amazon Web Services in Australia.
+loomio.com is hosted in New York City, USA.
+
+loomio.eu is hosted in Amsterdam, Netherlands.
+
+loomio.nz is hosted in Sydney, Australia.
 
 ### Why should we trust Loomio?
 We've been in business for more than 10 years. We have great relationships with our customers. We're run by a worker-owned cooperative - which means the people who create Loomio also have ownership in it. 

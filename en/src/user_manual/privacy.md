@@ -44,31 +44,26 @@ Loomio software is constantly evolving. Software updates include release notes n
 
 ### Loomio.com
 
-#### Hosted service provider
-Heroku is a cloud application platform used by organizations of all sizes to deploy and operate applications throughout the world. Heroku’s platform provides infrastructure management, scaling, and security.
+#### Cloud services provider
+Loomio is run on top of DigitalOcean cloud computing services.
 
-Heroku applies security best practices and manages platform security, protecting customers from threats. Heroku applies security controls at every layer from physical to application, isolating applications and data, and rapidly deploys security updates without customer interaction or service interruption.
+More information on DigitalOceans security practices and certifications can be [https://www.digitalocean.com/security](https://www.digitalocean.com/security).
 
-More information can be found at [Heroku’s security policy](https://www.heroku.com/policy/security).
-
-Heroku utilises ISO 27001 and FISMA certified data centres managed by Amazon. Information about security at Amazon data centres is available [here](https://aws.amazon.com/security/).
 
 #### Backup data and Recovery
-Loomio software and data recovery are managed by Heroku. The software and data is automatically backed up as part of the deployment process on secure, access controlled, and redundant storage.  Heroku use these backups to deploy the Loomio software and data across the platform and automatically bring the application back online in the event of an outage.
+Loomio retains daily backups for 60 days. 
 
-More information can be found at [Heroku’s security policy](https://www.heroku.com/policy/security).
+When you delete you group there is a 14 day delay to allow for recovery from accidental deletion or rouge administrators. After the delay, your group and all it's data is removed from our database.
 
-#### govt.loomio.nz
+#### loomio.nz
 
-govt.loomio.nz is an instance of Loomio running on Amazon Web Services (AWS) datacenters in Sydney, Australia, which is approved for NZ Government data processing.
-
-New Zealand Cloud Security and Compliance information is available [here](https://aws.amazon.com/compliance/new-zealand-data-protection/).
+loomio.nz is an instance of Loomio running on DigitalOcean datacenters in Sydney, Australia.
 
 ## Third Party Security Assessment
 
 Loomio software and service has been assessed by:
 
-- eHealth Systems, SA Health, Government of South Australia - Security Scan (by IBM Security AppScan Standard 9.0.3, December 2018)
+- eHealth Systems, SA Health, Government of South Australia - Security Scan
 - New Zealand Government Marketplace: Loomio currently holds Tier 3 security status.  For more information, see [Marketplace.govt.nz - Cloud services security risk and assurance](https://marketplace.govt.nz/suppliers/apply-to-be-a-supplier-2/cloud-services-security-risk-and-assurance/)
 - New Zealand Government Ministry of Social Development - Cloud Computing User Assessment
 - NZTA Security Scan by Aura Information Security.
