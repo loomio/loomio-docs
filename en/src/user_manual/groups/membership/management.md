@@ -6,20 +6,21 @@
 - [Removing members](#removing-members)
 - [Leaving group](#leaving-group)
 - [Set title](#set-title)
+- [Delegated voters](#delegated-voters)
 - [Member email addresses](#member-email-addresses)
 
-Manage members from the **Members** tab on your group page. 
+Manage members from the **Members** tab on your group page.
 
-Click on the three dots (**⋮**) to the right of the group member you wish to **Set title**, **Make admin** or **Demote admin**, or **Remove from group**.
+Click on the three dots (**⋮**) to the right of the group member you wish to **Set title**, **Make admin**, **Make delegate** or **Remove from group**.
 
 ![](member_management.png)
 
 ## Administering your group
-There are only two user types in a Loomio group; **member** and **admin**. 
+There are only two user types in a Loomio group; **member** and **admin**.
 
-Admins perform administrative tasks for your group including; add and remove members, make and remove admin permissions, change group privacy and member permission settings, upgrade and manage subscription plans. Admins are also able to see the email address of invited members and to export group data. 
+Admins perform administrative tasks for your group including; add and remove members, make and remove admin permissions, change group privacy and member permission settings, upgrade and manage subscription plans. Admins are also able to see the email address of invited members and to export group data.
 
-The person creating a new Loomio group is made admin by default. We recommend to make at least one other person in your group admin, to insure someone can always administer your group. 
+The person creating a new Loomio group is made admin by default. We recommend to make at least one other person in your group admin, to insure someone can always administer your group.
 
 Admins are people you trust to administer your group. You can have as many admins in your group as you wish.
 
@@ -56,6 +57,18 @@ Within the Members tab, you can also name your role within the group, or identif
 ![](member_set_title.png)
 
 You can have different titles in different subgroups.
+
+## Delegated voters
+
+If some members of your group should have voting rights while others should not, you can use the "Make delegate" feature to identify those people with voting rights.
+![the group memberships page showing the make delegate menu action](make_delegate.png)
+
+To create a poll or proposal and only invite the delegates, use the "Invited people only" poll setting.
+![the poll form showing the invited people only option selected](invited_people_only.png)
+
+Then when inviting people to vote you will see the "Delegates of group-name" option.
+![The invtie people to vote dialog box, showing the 'Delegates of Oatmilk Co-op'](delegates_of_groupname.png)
+
 
 ## Member email addresses
 
