@@ -68,7 +68,6 @@ You can also notify the everyone in the group, by typing **\@** then typing the 
 
 When you click **reply** on a comment, the your reply will be prefilled with an @mention to the person you are replying to. In this way, a reply will notify the person you're replying to. If you remove the @mention, they will not be notified.
 
-
 ### Reactions
 
 Reacting to a comment is a great way to encourage and acknowledge a comment by letting the comment author know how you feel.  It is a quick and light-weight way to participate that does not require any text, nor send an email.
