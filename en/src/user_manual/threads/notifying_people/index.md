@@ -59,7 +59,7 @@ You can mention people in comments, threads and polls.
 
 ### Mentioning the group
 
-You can also notify the everyone in the group, by typing **\@** then typing the group name.
+You can also notify everyone in the group at once, by typing **\@** then typing the group name.
 
 ![](mentioning_group_1.png)
 ![](mentioning_group_2.png)
