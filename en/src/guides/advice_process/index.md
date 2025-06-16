@@ -1,8 +1,6 @@
 # Advice process
 
-![Photo of yoda implying sage advice](nadir-syzygy-den6gTowZKs-unsplash.jpg)
-
-*Photo by Nadir sYzYgY on Unsplash*
+![Photo of yoda implying sage advice - *Photo by Nadir sYzYgY on Unsplash*](nadir-syzygy-den6gTowZKs-unsplash.jpg)
 
 Seek advice on a decision you need to make.
 
