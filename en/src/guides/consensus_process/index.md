@@ -1,8 +1,6 @@
 # Consensus process
 
-![Photo by Aaron Burden on Unsplash](aaron-burden-NXt5PrOb_7U-unsplash.jpg)
-
-*Photo by Aaron Burden on Unsplash*
+![Photo by Aaron Burden on Unsplash *Photo by Aaron Burden on Unsplash*](aaron-burden-NXt5PrOb_7U-unsplash.jpg)
 
 Reach collective agreement with everyone involved.
 
