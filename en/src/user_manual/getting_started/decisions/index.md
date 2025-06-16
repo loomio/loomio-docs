@@ -1,9 +1,8 @@
 # Making decisions
 
-![photo of the hands of a group of people coming together](hannah-busing-Zyx1bK9mqmA-unsplash.jpg)
-*Photo by Hannah Busing on Unsplash*
+![photo of the hands of a group of people coming together - Photo by Hannah Busing on Unsplash](hannah-busing-Zyx1bK9mqmA-unsplash.jpg)
 
-Including people in decision making leads to better decisions, and better outcomes;
+Including people in decision-making leads to better decisions, and better outcomes;
 - People are well-informed and can exercise their voice,
 - More engagement and diverse input strengthens decisions, 
 - Sharing power and responsibility builds trust and buy-in, 
