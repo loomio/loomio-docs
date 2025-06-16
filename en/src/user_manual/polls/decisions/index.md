@@ -1,8 +1,6 @@
 # Simple decision process
 
-![](Loomio-retreat-decision-time-small.jpg)
-
-*Photo credit: Loomio Cooperative*
+![Photo from a Loomio retreat *Photo credit: Loomio Cooperative*](Loomio-retreat-decision-time-small.jpg)
 
 Some organizations arrive at Loomio having already developed a deep culture and practice of collaborative decision making.  Such organizations have often written handbooks and codified their practices, however, most organizations are still on the journey and looking for some helpful first steps towards making better decisions together.  If the burning question in your organization is **how do we make decisions together?**, then this guide is for you.
 
