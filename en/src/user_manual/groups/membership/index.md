@@ -63,6 +63,8 @@ Click on the "copy" icon to copy the link to your clipboard, then paste in your 
 
 ![](share_group.png)
 
+If you want to stop people from joining via the link, click "Reset this link". The existing link will no longer work and a new link will be created.
+
 ### Allow people to "Ask to join group"
 
 If your group's privacy is **Closed** then you can share your group URL ie: `www.loomio.com/group-name`. When people arrive at your group page, they will see the group title and description, and a button **Join group** where they can request membership. 
