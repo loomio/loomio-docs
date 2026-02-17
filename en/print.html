@@ -739,7 +739,7 @@ Vivien facilitates a discussion to address concerns and modify the Brand Concept
 <p>Having completed the latest version of the Brand Concept document, Vivien is now ready to seek approval from the governance board by running a Consensus proposal.</p>
 <p><img src="guides/consensus_process/consensus_step5_proposal_1.png" alt="" /></p>
 <p>Governance board members are invited to vote and approve the Brand Concept.  The board has previously agreed that proposals like this require &gt;75% of members to vote Agree for it to pass.</p>
-<p>The standard Consensus proposal includes the 'Block' voting option, however this can be removed if not appropriate.</p>
+<p>This template includes a Block option by default. Block isn't suitable for every group — it can be controversial or misused. If you don't use block in your decision-making process, we recommend editing the template to remove it.</p>
 <p><img src="guides/consensus_process/consensus_step5_proposal_2.png" alt="" /></p>
 <h3 id="step-5-outcome"><a class="header" href="#step-5-outcome">Step 5. Outcome</a></h3>
 <p>When the Consensus proposal closes, Vivien states an outcome and notifies everyone that agreement has been reached, and that work to implement the new brand will commence.</p>
@@ -2004,6 +2004,8 @@ The primary action for a task is to mark it as “done” by clicking the checkb
 <li>Seek agreement from most people</li>
 </ul>
 <p><a href="https://help.loomio.com/en/guides/consensus_process/index.html">Read more about the Consensus process</a>.</p>
+<p><strong>A note about Block</strong></p>
+<p>This template includes a Block option by default. Block isn't suitable for every group — it can be controversial or misused. If you don't use block in your decision-making process, we recommend editing the template to remove it.</p>
 <p><strong>Voting with the Consensus proposal</strong></p>
 <p><img src="user_manual/polls/proposals/proposal_consensus_voting.png" alt="" /></p>
 <p><strong>Example results</strong></p>
@@ -2143,7 +2145,85 @@ The primary action for a task is to mark it as “done” by clicking the checkb
 <li>What topics should we focus on at our next conference?</li>
 </ul>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="stv-elections"><a class="header" href="#stv-elections">STV Elections</a></h1>
-<div style="break-before: page; page-break-before: always;"></div><h1 id="quorum"><a class="header" href="#quorum">Quorum</a></h1>
+<p><strong>Single Transferable Vote (STV)</strong> is a proportional representation voting method for electing multiple winners from a field of candidates. It ensures that elected candidates proportionally represent the diversity of views among voters.</p>
+<p>STV is widely used by organizations like DSA, YDSA, cooperatives, unions, and local governments (Scotland, Ireland, Australia) to run fair multi-winner elections.</p>
+<h2 id="when-to-use-stv"><a class="header" href="#when-to-use-stv">When to use STV</a></h2>
+<p>Use an STV Election when you need to:</p>
+<ul>
+<li>Elect a <strong>committee, board, or slate of delegates</strong> from a pool of nominees</li>
+<li>Ensure <strong>proportional representation</strong> — minority factions can win seats proportional to their support</li>
+<li>Run elections where voters rank candidates by preference</li>
+</ul>
+<p>STV is <strong>not</strong> the same as Loomio's "Ranked Choice" poll, which is a simpler score-based ranking for choosing a single best option. STV handles multi-winner elections with vote transfers and elimination rounds.</p>
+<h2 id="creating-an-stv-election"><a class="header" href="#creating-an-stv-election">Creating an STV Election</a></h2>
+<ol>
+<li>Start a new poll and select <strong>STV Election</strong> as the poll type</li>
+<li>Add candidates as poll options</li>
+<li>Configure the STV settings:</li>
+</ol>
+<h3 id="number-of-seats"><a class="header" href="#number-of-seats">Number of seats</a></h3>
+<p>How many winners should be elected. Must be less than the number of candidates.</p>
+<h3 id="counting-method"><a class="header" href="#counting-method">Counting method</a></h3>
+<div class="table-wrapper"><table><thead><tr><th>Method</th><th>Description</th></tr></thead><tbody>
+<tr><td><strong>Scottish STV</strong> (recommended)</td><td>The Weighted Inclusive Gregory Method (WIGM) used in Scottish local elections since 2007. Well-defined, straightforward rules. Best for most organizations.</td></tr>
+<tr><td><strong>Meek STV</strong></td><td>A more mathematically precise iterative method. When a candidate is eliminated, votes are recounted as if that candidate was never in the race. Required by YDSA for officer and delegate elections.</td></tr>
+</tbody></table>
+</div>
+<h3 id="quota-type"><a class="header" href="#quota-type">Quota type</a></h3>
+<p>The quota is the number of votes a candidate needs to win a seat.</p>
+<div class="table-wrapper"><table><thead><tr><th>Quota</th><th>Formula</th><th>When to use</th></tr></thead><tbody>
+<tr><td><strong>Droop</strong> (recommended)</td><td>floor(votes / (seats + 1)) + 1</td><td>Standard for most STV elections. Guarantees a majority coalition wins a majority of seats. Used by Ireland, Australia, Scotland.</td></tr>
+<tr><td><strong>Hare</strong></td><td>votes / seats</td><td>Higher threshold, more proportional for smaller factions. Preferred by DSA chapters to protect minority representation.</td></tr>
+</tbody></table>
+</div>
+<p><strong>Example:</strong> With 100 voters and 4 seats, the Droop quota is 21 and the Hare quota is 25.</p>
+<h2 id="how-voting-works"><a class="header" href="#how-voting-works">How voting works</a></h2>
+<p>Voters drag and drop candidates to rank them in order of preference:</p>
+<ul>
+<li><strong>Rank 1</strong> = most preferred candidate</li>
+<li><strong>Rank 2</strong> = second choice</li>
+<li>Continue ranking as many candidates as desired</li>
+</ul>
+<p>Voters are not required to rank every candidate. Unranked candidates will not receive any of that voter's support.</p>
+<h2 id="how-the-count-works"><a class="header" href="#how-the-count-works">How the count works</a></h2>
+<ol>
+<li>A <strong>quota</strong> is calculated (minimum votes needed to win a seat)</li>
+<li><strong>First preferences</strong> are counted for each candidate</li>
+<li>If a candidate meets the quota, they are <strong>elected</strong>:
+<ul>
+<li>Their surplus votes (above the quota) are <strong>transferred</strong> to voters' next preferences at a fractional value</li>
+</ul>
+</li>
+<li>If no candidate meets the quota, the candidate with the <strong>fewest votes is eliminated</strong>:
+<ul>
+<li>Their votes transfer to voters' next preferences at full value</li>
+</ul>
+</li>
+<li>This process repeats until all seats are filled</li>
+</ol>
+<h3 id="exhausted-ballots"><a class="header" href="#exhausted-ballots">Exhausted ballots</a></h3>
+<p>If a voter has ranked no remaining candidates, their ballot is "exhausted" and that vote is lost. This is why ranking more candidates is generally better.</p>
+<h2 id="understanding-results"><a class="header" href="#understanding-results">Understanding results</a></h2>
+<p>After the poll closes, results are displayed showing:</p>
+<ul>
+<li><strong>Elected candidates</strong> highlighted with a green chip</li>
+<li><strong>Round-by-round table</strong> showing each candidate's vote tally at each stage
+<ul>
+<li>Green highlight = elected in this round</li>
+<li>Red/strikethrough = eliminated in this round</li>
+<li>Faded = already elected or eliminated in a prior round</li>
+</ul>
+</li>
+<li><strong>Method and quota information</strong> showing which counting method and quota were used</li>
+</ul>
+<h2 id="common-configurations"><a class="header" href="#common-configurations">Common configurations</a></h2>
+<div class="table-wrapper"><table><thead><tr><th>Organization type</th><th>Recommended setup</th></tr></thead><tbody>
+<tr><td>Most organizations</td><td>Scottish STV + Droop quota</td></tr>
+<tr><td>DSA chapters</td><td>Scottish STV + Hare quota</td></tr>
+<tr><td>YDSA elections</td><td>Meek STV + Hare quota</td></tr>
+<tr><td>Government-style</td><td>Scottish STV + Droop quota</td></tr>
+</tbody></table>
+</div><div style="break-before: page; page-break-before: always;"></div><h1 id="quorum"><a class="header" href="#quorum">Quorum</a></h1>
 <p>When drafting a new decision, you have the option to set a quorum, or the minimum percentage of participants required for the decision to be valid.   This feature allows you to fine-tune Loomio's decision-making tools to your own governance process.</p>
 <p>The quorum setting is found at the very bottom of a proposal's customisation screen.  You set the quorum as a percentage of the total eligible voters, or leave it blank if a quorum is not required.</p>
 <p><img src="user_manual/polls/quorum/./quorum-section.png" alt="Screenshot showing the bottom of a proposal&#39;s customisation window, with &quot;Quorum&quot; as a heading above an input box, and a percentage sign at the end of the input box.  &quot;60&quot; is entered into the input box.  In the bottom right is an orange &quot;start proposal&quot; button." /></p>
