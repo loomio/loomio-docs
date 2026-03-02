@@ -2204,17 +2204,28 @@ The primary action for a task is to mark it as “done” by clicking the checkb
 <h3 id="exhausted-ballots"><a class="header" href="#exhausted-ballots">Exhausted ballots</a></h3>
 <p>If a voter has ranked no remaining candidates, their ballot is "exhausted" and that vote is lost. This is why ranking more candidates is generally better.</p>
 <h2 id="understanding-results"><a class="header" href="#understanding-results">Understanding results</a></h2>
-<p>After the poll closes, results are displayed showing:</p>
+<p>After the poll closes, results are displayed in several sections:</p>
+<h3 id="method-and-quota"><a class="header" href="#method-and-quota">Method and quota</a></h3>
+<p>At the top, you'll see the counting method (Scottish STV or Meek STV) and quota type (Droop or Hare) along with the quota — the number of votes a candidate needed to win a seat.</p>
+<h3 id="elected-candidates"><a class="header" href="#elected-candidates">Elected candidates</a></h3>
+<p>A summary table of the winners with five columns:</p>
+<div class="table-wrapper"><table><thead><tr><th>Column</th><th>Meaning</th></tr></thead><tbody>
+<tr><td><strong>Candidate</strong></td><td>The name of the elected candidate</td></tr>
+<tr><td><strong>Round elected</strong></td><td>Which counting round they reached the quota and won a seat. Round 1 means they won on first preferences alone; higher rounds mean they needed transferred votes from eliminated or surplus candidates.</td></tr>
+<tr><td><strong>First preferences</strong></td><td>How many voters ranked this candidate as their first choice. This shows a candidate's direct support before any vote transfers.</td></tr>
+<tr><td><strong>Final tally</strong></td><td>The candidate's vote tally at the moment they were elected (crossed the quota). Due to vote transfers, this is often higher than their first preferences.</td></tr>
+<tr><td><strong>Surplus</strong></td><td>How much the candidate's final tally exceeded the quota (final tally minus quota). A larger surplus means stronger support beyond what was needed to win. In Scottish STV, this surplus is redistributed to voters' next preferences.</td></tr>
+</tbody></table>
+</div>
+<h3 id="tied-candidates"><a class="header" href="#tied-candidates">Tied candidates</a></h3>
+<p>If the count results in a tie — where eliminating any of the remaining candidates would change the outcome — those candidates are shown in a separate table rather than arbitrarily choosing a winner.</p>
+<h3 id="round-by-round-details"><a class="header" href="#round-by-round-details">Round-by-round details</a></h3>
+<p>An expandable section showing the full counting process. Each row is a candidate and each column is a counting round, showing vote tallies at each stage:</p>
 <ul>
-<li><strong>Elected candidates</strong> highlighted with a green chip</li>
-<li><strong>Round-by-round table</strong> showing each candidate's vote tally at each stage
-<ul>
-<li>Green highlight = elected in this round</li>
-<li>Red/strikethrough = eliminated in this round</li>
-<li>Faded = already elected or eliminated in a prior round</li>
-</ul>
-</li>
-<li><strong>Method and quota information</strong> showing which counting method and quota were used</li>
+<li><strong>Green highlight</strong> = elected in this round (reached the quota)</li>
+<li><strong>Red/strikethrough</strong> = eliminated in this round (had the fewest votes)</li>
+<li><strong>Orange highlight</strong> = tied in this round</li>
+<li><strong>Faded</strong> = already elected or eliminated in a prior round</li>
 </ul>
 <h2 id="common-configurations"><a class="header" href="#common-configurations">Common configurations</a></h2>
 <div class="table-wrapper"><table><thead><tr><th>Organization type</th><th>Recommended setup</th></tr></thead><tbody>
