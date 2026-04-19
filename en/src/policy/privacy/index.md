@@ -1,6 +1,6 @@
 # Privacy policy
 
-*Last updated: 2022-10-24*
+*Last updated: 2026-04-19*
 
 The privacy of your data — and it is your data, not ours — is a big deal to us. In this policy, we lay out what data we collect and why, how your data is handled, and your rights to your data.
 
@@ -18,7 +18,7 @@ When you sign up for a Loomio product, we typically ask for identifying informat
 
 ### Billing information
 
-When you pay for a Loomio product, we ask for your credit card and billing address. That’s so we can charge you for service, calculate taxes due, and send you invoices. Your name, billing address, organization name and billing information are handled directly by our subscription management service, and credit card information is handle by our payment processor.
+When you pay for a Loomio product, we ask for your credit card and billing address. That’s so we can charge you for service, calculate taxes due, and send you invoices. Your name, billing address, organization name and billing information are handled directly by our subscription management service, and credit card information is handled by our payment processor.
 
 ### Geolocation data
 
@@ -66,7 +66,7 @@ Our default practice is to not access your information. The only times we’ll e
 
 **When required under applicable law.**
 
-Loomio Limited, is a New Zealand registered company, however our data infrastructure are located in the United States, European Union, Australia and New Zealand.
+Loomio Limited, is a New Zealand registered company, however our data infrastructure is located in the United States, European Union, Australia and New Zealand.
 
 * If law enforcement authorities have the necessary warrant, criminal subpoena, or court order requiring we share or preserve data, we have to comply. Otherwise, we reject requests from local and federal law enforcement when they seek data. And unless we’re legally prevented from it, we’ll always inform you when such requests are made. In the event a government authority outside New Zealand approaches Loomio with a request, our default stance is to refuse unless the New Zealand government compels us to comply through procedures outlined in a mutual legal assistance treaty or agreement.
 * If we get an informal request from any person, organization, or entity, we do not assist. If you are an account owner who wants to export data from their accounts, you can do so directly by following [these instructions](https://help.loomio.com/en/user_manual/groups/data_export/).
