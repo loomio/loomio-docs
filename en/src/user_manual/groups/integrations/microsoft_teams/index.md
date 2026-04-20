@@ -25,6 +25,6 @@ Copy the URL it gives you, you'll paste it into Loomio in the last step.
 
 _Loomio is not created by, affiliated with, or supported by Microsoft._
 
-Now that you have a Webhook URL, continue setting up your chatbot over here:
+Now that you have a Webhook URL, continue setting up your integration over here:
 
-[Adding a chatbot in Loomio](../chatbots/#how-to-setup-a-chatbot)
+[Adding an integration in Loomio](../chatbots/#how-to-set-up-a-chat-integration)

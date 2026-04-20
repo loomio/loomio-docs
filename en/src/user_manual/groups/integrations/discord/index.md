@@ -18,4 +18,4 @@ Then click "Add Webhook" and give it a name, like "Loomio bot"
 
 Make sure you have copied the Webhook URL to your clipboard and follow the link below.
 
-[Adding a chatbot in Loomio](../chatbots/#how-to-setup-a-chatbot)
+[Adding an integration in Loomio](../chatbots/#how-to-set-up-a-chat-integration)

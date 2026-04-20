@@ -22,4 +22,4 @@ Copy the Webhook URL to your clipboard, you're going to need it the next step.
 
 Make sure you have your Webhook URL in your clipboard and follow the link below.
 
-[Adding a chatbot in Loomio](../chatbots/#how-to-setup-a-chatbot)
+[Adding an integration in Loomio](../chatbots/#how-to-set-up-a-chat-integration)

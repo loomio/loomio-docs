@@ -33,8 +33,8 @@ Copy the webhook URL to your clipboard
 
 ![](s7.png)
 
-Now that you have a Webhook URL, continue setting up your chatbot over here:
+Now that you have a Webhook URL, continue setting up your integration over here:
 
-[Adding a chatbot in Loomio](../chatbots/#how-to-setup-a-chatbot)
+[Adding an integration in Loomio](../chatbots/#how-to-set-up-a-chat-integration)
 
 _Loomio is not created by, affiliated with, or supported by Slack._

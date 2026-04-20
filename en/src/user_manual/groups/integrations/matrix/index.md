@@ -14,7 +14,7 @@ We're using Element for this guide.
 
 ---
 
-From your loomio group, add a Matrix Chatbot
+From your Loomio group, add a Matrix integration
 ![loomio matrix bot menu](loomio-add-matrix-bot.png)
 
 Here's the form to complete

@@ -53,7 +53,7 @@
   - [Language and translation](user_manual/users/translation/index.md)
   - [Deleting your account](user_manual/users/deleting_your_account/index.md)
 
-- [Chatbots](user_manual/groups/integrations/chatbots/index.md)
+- [Integrations](user_manual/groups/integrations/chatbots/index.md)
   - [Discord](user_manual/groups/integrations/discord/index.md)
   - [Matrix](user_manual/groups/integrations/matrix/index.md)
   - [Mattermost](user_manual/groups/integrations/mattermost/index.md)
