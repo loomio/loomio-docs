@@ -9,7 +9,7 @@ _On this page_
 - [Notifications](#notifications)
 - [Finding information quickly](#finding-information-quickly)
 - [Discussions](#discussions)
-- [Polls](#poll-tab)
+- [Polls](#polls)
 
 ## How Loomio works
 
