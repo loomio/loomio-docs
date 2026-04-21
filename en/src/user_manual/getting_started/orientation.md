@@ -202,4 +202,4 @@ The discussion timeline builds with key activity in the discussion.  Use it to q
 
 From your group page, select the **Polls** tab to see your list of polls. Alongside the poll name, there is an active icon that changes as the poll progresses, and indicates your vote.
 
-![](polls_list.png)
+![](polls_tab.png)
