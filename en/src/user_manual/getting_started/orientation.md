@@ -141,9 +141,9 @@ There are several tools included within Loomio to help you find the information 
 
 You can use the Search bar at the top of almost every page to search for content relevant to that page.
 
-For example, on the threads page typing 'strategy' in the search bar brings up threads with the word 'strategy'.
+For example, on the discussions tab, clicking 'search' then typing 'strategy' in the search bar brings up threads with the word 'strategy'.
 
-![](search_strategy.png)
+![](search_new_strategy.png)
 
 ### Category Tags
 
