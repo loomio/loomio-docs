@@ -83,30 +83,27 @@ Below the tabs there is a search bar where you can type in any key word to find 
 
 The sidebar menu is accessible from the (☰) menu icon at screen top left, where you can see:
 
-![](sidebar_menu_janus.png)
+![](sidebar.png)
 
 * **Dashboard** - Open polls and recently active threads.
-* **Unread threads** - A list of threads you have yet to read.
-* **Invite-only threads** - Private threads that do not belong to a group.
-* **Start a new thread** - Where you can start a new thread. 
+* **Polls to Vote on** A list of  polls where you've been invited to cast a vote.
+* **Unread discussions** - A list of discussions you have yet to read.
+* **Direct Discussions** - Discussions between specific invited members. These are not visible to the rest of the group.
 * **Tasks** - A list of tasks assigned to you, with due date.
 * **Your Loomio groups** - Where you can easily find your Loomio groups and subgroups.
-* **New group** - To start a new Loomio group on free trial.
 * **Demo group** - See and explore your private demo group at any time.
 * **Help & guides** - A link to the Loomio User Manual.
 * **Contact support** - [Contact us via web form](https://www.loomio.com/contact).
 
 ### User settings
 
-Click the down arrow ( ∨ ) to open your user settings.
+Click your name in the top left to open your user settings.
 
-![](profile_edit_2.png)
+![](user_settings_sidebar.png)
 
-* **Pin sidebar** - The sidebar remains open.
 * **Edit profile** - Where you can edit name, email address, upload your photo, introduce yourself, add your location.
 * **Notification settings** - Set what emails you want to receive from Loomio.
-* **Enable dark mode** - Set your visual interface preference.
-* **Sign out** - Sign out from your Loomio user account.  
+* **Theme** - Set your visual interface preference.
 
 ## Notifications
 
