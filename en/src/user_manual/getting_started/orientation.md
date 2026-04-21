@@ -69,7 +69,7 @@ Administrators can edit the description, add an image and logo that represents y
 
 Under the group description you will see tabs. Clicking on each tab displays information about:
 
-**Threads** - A list of discussion threads showing the author, the thread title, category tag, along with some other useful information about recent activity in the thread. 
+**Discussions** - A list of discussion threads showing the author, the thread title, category tag, along with some other useful information about recent activity in the thread. 
 
 **Polls** - A list of polls active in your group.
 
@@ -77,11 +77,7 @@ Under the group description you will see tabs. Clicking on each tab displays inf
 
 **Files** - Files and documents that have been attached to threads in your group.
 
-**Subgroups** - A list of subgroups that you are a member of. A subgroup is the collaborative space for a working team, project or event, a governance board, a subcommittee or stakeholders group.
-
-Below the tabs there is a search bar where you can type in any key word to find a particular thread. To the left are drop down menus where you can filter thread view to see open or closed threads, or view threads by category tag.
-
-If the threads tab is selected, the thread list shows the title of the thread, author, number of replies, and when last active.
+Below the tabs there is a search bar where you can type in any key word to find a particular discussion. To the left of the search bar are drop down menus where you can filter the discussions by open or closed status, or by tag.
 
 ## Side bar
 
