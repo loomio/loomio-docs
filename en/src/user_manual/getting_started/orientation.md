@@ -63,7 +63,7 @@ Your group home page is the first place people see when they arrive. It contains
 
 Administrators can edit the description, add an image and logo that represents your organization, set and change group privacy and member permissions.
 
-![](group_page_home.png)
+![](group-example.png)
 
 ### Tabs
 
