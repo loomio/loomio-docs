@@ -147,11 +147,11 @@ For example, on the discussions tab, clicking 'search' then typing 'strategy' in
 
 ### Category Tags
 
-Category Tags make it easy to find threads of a certain type or topic. 
+Category Tags make it easy to find discussions of a certain type or topic. 
 
-Tags can be applied when starting or editing a thread or poll.
+Tags can be applied when starting or editing a discussion or poll.
 
-![](search_tags.png)
+![](tags_new.png)
 
 ## Threads
 
