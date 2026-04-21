@@ -153,50 +153,50 @@ Tags can be applied when starting or editing a discussion or poll.
 
 ![](tags_new.png)
 
-## Threads
+## Discussions
 
-Under the **Threads** tab on your group page, click on one of the threads in the list to open the thread.
+Under the **Discussions** tab on your group page, click on any of the discussions to open it in full.
 
-![](thread_example_brand.png)
+![](discussion_example_brand.png)
 
-The thread title is prominent, and you can see thread content and comments from other members. 
+The title is prominent, and you can see the context and comments from other members. 
 
-The thread page includes everything you need to know about the thread;
-* the group name, and subgroup name, that the thread belongs to
-* category tags applied to the thread
-* author and thread privacy
-* **Seen by** to see who has seen the thread
+The discussion page includes everything you need to know about the discussion:
+* the group name, and subgroup name, that the discussion belongs to
+* category tags applied
+* author and privacy level
+* **Seen by** to see who has seen the discussion
 * **Notified** to see who has been notified
 * comments, replies, reactions and any polls
-* timeline of key events in the thread, such as polls
+* timeline of key events in the discussions, such as polls
 
-### Thread context
+### Discussion context
 
-The thread context is used to introduce the topic. It will often include background information to help you participate in the discussion, such as attached files or links to online documents. The context always stays at the top of the thread.
+The context is used to introduce the discussion topic. It will often include background information to help you participate in the discussion, such as attached files or links to online documents. The context always stays at the top of the discussion thread.
 
-![](thread_context_example.png#width-90)
+![](discussion_context_example.png#width-90)
 
-### Thread activity
+### Discussion activity
 
-**Seen by** shows who has read the thread, and when.
+**Seen by** shows who has read the discussion, and when.
 
 ![](seen_by_example.png)
 
-**Notified** shows who has been notified about the thread, and if read or email opened.
+**Notified** shows who has been notified about the discussion, and if read or email opened.
 
 ![](thread_notification_example.png)
 
 ### Comments
 
-As you scroll down the thread page, you will see comments and replies from other group members.
+As you scroll down the discussion page, you will see comments and replies from other group members.
 
 ![](thread_comments_example.png#width-80)
 
 ### Timeline
 
-The thread timeline builds with key activity in the threads.  Use timeline to quickly go to decisions or important comments pinned to the timeline.
+The discussion timeline builds with key activity in the discussion.  Use it to quickly go to decisions or important comments pinned to the timeline.
 
-![](thread_timeline_example.png)
+![](discussion_timeline_example.png)
 
 ## Polls tab
 
