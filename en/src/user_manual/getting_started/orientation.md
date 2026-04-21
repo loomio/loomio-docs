@@ -75,7 +75,7 @@ Under the group description you will see tabs. Clicking on each tab displays inf
 
 **Members** - Where you can see a list of the people who are members of the group.
 
-**Files** - Files and documents that have been attached to threads in your group.
+**Files** - Files and documents that have been attached to discussions in your group.
 
 Below the tabs there is a search bar where you can type in any key word to find a particular discussion. To the left of the search bar are drop down menus where you can filter the discussions by open or closed status, or by tag.
 
@@ -129,7 +129,7 @@ These emails are to help you participate effectively with your group. The defaul
 
 If you are receiving too many emails from Loomio, you can change the default email settings. Talk to your group administrator to get the balance right for you.
 
-![](email_settings_full.png)
+![](email_settings_full_new.png)
 
 When you receive an email from Loomio, you can reply directly from your email inbox and your reply will be posted into the Loomio thread. This works for everything except the Catch-up summary email.
 
