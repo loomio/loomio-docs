@@ -19,7 +19,7 @@ Loomio is designed to help your group come together, discuss in discussions and 
 
 A Loomio group is a safe place for your organization to meet, discuss and make decisions about work.
 
-![](Groups.png#width-50)
+![](../assets/Groups.png#width-50)
 
 **Group home**
 
@@ -29,7 +29,7 @@ Your group home page is the first place you see when you arrive. It contains a t
 
 Discussions are where you share information, discuss, and make decisions.
 
-![](Threads.png#width-50)
+![](../assets/Threads.png#width-50)
 
 Discussions are used for many purposes; to prepare for a meeting, discuss matters, share reports, ask questions, vote on proposals, approve actions, and so on. It's also where your group can develop a shared understanding of important issues.
 
@@ -39,7 +39,7 @@ Discussions keep everything about a topic in one place. Over time you'll create 
 
 Loomio includes a wide range of poll tools to help you progress a discussion to an outcome. Each poll type has a slightly different purpose. The most common one is a proposal. 
 
-![](Proposals.png#width-50)
+![](../assets/Proposals.png#width-50)
 
 A **proposal** is for converting a discussion into a clear, practical outcome. Someone suggests a course of action and invites everyone to respond. For example, you might ask members of your group to either:
 - agree
@@ -52,7 +52,7 @@ A proposal, and associated discussion, helps your group build shared understandi
 
 ### Putting it all together
 
-![](key_concept_1.png)
+![](../assets/key_concept_1.png)
 
 The best way to learn what to use when is to have a go. Use your own group or [start a free trial](https://www.loomio.com/try)
 
@@ -63,7 +63,7 @@ Your group home page is the first place people see when they arrive. It contains
 
 Administrators can edit the description, add an image and logo that represents your organization, set and change group privacy and member permissions.
 
-![](group-example.png)
+![](../assets/group_example.png)
 
 ### Tabs
 
@@ -83,7 +83,7 @@ Below the tabs there is a search bar where you can type in any key word to find 
 
 The sidebar menu is accessible from the (☰) menu icon at screen top left, where you can see:
 
-![](sidebar.png)
+![](../assets/sidebar.png)
 
 * **Dashboard** - Open polls and recently active threads.
 * **Polls to Vote on** A list of  polls where you've been invited to cast a vote.
@@ -97,9 +97,9 @@ The sidebar menu is accessible from the (☰) menu icon at screen top left, wher
 
 ### User settings
 
-Click your name in the top left to open your user settings.
+Click your name in the top left to open your user settings, where you will see:
 
-![](user_settings_sidebar.png)
+![](../assets/user_settings_sidebar.png)
 
 * **Edit profile** - Where you can edit name, email address, upload your photo, introduce yourself, add your location.
 * **Notification settings** - Set what emails you want to receive from Loomio.
@@ -111,7 +111,7 @@ Click your name in the top left to open your user settings.
 
 The bell icon in the top-right is where notifications are accessed within Loomio.
 
-![](notifications_demo.png)
+![](../assets/notifications_demo.png)
 
 ### Email notifications
 
@@ -129,7 +129,7 @@ These emails are to help you participate effectively with your group. The defaul
 
 If you are receiving too many emails from Loomio, you can change the default email settings. Talk to your group administrator to get the balance right for you.
 
-![](email_settings_full_new.png)
+![](../assets/email_settings_full.png)
 
 When you receive an email from Loomio, you can reply directly from your email inbox and your reply will be posted into the Loomio thread. This works for everything except the Catch-up summary email.
 
@@ -143,7 +143,7 @@ You can use the Search bar at the top of almost every page to search for content
 
 For example, on the discussions tab, clicking 'search' then typing 'strategy' in the search bar brings up threads with the word 'strategy'.
 
-![](search_new_strategy.png)
+![](../assets/search_strategy.png)
 
 ### Category Tags
 
@@ -151,13 +151,13 @@ Category Tags make it easy to find discussions of a certain type or topic.
 
 Tags can be applied when starting or editing a discussion or poll.
 
-![](tags_new.png)
+![](../assets/tags.png)
 
 ## Discussions
 
 Under the **Discussions** tab on your group page, click on any of the discussions to open it in full.
 
-![](discussion_example_brand.png)
+![](../assets/discussion_example.png)
 
 The title is prominent, and you can see the context and comments from other members. 
 
@@ -174,32 +174,32 @@ The discussion page includes everything you need to know about the discussion:
 
 The context is used to introduce the discussion topic. It will often include background information to help you participate in the discussion, such as attached files or links to online documents. The context always stays at the top of the discussion thread.
 
-![](discussion_context_example.png#width-90)
+![](../assets/discussion_context_example.png#width-90)
 
 ### Discussion activity
 
 **Seen by** shows who has read the discussion, and when.
 
-![](seen_by_example.png)
+![](../assets/discussion_seen_by_example.png)
 
 **Notified** shows who has been notified about the discussion, and if read or email opened.
 
-![](thread_notification_example.png)
+![](../assets/discussion_notification_example.png)
 
 ### Comments
 
 As you scroll down the discussion page, you will see comments and replies from other group members.
 
-![](thread_comments_example.png#width-80)
+![](../assets/discussion_comments_example.png#width-80)
 
 ### Timeline
 
 The discussion timeline builds with key activity in the discussion.  Use it to quickly go to decisions or important comments pinned to the timeline.
 
-![](discussion_timeline_example.png)
+![](../assets/discussion_timeline_example.png)
 
 ## Polls tab
 
 From your group page, select the **Polls** tab to see your list of polls. Alongside the poll name, there is an active icon that changes as the poll progresses, and indicates your vote.
 
-![](polls_tab.png)
+![](../assets/polls_tab.png)
