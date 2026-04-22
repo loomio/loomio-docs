@@ -13,7 +13,7 @@ _On this page_
 
 ## How Loomio works
 
-Loomio is designed to help your group come together, discuss in discussions and use polls to make decisions.  It has a simple structure of three main elements; Group, Discussions and Polls. 
+Loomio is designed to help your group come together, engage in discussions and use polls to make decisions.  It has a simple structure of three main elements: Group, Discussions, and Polls. 
 
 ### Group
 
@@ -46,7 +46,7 @@ A **proposal** is for converting a discussion into a clear, practical outcome. S
 - abstain or 
 - disagree. 
 
-Importantly, as well as selecting a response, everyone can give a reason why they have voted this way. You can all see where everyone else stands on the matter, and why. And then, if you want, you can change your response. 
+Importantly, as well as selecting a response, everyone can give a reason why they have voted this way. You can all see where everyone else stands on the matter, and why. You can then, if you want, change your response. 
 
 A proposal, and associated discussion, helps your group build shared understanding and creates its own record of how the decision came about.
 
@@ -61,7 +61,7 @@ The best way to learn what to use when is to have a go. Use your own group or [s
 
 Your group home page is the first place people see when they arrive. It contains a description of why the group exists, what you will use it for, and any other information that may help you participate.
 
-Administrators can edit the description, add an image and logo that represents your organization, set and change group privacy and member permissions.
+Administrators can edit the description, add an image and logo that represents your organization, and set and change group privacy and member permissions.
 
 ![](../assets/group_example.png)
 
@@ -69,11 +69,11 @@ Administrators can edit the description, add an image and logo that represents y
 
 Under the group description you will see tabs. Clicking on each tab displays information about:
 
-**Discussions** - A list of discussion threads showing the author, the thread title, category tag, along with some other useful information about recent activity in the thread. 
+**Discussions** - A list of discussion threads showing the author, the thread title, category tags, and useful information about recent activity in the thread. 
 
 **Polls** - A list of polls active in your group.
 
-**Members** - Where you can see a list of the people who are members of the group.
+**Members** - a list of the people who are members of the group.
 
 **Files** - Files and documents that have been attached to discussions in your group.
 
@@ -101,10 +101,10 @@ Click your name in the top left to open your user settings, where you will see:
 
 ![](../assets/user_settings_sidebar.png)
 
-* **Edit profile** - Where you can edit name, email address, upload your photo, introduce yourself, add your location.
+* **Edit profile** - Where you can edit your name or email address, upload a profile photo, add a bio, and add your location.
 * **Notification settings** - Set what emails you want to receive from Loomio.
 * **Theme** - Set your visual interface preference.
-
+    
 ## Notifications
 
 ### In app notifications
@@ -120,9 +120,9 @@ Loomio sends emails to keep you updated on the activity in your groups.
 Emails Loomio may send you include:
 
 * **Mention and Replies** - When someone @mentions you in a comment or replies to you, you will receive a notification email.
-* **Subscribe on participation** - If selected, when you participate in a thread you will receive emails for all further activity. This is off by default because in a busy group it can generate a lot of emails.
+* **Subscribe on participation** - If selected, when you participate in a discussion you will receive emails for all further activity. This is off by default because in a busy group it can generate a lot of emails.
 * **Catch-up summary email** - The 'Yesterday on Loomio' email includes activity from all your groups and threads that you have not read yet, and is a useful way to stay in touch with what's happening without having to visit Loomio every day.
-* **Invitations to threads and polls** - You may receive an email when invited to a new thread or poll.
+* **Invitations to threads and polls** - You may receive an email when invited to a new discussion or poll.
 * **Reminders and Outcomes** - If you have not voted in a poll, you may receive a reminder 24 hours before close. You may also receive an email stating the outcome of a poll.
 
 These emails are to help you participate effectively with your group. The default settings are to help you stay up to date with activity on Loomio but should not overload your email inbox.
@@ -131,7 +131,7 @@ If you are receiving too many emails from Loomio, you can change the default ema
 
 ![](../assets/email_settings_full.png)
 
-When you receive an email from Loomio, you can reply directly from your email inbox and your reply will be posted into the Loomio thread. This works for everything except the Catch-up summary email.
+When you receive an email from Loomio, you can reply directly from your email inbox and your reply will be posted into the discussion thread. This works for everything except the Catch-up summary email.
 
 ## Finding information quickly
 
@@ -141,7 +141,7 @@ There are several tools included within Loomio to help you find the information 
 
 You can use the Search bar at the top of almost every page to search for content relevant to that page.
 
-For example, on the discussions tab, clicking 'search' then typing 'strategy' in the search bar brings up threads with the word 'strategy'.
+For example, on the discussions tab, clicking 'search' then typing 'strategy' in the search bar brings up discussions with the word 'strategy'.
 
 ![](../assets/search_strategy.png)
 
