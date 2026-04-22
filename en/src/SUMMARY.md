@@ -2,7 +2,6 @@
 
 - [Overview](user_manual/getting_started/index.md)
   - [Orientation tour](user_manual/getting_started/orientation.md)
-  - [Signing in](user_manual/users/sign_in/index.md)
   - [How to participate](user_manual/getting_started/write-a-comment.md)
 
 - [Making decisions](user_manual/getting_started/decisions/index.md)
