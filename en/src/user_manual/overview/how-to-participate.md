@@ -57,35 +57,31 @@ There are many types of polls. The example below shows a typical proposal with v
 
 Read the poll, and any attached files, then cast your vote by selecting one of the options.
 
-![](proposal_vote.png#width-90)
+![](../assets/proposal_example.png#width-90)
 
 ### State a reason
 
 When voting, you can also leave a **Reason** to say why you have voted this way. This is optional.
 
-![](vote_reason.png#width-90)
-
-Up until the proposal closes, you can change your vote.  
-
-There are many reasons why you might want to change your vote. For example if new information emerges it may cause you to rethink your decision, and change your vote.
+![](../assets/vote_reason.png#width-90)
 
 ### Change your vote
 
 You can **change your vote**, up until the proposal closes.
 
-![](vote_change.png#width-90)
+![](../assets/vote_change.png#width-90)
 
 There are many reasons why you might want to change your vote. For example if new information emerges it may cause you to rethink your decision, and change your vote.
 
-Once again, you can leave a reason - to say why you have changed your vote.
+Once again, you can leave a reason to say why you have changed your vote.
 
-![](vote_edit.png#width-90)
+![](../assets/vote_edit.png#width-90)
 
 ### Results
 
 Results of the proposal are updated as people vote, so you can see how a proposal is trending.
 
-![](results.png#width-90)
+![](../assets/proposal_results.png#width-90)
 
 In a controversial proposal it is common to see mixed results, however this does not mean the proposal has failed.  
 
@@ -97,4 +93,4 @@ When the proposal closes, the author is prompted to state the **Outcome**.
 
 This is an important final step to record the result of the decision and let everyone know what will happen next.
 
-![](outcome.png#width-90)
+![](../assets/proposal_outcome.png#width-90)
