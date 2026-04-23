@@ -1,10 +1,10 @@
 # Help
 
-- [Overview](user_manual/getting_started/index.md)
-  - [Orientation tour](user_manual/getting_started/orientation.md)
-  - [How to participate](user_manual/getting_started/write-a-comment.md)
+- [Overview](user_manual/overview/index.md)
+  - [Orientation tour](user_manual/overview/orientation.md)
+  - [How to participate](user_manual/overview/write-a-comment.md)
 
-- [Making decisions](user_manual/getting_started/decisions/index.md)
+- [Making decisions](user_manual/overview/decisions/index.md)
   - [Advice process](guides/advice_process/index.md)
   - [Consent process](guides/consent_process/index.md)
   - [Consensus process](guides/consensus_process/index.md)
