@@ -3,7 +3,7 @@
 - [Overview](user_manual/overview/index.md)
   - [Orientation tour](user_manual/overview/orientation.md)
   - [Signing in](user_manual/users/sign_in/index.md)
-  - [How to participate](user_manual/overview/write-a-comment.md)
+  - [How to participate](user_manual/overview/how-to-participate.md)
 
 - [Making decisions](user_manual/overview/decisions/index.md)
   - [Advice process](guides/advice_process/index.md)
