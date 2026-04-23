@@ -20,4 +20,6 @@ The best way to learn about Loomio is to [start a free trial](https://www.loomio
 
 **Governance boards** to involve stakeholders in decisions. Create a safe space for discussion, keep track of communications, improve agility and response times.  Structure decision making processes and preserve organizational memory.
 
+**Residential communities and co-ops** to make decisions together as neighbours. Cohousing communities, ecovillages, coliving cooperatives, housing co-ops, and land trusts use Loomio to replace or augment traditional strata and property management with democratic governance. Residents shape decisions about shared land, common spaces, and community agreements, and asynchronous discussion means members can fully participate whether they're on-site or away travelling, keeping a clear record of how the community has chosen to live together.
+
 Loomio builds a living record of your organization; the decisions made, who was involved and the discussion leading up to the decision.
