@@ -21,31 +21,31 @@ You can write a comment in a thread, and people can reply, react or post their o
 
 When you have written your text, use **Post Comment** to instantly publish the comment. Your comment will be visible to anyone who has permission to see the thread. 
 
-![](comment.png#width-90)
+![](../assets/comment_add.png#width-90)
 
-If you want to change anything you can edit the comment by clicking on the 3 dots menu to the bottom right of your comment and selecting **Edit**.
+If you want to change anything you can edit the comment by clicking on the pencil icon beneath your comment.
 
-![](comment_edit.png#width-90)
+![](../assets/comment_edit.png#width-90)
 
 ### Reply to a comment
 
-You can reply to someone's comment by clicking on the reply icon located at the bottom right of the comment.  
+You can reply to someone's comment by clicking on the reply icon beneath the comment.
 
 Your reply is published in the thread and an email notification is sent to the author of the comment.
 
-![](comment_reply.png#width-90)
+![](../assets/comment_reply.png#width-90)
 
 ### Get someone's attention
 
 You can notify people when you write a comment.
 
-![](comment_mention.png#width-90)
+![](../assets/comment_mention.png#width-90)
 
 ### Reactions
 
-Reacting to a comment is a great way to encourage and acknowledge a comment by letting the comment author know how you feel.  It is a quick and light-weight way to participate that does not require any text, nor send an email.
+Reacting to a comment is a great way to encourage and acknowledge a comment by letting the comment author know how you feel.  It is a quick and light-weight way to participate that does not require any text, nor send an email. Click the smile emoji icon beneath a comment to leave an emoji reaction.
 
-![](reaction.png#width-90)
+![](../assets/comment_reaction.png#width-90)
 
 ## Vote
 
