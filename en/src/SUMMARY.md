@@ -5,7 +5,7 @@
   - [How to participate](user_manual/overview/how-to-participate.md)
 
 - [Making decisions](user_manual/making_decisions/index.md)
-  - [Advice process](guides/advice_process/index.md)
+  - [Advice process](user_manual/making_decisions/advice_process.md)
   - [Consent process](guides/consent_process/index.md)
   - [Consensus process](guides/consensus_process/index.md)
   - [Simple decision process](user_manual/polls/decisions/index.md)

@@ -26,5 +26,6 @@ site-url = "/en/user_manual/"
 "/user_manual/getting_started/orientation.html" = "/user_manual/overview/orientation.html"
 "/user_manual/getting_started/write-a-comment.html"  = "/user_manual/overview/how-to-participate.html"
 "/user_manual/getting_started/decisions/index.html" = "/user_manual/making_decisions/index.html"
+"/guides/advice_process/index.html" = "/user_manual/making_decisions/advice_process.html"
 # "privacy" = "/en/policy/privacy"
 # key-concepts  -> overview
