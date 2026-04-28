@@ -4,7 +4,7 @@
   - [Orientation tour](user_manual/overview/orientation.md)
   - [How to participate](user_manual/overview/how-to-participate.md)
 
-- [Making decisions](user_manual/overview/decisions/index.md)
+- [Making decisions](user_manual/making_decisions/index.md)
   - [Advice process](guides/advice_process/index.md)
   - [Consent process](guides/consent_process/index.md)
   - [Consensus process](guides/consensus_process/index.md)
