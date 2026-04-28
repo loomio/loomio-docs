@@ -11,23 +11,23 @@ Good collaborative decisions rarely happen by themselves.  They almost always be
 Follow these 3 steps as you facilitate your group to make a good decision.
 
 ### Step 1 - Introduce and discuss
-Start a Loomio **thread** to introduce the topic, open discussion and invite people. Include all the context-setting information your group needs to meaningfully participate, along with relevant background so everyone understands the purpose.
+Start a Loomio **discussion** to introduce the topic, open conversation and invite people. Include all the context-setting information your group needs to meaningfully participate, along with relevant background so everyone understands the purpose.
 
 Be clear about your objective - what is the decision to be made or intended outcome of the discussion? 
 
-As discussion progresses, create space for diverse input - sometimes the best ideas and input come from outside the box.  Work together to explore and test ideas, encouraging a healthy and open discussion.  
+As the discussion progresses, create space for diverse input - sometimes the best ideas and input come from outside the box.  Work together to explore and test ideas, encouraging a healthy and open discussion.
 
 Notice when the same voices are dominating and invite some of the quieter people to contribute by @mentioning them and asking them what they think. 
 
-You can make a complex discussion easier to engage with by updating the thread context section with a summary of the key points.
+You can make a complex discussion easier to engage with by updating the context section with a summary of the key points.
 
-![](decision_step1.png)
+![](../assets/discussion_consensus_process_refresh_brand.png)
 
 ### Step 2 - Sense check
 As your group begins to converge on path forwards, use a **Sense check** poll to survey opinions and test how the group feels.
 
 A ‘Sense check’ lets people know a proposal is forming and encourages them to engage.
-It can also be used to clarify an issue, even if the solution might not be apparent yet.  
+It can also be used to clarify an issue, even if the solution might not be apparent yet.
 
 Sense check is a great way to surface concerns before moving to a formal agreement.  You can find out if people are happy with where this is going, if they have questions or need more time, or if they are concerned.
 
