@@ -11,6 +11,8 @@ edit-url-template = "https://github.com/loomio/loomio-docs/edit/main/en/{path}"
 site-url = "/en/user_manual/"
 
 [output.html.redirect]
+"/user_manual/users/sign_in/index.html" = "/user_manual/overview/orientation.html"
+"/user_manual/users/sign_in/" = "/user_manual/overview/orientation.html"
 "/user_manual/threads/index.html" = "/user_manual/discussions/index.html"
 "/user_manual/threads/intro_to_threads/index.html" = "/user_manual/discussions/index.html"
 "/user_manual/threads/starting_threads/index.html" = "/user_manual/discussions/starting_a_discussion/index.html"
