@@ -6,7 +6,7 @@
 
 - [Making decisions](user_manual/making_decisions/index.md)
   - [Advice process](user_manual/making_decisions/advice_process.md)
-  - [Consent process](guides/consent_process/index.md)
+  - [Consent process](user_manual/making_decisions/consent_process.md)
   - [Consensus process](guides/consensus_process/index.md)
   - [Simple decision process](user_manual/polls/decisions/index.md)
 

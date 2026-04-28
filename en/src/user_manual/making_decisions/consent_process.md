@@ -1,6 +1,6 @@
 # Consent process
 
-![photo of people collaborating](better_collaboration.jpg)
+![photo of people collaborating](../assets/better_collaboration.jpg)
 
 Make a decision that is ‘safe to try’, without objections.
 
@@ -20,7 +20,7 @@ Seek consent on a decision you need to make, where there are no meaningful objec
 
 ### Consent process steps
 You notice a problem or opportunity and take the initiative.
-1. Present a proposal - start a Loomio **thread**.
+1. Present a proposal - start a Loomio **discussion**.
 2. Facilitate a round of questions, reactions and any comments to improve the proposal - run a **Sense check proposal**.
 3. Amend the proposal with suggestions and comments.
 4. Ask if anyone has a meaningful objection to the amended proposal - run a **Consent proposal**.
@@ -38,7 +38,7 @@ You notice a problem or opportunity and take the initiative.
 | **Consent process** | **On Loomio** |
 |---|---|
 | You notice a problem or opportunity and take the initiative. |  |
-| **Present a proposal** <br /><br />Write a clear and concise proposal and share it with people impacted. Describe it in a way so that others will understand what you are proposing. | Start a Loomio **thread**. <br /><br />Name the proposal in the thread title, and describe it in the context. |
+| **Present a proposal** <br /><br />Write a clear and concise proposal and share it with people impacted. Describe it in a way so that others will understand what you are proposing. | Start a Loomio **discussion**. <br /><br />Name the proposal in the discussion title, and describe it in the context. |
 | **Questions** (Optional) <br /><br />Invite clarifying questions to help people understand the proposal. <br /><br />*“A clarifying question round helps make sure everyone understands the proposal before they say what they think about it.”* | Run a **[Question round](https://help.loomio.com/en/user_manual/polls/proposals/index.html#question-round)**. <br /><br />Ask “what do you need to know so you understand the proposal?” |
 | **Reactions** <br /><br />Invite people to offer reactions and comments to improve the proposal. <br /><br />This is a sensing and responding round - *to actively sense and interpret information from the group and then respond or adapt accordingly.* | Run a **[Sense check](https://help.loomio.com/en/user_manual/polls/proposals/index.html#sense-check)** proposal. <br /><br />*In the title:* Name the proposal and say this is an opportunity to react and comment. <br /><br />*In the proposal details:* Clearly frame the proposal and say why it is important.  Include any background information necessary and a link to the current proposal version.  <br /><br />Invite everyone to respond, and to do so before the proposal closes.  |
 | **Amendment** <br /><br />Consider comments and suggestions from people and amend the proposal as appropriate for the good of your organization. <br /><br />Consider any amendments you want to make for the new proposal version. | Reply to comments and suggestions raised in the Sense check proposal. <br /><br />State an **outcome** to summarize the results of the proposal.  <br /><br />Note any concerns or new information discovered, and outline how the proposal will be amended. <br /><br />Say what will happen next and notify people about the outcome. |
@@ -69,7 +69,7 @@ Objections should meet this criteria to be valid:
 
 Chloe starts a Loomio thread outlining the need to develop a Health and Safety policy, proposing to lead this work with a first draft, inviting contributions to develop the policy and that she is starting a Consent process to adopt the policy.
 
-![](consent_step2_thread.png)
+![](../assets/discussion_context_health_and_safety.png)
 
 ### Step 2. Facilitate a clarifying question round
 
@@ -77,11 +77,11 @@ Chloe runs a Question proposal to open a question round, inviting people to ask 
 
 The aim at this stage is to help people understand the policy before they say what they think about it.
 
-![](consent_step3_question.png)
+![](../assets/proposal_question_health_and_safety.png)
 
 People ask questions in the proposal 'Reason' text field and click 'Submit vote'.  Chloe replies to questions.
 
-![](consent_step3_question_reply.png)
+![](../assets/proposal_reply_health_and_safety.png)
 
 ### Step 3. Facilitate a reactions round 
 
@@ -89,13 +89,13 @@ Chloe now opens a Reactions round by running a Sense check proposal.  People are
 
 This round is an opportunity to actively sense and interpret information from the group and then respond or adapt accordingly.
 
-![](consent_step4_reactions.png)
+![](../assets/proposal_reaction_round_health_and_safety.png)
 
 ### Step 4. Amend the proposal
 
 When the Sense check proposal closes, Chloe notifies everyone and works to amend the policy appropriately.
 
-![](consent_step5_amendment.png)
+![](../assets/proposal_outcome_reaction_round_health_and_safety.png)
 
 ### Step 5. Seek consent to adopt the policy
 
@@ -103,10 +103,11 @@ The Health and Safety policy is looking good.  People have had the opportunity t
 
 Now Chloe seeks consent to adopt the policy by running a Consent proposal.
 
-![](consent_step6_consent.png)
+![](../assets/proposal_consent_process_health_and_safety.png)
+
 
 ### Step 6. Integrate valid objections to create an amended version of the proposal that everyone consents is ‘safe to try’
 
 Once all objections are integrated, consent has been reached and Chloe states the decision outcome :-)
 
-![](consent_step7_outcome.png)
+![](../assets/proposal_outcome_consent_process_health_and_safety.png)
