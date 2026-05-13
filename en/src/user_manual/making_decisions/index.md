@@ -1,6 +1,6 @@
 # Making decisions
 
-![photo of the hands of a group of people coming together - Photo by Hannah Busing on Unsplash](hannah-busing-Zyx1bK9mqmA-unsplash.jpg)
+![photo of the hands of a group of people coming together - Photo by Hannah Busing on Unsplash](../assets/hannah-busing-Zyx1bK9mqmA-unsplash.jpg)
 
 Including people in decision-making leads to better decisions, and better outcomes;
 - People are well-informed and can exercise their voice,
@@ -15,6 +15,8 @@ There are many ways to involve people in making decisions. The tools within Loom
 Many organizations use one or more decision processes, depending on the type of decision, governing policy, values and culture.  
 
 Check out these common decision making processes and how to apply these within Loomio:
+
+**[Simple decision process](https://help.loomio.com/en/user_manual/polls/decisions/index.html)** - A simple process to introduce and discuss the decision to be made, listen and sense how people think about it, propose and decide. Start here if you are new to collaborative decision making.
  
 **[Advice process](https://help.loomio.com/en/guides/advice_process/index.html)** - Seek advice on a decision you need to make, with the advice of people impacted or who have expertise, so you can make a better decision for your organization.
 
@@ -22,7 +24,6 @@ Check out these common decision making processes and how to apply these within L
 
 **[Consensus process](https://help.loomio.com/en/guides/consensus_process/index.html)** - Build consensus for a decision you need to make together, to reach an agreement that satisfies the needs and concerns of all participants.
 
-**[Simple decision process](https://help.loomio.com/en/user_manual/polls/decisions/index.html)** - A simple process to introduce and discuss the decision to be made, listen and sense how people think about it, propose and decide. Start here if you are new to collaborative decision making.
 
 ## Examples of organizations practicing inclusive decision making
 
