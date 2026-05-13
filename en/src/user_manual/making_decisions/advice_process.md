@@ -15,9 +15,9 @@ Make a decision with the advice of people impacted or who have expertise, so you
 
 ### Steps in the Advice process
 You notice a problem or opportunity and take the initiative.
-1. Seek input to sound out perspectives before proposing action - start a Loomio **discussions**.
-2. Make a proposal and seek advice - run an **Advice proposal**.
-3. Taking advice received into account, you make a decision and inform the people who have given advice - state an **outcome**.
+1. Seek input to sound out perspectives before proposing action - start a Loomio **discussion**.
+2. Clarify and build on advice through comments in the discussion thread.
+3. Taking advice received into account, make a decision and inform the people who have given advice - state an **outcome**.
 
 ### Benefits
 - Advice helps you make a better decision for your organization. 
@@ -29,9 +29,10 @@ You notice a problem or opportunity and take the initiative.
 | **Advice process** | **On Loomio** |
 |---|---|
 | You notice a problem or opportunity and take the initiative. |  |
-| Seek input to sound out perspectives before  proposing action. | Start a Loomio **discussions**.  <br /><br />Name the issue or opportunity in the discussion title, and seek input and perspectives from people. |
-| Make a proposal and seek advice from those affected by, or with expertise of, the proposal. | Run an **[Advice proposal](/user_manual/polls/proposals/index.html#advice-proposal)** and invite people to respond within a set time frame. <br /><br />*In the title:* Name the decision you want to make.  <br /><br />*In the proposal context:* Clearly state the decision you want to make, and say why. Include any background information you feel necessary.   <br /><br />Invite people to comment, offer advice or ask clarifying questions, and to do so before the Advice proposal closes.  <br />@mention particular people you would like to hear from.  <br /><br />Reply to advice and feedback received, and acknowledge contributions with reactions. |
-| Taking advice received into account, you make a decision and inform the people who have given advice. | Close the proposal and state an **outcome**.   <br /><br />State the decision made and thank people for their advice and feedback.  <br /><br />Say what will happen next and notify people about the outcome.  <br /><br />The outcome statement is an important record of the decision for future reference. |        
+| Seek input to sound out perspectives before  proposing action. | Start a Loomio **discussion**.  <br /><br />Name the issue or opportunity in the discussion title, and seek input and perspectives from people. |
+| Taking advice received into account, you make a decision and inform the people who have given advice. | Add an an **outcome** to the discussion thread.   <br /><br />State the decision made and thank people for their advice and feedback.  <br /><br />   Say what will happen next and notify people about the outcome.  <br /><br />The outcome statement is an important record of the decision for future reference. <br /> <br /> Either update the context to include this outcome, or state it in a comment you pin to the timeline to quickly find it in the future.<br /><br/> |        
+
+
 
 ## Example of an Advice process on Loomio
 
@@ -49,30 +50,22 @@ Takashi starts a Loomio discussion with a clear statement of the decision he nee
 
 ![](../assets/discussion_takashi_computer.png)
 
-### Step 2. Make a proposal and seek advice
+### Step 2.  Clarify and strengthen the advice through discussion
 
-Following a short discussion, Takashi runs an **[Advice proposal](/user_manual/polls/proposals/index.html#advice-proposal)** clearly stating the decision he needs to make.  
+Takashi replies to advice given in comments in the discussion thread, clarifying his situation and asking questions to expand on the advice given.
 
-Takashi says why this decision is important now and asks for advice; asking Mary a specific question about budget. 
+![](../assets/discussion_comments_advice_process_new_computer.png)
 
-![](../assets/proposal_takashi_computer.png)
-
-The Advice proposal template offers two voting options; 
-- **Agree** - I have offered my advice about this decision
-- **Abstain** - I don't have any advice to offer
-
-![](../assets/voting_options_takashi_computer.png)
-
-People invited to the Advice proposal can see the comments and advice from others, then select Agree and write their advice in the space below.
-
-As people offer advice and comments, the proposal results are updated showing progress and who has offered advice.
-
-![](../assets/vote_results_takashi_computer.png)
+As people offer advice and comments, Takashi grows resolved in his decision.
 
 ### Step 3. Make a decision with advice and inform people
 
 When everyone has offered advice, or the proposal closes, Takashi makes a decision and states the **[outcome](/user_manual/polls/outcomes/index.html)**.
 
-The outcome is a clear statement of the decision made, what will happen next, and becomes an important record for the organization.
+The outcome is a clear statement of the decision made and what will happen next. It  becomes an important record for the organization.
 
-![](../assets/proposal_outcome_takashi_computer.png)
+Takashi edits the discussion context to include this outcome.
+
+![](../assets/decision_outcome_advice_process_new_computer.png)
+
+Alternatively, he could state it in a comment that he pins to the thread, so the outcome appears prominently in the discussion timeline.
