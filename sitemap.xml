@@ -64,7 +64,11 @@
   <url><loc>https://help.loomio.com/en/user_manual/groups/subgroups/index.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/groups/tags/index.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/groups/thread_management/index.html</loc></url>
-  <url><loc>https://help.loomio.com/en/user_manual/overview/decisions/index.html</loc></url>
+  <url><loc>https://help.loomio.com/en/user_manual/making_decisions/advice_process.html</loc></url>
+  <url><loc>https://help.loomio.com/en/user_manual/making_decisions/consensus_process.html</loc></url>
+  <url><loc>https://help.loomio.com/en/user_manual/making_decisions/consent_process.html</loc></url>
+  <url><loc>https://help.loomio.com/en/user_manual/making_decisions/index.html</loc></url>
+  <url><loc>https://help.loomio.com/en/user_manual/making_decisions/simple_decision_process.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/overview/how-to-participate.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/overview/index.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/overview/orientation.html</loc></url>
@@ -94,7 +98,6 @@
   <url><loc>https://help.loomio.com/en/user_manual/users/deleting_your_account/index.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/users/email_settings/index.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/users/merge_accounts/index.html</loc></url>
-  <url><loc>https://help.loomio.com/en/user_manual/users/sign_in/index.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/users/translation/index.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/users/user_profile/index.html</loc></url>
 </urlset>
