@@ -9,11 +9,11 @@ In group settings you can change group name, add a group description, upload a p
 
 On your group page, find and click on the **Edit group settings** cogwheel icon to open Group settings and use the form that appears (click save when done). 
 
-![](group_edit.png)
+![](../../assets/group_settings.png)
 
 ## Group profile
 
-![](group_profile.png)
+![](../../group_profile.png)
 
 ### Upload a group photo
 
@@ -29,27 +29,25 @@ You can edit the name for your organization or group. We recommend short names, 
  
 ### Handle
 
-Your group is automatically assigned a 'handle'. This provides a simplified url address for your group that can help you find your group, and that you can share with people to help them find your group.
+Your group is automatically assigned a handle which you can edit in these settings. The handle provides a simplified url address for your group that can be shared easily.
 
 The simplied url address for your group is **loomio.com/your-group-handle**.
-
-You can edit the handle.
 
 ### Group description
 
 In the Group description box think about the people you are inviting and write something about:
 
-***What* you will use Loomio for.**
+**What you will use Loomio for.**
 - The purpose of the group. 
 - The work you are going to do.
 - What you hope to achieve.
 
-***Why* this work is important.**
+**Why this work is important.**
 - Why people should participate.
 
-***Who* is invited into this work.**
+**Who is invited into this work.**
 
-***How* to participate.**
+**How to participate.**
 - What you expect of group members.
 - How you see Loomio will complement your usual processes.
 - An outline or attach the Terms of Reference, Code of Conduct or other doc that governs the group.
@@ -65,8 +63,6 @@ For example;
 *We will use Loomio to prepare for meetings and agree agenda items, upload draft papers and documents, agree actions, approve minutes, and progress discussions on issues we do not have time to cover during meetings."*
 
 Use the formatting tools to format text, attach documents, add hyperlinks, and embed a video.
-
----
 
 ## Privacy
 
