@@ -10,7 +10,7 @@
   - [Consent process](user_manual/making_decisions/consent_process.md)
   - [Consensus process](user_manual/making_decisions/consensus_process.md)
 
-- [Groups](user_manual/groups/intro_to_groups/index.md)
+- [Groups](user_manual/groups/index.md)
   - [Starting a group](user_manual/groups/starting_a_group/index.md)
   - [Group settings](user_manual/groups/settings/index.md)
   - [Inviting people](user_manual/groups/membership/index.md)
