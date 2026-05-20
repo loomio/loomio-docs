@@ -13,7 +13,7 @@
 - [Groups](user_manual/groups/index.md)
   - [Starting a group](user_manual/groups/starting_a_group/index.md)
   - [Group settings](user_manual/groups/settings/index.md)
-  - [Inviting people](user_manual/groups/membership/index.md)
+  - [Inviting people](user_manual/groups/inviting-people/index.md)
   - [Member management](user_manual/groups/membership/management.md)
   - [Delegated voters](user_manual/groups/membership/delegated_voters.md)
   - [Discussion management](user_manual/groups/thread_management/index.md)

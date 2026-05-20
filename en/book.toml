@@ -32,6 +32,6 @@ site-url = "/en/user_manual/"
 "/guides/consent_process/index.html" = "/en/user_manual/making_decisions/consent_process.html"
 "/guides/consensus_process/index.html" = "/en/user_manual/making_decisions/consensus_process.html"
 "/user_manual/polls/decisions/index.html" = "/en/user_manual/making_decisions/simple_decision_process.html"
-
+"/user_manual/groups/membership/index.html" = "/en/user_manual/groups/inviting-people/index.html"
 # "privacy" = "/en/policy/privacy"
 # key-concepts  -> overview
