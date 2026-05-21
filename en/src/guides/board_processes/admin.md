@@ -22,7 +22,7 @@ Keep the discussion list current by using:
 - **Pin discussion** to keep important discussions at the top of the list
 - **Edit discussion** to change discussion title or update discussion context
 - **Move to group** when you want to move a discussion to another group or subgroup, or to an archive group.
-- **Close discussion** to remove the discussion from the list.  Closed discussions are easily available under the discussion drop down menu and from the search bar, and can be reopened at any time.
+- **Lock thread** to remove the discussion from the list.  Locked threads are easily available under the discussion drop down menu and from the search bar, and can be unlocked at any time.
 - **Delete discussion** when you do not want to keep a record of the discussion.  Note that deleted discussions can not be un-deleted.
 
 ![](thread_admin.png#width-90)

@@ -158,7 +158,7 @@ This allows everyone in your group to start new threads.
 
 #### Members can manage threads and comments
 
-This allows everyone in your group to edit, move, pin, tag or close threads.
+This allows everyone in your group to edit, move, pin, tag or lock threads.
 
 #### Members can edit their own comments
 

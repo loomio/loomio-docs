@@ -251,7 +251,7 @@ To change this setting, click that grey text, choose your preference, and save. 
 
 ## Administering discussions
 
-There are a set of tools on the discussion page to help you make a copy, print, move discussion, close or delete discussion.
+There are a set of tools on the discussion page to help you make a copy, print, move discussion, lock or delete discussion.
 
 Find the tools under the 3 dot (**⋯**) menu, under the discussion context on the right.
 
@@ -294,21 +294,21 @@ You can **pin** or **un-pin** from the discussion preview options on the Group p
 
 ![](thread_pin_thread.png)
 
-### Close discussion
+### Lock thread
 
-To keep the list of discussions on your group page relevant, you can close discussions which people don't need to see.
+To keep the list of discussions on your group page relevant, you can lock threads which people don't need to see.
 
 ![](thread_close_thread.png)
 
-To view closed discussions, go to your group page. Click the drop-down menu just under the **Discussions** tab and change the discussion filter from **Open** to **Closed**.
+To view locked threads, go to your group page. Click the drop-down menu just under the **Discussions** tab and change the discussion filter from **Open** to **Locked**.
 
 ![](closed_thread_filter.png)
 
-Closed discussions are marked with a **Closed** tag.
+Locked threads are marked with a **Locked** tag.
 
-#### Re-open discussion
+#### Unlock thread
 
-You can re-open a closed discussion from the [group page](https://help.loomio.com/en/user_manual/groups/thread_management/index.html#close-discussion) or from within the discussion.
+You can unlock a locked thread from the [group page](https://help.loomio.com/en/user_manual/groups/thread_management/index.html#lock-thread) or from within the discussion.
 
 ![](thread_reopen.png)
 

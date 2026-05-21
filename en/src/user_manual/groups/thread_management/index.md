@@ -4,7 +4,7 @@ As the number of discussions grows, you can help group members find the discussi
 
 On the group page **Discussions** tab there are several tools to help you display and administer discussions.
 
-You can pin important discussions to the top of the discussion list, edit a discussion, move a discussion to another group, close old discussions and delete unwanted discussions.
+You can pin important discussions to the top of the discussion list, edit a discussion, move a discussion to another group, lock old threads and delete unwanted discussions.
 
 Open the 3 dot (**...**) discussion management menu to the right of the discussion.
 
@@ -16,7 +16,7 @@ If "Members can manage discussions and comments" is permitted in [Group Settings
 
 ![](permissions_manage_threads.png)
 
-If members are not permitted to manage discussions, they can only **Close** a discussion.
+If members are not permitted to manage discussions, they can only **Lock** a thread.
 
 ## Pin discussion
 
@@ -52,21 +52,21 @@ Select the destination group or subgroup, and click **Move discussion**.
 
 > Tip: Start a draft discussion and move it to a group when you are ready to post.  Use a private subgroup of direct discussion to work on the draft discussion with one or two people.
 
-## Close discussion
+## Lock thread
 
-To keep the list of discussions on your group page relevant, you can close discussions that are no longer active.
+To keep the list of discussions on your group page relevant, you can lock threads that are no longer active.
 
 Go to the Discussions tab on your group page, and open the 3 dot menu (**...**)
 
 ![](thread_close1.png)
 
-To view closed discussions, go to the group page and click on the drop-down menu just under the Discussions tab.
+To view locked threads, go to the group page and click on the drop-down menu just under the Discussions tab.
 
-Change the discussion filter from default **Open** to **Closed**.   You can also use this filter to see **All** discussions, **Unread** discussions and **Templates**
+Change the discussion filter from default **All** to **Locked** or **Unlocked**. You can also use this filter to see **Unread** discussions
 
 ![](thread_closed.png)
 
-Use **Re-open discussion** to restore it to the open discussion list.
+Use **Unlock thread** to restore it to the discussion list.
 
 ![](closed_threads.png)
 
@@ -74,7 +74,7 @@ Use **Re-open discussion** to restore it to the open discussion list.
 
 Deleting a discussion removes it from your group.  You can not restore a deleted discussion.
 
-If you are not sure if you will need to access the discussion again, use **Close discussion**.  Closed discussions can be re-opened.
+If you are not sure if you will need to access the discussion again, use **Lock thread**.  Locked threads can be unlocked.
 
 When you select **Delete discussion** you will be asked to confirm before proceeding.
 

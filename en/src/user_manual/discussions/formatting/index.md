@@ -165,23 +165,23 @@ Click **WYSIWYG** to return to the formatting tools. This will convert any text 
 
 ***PREVIEW*** shows how your text will appear, but without converting.
 
-## Close discussion
+## Lock thread
 
-To keep the list of discussions on your group page relevant, you can close discussions which people don't need to see.
+To keep the list of discussions on your group page relevant, you can lock threads which people don't need to see.
 
 ![](close_thread.png)
 
-To view closed discussions, first navigate to the relevant **group page**. You will need to use the drop-down just under the Discussions tab to change the discussion filter from its default of **open**.
+To view locked threads, first navigate to the relevant **group page**. You will need to use the drop-down just under the Discussions tab to change the discussion filter from its default of **open**.
 
 ![](sort_threads_on_group_page.png)
 
-Choose "closed" to view all your closed discussions in the discussion filter.
+Choose "Locked" to view all your locked threads in the discussion filter.
 
 ![](closed_threads.png)
 
 ### Re-open discussion
 
-Re-opening a closed discussion is done from within the discussion's page – again, the three horizontal dots (**⋯**). See [organizing discussions](#discussion-options-and-organizing-discussions) for a depiction.
+Unlocking a locked thread is done from within the discussion's page – again, the three horizontal dots (**⋯**). See [organizing discussions](#discussion-options-and-organizing-discussions) for a depiction.
 
 
 
