@@ -28,5 +28,11 @@ site-url = "/en/user_manual/"
 "/user_manual/getting_started/write-a-comment.html"  = "/en/user_manual/overview/how-to-participate.html"
 "/user_manual/getting_started/decisions/index.html" = "/en/user_manual/overview/decisions/index.html"
 "/user_manual/groups/intro_to_groups/index.html" = "/en/user_manual/groups/index.html"
+"/user_manual/getting_started/decisions/index.html" = "/en/user_manual/making_decisions/index.html"
+"/guides/advice_process/index.html" = "/en/user_manual/making_decisions/advice_process.html"
+"/guides/consent_process/index.html" = "/en/user_manual/making_decisions/consent_process.html"
+"/guides/consensus_process/index.html" = "/en/user_manual/making_decisions/consensus_process.html"
+"/user_manual/polls/decisions/index.html" = "/en/user_manual/making_decisions/simple_decision_process.html"
+
 # "privacy" = "/en/policy/privacy"
 # key-concepts  -> overview
