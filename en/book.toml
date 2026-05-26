@@ -34,5 +34,7 @@ site-url = "/en/user_manual/"
 "/user_manual/polls/decisions/index.html" = "/en/user_manual/making_decisions/simple_decision_process.html"
 "/user_manual/groups/membership/index.html" = "/en/user_manual/groups/inviting-people/index.html"
 "/user_manual/groups/membership/management.html" = "/en/user_manual/groups/member-management/index.html"
+"/user_manual/groups/membership/index.html" = "/en/user_manual/groups/inviting_people/index.html"
+"/user_manual/groups/membership/management.html" = "/en/user_manual/groups/member_management/index.html"
 # "privacy" = "/en/policy/privacy"
 # key-concepts  -> overview
