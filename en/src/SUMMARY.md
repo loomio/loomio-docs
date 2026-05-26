@@ -16,8 +16,6 @@
   - [Inviting people](user_manual/groups/inviting_people/index.md)
   - [Member management](user_manual/groups/member_management/index.md)
   - [Delegated voters](user_manual/groups/delegated_voters/index.md)
-  - [Discussion management](user_manual/groups/thread_management/index.md)
-  - [Category tags](user_manual/groups/tags/index.md)
   - [Subgroups](user_manual/groups/subgroups/index.md)
   - [Email address](user_manual/groups/email/index.md)
   - [Participation report](user_manual/groups/participation_report/index.md)
@@ -31,6 +29,8 @@
   - [Formatting](user_manual/discussions/formatting/index.md)
   - [Tasks](user_manual/discussions/tasks/index.md)
   - [Direct Discussions](user_manual/discussions/direct_discussions/index.md)
+  - [Discussion management](user_manual/discussions/discussion_management/index.md)
+  - [Category tags](user_manual/discussions/tags/index.md)
   - [Examples](user_manual/discussions/examples/index.md)
   - [Templates](user_manual/discussions/templates/index.md)
 
