@@ -32,11 +32,13 @@
   <url><loc>https://help.loomio.com/en/policy/subscriptions/pricing_faq.html</loc></url>
   <url><loc>https://help.loomio.com/en/policy/terms/index.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/discussions/direct_discussions/index.html</loc></url>
+  <url><loc>https://help.loomio.com/en/user_manual/discussions/discussion_management/index.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/discussions/examples/index.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/discussions/formatting/index.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/discussions/index.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/discussions/notifying_people/index.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/discussions/starting_a_discussion/index.html</loc></url>
+  <url><loc>https://help.loomio.com/en/user_manual/discussions/tags/index.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/discussions/tasks/index.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/discussions/templates/index.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/discussions/using_discussions/index.html</loc></url>
@@ -45,7 +47,9 @@
   <url><loc>https://help.loomio.com/en/user_manual/getting_started/orientation.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/getting_started/write-a-comment.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/groups/data_export/index.html</loc></url>
+  <url><loc>https://help.loomio.com/en/user_manual/groups/delegated_voters/index.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/groups/deleting_archiving/index.html</loc></url>
+  <url><loc>https://help.loomio.com/en/user_manual/groups/deleting_your_group/index.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/groups/email/index.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/groups/index.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/groups/integrations/api/index.html</loc></url>
@@ -56,6 +60,8 @@
   <url><loc>https://help.loomio.com/en/user_manual/groups/integrations/microsoft_teams/index.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/groups/integrations/slack/index.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/groups/intro_to_groups/index.html</loc></url>
+  <url><loc>https://help.loomio.com/en/user_manual/groups/inviting_people/index.html</loc></url>
+  <url><loc>https://help.loomio.com/en/user_manual/groups/member_management/index.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/groups/membership/delegated_voters.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/groups/membership/index.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/groups/membership/management.html</loc></url>
