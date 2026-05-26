@@ -15,7 +15,7 @@
   - [Group settings](user_manual/groups/settings/index.md)
   - [Inviting people](user_manual/groups/inviting_people/index.md)
   - [Member management](user_manual/groups/member_management/index.md)
-  - [Delegated voters](user_manual/groups/membership/delegated_voters.md)
+  - [Delegated voters](user_manual/groups/delegated_voters/index.md)
   - [Discussion management](user_manual/groups/thread_management/index.md)
   - [Category tags](user_manual/groups/tags/index.md)
   - [Subgroups](user_manual/groups/subgroups/index.md)
