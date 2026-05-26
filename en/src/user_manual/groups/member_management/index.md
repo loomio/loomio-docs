@@ -6,7 +6,6 @@
 - [Removing members](#removing-members)
 - [Leaving group](#leaving-group)
 - [Set title](#set-title)
-- [Delegated voters](delegated_voters.md)
 - [Member email addresses](#member-email-addresses)
 
 If you are an admin, you can manage members from the **Members** tab on your group page.
