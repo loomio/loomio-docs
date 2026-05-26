@@ -37,5 +37,6 @@ site-url = "/en/user_manual/"
 "/user_manual/groups/membership/delegated_voters.html" = "/en/user_manual/groups/delegated_voters/index.html"
 "/user_manual/groups/thread_management/index.html" = "/en/user_manual/discussions/discussion_management/index.html"
 "/user_manual/groups/tags/index.html" = "/en/user_manual/discussions/tags/index.html"
+"/user_manual/groups/deleting_archiving/index.html" = "/en/user_manual/deleting_your_group/index.html"
 # "privacy" = "/en/policy/privacy"
 # key-concepts  -> overview

@@ -20,7 +20,7 @@
   - [Email address](user_manual/groups/email/index.md)
   - [Participation report](user_manual/groups/participation_report/index.md)
   - [Data export](user_manual/groups/data_export/index.md)
-  - [Deleting your group](user_manual/groups/deleting_archiving/index.md)
+  - [Deleting your group](user_manual/groups/deleting_your_group/index.md)
 
 - [Discussions](user_manual/discussions/index.md)
   - [Starting a discussion](user_manual/discussions/starting_a_discussion/index.md)
