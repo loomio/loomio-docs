@@ -2,7 +2,7 @@
 
 When starting a vote, you may set a share requirement on any voting option. These are percentage based constraints a proposal must satisfy to pass.  For example, you may require that  a proposal must have 60 percent consenting votes, or a proposal fails if it receives more than 30 percent objecting votes.
 
-The vote share requirements can be used in tandem with the [quorum feature](/user_manual/polls/quorum/) to finely customize Loomio's voting feature to match your own governance process.
+The vote share requirements can be used in tandem with the [quorum feature](/en/user_manual/polls/quorum/) to finely customize Loomio's voting feature to match your own governance process.
 
 Vote share requirements can be found by clicking the edit icon next to a voting option.
 
@@ -31,7 +31,7 @@ A proposal can have multiple voting options and each of them can have a vote sha
 - You may want enthusiastic participation, so set a quorum of 60 percent of your organization and a vote share requirement that _abstaining votes are no more than 30 percent of the cast votes_.
 - To enforce the power of a block, you may require that _blocking votes must be no more than 0 percent of the cast votes_.
 
-These requirements can also be set while making a [proposal template](/user_manual/polls/poll_templates/), so that Loomio's proposals always follow your organisation's governance requirements.
+These requirements can also be set while making a [proposal template](/en/user_manual/polls/poll_templates/), so that Loomio's proposals always follow your organisation's governance requirements.
 
 ## Detailed example 
 
