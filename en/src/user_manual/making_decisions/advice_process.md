@@ -60,7 +60,7 @@ As people offer advice and comments, Takashi grows resolved in his decision.
 
 ### Step 3. Make a decision with advice and inform people
 
-When everyone has offered advice, or the proposal closes, Takashi makes a decision and states the **[outcome](/user_manual/polls/outcomes/index.html)**.
+When everyone has offered advice, or the proposal closes, Takashi makes a decision and states the **[outcome](/en/user_manual/polls/outcomes/index.html)**.
 
 The outcome is a clear statement of the decision made and what will happen next. It  becomes an important record for the organization.
 
