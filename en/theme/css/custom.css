@@ -1,0 +1,12 @@
+.toc-logo {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    text-decoration: none;
+    color: #DCA034"
+}
+
+.toc-logo img {
+    width: 128px;
+    padding: 16px 0;
+}
