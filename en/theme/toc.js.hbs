@@ -8,7 +8,7 @@ class MDBookSidebarScrollbox extends HTMLElement {
         super();
     }
     connectedCallback() {
-        this.innerHTML = '<a class="toc-logo"><img src="https://www.loomio.com/brand/logo_gold.svg"></a>{{#toc}}{{/toc}}';
+        this.innerHTML = '{{#toc}}{{/toc}}';
         // Set the current, active page, and reveal it if it's hidden
         let current_page = document.location.href.toString().split('#')[0].split('?')[0];
         if (current_page.endsWith('/')) {
@@ -38,6 +38,20 @@ class MDBookSidebarScrollbox extends HTMLElement {
                 }
             }
         }
+
+        // Adding logo above the chapter headings, following advice on github:
+        // https://github.com/rust-lang/mdBook/issues/2490#issuecomment-3429573003
+        const newDiv = document.createElement("div");
+        const newLink = document.createElement("a");
+        newLink.setAttribute('href', "https://loomio.com");
+        newLink.classList.add('toc-logo')
+        const newIMG= document.createElement("img");
+        newIMG.setAttribute("src","https://www.loomio.com/brand/logo_gold.svg")
+        const newPath = document.createElement("path");
+        newLink.appendChild(newIMG)
+        newDiv.appendChild(newLink);
+        this.prepend(newDiv);
+
         // Track and set sidebar scroll position
         this.addEventListener('click', e => {
             if (e.target.tagName === 'A') {
@@ -447,6 +461,7 @@ window.customElements.define('mdbook-sidebar-scrollbox', MDBookSidebarScrollbox)
         onThisPage.classList.add('on-this-page');
         onThisPage.append(stack[0].ol);
         const activeItemSpan = activeSection.parentElement;
+        console.log({activeItemSpan, stack})
         activeItemSpan.after(onThisPage);
     });
 
