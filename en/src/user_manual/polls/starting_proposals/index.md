@@ -106,7 +106,8 @@ Setting options:
 - Required - people must write something in the reason field before their vote is submitted.
 - Disabled - the reason text box is not available.
 
-> **Tip**: In an election or anonymous poll, consider disabling vote reason to avoid a voter inadvertently revealing their identity with their text comment.
+>[!Tip]
+>In an election or anonymous poll, consider disabling vote reason to avoid a voter inadvertently revealing their identity with their text comment.
 
 **Limit reason to maximum 500 characters:** Keeping vote reasons short makes them easier to understand. A collection of concise reasons is a great resource for making a decision.  This setting is ticked by default. Untick to allow for longer reasons.
 

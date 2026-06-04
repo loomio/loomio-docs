@@ -38,7 +38,8 @@ Use **Un-pin** to release a discussion so it is ordered by activity.
 
 When a discussion has been edited, the **Show edits** icon appears on the discussion page. Click on this to see what changes have been made.
 
-> Tip: Editing discussions from the group page is a quick way to add a Category tag.
+>[!Tip]
+>Editing discussions from the group page is a quick way to add a Category tag.
 
 ## Move to group
 
@@ -50,7 +51,8 @@ Select the destination group or subgroup, and click **Move discussion**.
 
 ![](move_thread_select.png)
 
-> Tip: Start a draft discussion and move it to a group when you are ready to post.  Use a private subgroup of direct discussion to work on the draft discussion with one or two people.
+>[!Tip]
+>Start a draft discussion and move it to a group when you are ready to post.  Use a private subgroup of direct discussion to work on the draft discussion with one or two people.
 
 ## Close discussion
 

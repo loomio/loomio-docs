@@ -32,7 +32,8 @@ Select the image file to insert from your computer.
 
 The image is displayed within Loomio.
 
-Tip:  You can also copy/paste an image directly into Loomio.
+>[!Tip]
+>You can also copy/paste an image directly into Loomio.
 
 ![](format_image_example.png)
 
@@ -125,7 +126,8 @@ Now anyone with access to your Loomio thread and permission to view the video ca
 
 <iframe width="100%" height="380px" src="https://www.youtube.com/embed/gbWUCPzxTUQ" frameborder="0" allowfullscreen></iframe>
 
-**Tip:** Make sure you set the visibility of the video in Youtube or Vimeo so that the people you want to can view it. In Youtube 'Unlisted' is a good option if you do not want to make the video public.
+>[!Tip]
+>Make sure you set the visibility of the video in Youtube or Vimeo so that the people you want to can view it. In Youtube 'Unlisted' is a good option if you do not want to make the video public.
 
 ## Quote
 

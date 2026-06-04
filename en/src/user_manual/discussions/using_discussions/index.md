@@ -133,7 +133,8 @@ Use **Pin to timeline** to pin a comment to the timeline.
 
 You an edit the comment label on the timeline. Unpin and then pin it again; this will give you the opportunity to reword the text that appears as a link in the timeline.
 
-> **Tip:** Highlight the words that you would like to use as the text in the timeline
+>[!Tip]
+>Highlight the words that you would like to use as the text in the timeline
 
 **Unpin**  removes the item from the timeline.
 
