@@ -170,6 +170,9 @@
     --table-header-bg: hsl(0, 0%, 80%);
     --table-alternate-bg: hsl(0, 0%, 97%);
 
+    --blockquote-note-color: #5b7cd0;
+    --blockquote-tip-color: #c6902f;
+
     --searchbar-border-color: #aaa;
     --searchbar-bg: #fafafa;
     --searchbar-fg: #000;
