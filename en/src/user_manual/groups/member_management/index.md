@@ -34,7 +34,8 @@ You will be able to join any closed subgroup by clicking the "Join Group" button
 
 Once you have joined the subgroup, you will also be able to make yourself the admin of that subgroup, just as you would promote anyone to admin.
 
-***Note:*** *these permissions do not extend to [**secret** subgroups](/user_manual/groups/subgroups/index.html?highlight=secret#permissions).*
+>[!Note]
+>These permissions do not extend to [**secret** subgroups](/user_manual/groups/subgroups/index.html?highlight=secret#permissions).
 
 ## Removing members
 When you click **Remove from group** you'll be asked to confirm the removal. Upon removal, this user will no longer have access to the group's pages, threads, polls, or proposals. They will receive no further emails or notifications of group activity. However, any comments and votes written by the user will remain untouched.

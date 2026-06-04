@@ -7,9 +7,13 @@
 
 Category tags make it easy to find threads and polls of a certain type or topic.
 
-On your group page, click on **tags** to see the category tags used in your group.  Note that alongside each tag name is the number of threads with this tag.
+On your group page, click on **tags** to see the category tags used in your group.
 
 ![](tags_view.png)
+
+>[!Note]
+>Alongside each tag name is the number of threads with this tag.
+
 
 ## Apply tags
 

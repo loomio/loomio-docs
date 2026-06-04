@@ -120,7 +120,8 @@ To receive notifications when someone asks for your attention, select **when som
 
 To turn off notifications for this thread, select **no notifications (ignore)**.  You will not receive email notifications about this thread, so to stay informed you will need to keep any eye on the bell icon at top right of the app, read the Catch-up summary email or sign in to Loomio regularly.
 
-Note the settings changes in Thread notifications are only for the particular thread you have open.  Click **Change notifications for group** to change the default settings for all threads.
+>[!Note]
+>The settings changes in Thread notifications are only for the particular thread you have open.  Click **Change notifications for group** to change the default settings for all threads.
 
 ## Turn off all notifications
 
