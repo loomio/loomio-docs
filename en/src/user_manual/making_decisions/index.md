@@ -27,6 +27,8 @@ Check out these common decision making processes and how to apply these within L
 
 ## Examples of organizations practicing inclusive decision making
 
+- [Camplight Guidebook](https://camplight.net/wp-content/uploads/2023/05/Copy-of-Camplight-Illustrated-Guidebook-6.0-EN.pdf)
+
 - [Raise Teal Operating System](https://teal.raiserecruiting.com/)
 
 - [Greaterthan Handbook](https://handbook.greaterthan.works/)
