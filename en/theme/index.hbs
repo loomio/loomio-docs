@@ -55,7 +55,6 @@
         <script>
             const path_to_root = "{{ path_to_root }}";
             const default_light_theme = "{{ default_theme }}";
-            const default_dark_theme = "{{ preferred_dark_theme }}";
         {{#if search_js}}
             window.path_to_searchindex_js = "{{ resource "searchindex.js" }}";
         {{/if}}
@@ -97,6 +96,7 @@
 
         <!-- Set the theme before any content is loaded, prevents flash -->
         <script>
+            const default_theme = 'light';
             const html = document.documentElement;
             let theme;
             try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
@@ -329,7 +329,7 @@
         (function() {
             var nav = document.getElementById('page-toc-nav');
             if (!nav) return;
-            var headings = document.querySelectorAll('.content main h2, .content main h3, .content main h4');
+            var headings = document.querySelectorAll('.content main h2');
             if (headings.length < 2) {
                 var toc = document.getElementById('page-toc');
                 if (toc) toc.style.display = 'none';

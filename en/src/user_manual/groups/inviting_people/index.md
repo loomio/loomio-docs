@@ -1,10 +1,5 @@
 # Inviting people
 
-*On this page*
-- [Invite people via their email](#invite-people-via-their-email)
-- [Share a link to your group](#share-a-link-to-your-group)
-- [Managing invitations](#managing-invitations)
-
 Go to your group page and click the **Members** tab to access member management.
 
 You can **Invite** particular people to your group with their email address or **Share** a link to your group via email, newsletter, chat or from your website.

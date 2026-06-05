@@ -6,18 +6,6 @@ A notification in Loomio sends an email to the people you notify.  Notifications
 
 Notification needs vary from group to group, and often vary over time as people become more familiar with Loomio as part of their daily work.  Consider how people in your group want to be notified, and try to strike a balance of letting people know about new activity in Loomio without overwhelming their inbox.
 
-*On this page*
-- [Notify about a new discussion](#notify-about-a-new-discussion)
-- [Mentioning](#mentioning)
-- [Invite to discussion](#invite-to-discussion)
-- [Notify about discussion changes](#notify-about-discussion-changes)
-- [Who has seen or been notified about the discussion?](#who-has-seen-or-been-notified-about-the-discussion)
-  - [Seen by](#seen-by)
-  - [Notified (Discussion notification history)](#notified-discussion-notification-history)
-  - [Comment notification history](#comment-notification-history)
-  - [Poll notification history](#poll-notification-history)
-- [Subscribe](#subscribe)
-
 ## Notify about a new discussion
 
 When you start a discussion, you can choose to notify all members of a group, or just some of them. Notify sends the discussion to specific people via email.

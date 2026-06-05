@@ -2,14 +2,6 @@
 
 Loomio discussions are versatile and you have many tools available to help you progress a discussion to an outcome.  Read on to see how to get the most from discussions.
 
-*On this page*
-- [Discussion navigation](#discussion-navigation)
-- [Discussion context](#discussion-context)
-- [Discussion timeline](#discussion-timeline)
-- [Comments](#comments)
-- [Discussion display](#discussion-display)
-- [Administering discussions](#administering-discussions)
-
 ## Discussion navigation
 
 A typical thread looks like this:

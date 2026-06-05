@@ -2,12 +2,6 @@
 
 Polls help you involve people in decisions.  Use polls to engage people, survey opinion, seek contributions, uncover information, identify priorities, vote on issues, approve documents, organize events and hold elections.
 
-*On this page*
-- [Choose](#choose)
-- [Score](#score)
-- [Allocate](#allocate)
-- [Rank](#rank)
-
 ![](polls_templates.png)
 
 ## Choose

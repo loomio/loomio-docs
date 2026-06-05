@@ -6,15 +6,6 @@ The default notification settings are intended to alert you to important activit
 
 The default settings work for most people.  Change notification settings to suit the way you work. 
 
-_On this page_
-
-- [Notifications in Loomio](#notifications-in-loomio)
-- [Email notifications](#email-notifications)
-- [User email settings](#user-email-settings)
-- [Group email settings](#group-email-settings)
-- [Discussion email settings](#discussion-email-settings)
-- [Turn off all notifications](#turn-off-all-notifications)
-
 ## Overview video
 
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/0Mb2_D74ktM?start=2?rel=0" frameborder="0" allowfullscreen></iframe>

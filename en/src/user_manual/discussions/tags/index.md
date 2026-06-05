@@ -1,10 +1,5 @@
 # Category Tags
 
-*On this page*
-- [Apply tags](#apply-tags)
-- [Create tags](#create-tags)
-- [Edit tags](#edit-tags)
-
 Category tags make it easy to find threads and polls of a certain type or topic.
 
 On your group page, click on **tags** to see the category tags used in your group.

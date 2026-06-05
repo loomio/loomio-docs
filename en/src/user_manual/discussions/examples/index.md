@@ -2,11 +2,6 @@
 
 Be inspired with the following thread examples used by organizations around the world.
 
-*On this page*
-- [Prepare for a meeting](#prepare-for-a-meeting)
-- [Approve a document](#approve-a-document)
-- [Raise an issue](#raise-an-issue)
-
 ## Prepare for a meeting
 Use Loomio to prepare for your next meeting by involving people from the outset - to establish a focus for the meeting and co-create the agenda. This will help everyone align towards the most important issues, making better use of your precious time together.
 

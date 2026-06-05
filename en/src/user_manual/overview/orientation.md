@@ -2,15 +2,6 @@
 
 If you are new to Loomio, let's take an orientation tour to help you quickly understand how to participate in discussions and decisions in your group.
 
-_On this page_
-- [How Loomio works](#how-loomio-works)
-- [Group page](#group-page)
-- [Side bar](#side-bar)
-- [Notifications](#notifications)
-- [Finding information quickly](#finding-information-quickly)
-- [Discussions](#discussions)
-- [Polls](#polls)
-
 ## How Loomio works
 
 Loomio is designed to help your group come together, engage in discussions and use polls to make decisions.  It has a simple structure of three main elements: Group, Discussions, and Polls. 

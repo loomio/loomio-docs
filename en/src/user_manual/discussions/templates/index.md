@@ -2,14 +2,6 @@
 
 Discussion templates let you save a reusable starting point for discussions your group runs regularly. A template can include a process name, subtitle, description, default title, tags, and recommended poll templates -- so people can start a well-structured discussion in a few clicks.
 
-*On this page*
-- [What are discussion templates](#what-are-discussion-templates)
-- [Creating a template](#creating-a-template)
-- [Using templates to start discussions](#using-templates-to-start-discussions)
-- [Hiding and showing templates](#hiding-and-showing-templates)
-- [Members can create templates](#members-can-create-templates)
-- [Browse example templates](#browse-example-templates)
-
 ## What are discussion templates
 
 When someone starts a new discussion in a group, they see a list of the group's discussion templates. Clicking a template pre-fills the new discussion with the template's content, making it easy to follow a consistent process.

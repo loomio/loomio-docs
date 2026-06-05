@@ -1,10 +1,5 @@
 # Group Settings
 
-*On this page*
-- [Group profile](#group-profile)
-- [Privacy](#privacy)
-- [Permissions](#permissions)
-
 In group settings you can change the group profile, the groups visibility and methods of joining, and what members are able to do within Loomio. Only people who are 'admin' can see and edit group settings.
 
 On your group page, click the **Edit group settings** cogwheel icon to open the settings form. 

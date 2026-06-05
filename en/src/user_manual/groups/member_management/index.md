@@ -1,13 +1,5 @@
 # Member management
 
-*On this page*
-- [Administering your group](#administering-your-group)
-- [Managing subgroups](#managing-subgroups)
-- [Removing members](#removing-members)
-- [Leaving group](#leaving-group)
-- [Set title](#set-title)
-- [Member email addresses](#member-email-addresses)
-
 If you are an admin, you can manage members from the **Members** tab on your group page.
 
 Click on the three dots (**⋮**) to the right of the group member to set their title, make them an admin, make them a delegate, or remove them from the group.

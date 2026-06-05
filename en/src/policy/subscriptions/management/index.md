@@ -1,15 +1,6 @@
 # Subscription management
 _How to upgrade, manage or cancel your Loomio subscription._
 
-On this page
-- [Upgrading your group](#upgrading-your-group)
-- [Billing problems](#billing-problems)
-- [Alternate payment options](#alternate-payment-options)
-- [Change your plan](#change-your-plan)
-- [Manage billing and account details](#manage-billing-and-account-details)
-- [Cancel your plan](#cancel-your-plan)
-- [Refunds](#refunds)
-
 Loomio uses Maxio billing and subscription management service to manage subscription records, initiate payments, process upgrades and cancellations.
 
 Prices are based on debit/credit card payment via an automated billing portal.

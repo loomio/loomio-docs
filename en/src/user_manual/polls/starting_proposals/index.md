@@ -1,10 +1,5 @@
 # Settings
 
-*On this page*
-- [Setting up a proposal or poll](#setting-up-a-proposal-or-poll)
-- [Advanced settings](#advanced-settings)
-- [Managing polls](#managing-polls)
-
 ## Setting up a proposal or poll
 
 ### Proposal and poll templates

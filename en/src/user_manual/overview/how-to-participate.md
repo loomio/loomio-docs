@@ -4,17 +4,6 @@ Once signed in to a Loomio group you have been invited to, you can participate i
 
 Read on to see  how to write a comment in a thread and how to vote in a poll.
 
-*On this page*
-- [How to write a comment](#comment)
-  - [Reply to a comment](#reply-to-a-comment)
-  - [Get someone's attention with @mention](#get-someones-attention)
-  - [Reactions](#reactions)
-- [How to vote in a poll](#vote)
-  - [State a reason](#state-a-reason)
-  - [Change your vote](#change-your-vote)
-  - [Results](#results)
-  - [Outcome](#outcome)
-
 ## Comment
 
 You can write a comment in a thread, and people can reply, react or post their own comment to continue the discussion.

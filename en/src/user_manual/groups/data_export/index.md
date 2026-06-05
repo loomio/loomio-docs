@@ -1,10 +1,5 @@
 # Group data backup or export
 
-*On this page*
-- [Export data](#export-data)
-- [Print thread to pdf](#print-thread-to-pdf)
-- [Import your group data on another Loomio server](#import-your-group-data-on-another-loomio-server)
-
 With the group data export feature you can:
 
 - Download a file containing member data to audit group membership.

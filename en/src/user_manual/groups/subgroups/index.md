@@ -1,14 +1,5 @@
 # Subgroups
 
-*On this page*
-- [Add a subgroup](#add-a-subgroup)
-- [Subgroup settings](#subgroup-settings)
-- [Find subgroups](#find-subgroups)
-- [Invite to a subgroup](#invite-to-a-subgroup)
-- [Administer a subgroup](#administer-a-subgroup)
-- [Archive a subgroup](#archive-a-subgroup)
-- [Delete a subgroup](#delete-a-subgroup)
-
 Subgroups help you organize your communications and members so that the right people are engaged in their work together.
 
 For example, an organization may have the following subgroups:
