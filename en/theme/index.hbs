@@ -212,6 +212,10 @@
                 </script>
 
                 <div id="mdbook-content" class="content">
+                    <aside id="page-toc" aria-label="On this page">
+                        <h4 class="page-toc-title">On this page</h4>
+                        <nav id="page-toc-nav"></nav>
+                    </aside>
                     <main>
                         {{{ content }}}
                     </main>
@@ -321,6 +325,52 @@
         <script src="{{ resource "clipboard.min.js" }}"></script>
         <script src="{{ resource "highlight.js" }}"></script>
         <script src="{{ resource "book.js" }}"></script>
+        <script>
+        (function() {
+            var nav = document.getElementById('page-toc-nav');
+            if (!nav) return;
+            var headings = document.querySelectorAll('.content main h2, .content main h3, .content main h4');
+            if (headings.length < 2) {
+                var toc = document.getElementById('page-toc');
+                if (toc) toc.style.display = 'none';
+                return;
+            }
+            var ul = document.createElement('ul');
+            headings.forEach(function(h) {
+                var id = h.id || (h.querySelector('a[id]') && h.querySelector('a[id]').id);
+                if (!id) return;
+                var li = document.createElement('li');
+                li.className = 'toc-' + h.tagName.toLowerCase();
+                var a = document.createElement('a');
+                a.href = '#' + id;
+                a.textContent = h.textContent.replace(/¶$/, '').trim();
+                li.appendChild(a);
+                ul.appendChild(li);
+            });
+            nav.appendChild(ul);
+
+            var links = nav.querySelectorAll('a');
+            if (!links.length) return;
+
+            var observer = new IntersectionObserver(function(entries) {
+                entries.forEach(function(entry) {
+                    if (entry.isIntersecting) {
+                        links.forEach(function(a) { a.classList.remove('active'); });
+                        var active = nav.querySelector('a[href="#' + entry.target.id + '"]');
+                        if (active) active.classList.add('active');
+                    }
+                });
+            }, { rootMargin: '0px 0px -70% 0px', threshold: 0 });
+
+            headings.forEach(function(h) {
+                var id = h.id || (h.querySelector('a[id]') && h.querySelector('a[id]').id);
+                if (id) {
+                    h.id = id;
+                    observer.observe(h);
+                }
+            });
+        })();
+        </script>
 
         <!-- Custom JS scripts -->
         {{#each additional_js}}
