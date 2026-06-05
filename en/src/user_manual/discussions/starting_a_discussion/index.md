@@ -21,7 +21,8 @@ You can start a discussion within your Loomio group or any subgroup.
 ### Group
 Check the name of the group or subgroup is correct for your discussion.  Anyone in this group will be able to see the discussion. You can also start the discussion in another group or as a 'direct' discussion (no group).
 
-*Tip: If you are not ready to make the discussion visible in your group, start the discussion as 'direct'.  You can move the discussion to your Loomio group when ready.*
+>[!Tip]
+>If you are not ready to make the discussion visible in your group, start the discussion as 'direct'.  You can move the discussion to your Loomio group when ready.
 
 ### Tags
 Add tag(s) to help people find your discussion when searching by tag.  Admins can create new tags.

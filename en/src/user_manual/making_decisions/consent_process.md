@@ -26,7 +26,8 @@ You notice a problem or opportunity and take the initiative.
 4. Ask if anyone has a meaningful objection to the amended proposal - run a **Consent proposal**.
 5. Integrate valid objections to create an amended version of the proposal that everyone consents is ‘safe to try’ - state the decision **outcome**.
 
-> Tip: In more complex decisions you may also include a clarifying **Questions round** at step 2, to help people understand the proposal before inviting them to react and comment on the proposal.
+>[!Tip]
+>In more complex decisions you may also include a clarifying **Questions round** at step 2, to help people understand the proposal before inviting them to react and comment on the proposal.
 
 ### Benefits
 - Faster, efficient, clear and more adaptable decisions.

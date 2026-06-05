@@ -94,9 +94,11 @@ Setting options:
 ### Votes are anonymous
 If enabled, this allows people to vote anonymously - the identity of voters will not be associated to their votes.  This is useful for elections and secret ballots.  
 
-> **Warning**: Once a poll has started you cannot edit the poll to make it anonymous or to undo the anonymous setting.  
+>[!Warning]
+>Once a poll has started you cannot edit the poll to make it anonymous or to undo the anonymous setting.
 
-> **Warning**: You cannot re-open an anonymous poll after it has closed.  Voter information including the voter identity is discarded, so Loomio doesn't know who has voted.
+>[!Warning]
+>You cannot re-open an anonymous poll after it has closed.  Voter information including the voter identity is discarded, so Loomio doesn't know who has voted.
 
 ### Vote reason
 It can be helpful to understand why people voted the way they did. With this setting, you can prompt people to share their thoughts when they vote.
@@ -106,7 +108,8 @@ Setting options:
 - Required - people must write something in the reason field before their vote is submitted.
 - Disabled - the reason text box is not available.
 
-> **Tip**: In an election or anonymous poll, consider disabling vote reason to avoid a voter inadvertently revealing their identity with their text comment.
+>[!Tip]
+>In an election or anonymous poll, consider disabling vote reason to avoid a voter inadvertently revealing their identity with their text comment.
 
 **Limit reason to maximum 500 characters:** Keeping vote reasons short makes them easier to understand. A collection of concise reasons is a great resource for making a decision.  This setting is ticked by default. Untick to allow for longer reasons.
 

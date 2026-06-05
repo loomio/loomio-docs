@@ -133,7 +133,8 @@ Use **Pin to timeline** to pin a comment to the timeline.
 
 You an edit the comment label on the timeline. Unpin and then pin it again; this will give you the opportunity to reword the text that appears as a link in the timeline.
 
-> **Tip:** Highlight the words that you would like to use as the text in the timeline
+>[!Tip]
+>Highlight the words that you would like to use as the text in the timeline
 
 **Unpin**  removes the item from the timeline.
 
@@ -269,7 +270,8 @@ Edit the discussion title and context for your new discussion.
 
 ![](thread_copy_start.png)
 
-> Note: **Make a copy** does not copy comments or polls from the source discussion.  Although Loomio remembers the polls used in the source discussion, so that when you start a poll in the discussion, the poll types used in the source discussion will show at the top of the list of polls.
+>[!Note]
+>**Make a copy** does not copy comments or polls from the source discussion.  Although Loomio remembers the polls used in the source discussion, so that when you start a poll in the discussion, the poll types used in the source discussion will show at the top of the list of polls.
 
 ### Show notifications
 
