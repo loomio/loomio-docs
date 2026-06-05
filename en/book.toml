@@ -1,11 +1,11 @@
 [book]
 authors = ["Robert Guthrie"]
 language = "en"
-multilingual = false
 src = "src"
 title = "Loomio Help"
 
 [output.html]
+additional-css = ["theme/css/custom.css"]
 no-section-label = true
 edit-url-template = "https://github.com/loomio/loomio-docs/edit/main/en/{path}"
 site-url = "/en/user_manual/"
