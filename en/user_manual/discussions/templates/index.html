@@ -33,18 +33,17 @@
         <link rel="stylesheet" id="mdbook-ayu-highlight-css" href="../../../ayu-highlight-3fdfc3ac.css">
 
         <!-- Custom theme stylesheets -->
-        <link rel="stylesheet" href="../../../theme/css/custom-1e9e5358.css">
+        <link rel="stylesheet" href="../../../theme/css/custom-0f709e25.css">
 
 
         <!-- Provide site root and default themes to javascript -->
         <script>
             const path_to_root = "../../../";
             const default_light_theme = "light";
-            const default_dark_theme = "navy";
-            window.path_to_searchindex_js = "../../../searchindex-ff77582b.js";
+            window.path_to_searchindex_js = "../../../searchindex-4d9dcb56.js";
         </script>
         <!-- Start loading toc.js asap -->
-        <script src="../../../toc-c4fbe697.js"></script>
+        <script src="../../../toc-0af4fc63.js"></script>
         <script defer data-domain="help.loomio.com,all.loomio.com" src="https://measure.loomio.com/js/script.outbound-links.js"></script>
     </head>
     <body>
@@ -78,6 +77,7 @@
 
         <!-- Set the theme before any content is loaded, prevents flash -->
         <script>
+            const default_theme = 'light';
             const html = document.documentElement;
             let theme;
             try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
@@ -186,15 +186,6 @@
                     <main>
                         <h1 id="discussion-templates"><a class="header" href="#discussion-templates">Discussion templates</a></h1>
 <p>Discussion templates let you save a reusable starting point for discussions your group runs regularly. A template can include a process name, subtitle, description, default title, tags, and recommended poll templates – so people can start a well-structured discussion in a few clicks.</p>
-<p><em>On this page</em></p>
-<ul>
-<li><a href="#what-are-discussion-templates">What are discussion templates</a></li>
-<li><a href="#creating-a-template">Creating a template</a></li>
-<li><a href="#using-templates-to-start-discussions">Using templates to start discussions</a></li>
-<li><a href="#hiding-and-showing-templates">Hiding and showing templates</a></li>
-<li><a href="#members-can-create-templates">Members can create templates</a></li>
-<li><a href="#browse-example-templates">Browse example templates</a></li>
-</ul>
 <h2 id="what-are-discussion-templates"><a class="header" href="#what-are-discussion-templates">What are discussion templates</a></h2>
 <p>When someone starts a new discussion in a group, they see a list of the group’s discussion templates. Clicking a template pre-fills the new discussion with the template’s content, making it easy to follow a consistent process.</p>
 <p>Every group comes with a set of default templates. Group admins can edit, hide, rearrange, or create new templates to suit the group’s needs.</p>
@@ -309,7 +300,7 @@
         (function() {
             var nav = document.getElementById('page-toc-nav');
             if (!nav) return;
-            var headings = document.querySelectorAll('.content main h2, .content main h3, .content main h4');
+            var headings = document.querySelectorAll('.content main h2');
             if (headings.length < 2) {
                 var toc = document.getElementById('page-toc');
                 if (toc) toc.style.display = 'none';

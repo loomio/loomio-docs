@@ -33,18 +33,17 @@
         <link rel="stylesheet" id="mdbook-ayu-highlight-css" href="../../ayu-highlight-3fdfc3ac.css">
 
         <!-- Custom theme stylesheets -->
-        <link rel="stylesheet" href="../../theme/css/custom-1e9e5358.css">
+        <link rel="stylesheet" href="../../theme/css/custom-0f709e25.css">
 
 
         <!-- Provide site root and default themes to javascript -->
         <script>
             const path_to_root = "../../";
             const default_light_theme = "light";
-            const default_dark_theme = "navy";
-            window.path_to_searchindex_js = "../../searchindex-ff77582b.js";
+            window.path_to_searchindex_js = "../../searchindex-4d9dcb56.js";
         </script>
         <!-- Start loading toc.js asap -->
-        <script src="../../toc-c4fbe697.js"></script>
+        <script src="../../toc-0af4fc63.js"></script>
         <script defer data-domain="help.loomio.com,all.loomio.com" src="https://measure.loomio.com/js/script.outbound-links.js"></script>
     </head>
     <body>
@@ -78,6 +77,7 @@
 
         <!-- Set the theme before any content is loaded, prevents flash -->
         <script>
+            const default_theme = 'light';
             const html = document.documentElement;
             let theme;
             try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
@@ -252,7 +252,7 @@
         (function() {
             var nav = document.getElementById('page-toc-nav');
             if (!nav) return;
-            var headings = document.querySelectorAll('.content main h2, .content main h3, .content main h4');
+            var headings = document.querySelectorAll('.content main h2');
             if (headings.length < 2) {
                 var toc = document.getElementById('page-toc');
                 if (toc) toc.style.display = 'none';
