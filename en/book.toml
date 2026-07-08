@@ -5,6 +5,7 @@ src = "src"
 title = "Loomio Help"
 
 [output.html]
+mathjax-support = true
 additional-css = ["theme/css/custom.css"]
 no-section-label = true
 sidebar-header-nav = false
