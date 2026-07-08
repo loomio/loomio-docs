@@ -35,12 +35,14 @@
         <!-- Custom theme stylesheets -->
         <link rel="stylesheet" href="../../../theme/css/custom-2187e0a3.css">
 
+        <!-- MathJax -->
+        <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
         <!-- Provide site root and default themes to javascript -->
         <script>
             const path_to_root = "../../../";
             const default_light_theme = "light";
-            window.path_to_searchindex_js = "../../../searchindex-8bc43c90.js";
+            window.path_to_searchindex_js = "../../../searchindex-e1e8c3c8.js";
         </script>
         <!-- Start loading toc.js asap -->
         <script src="../../../toc-0af4fc63.js"></script>
@@ -186,49 +188,46 @@
                     <main>
                         <h1 id="stv-elections"><a class="header" href="#stv-elections">STV Elections</a></h1>
 <p><strong>Single Transferable Vote (STV)</strong> is a proportional representation voting method for electing multiple winners from a field of candidates. It ensures that elected candidates proportionally represent the diversity of views among voters.</p>
-<p>STV is widely used by organizations like DSA, YDSA, cooperatives, unions, and local governments (Scotland, Ireland, Australia) to run fair multi-winner elections.</p>
+<p>STV is widely used by organizations like DSA, YDSA, cooperatives, unions, and local governments (e.g., Scotland, Ireland, and Australia) to run fair multi-winner elections.</p>
 <h2 id="when-to-use-stv"><a class="header" href="#when-to-use-stv">When to use STV</a></h2>
 <p>Use an STV Election when you need to:</p>
 <ul>
 <li>Elect a <strong>committee, board, or slate of delegates</strong> from a pool of nominees</li>
-<li>Ensure <strong>proportional representation</strong> — minority factions can win seats proportional to their support</li>
+<li>Ensure <strong>proportional representation</strong>, where minority factions can win seats proportional to their support</li>
 <li>Run elections where voters rank candidates by preference</li>
 </ul>
-<p>STV is <strong>not</strong> the same as Loomio’s “Ranked Choice” poll, which is a simpler score-based ranking for choosing a single best option. STV handles multi-winner elections with vote transfers and elimination rounds.</p>
+<blockquote class="blockquote-tag blockquote-tag-note">
+<p class="blockquote-tag-title"><svg viewbox="0 0 16 16" width="18" height="18"><path d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Zm8-6.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13ZM6.5 7.75A.75.75 0 0 1 7.25 7h1a.75.75 0 0 1 .75.75v2.75h.25a.75.75 0 0 1 0 1.5h-2a.75.75 0 0 1 0-1.5h.25v-2h-.25a.75.75 0 0 1-.75-.75ZM8 6a1 1 0 1 1 0-2 1 1 0 0 1 0 2Z"></path></svg>Note</p>
+<p>STV is <strong>not</strong> the same as Loomio’s <a href="https://help.loomio.com/en/user_manual/polls/proposal_types/index.html#ranked-choice">“Ranked Choice” poll</a>, which is a simpler score-based ranking for choosing a single best option. STV handles multi-winner elections with vote transfers and elimination rounds.</p>
+</blockquote>
 <h2 id="creating-an-stv-election"><a class="header" href="#creating-an-stv-election">Creating an STV Election</a></h2>
-<ol>
-<li>Start a new poll and select <strong>STV Election</strong> as the poll type</li>
-<li>Add candidates as poll options</li>
-<li>Configure the STV settings:</li>
-</ol>
+<p>When starting a poll, select <strong>STV Election</strong> as the poll type, then add the candidates as the poll options.   You can customize the poll by setting the <strong>number of seats</strong>, the <strong>counting method</strong>, and the <strong>quota type</strong>.</p>
 <h3 id="number-of-seats"><a class="header" href="#number-of-seats">Number of seats</a></h3>
 <p>How many winners should be elected. Must be less than the number of candidates.</p>
 <h3 id="counting-method"><a class="header" href="#counting-method">Counting method</a></h3>
-<div class="table-wrapper">
-<table>
-<thead>
-<tr><th>Method</th><th>Description</th></tr>
-</thead>
-<tbody>
-<tr><td><strong>Scottish STV</strong> (recommended)</td><td>The Weighted Inclusive Gregory Method (WIGM) used in Scottish local elections since 2007. Well-defined, straightforward rules. Best for most organizations.</td></tr>
-<tr><td><strong>Meek STV</strong></td><td>A more mathematically precise iterative method. When a candidate is eliminated, votes are recounted as if that candidate was never in the race. Required by YDSA for officer and delegate elections.</td></tr>
-</tbody>
-</table>
-</div>
+<p>There are two available methods for counting the votes:</p>
+<dl>
+<dt id="scottish-stv"><a class="header" href="#scottish-stv">Scottish STV</a></dt>
+<dd>Recommended. The Weighted Inclusive Gregory Method (WIGM) used in Scottish local elections since 2007. Well-defined, straightforward rules. Best for most organizations.</dd>
+<dt id="meek-stv"><a class="header" href="#meek-stv">Meek STV</a></dt>
+<dd>A more mathematically precise iterative method.  When a candidate is eliminated, votes are recounted as if that candidate was never in the race.</dd>
+</dl>
 <h3 id="quota-type"><a class="header" href="#quota-type">Quota type</a></h3>
-<p>The quota is the number of votes a candidate needs to win a seat.</p>
-<div class="table-wrapper">
-<table>
-<thead>
-<tr><th>Quota</th><th>Formula</th><th>When to use</th></tr>
-</thead>
-<tbody>
-<tr><td><strong>Droop</strong> (recommended)</td><td>floor(votes / (seats + 1)) + 1</td><td>Standard for most STV elections. Guarantees a majority coalition wins a majority of seats. Used by Ireland, Australia, Scotland.</td></tr>
-<tr><td><strong>Hare</strong></td><td>votes / seats</td><td>Higher threshold, more proportional for smaller factions. Preferred by DSA chapters to protect minority representation.</td></tr>
-</tbody>
-</table>
-</div>
-<p><strong>Example:</strong> With 100 voters and 4 seats, the Droop quota is 21 and the Hare quota is 25.</p>
+<p>The quota is the minimum number of votes a candidate needs to win a seat.  It can be either:</p>
+<dl>
+<dt id="droop"><a class="header" href="#droop">Droop</a></dt>
+<dd>Recommended.  The standard quota type for most STV elections, and used by Ireland, Australia, and Scotland.  Droop guarantees a majority coalition wins a majority of seats. It is calculated as:
+\[ floor(\frac{votes}{(seats + 1)}) + 1 \]</dd>
+<dt id="hare"><a class="header" href="#hare">Hare</a></dt>
+<dd>A higher minimum threshold, and more proportional for smaller factions.
+Hare is preferred by DSA chapters to protect minority representation.
+It is calculated as:
+\[ \frac{votes}{seats}\]</dd>
+</dl>
+<blockquote class="blockquote-tag blockquote-tag-tip">
+<p class="blockquote-tag-title"><svg viewbox="0 0 16 16" width="18" height="18"><path d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 0 1-1.484.211c-.04-.282-.163-.547-.37-.847a8.456 8.456 0 0 0-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.751.751 0 0 1-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75ZM5.75 12h4.5a.75.75 0 0 1 0 1.5h-4.5a.75.75 0 0 1 0-1.5ZM6 15.25a.75.75 0 0 1 .75-.75h2.5a.75.75 0 0 1 0 1.5h-2.5a.75.75 0 0 1-.75-.75Z"></path></svg>Tip</p>
+<p>Droop will always compute to a smaller number of votes than the Hare.  For example, in an election with 100 votes and four candidates, the Droop quota would be 21 and the Hare quota 25.</p>
+</blockquote>
 <h2 id="how-voting-works"><a class="header" href="#how-voting-works">How voting works</a></h2>
 <p>Voters drag and drop candidates to rank them in order of preference:</p>
 <p><img src="../../assets/stv-vote-in-progress.png" alt=""></p>
@@ -238,25 +237,22 @@
 <li>Continue ranking as many candidates as desired</li>
 </ul>
 <p>Voters are not required to rank every candidate. Unranked candidates will not receive any of that voter’s support.</p>
-<h2 id="how-the-count-works"><a class="header" href="#how-the-count-works">How the count works</a></h2>
+<p><img src="../../assets/stv-vote-in-progress.png" alt=""></p>
+<h2 id="how-counting-works"><a class="header" href="#how-counting-works">How counting works</a></h2>
+<p>The count is performed as follows:</p>
 <ol>
-<li>A <strong>quota</strong> is calculated (minimum votes needed to win a seat)</li>
-<li><strong>First preferences</strong> are counted for each candidate</li>
-<li>If a candidate meets the quota, they are <strong>elected</strong>:
-<ul>
-<li>Their surplus votes (above the quota) are <strong>transferred</strong> to voters’ next preferences at a fractional value</li>
-</ul>
-</li>
-<li>If no candidate meets the quota, the candidate with the <strong>fewest votes is eliminated</strong>:
-<ul>
-<li>Their votes transfer to voters’ next preferences at full value</li>
-</ul>
-</li>
-<li>This process repeats until all seats are filled</li>
+<li>A <strong>quota</strong> is calculated (minimum votes needed to win a seat).</li>
+<li><strong>First preferences</strong> are counted for each candidate.</li>
+<li>If a candidate meets the quota, they are <strong>elected</strong>.  Their surplus votes (above the quota) are <strong>transferred</strong> to voters’ next preferences at a fractional value.</li>
+<li>If no candidate meets the quota, the candidate with the <strong>fewest votes is eliminated</strong>.  Their votes transfer to voters’ next preferences at full value.</li>
+<li>This process repeats until all seats are filled.</li>
 </ol>
-<h3 id="exhausted-ballots"><a class="header" href="#exhausted-ballots">Exhausted ballots</a></h3>
+<blockquote class="blockquote-tag blockquote-tag-tip">
+<p class="blockquote-tag-title"><svg viewbox="0 0 16 16" width="18" height="18"><path d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 0 1-1.484.211c-.04-.282-.163-.547-.37-.847a8.456 8.456 0 0 0-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.751.751 0 0 1-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75ZM5.75 12h4.5a.75.75 0 0 1 0 1.5h-4.5a.75.75 0 0 1 0-1.5ZM6 15.25a.75.75 0 0 1 .75-.75h2.5a.75.75 0 0 1 0 1.5h-2.5a.75.75 0 0 1-.75-.75Z"></path></svg>Tip</p>
 <p>If a voter has ranked no remaining candidates, their ballot is “exhausted” and that vote is lost. This is why ranking more candidates is generally better.</p>
+</blockquote>
 <h2 id="understanding-results"><a class="header" href="#understanding-results">Understanding results</a></h2>
+<p><img src="../../assets/stv-results-summary.png" alt=""></p>
 <p>After the poll closes, results are displayed in several sections:
 <img src="../../assets/stv-results-summary.png" alt=""></p>
 <h3 id="method-and-quota"><a class="header" href="#method-and-quota">Method and quota</a></h3>
@@ -277,31 +273,13 @@
 </tbody>
 </table>
 </div>
-<h3 id="tied-candidates"><a class="header" href="#tied-candidates">Tied candidates</a></h3>
 <p>If the count results in a tie — where eliminating any of the remaining candidates would change the outcome — those candidates are shown in a separate table rather than arbitrarily choosing a winner.</p>
 <h3 id="round-by-round-details"><a class="header" href="#round-by-round-details">Round-by-round details</a></h3>
 <p><img src="../../assets/stv-results.png" alt="">
 An expandable section showing the full counting process. Each row is a candidate and each column is a counting round, showing vote tallies at each stage:</p>
-<ul>
-<li><strong>Green highlight</strong> = elected in this round (reached the quota)</li>
-<li><strong>Red/strikethrough</strong> = eliminated in this round (had the fewest votes)</li>
-<li><strong>Orange highlight</strong> = tied in this round</li>
-<li><strong>Faded</strong> = already elected or eliminated in a prior round</li>
-</ul>
-<h2 id="common-configurations"><a class="header" href="#common-configurations">Common configurations</a></h2>
-<div class="table-wrapper">
-<table>
-<thead>
-<tr><th>Organization type</th><th>Recommended setup</th></tr>
-</thead>
-<tbody>
-<tr><td>Most organizations</td><td>Scottish STV + Droop quota</td></tr>
-<tr><td>DSA chapters</td><td>Scottish STV + Hare quota</td></tr>
-<tr><td>YDSA elections</td><td>Meek STV + Hare quota</td></tr>
-<tr><td>Government-style</td><td>Scottish STV + Droop quota</td></tr>
-</tbody>
-</table>
-</div>
+<p><img src="../../assets/stv-results.png" alt=""></p>
+<p>Each row is a candidate and each column is a counting round, showing vote tallies at each stage.</p>
+<p>The green highlight shows when a candidate was elected, red shows when they were eliminated, and orange shows when they tied.</p>
 
                     </main>
 
