@@ -29,8 +29,7 @@
         grid-column: 1;
         grid-row: 1;
         max-width: var(--content-max-width);
-        margin-inline-start: auto;
-        margin-inline-end: 0;
+        margin: auto;
     }
     .content .nav-wrapper {
         grid-column: 1;
