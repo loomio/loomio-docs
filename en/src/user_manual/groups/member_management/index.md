@@ -27,7 +27,7 @@ You will be able to join any closed subgroup by clicking the "Join Group" button
 Once you have joined the subgroup, you will also be able to make yourself the admin of that subgroup, just as you would promote anyone to admin.
 
 >[!Note]
->These permissions do not extend to [**secret** subgroups](/user_manual/groups/subgroups/index.html?highlight=secret#permissions).
+>These permissions do not extend to [**secret** subgroups](/en/user_manual/groups/subgroups/?highlight=secret#permissions).
 
 ## Removing members
 When you click **Remove from group** you'll be asked to confirm the removal. Upon removal, this user will no longer have access to the group's pages, threads, polls, or proposals. They will receive no further emails or notifications of group activity. However, any comments and votes written by the user will remain untouched.
@@ -52,7 +52,7 @@ You can have different titles in different subgroups.
 
 Only admins can see group member email addresses.  This is sometimes necessary to audit the members in a group.
 
-To see member email addresses: Use [data export](/user_manual/groups/data_export/index.html) to download a CSV file, and open the file in Excel or Google sheets.
+To see member email addresses: Use [data export](/en/user_manual/groups/data_export/) to download a CSV file, and open the file in Excel or Google sheets.
 
 The export group data file shows every person and their email address in every subgroup.
 

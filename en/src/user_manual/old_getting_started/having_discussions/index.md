@@ -5,7 +5,7 @@ Use Loomio's **threads** to have discussions that result in clear outcomes.
 
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/1qxGl8MBA88?rel=0" frameborder="0" allowfullscreen></iframe>
 
-**Facilitation** means “to make easier, to help forward." You don't have to be a pro facilitator to help your group have productive discussions. In fact, anyone in a group can make little acts of facilitation. There are many ways to improve your online communications and collaboration. We've also written about the [5 different ways to use threads](/en/guides/5_ways_to_use_threads). This article is a 101 course on Loomio's discussion threads and facilitation.
+**Facilitation** means “to make easier, to help forward." You don't have to be a pro facilitator to help your group have productive discussions. In fact, anyone in a group can make little acts of facilitation. There are many ways to improve your online communications and collaboration. We've also written about the [5 different ways to use threads](/en/guides/5_ways_to_use_threads/). This article is a 101 course on Loomio's discussion threads and facilitation.
 
 ## What makes up a thread
 
@@ -31,7 +31,7 @@ Effective use of Loomio means knowing how and when to get attention from the gro
 
 If you ask for attention when it's really important, and avoid it when it's not, people will keep paying attention.
 
-Loomio has many features for getting attention; [learn about them all](/en/user_manual/threads/notifying_people).
+Loomio has many features for getting attention; [learn about them all](/en/user_manual/threads/notifying_people/).
 
 *[Proposals and polls](../decision_tools) are a special way to get attention and get group input.*
 
@@ -94,7 +94,7 @@ If you have an area of collaboration requiring many threads and ongoing collabor
 
 ## Scaffolding productive discussions
 
-See [**5 different ways to use threads**](/en/guides/5_ways_to_use_threads) to learn about tried and true templates and best practices for conversations that lead to better outcomes.
+See [**5 different ways to use threads**](/en/guides/5_ways_to_use_threads/) to learn about tried and true templates and best practices for conversations that lead to better outcomes.
 
 ## Next up
 

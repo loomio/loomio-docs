@@ -65,34 +65,41 @@ for root, dirs, files in os.walk(book_dir):
 
             checked += 1
 
+            # GitHub Pages resolves extensionless/directory paths to
+            # "<path>/index.html" (redirecting "/foo" -> "/foo/" first), so
+            # accept that form too before calling anything broken.
+            def exists(base, rel):
+                target = os.path.join(base, rel)
+                return os.path.isfile(target) or os.path.isfile(os.path.join(target, "index.html")), target
+
             if path_part.startswith("/"):
-                # Absolute paths are site-root-relative (e.g. "/en/user_manual/...").
-                # The live site nests the whole book one level under "/en"
-                # (see gh-pages.yml: `mv en/book/* public/en/`), but the book
-                # itself is NOT built with that "en/" segment on disk, so it
-                # must be stripped before resolving against book_dir.
+                # Absolute paths are site-root-relative. The deploy step
+                # (see gh-pages.yml) does:
+                #   cp -R static/* public/          (static/foo -> /foo)
+                #   mv en/book/* public/en/          (book content -> /en/foo)
+                # so a path starting with "/en/" resolves against book_dir
+                # (or static/en/*, which lands in the same public/en/ tree),
+                # while anything WITHOUT the "/en/" prefix only exists if
+                # static/ has a matching top-level file/dir - it is never
+                # served by the book, even though the same relative path
+                # may coincidentally exist inside book_dir on disk.
                 rel = path_part.lstrip("/")
                 if rel == "en" or rel.startswith("en/"):
                     rel = rel[len("en"):].lstrip("/")
-                target = os.path.join(book_dir, rel)
+                    resolved, target = exists(book_dir, rel)
+                    if not resolved:
+                        resolved, target = exists(static_dir, path_part.lstrip("/"))
+                else:
+                    resolved, target = exists(static_dir, rel)
+                    if not resolved:
+                        target = f"{static_dir}/{rel} (note: path is missing a leading /en/ segment)"
             else:
                 target = os.path.normpath(os.path.join(root, path_part))
-
-            # GitHub Pages resolves extensionless/directory paths to
-            # "<path>/index.html" (redirecting "/foo" -> "/foo/" first), so
-            # accept that form too before calling a link broken.
-            resolved = os.path.isfile(target) or os.path.isfile(os.path.join(target, "index.html"))
-
-            # Deploy also copies static/* over the same "/en/..." tree
-            # (see gh-pages.yml: `cp -R static/* public/`), so files that
-            # live under static/ (e.g. static/en/foo.pdf) are real too.
-            if not resolved and path_part.startswith("/"):
-                static_target = os.path.join(static_dir, path_part.lstrip("/"))
-                resolved = os.path.isfile(static_target)
+                resolved = os.path.isfile(target) or os.path.isfile(os.path.join(target, "index.html"))
 
             if not resolved:
                 rel_source = os.path.relpath(fpath, book_dir)
-                print(f'BROKEN {attr}: "{raw_url}" in {rel_source} (no file at {target} or {target}/index.html)')
+                print(f'BROKEN {attr}: "{raw_url}" in {rel_source} (no file at {target})')
                 failures += 1
 
 print()

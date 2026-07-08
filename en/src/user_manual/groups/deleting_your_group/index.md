@@ -2,7 +2,7 @@
 
 Deleting your Loomio group initiates a process to permanently delete all group data. 
 
-If there is any data you wish to retain, make sure you [export group data](/en/user_manual/groups/data_export) and manually download any important files you have uploaded before you continue.
+If there is any data you wish to retain, make sure you [export group data](/en/user_manual/groups/data_export/) and manually download any important files you have uploaded before you continue.
 
 Open the group drop down menu by clicking on the three dots, and select the **Delete group** option to remove access to the group and to initiate deletion of all group data from our records. You must be an admin to delete a group.
 
@@ -20,4 +20,4 @@ You will be invited to type the name of your group (*case sensitive*) to confirm
 
 Two weeks after you use **Delete group**, all the threads, polls, files and other group content will be permanently deleted. ***This is non-reversible!*** 
 
-We recommend that you [export the group data](/en/user_manual/groups/data_export)and manually download any important files you have uploaded before you continue.
+We recommend that you [export the group data](/en/user_manual/groups/data_export/)and manually download any important files you have uploaded before you continue.

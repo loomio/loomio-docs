@@ -12,7 +12,7 @@ Subgroups work just like groups do, but are located within your "parent" group. 
 ## Add a subgroup
 
 >[!Note]
->The ability to add new subgroups is part of the group's [permission settings](/en/user_manual/groups/settings).  By default, only admins can start new subgroups.
+>The ability to add new subgroups is part of the group's [permission settings](/en/user_manual/groups/settings/).  By default, only admins can start new subgroups.
 
 To add a subgroup, visit your main group page, then click **New Subgroup** from the sidebar.  
 
@@ -23,7 +23,7 @@ Click the **New subgroup** button, give it a name and select the privacy setting
 ![](../../assets/subgroups_new.png)
 s and permissions.
 
-When you are ready, [invite people](/en/user_manual/groups//index.html) people to the subgroup.
+When you are ready, [invite people](/en/user_manual/groups/inviting_people/) to the subgroup.
 
 You can edit the subgroups [group settings](/en/user_manual/groups/settings/) by clicking the cog icon on the subgroup page.
 
@@ -41,7 +41,7 @@ The privacy settings for subgroups are similar to the parent group.
 
 Closed subgroups have an additional setting that allow members of its parent group to see private threads.
 
-[Read about group privacy here](/en/user_manual/groups/settings/index.html#privacy).
+[Read about group privacy here](/en/user_manual/groups/settings/#privacy).
 
 ### Permissions
 
@@ -96,4 +96,4 @@ If you want the archived subgroup to be visible to members of the parent group;
 
 Admins can delete a subgroup in the same way you delete a group. When deleting a subgroup, be careful to not delete the 'parent' group.
 
-Learn [how to delete groups](/en/user_manual/groups/deleting_archiving).
+Learn [how to delete groups](/en/user_manual/groups/deleting_archiving/).

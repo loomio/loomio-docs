@@ -29,7 +29,7 @@ If you need some support to move a conversation to a clear outcome, you might…
 
 ## A range of tools
 
-Loomio provides a variety of polls and proposals to support your group's decision making. Read about them [and learn more here](/en/user_manual/polls).
+Loomio provides a variety of polls and proposals to support your group's decision making. Read about them [and learn more here](/en/user_manual/polls/).
 
 ![](decision-types.png)
 

@@ -6,7 +6,7 @@ The quorum setting is found at the very bottom of a proposal's customisation scr
 
 ![Screenshot showing the bottom of a proposal's customisation window, with "Quorum" as a heading above an input box, and a percentage sign at the end of the input box.  "60" is entered into the input box.  In the bottom right is an orange "start proposal" button.](./quorum-section.png)
 
-You can also set a quorum percentage when making a proposal template, so that certain proposal types always require a quorum (see [Poll Templates](/en/user_manual/polls/poll_templates/index.html)).
+You can also set a quorum percentage when making a proposal template, so that certain proposal types always require a quorum (see [Poll Templates](/en/user_manual/polls/poll_templates/)).
 
 ## Example Scenario
 

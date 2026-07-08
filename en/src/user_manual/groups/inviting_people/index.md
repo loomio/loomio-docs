@@ -45,7 +45,7 @@ If your group's privacy is **Closed** then you can share your group URL, i.e., `
 
 ![](../../assets/group_join_group.png)
 
-You can set your privacy level in your [Group Settings](/user_manual/groups/settings/index.html#privacy).
+You can set your privacy level in your [Group Settings](/en/user_manual/groups/settings/#privacy).
 
 ## Managing invitations
 

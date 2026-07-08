@@ -2,7 +2,7 @@
 
 If you are new to Loomio, you can start a group on a free trial at any time from the [Loomio website](https://www.loomio.com/). If you already use Loomio and would like to start a new group for another organization or purpose, you can do this from the sidebar menu - click on **New group**.
 
-For many organizations, a single Loomio group is sufficient. You can start as many subgroups as you need within the group. See [Subgroups](/en/user_manual/groups/subgroups/index.html) for more info.
+For many organizations, a single Loomio group is sufficient. You can start as many subgroups as you need within the group. See [Subgroups](/en/user_manual/groups/subgroups/) for more info.
 
 ![](../../assets/new_group.png)
 

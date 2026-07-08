@@ -9,7 +9,7 @@ No one wants to spin their wheels, and sometimes its important to get it right t
 [Ask about our bespoke, guided onboarding.](https://www.loomio.com/contact)
 
 ### Loomio Basics video series
-Review and share key lessons from the [Getting Started guide](/en/guides/getting_started) to bring newcomers up to speed in as little as 15 minutes with these [**videos**](/en/overview-and-how-tos).
+Review and share key lessons from the [Getting Started guide](/en/guides/getting_started/) to bring newcomers up to speed in as little as 15 minutes with these [**videos**](/en/overview-and-how-tos).
 
 ## Adopting Loomio
 
@@ -31,7 +31,7 @@ Top tips & tricks for adoption:
  - Deciding in person? Invite the group to move the decision online
 
 ## Foundational lessons
-### [Four keys to high-performing groups](/en/guides/four-patterns-of-success)
+### [Four keys to high-performing groups](/en/guides/four-patterns-of-success/)
 How successful groups collaborate to achieve great outcomes.
 
 ## For all else
