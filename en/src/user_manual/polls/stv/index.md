@@ -38,22 +38,21 @@ Meek STV
 The quota is the minimum number of votes a candidate needs to win a seat.  It can be either:
 
 Droop
-  : Recommended.  The standard quota type for most STV elections, and used by Ireland, Australia, and Scotland.  Droop guarantees a majority coalition wins a majority of seats. calculated as
+  : Recommended.  The standard quota type for most STV elections, and used by Ireland, Australia, and Scotland.  Droop guarantees a majority coalition wins a majority of seats. It is calculated as:
 \\[ floor(\frac{votes}{(seats + 1)}) + 1 \\]
 
 Hare
   :  A higher minimum threshold, and more proportional for smaller factions.
     Hare is preferred by DSA chapters to protect minority representation.
-    Calculated as 
+   It is calculated as:
     \\[ \frac{votes}{seats}\\]
   
   >[!TIP]
-  > 
   > Droop will always compute to a smaller number of votes than the Hare.  For example, in an election with 100 votes and four candidates, the Droop quota would be 21 and the Hare quota 25. 
 
 ## How voting works
 
-Voters drag and drop candidates to rank them in order of preference, ranking as many candidates as they desire.  Voters are not required to rank every candidate, and unranked candidates will not receive any of that voter's support.
+Voters drag and drop candidates to rank them in order of preference, ranking as many candidates as they desire.  Voters are not required to rank every candidate.
 
 ![](../../assets/stv-vote-in-progress.png)
 
@@ -84,10 +83,10 @@ After the poll closes, results are displayed in a summary table, with the follow
 
 If the count results in a tie — where eliminating any of the remaining candidates would change the outcome — those candidates are shown in a separate table rather than arbitrarily choosing a winner.
 
-An expandable section shows the full counting process. 
+An expandable section shows the full counting process:
 
 ![](../../assets/stv-results.png)
 
 Each row is a candidate and each column is a counting round, showing vote tallies at each stage.
 
-The green highlight shows when a candidate was elected (reached the quota), red shows when they were eliminated, and orange shows when they tied.
+The green highlight shows when a candidate was elected, red shows when they were eliminated, and orange shows when they tied.
