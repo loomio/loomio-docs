@@ -2,6 +2,13 @@
 
 Guidance for working on this repo (an mdBook site deployed to help.loomio.com via GitHub Pages).
 
+## Commit hygiene
+
+- No self-promotion or marketing in commits: don't add "Co-Authored-By"
+  lines or similar credit/attribution for AI tooling to commit messages.
+- If documenting AI-agent guidance in a file, use the standard filename
+  `AGENTS.md` (this file) rather than tool-specific names like `CLAUDE.md`.
+
 ## Deploy structure — the "/en nesting" footgun
 
 `.github/workflows/gh-pages.yml` builds the book and assembles the deployed
