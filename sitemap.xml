@@ -1,29 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://help.loomio.com/en/en/user_manual/getting_started/decisions/index.html</loc></url>
-  <url><loc>https://help.loomio.com/en/en/user_manual/getting_started/index.html</loc></url>
-  <url><loc>https://help.loomio.com/en/en/user_manual/getting_started/orientation.html</loc></url>
-  <url><loc>https://help.loomio.com/en/en/user_manual/getting_started/write-a-comment.html</loc></url>
-  <url><loc>https://help.loomio.com/en/en/user_manual/groups/deleting_archiving/index.html</loc></url>
-  <url><loc>https://help.loomio.com/en/en/user_manual/groups/intro_to_groups/index.html</loc></url>
-  <url><loc>https://help.loomio.com/en/en/user_manual/groups/membership/delegated_voters.html</loc></url>
-  <url><loc>https://help.loomio.com/en/en/user_manual/groups/membership/index.html</loc></url>
-  <url><loc>https://help.loomio.com/en/en/user_manual/groups/membership/management.html</loc></url>
-  <url><loc>https://help.loomio.com/en/en/user_manual/groups/tags/index.html</loc></url>
-  <url><loc>https://help.loomio.com/en/en/user_manual/groups/thread_management/index.html</loc></url>
-  <url><loc>https://help.loomio.com/en/en/user_manual/polls/decisions/index.html</loc></url>
-  <url><loc>https://help.loomio.com/en/en/user_manual/threads/engaging_with_threads/index.html</loc></url>
-  <url><loc>https://help.loomio.com/en/en/user_manual/threads/examples/index.html</loc></url>
-  <url><loc>https://help.loomio.com/en/en/user_manual/threads/index.html</loc></url>
-  <url><loc>https://help.loomio.com/en/en/user_manual/threads/intro_to_threads/index.html</loc></url>
-  <url><loc>https://help.loomio.com/en/en/user_manual/threads/invite_only/index.html</loc></url>
-  <url><loc>https://help.loomio.com/en/en/user_manual/threads/navigating_threads/index.html</loc></url>
-  <url><loc>https://help.loomio.com/en/en/user_manual/threads/notifying_people/index.html</loc></url>
-  <url><loc>https://help.loomio.com/en/en/user_manual/threads/starting_threads/index.html</loc></url>
-  <url><loc>https://help.loomio.com/en/en/user_manual/threads/templates/index.html</loc></url>
-  <url><loc>https://help.loomio.com/en/en/user_manual/threads/thread_admin/index.html</loc></url>
-  <url><loc>https://help.loomio.com/en/en/user_manual/threads/thread_admin/tasks.html</loc></url>
-  <url><loc>https://help.loomio.com/en/en/user_manual/users/sign_in/index.html</loc></url>
   <url><loc>https://help.loomio.com/en/guides/advice_process/index.html</loc></url>
   <url><loc>https://help.loomio.com/en/guides/board_processes/admin.html</loc></url>
   <url><loc>https://help.loomio.com/en/guides/board_processes/decisions.html</loc></url>
@@ -66,8 +42,13 @@
   <url><loc>https://help.loomio.com/en/user_manual/discussions/tasks/index.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/discussions/templates/index.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/discussions/using_discussions/index.html</loc></url>
+  <url><loc>https://help.loomio.com/en/user_manual/getting_started/decisions/index.html</loc></url>
+  <url><loc>https://help.loomio.com/en/user_manual/getting_started/index.html</loc></url>
+  <url><loc>https://help.loomio.com/en/user_manual/getting_started/orientation.html</loc></url>
+  <url><loc>https://help.loomio.com/en/user_manual/getting_started/write-a-comment.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/groups/data_export/index.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/groups/delegated_voters/index.html</loc></url>
+  <url><loc>https://help.loomio.com/en/user_manual/groups/deleting_archiving/index.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/groups/deleting_your_group/index.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/groups/email/index.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/groups/index.html</loc></url>
@@ -78,12 +59,18 @@
   <url><loc>https://help.loomio.com/en/user_manual/groups/integrations/mattermost/index.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/groups/integrations/microsoft_teams/index.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/groups/integrations/slack/index.html</loc></url>
+  <url><loc>https://help.loomio.com/en/user_manual/groups/intro_to_groups/index.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/groups/inviting_people/index.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/groups/member_management/index.html</loc></url>
+  <url><loc>https://help.loomio.com/en/user_manual/groups/membership/delegated_voters.html</loc></url>
+  <url><loc>https://help.loomio.com/en/user_manual/groups/membership/index.html</loc></url>
+  <url><loc>https://help.loomio.com/en/user_manual/groups/membership/management.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/groups/participation_report/index.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/groups/settings/index.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/groups/starting_a_group/index.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/groups/subgroups/index.html</loc></url>
+  <url><loc>https://help.loomio.com/en/user_manual/groups/tags/index.html</loc></url>
+  <url><loc>https://help.loomio.com/en/user_manual/groups/thread_management/index.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/making_decisions/advice_process.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/making_decisions/consensus_process.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/making_decisions/consent_process.html</loc></url>
@@ -92,6 +79,7 @@
   <url><loc>https://help.loomio.com/en/user_manual/overview/how-to-participate.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/overview/index.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/overview/orientation.html</loc></url>
+  <url><loc>https://help.loomio.com/en/user_manual/polls/decisions/index.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/polls/intro_to_decisions/index.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/polls/inviting_people/index.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/polls/meeting_polls/index.html</loc></url>
@@ -103,9 +91,21 @@
   <url><loc>https://help.loomio.com/en/user_manual/polls/starting_proposals/index.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/polls/stv/index.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/polls/vote_share_requirements/index.html</loc></url>
+  <url><loc>https://help.loomio.com/en/user_manual/threads/engaging_with_threads/index.html</loc></url>
+  <url><loc>https://help.loomio.com/en/user_manual/threads/examples/index.html</loc></url>
+  <url><loc>https://help.loomio.com/en/user_manual/threads/index.html</loc></url>
+  <url><loc>https://help.loomio.com/en/user_manual/threads/intro_to_threads/index.html</loc></url>
+  <url><loc>https://help.loomio.com/en/user_manual/threads/invite_only/index.html</loc></url>
+  <url><loc>https://help.loomio.com/en/user_manual/threads/navigating_threads/index.html</loc></url>
+  <url><loc>https://help.loomio.com/en/user_manual/threads/notifying_people/index.html</loc></url>
+  <url><loc>https://help.loomio.com/en/user_manual/threads/starting_threads/index.html</loc></url>
+  <url><loc>https://help.loomio.com/en/user_manual/threads/templates/index.html</loc></url>
+  <url><loc>https://help.loomio.com/en/user_manual/threads/thread_admin/index.html</loc></url>
+  <url><loc>https://help.loomio.com/en/user_manual/threads/thread_admin/tasks.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/users/deleting_your_account/index.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/users/email_settings/index.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/users/merge_accounts/index.html</loc></url>
+  <url><loc>https://help.loomio.com/en/user_manual/users/sign_in/index.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/users/translation/index.html</loc></url>
   <url><loc>https://help.loomio.com/en/user_manual/users/user_profile/index.html</loc></url>
 </urlset>
