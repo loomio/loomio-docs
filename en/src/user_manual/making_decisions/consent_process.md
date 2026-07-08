@@ -1,6 +1,6 @@
 # Consent process
 
-![photo of people collaborating](../assets/better_collaboration.jpg)
+![photo of people collaborating](better_collaboration.jpg)
 
 Make a decision that is ‘safe to try’, without objections.
 
@@ -70,7 +70,7 @@ Objections should meet this criteria to be valid:
 
 Chloe starts a Loomio thread outlining the need to develop a Health and Safety policy, proposing to lead this work with a first draft, inviting contributions to develop the policy and that she is starting a Consent process to adopt the policy.
 
-![](../assets/discussion_context_health_and_safety.png)
+![](discussion_context_health_and_safety.png)
 
 ### Step 2. Facilitate a clarifying question round
 
@@ -78,11 +78,11 @@ Chloe runs a Question proposal to open a question round, inviting people to ask 
 
 The aim at this stage is to help people understand the policy before they say what they think about it.
 
-![](../assets/proposal_question_health_and_safety.png)
+![](proposal_question_health_and_safety.png)
 
 People ask questions in the proposal 'Reason' text field and click 'Submit vote'.  Chloe replies to questions.
 
-![](../assets/proposal_reply_health_and_safety.png)
+![](proposal_reply_health_and_safety.png)
 
 ### Step 3. Facilitate a reactions round 
 
@@ -90,13 +90,13 @@ Chloe now opens a Reactions round by running a Sense check proposal.  People are
 
 This round is an opportunity to actively sense and interpret information from the group and then respond or adapt accordingly.
 
-![](../assets/proposal_reaction_round_health_and_safety.png)
+![](proposal_reaction_round_health_and_safety.png)
 
 ### Step 4. Amend the proposal
 
 When the Sense check proposal closes, Chloe notifies everyone and works to amend the policy appropriately.
 
-![](../assets/proposal_outcome_reaction_round_health_and_safety.png)
+![](proposal_outcome_reaction_round_health_and_safety.png)
 
 ### Step 5. Seek consent to adopt the policy
 
@@ -104,11 +104,11 @@ The Health and Safety policy is looking good.  People have had the opportunity t
 
 Now Chloe seeks consent to adopt the policy by running a Consent proposal.
 
-![](../assets/proposal_consent_process_health_and_safety.png)
+![](proposal_consent_process_health_and_safety.png)
 
 
 ### Step 6. Integrate valid objections to create an amended version of the proposal that everyone consents is ‘safe to try’
 
 Once all objections are integrated, consent has been reached and Chloe states the decision outcome :-)
 
-![](../assets/proposal_outcome_consent_process_health_and_safety.png)
+![](proposal_outcome_consent_process_health_and_safety.png)

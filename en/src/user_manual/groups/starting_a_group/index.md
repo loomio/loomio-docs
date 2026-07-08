@@ -4,11 +4,11 @@ If you are new to Loomio, you can start a group on a free trial at any time from
 
 For many organizations, a single Loomio group is sufficient. You can start as many subgroups as you need within the group. See [Subgroups](/en/user_manual/groups/subgroups/) for more info.
 
-![](../../assets/new_group.png)
+![](new_group.png)
 
 ### Group details
 
-![](../../assets/new_group_start.png#width-80)
+![](new_group_start.png#width-80)
 
 #### Group name
 

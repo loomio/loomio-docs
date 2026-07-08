@@ -1,6 +1,6 @@
 # Consensus process
 
-![Photo by Aaron Burden on Unsplash *Photo by Aaron Burden on Unsplash*](../assets/aaron-burden-NXt5PrOb_7U-unsplash.jpg)
+![Photo by Aaron Burden on Unsplash *Photo by Aaron Burden on Unsplash*](aaron-burden-NXt5PrOb_7U-unsplash.jpg)
 
 Reach collective agreement with everyone involved.
 
@@ -59,36 +59,36 @@ Build consensus for a decision you need to make together, to reach an agreement 
 
 Vivien starts a Loomio discussion outlining the need to review the organization's brand, inviting participation to develop a new brand concept, and that the approval decision is to be made by the governance board using the consensus process.
 
-![](../assets/discussion_consensus_process_refresh_brand.png)
+![](discussion_consensus_process_refresh_brand.png)
 
 ### Step 2. Present a proposal 
 
 Vivien runs a Sense check proposal to survey opinions to see how people feel about key elements of the brand concept, and test for consensus.   The Sense check proposal lets people know a proposal is forming and encourages them to engage.  It's a good way to surface concerns.
 
-![](../assets/proposal_sense_check_refresh_brand.png)
+![](proposal_sense_check_refresh_brand.png)
 
 ### Step 3. Amendment
 
 When the Sense check proposal closes, Vivien states an outcome and notifies everyone about the results and what will happen next.
 Vivien facilitates a discussion to address concerns and modify the Brand Concept document.
 
-![](../assets/proposal_outcome_sense_check_refresh_brand.png)
+![](proposal_outcome_sense_check_refresh_brand.png)
 
 ### Step 4. Agreement
 
 Having completed the latest version of the Brand Concept document, Vivien is now ready to seek approval from the governance board by running a Consensus proposal.
 
-![](../assets/proposal_consensus_process_refresh_brand.png)
+![](proposal_consensus_process_refresh_brand.png)
 
 Governance board members are invited to vote and approve the Brand Concept.  The board has previously agreed that proposals like this require >75% of members to vote Agree for it to pass. 
 
 This template includes a Block option by default. Block isn't suitable for every group — it can be controversial or misused. If you don't use block in your decision-making process, we recommend editing the template to remove it.
 
-![](../assets/proposal_vote_consensus_process_refresh_brand.png)
+![](proposal_vote_consensus_process_refresh_brand.png)
 
 ### Step 5. Outcome
 
 When the Consensus proposal closes, Vivien states an outcome and notifies everyone that agreement has been reached, and that work to implement the new brand will commence. 
 
-![](../assets/proposal_outcome_consensus_process_refresh_brand.png)
+![](proposal_outcome_consensus_process_refresh_brand.png)
 

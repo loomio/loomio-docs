@@ -10,11 +10,11 @@ When you delete a group, it will be archived from view immediately and scheduled
 
 Deleting your group will also cancel your Loomio subscription.
 
-![](../../assets/group_delete_group.png)
+![](group_delete_group.png)
 
 You will be invited to type the name of your group (*case sensitive*) to confirm you wish to delete your group.
 
-![](../../assets/group_delete_group_confirm.png)
+![](group_delete_group_confirm.png)
 
 ### Group data is permanently deleted after 2 weeks
 
