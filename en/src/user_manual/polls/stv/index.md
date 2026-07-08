@@ -54,7 +54,7 @@ Hare
 
 Voters drag and drop candidates to rank them in order of preference:
 
-![](../../assets/stv-vote-in-progress.png)
+![](stv-vote-in-progress.png)
 
 - **Rank 1** = most preferred candidate
 - **Rank 2** = second choice
@@ -62,7 +62,7 @@ Voters drag and drop candidates to rank them in order of preference:
 
 Voters are not required to rank every candidate. Unranked candidates will not receive any of that voter's support.
 
-![](../../assets/stv-vote-in-progress.png)
+![](stv-vote-in-progress.png)
 
 ## How counting works
 The count is performed as follows:
@@ -77,10 +77,10 @@ The count is performed as follows:
 >If a voter has ranked no remaining candidates, their ballot is "exhausted" and that vote is lost. This is why ranking more candidates is generally better.
 
 ## Understanding results
-![](../../assets/stv-results-summary.png)
+![](stv-results-summary.png)
 
 After the poll closes, results are displayed in several sections:
-![](../../assets/stv-results-summary.png)
+![](stv-results-summary.png)
 
 ### Method and quota
 
@@ -101,10 +101,10 @@ A summary table of the winners with five columns:
 If the count results in a tie — where eliminating any of the remaining candidates would change the outcome — those candidates are shown in a separate table rather than arbitrarily choosing a winner.
 
 ### Round-by-round details
-![](../../assets/stv-results.png)
+![](stv-results.png)
 An expandable section showing the full counting process. Each row is a candidate and each column is a counting round, showing vote tallies at each stage:
 
-![](../../assets/stv-results.png)
+![](stv-results.png)
 
 Each row is a candidate and each column is a counting round, showing vote tallies at each stage.
 
