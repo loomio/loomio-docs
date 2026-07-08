@@ -20,6 +20,10 @@ jobs:
           mdbook-version: '0.5.2'
 
       - run: mdbook build en
+      - name: Check redirects
+        run: bash check-redirects.sh
+      - name: Check internal links and images
+        run: bash check-links.sh
       - run: mkdir ./public
       - run: cp -R static/* ./public/
       - run: mv ./en/book/* ./public/en/

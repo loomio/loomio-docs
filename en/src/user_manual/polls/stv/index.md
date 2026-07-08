@@ -52,7 +52,15 @@ Hare
 
 ## How voting works
 
-Voters drag and drop candidates to rank them in order of preference, ranking as many candidates as they desire.  Voters are not required to rank every candidate.
+Voters drag and drop candidates to rank them in order of preference:
+
+![](../../assets/stv-vote-in-progress.png)
+
+- **Rank 1** = most preferred candidate
+- **Rank 2** = second choice
+- Continue ranking as many candidates as desired
+
+Voters are not required to rank every candidate. Unranked candidates will not receive any of that voter's support.
 
 ![](../../assets/stv-vote-in-progress.png)
 
@@ -71,7 +79,16 @@ The count is performed as follows:
 ## Understanding results
 ![](../../assets/stv-results-summary.png)
 
-After the poll closes, results are displayed in a summary table, with the following information:
+After the poll closes, results are displayed in several sections:
+![](../../assets/stv-results-summary.png)
+
+### Method and quota
+
+At the top, you'll see the counting method (Scottish STV or Meek STV) and quota type (Droop or Hare) along with the quota — the number of votes a candidate needed to win a seat.
+
+### Elected candidates
+
+A summary table of the winners with five columns:
 
 | Column | Meaning |
 |--------|---------|
@@ -83,7 +100,9 @@ After the poll closes, results are displayed in a summary table, with the follow
 
 If the count results in a tie — where eliminating any of the remaining candidates would change the outcome — those candidates are shown in a separate table rather than arbitrarily choosing a winner.
 
-An expandable section shows the full counting process:
+### Round-by-round details
+![](../../assets/stv-results.png)
+An expandable section showing the full counting process. Each row is a candidate and each column is a counting round, showing vote tallies at each stage:
 
 ![](../../assets/stv-results.png)
 

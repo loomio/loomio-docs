@@ -41,7 +41,7 @@ On Loomio
 
 * The group description fields and discussion context box are the main space to put a “welcome message” for people arriving into the space.
 * Take a tour of the Loomio space, tweak things to make yourself comfortable (like [notification settings](/en/user_manual/users/email_settings/) and your [profile photo](/en/user_manual/users/user_profile/).
-* See information how you like using [different thread views and options](/en/user_manual/users/navigation) like Recent, Unread, Mute, and Star. Make yourself at home.
+* See information how you like using different thread views and options like Recent, Unread, Mute, and Star. Make yourself at home.
 
 
 ## Who’s in the Room

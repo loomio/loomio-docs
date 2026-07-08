@@ -1,6 +1,6 @@
 # Advice process
 
-![Photo of yoda implying sage advice - *Photo by Nadir sYzYgY on Unsplash*](../assets/nadir-syzygy-den6gTowZKs-unsplash.jpg)
+![Photo of yoda implying sage advice - *Photo by Nadir sYzYgY on Unsplash*](nadir-syzygy-den6gTowZKs-unsplash.jpg)
 
 Seek advice on a decision you need to make.
 
@@ -48,24 +48,24 @@ Does it impact other people and your organization?  Takashi's colleagues want hi
 
 Takashi starts a Loomio discussion with a clear statement of the decision he needs to make.  He provides some context to open a discussion, that he is starting an advice process.
 
-![](../assets/discussion_takashi_computer.png)
+![](discussion_takashi_computer.png)
 
 ### Step 2.  Clarify and strengthen the advice through discussion
 
 Takashi replies to advice given in comments in the discussion thread, clarifying his situation and asking questions to expand on the advice given.
 
-![](../assets/discussion_comments_advice_process_new_computer.png)
+![](discussion_comments_advice_process_new_computer.png)
 
 As people offer advice and comments, Takashi grows resolved in his decision.
 
 ### Step 3. Make a decision with advice and inform people
 
-When everyone has offered advice, or the proposal closes, Takashi makes a decision and states the **[outcome](/en/user_manual/polls/outcomes/index.html)**.
+When everyone has offered advice, or the proposal closes, Takashi makes a decision and states the **[outcome](/en/user_manual/polls/outcomes/)**.
 
 The outcome is a clear statement of the decision made and what will happen next. It  becomes an important record for the organization.
 
 Takashi edits the discussion context to include this outcome.
 
-![](../assets/decision_outcome_advice_process_new_computer.png)
+![](decision_outcome_advice_process_new_computer.png)
 
 Alternatively, he could state it in a comment that he pins to the thread, so the outcome appears prominently in the discussion timeline.

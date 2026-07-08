@@ -4,12 +4,12 @@ In group settings you can change the group profile, the groups visibility and me
 
 On your group page, click the **Edit group settings** cogwheel icon to open the settings form. 
 
-![](../../assets/group_settings.png)
+![](group_settings.png)
 
 ## Group Profile
 The profile tab determines the name, description, and appearance of your group on Loomio.
 
-![](../../assets/group_profile.png)
+![](group_profile.png)
 
 ### Upload a group photo
 You can upload a group photo and logo by clicking either of their images in the settings form.  The logo will appear alongside your group name in the sidebar menu.
@@ -29,7 +29,7 @@ You can richly format the text as well as attach documents, hyperlinks, and vide
 
 ## Privacy
 
-![](../../assets/group_privacy_settings.png#width-90)
+![](group_privacy_settings.png#width-90)
 
 The privacy tab lets you determine who can find your group, who can see the discussions in your group, and how people join.
 
@@ -55,11 +55,11 @@ You can choose to either let anyone join (pending approval)  or have membership 
 
 If membership is open to anyone, then a 'join group' button will show on your group page for new visitors. Clicking this will send a membership request to the group admins for approval. 
 
-![](../../assets/group_join_group.png)
+![](group_join_group.png)
 
 If membership is invite only, then new members are added through the 'Members' tab on the dashboard by users with appropriate permissions. New members can be invited either by their email address or by sending them an invite link.
 
-![](../../assets/group_join_group_invite.png)
+![](group_join_group_invite.png)
 
 ## Permissions
 
@@ -71,4 +71,4 @@ Consider carefully each of these permissions and how they apply to your group.  
 
 Contact us if you have questions about the best permission settings for your group.
 
-![](../../assets/group_group_settings_permissions.png)
+![](group_group_settings_permissions.png)

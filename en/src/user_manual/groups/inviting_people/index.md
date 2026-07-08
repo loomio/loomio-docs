@@ -4,7 +4,7 @@ Go to your group page and click the **Members** tab to access member management.
 
 You can **Invite** particular people to your group with their email address or **Share** a link to your group via email, newsletter, chat or from your website.
 
-![](../../assets/group_join_group_invite.png)
+![](group_join_group_invite.png)
 
 ## Invite people via their email
 
@@ -12,7 +12,7 @@ Click **Invite** on the Member tab of your group page to send an email invitatio
 
 If the recipient already has a Loomio user account they can still accept the invitation to join your group with their existing account.
 
-![](../../assets/group_invite_email.png)
+![](group_invite_email.png)
 
 ### Invite many at once
 
@@ -27,13 +27,13 @@ When you click **Invite** an email will be sent to each of the email addresses y
 
 Following the same process as above, you can invite people to a 'parent' group, and one or more subgroups simultaneously when you invite them with the **Invite people** button. Tick the boxes next to the subgroups you want them to immediately be a part of when they join the group.
 
-![](../../assets/group_invite_email_subgroups.png)
+![](group_invite_email_subgroups.png)
 
 ## Share a link to your group
 
 You can share a link to your group with the **Share** button. This is useful if you want to send a link via email, newsletter, chat or post on your website.
 
-![](../../assets/group_invite_sharable_link.png)
+![](group_invite_sharable_link.png)
 
 Click on the "copy" icon to copy the link to your clipboard, then paste in your email, newsletter or chat channel.
 
@@ -43,15 +43,15 @@ If you want to stop people from joining via this link, click "Reset this link". 
 
 If your group's privacy is **Closed** then you can share your group URL, i.e., `https://www.loomio.com/group-name`. When people arrive at your group page, they will see the group title and description, and a **Join group** button where they can request membership.
 
-![](../../assets/group_join_group.png)
+![](group_join_group.png)
 
-You can set your privacy level in your [Group Settings](/user_manual/groups/settings/index.html#privacy).
+You can set your privacy level in your [Group Settings](/en/user_manual/groups/settings/#privacy).
 
 ## Managing invitations
 
 To manage invitations, open the filter/ drop down from the Members tab of your Group page and select **Invitations**. You can manage individual invitations by clicking the three dot menu (**⋮**) to the right of the member.
 
-![](../../assets/group_invite_members_filter.png)
+![](group_invite_members_filter.png)
 
 You can also make people administrators or set their title (e.g. "IT Support") within the group before they accept their invitation.
 
@@ -61,7 +61,7 @@ Follow up on people who don't make it into the group and give them a nudge. If s
 
 Click on the three dots (**⋮**) next to the person you want to resend the invitation to, and then choose **Resend invitation**.
 
-![](../../assets/group_invite_resend_invitation.png)
+![](group_invite_resend_invitation.png)
 
 ### Encourage people to participate
 
@@ -73,4 +73,4 @@ If people join but don't begin to participate right away, you might like to welc
 ### Cancelling invitations
 If you entered the wrong email address, or have changed your mind about inviting someone, you can cancel an invitation from the Members tab on your Group page. Select **Cancel Invitation** from the drop down menu to the right of the member invitation (**⋮**).
 
-![](../../assets/group_invite_cancel_invitation.png)
+![](group_invite_cancel_invitation.png)
