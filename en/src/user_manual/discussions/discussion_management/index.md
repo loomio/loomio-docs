@@ -4,7 +4,7 @@ As the number of threads grows, you can help group members find the threads they
 
 On the group page **Discussions** tab there are several tools to help you display and manage threads.
 
-You can pin important threads to the top of the list, edit a thread, move a thread to another group, merge or copy discussions, close old threads and delete unwanted threads.
+You can pin important threads to the top of the list, edit a thread, move a thread to another group, move items between threads, copy discussions, close old threads and delete unwanted threads.
 
 Open the 3 dot (**...**) thread management menu to the right of the thread.
 
@@ -71,15 +71,15 @@ Select the destination group or subgroup, and click **Move thread**.
 >[!Tip]
 >Start a draft thread and move it to a group when you are ready to post. Use a private subgroup or direct discussion to work on a draft with one or two people.
 
-## Merge discussions
+## Move items between threads
 
-Loomio does not have a separate **Merge discussions** command. To combine two discussions into one thread, move the comments from one discussion into the other discussion.
+Use **Move item** to move items from one thread to another. You can use this to combine two discussions into one thread; there is no separate **Merge discussions** command.
 
-In the discussion you want to move comments from, open the 3 dot menu (**...**) on a comment and select **Move item**.
+In the thread you want to move items from, open the 3 dot menu (**...**) on an item and select **Move item**.
 
 ![](../using_discussions/comment_move.png)
 
-Select the comments you want to move.
+Select the items you want to move.
 
 ![](../using_discussions/comment_select.png)
 
@@ -87,17 +87,17 @@ Click **Move** in the banner at the top of the discussion.
 
 ![](../using_discussions/move_items.png)
 
-Choose the group or subgroup, then select the existing discussion you want to move the comments into.
+Choose the group or subgroup, then select the existing thread you want to move the items into.
 
 You can also use this process to move comments onto a new topic. Instead of selecting an existing discussion, start a new discussion and add its title and context.
 
 ![](../using_discussions/move_items_new_thread.png)
 
-The comments are moved from the original discussion into the selected or newly created discussion.
+The items are moved from the original thread into the selected or newly created thread.
 
 ![](../using_discussions/new_thread.png)
 
-After merging discussions, close the original thread if it is no longer needed. You can delete it instead if you are certain you will not need it again.
+After moving the items, close the original thread if it is no longer needed. You can delete it instead if you are certain you will not need it again.
 
 ## Close a thread
 
