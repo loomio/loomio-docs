@@ -97,33 +97,29 @@ The items are moved from the original thread into the selected or newly created 
 
 ![](../using_discussions/new_thread.png)
 
-After moving the items, close the original thread if it is no longer needed. You can delete it instead if you are certain you will not need it again.
+After moving the items, lock the original thread if it is no longer needed. You can delete it instead if you are certain you will not need it again.
 
-## Close a thread
+## Lock a thread
 
-To keep the list on your group page relevant, you can close threads that are no longer active.
+Lock a thread to prevent people from commenting or making further changes. Locked threads are removed from the list of open threads.
 
-Go to the Discussions tab on your group page, and open the 3 dot menu (**...**)
+You can only lock a thread after any proposals in the thread have closed.
 
-![](thread_close1.png)
+Open the 3 dot menu (**...**) for the thread and select **Lock thread**.
 
-To view closed discussions, go to the group page and click on the drop-down menu just under the Discussions tab.
+To view locked threads, go to the group page and click the drop-down menu under the Discussions tab.
 
-Change the discussion filter from default **Open** to **Closed**.   You can also use this filter to see **All** discussions, **Unread** discussions and **Templates**
+Change the discussion filter from **Open** to **Locked**.
 
-![](thread_closed.png)
+Use **Unlock thread** to allow comments and changes again and restore the thread to the open thread list.
 
-Use **Re-open thread** to restore it to the open thread list.
-
-![](closed_threads.png)
-
-Closed threads are marked with a **Closed** tag.
+Locked threads are marked with a **Locked** tag.
 
 ## Delete a thread
 
 Deleting a thread removes it from your group. You cannot restore a deleted thread.
 
-If you are not sure whether you will need to access the thread again, close it instead. Closed threads can be re-opened.
+If you are not sure whether you will need to access the thread again, lock it instead. Locked threads can be unlocked.
 
 When you select **Delete thread** you will be asked to confirm before proceeding.
 
