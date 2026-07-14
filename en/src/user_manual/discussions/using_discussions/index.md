@@ -167,35 +167,6 @@ This is a great way to directly refer to your own comment or a comment someone h
 
 See [Comment notification history](https://help.loomio.com/en/user_manual/threads/notifying_people/index.html#comment-notification-history).
 
-### Move item
-
-If a comment is posted on a new or different topic, you can move comments to another discussion, or to start a new discussion.
-
-Open the 3 dot menu (**...**) and select **Move item**.
-
-![](comment_move.png)
-
-Select the comments you want to move to another discussion.
-
-![](comment_select.png)
-
-Click **Move** in the banner at the top of the discussion.
-
-![](move_items.png)
-
-Choose the group or subgroup.
-
-Choose either an existing discussion to move the comments in to, or start a new discussion on a new topic.
-
-If you want to start a new discussion, add discussion title and context.
-
-![](move_items_new_thread.png)
-
-A new discussion is created with comments moved from the old discussion.
-
-![](new_thread.png)
-
-
 ### Discard comment
 
 Discarding a comment removes it from the thread, but retains the comment in a trash bin.
@@ -329,4 +300,3 @@ Group admins you can delete any discussion in the group.
 You will be asked to confirm you want to delete the discussion.  Delete discussion can not be undone.
 
 ![](delete_thread.png)
-
