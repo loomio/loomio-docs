@@ -1,58 +1,75 @@
-# Discussion management
+# Thread management
 
-As the number of discussions grows, you can help group members find the discussions they need.
+As the number of threads grows, you can help group members find the threads they need. A thread may contain a discussion, a poll, or both.
 
-On the group page **Discussions** tab there are several tools to help you display and administer discussions.
+On the group page **Discussions** tab there are several tools to help you display and manage threads.
 
-You can pin important discussions to the top of the discussion list, edit a discussion, move a discussion to another group, merge discussions, close old discussions and delete unwanted discussions.
+You can pin important threads to the top of the list, edit a thread, move a thread to another group, merge or copy discussions, close old threads and delete unwanted threads.
 
-Open the 3 dot (**...**) discussion management menu to the right of the discussion.
+Open the 3 dot (**...**) thread management menu to the right of the thread.
 
 ![](thread_management.png)
 
 These tools are available for group admins.
 
-If "Members can manage discussions and comments" is permitted in [Group Settings](https://help.loomio.com/en/user_manual/groups/settings/index.html#permissions), any member of the group can access discussion management tools.
+If "Members can manage discussions and comments" is permitted in [Group Settings](https://help.loomio.com/en/user_manual/groups/settings/index.html#permissions), any member of the group can access thread management tools.
 
 ![](permissions_manage_threads.png)
 
-If members are not permitted to manage discussions, they can only **Close** a discussion.
+If members are not permitted to manage discussions, they can only **Close** a thread.
 
-## Pin discussion
+## Pin a thread
 
-The discussion list is ordered by the most recent activity, so you will see current discussions at the top and older discussions lower down the list.
+The thread list is ordered by the most recent activity, so you will see current threads at the top and older threads lower down the list.
 
-You can **Pin discussion** to the top of the list of discussions to make it easier to find.   Welcome discussions, news items and announcements are typical of pinned discussions.
+You can pin a thread to the top of the list to make it easier to find. Welcome discussions, news items and announcements are typical of pinned threads.
 
-Pinned discussions will appear above other discussions on the group page and are ordered by the most recently pinned item at the top. You can change position of the pinned discussion by pinning and unpinning discussions.
+Pinned threads appear above other threads on the group page and are ordered by the most recently pinned item at the top. You can change the position of a pinned thread by unpinning it and pinning it again.
 
-Use **Un-pin** to release a discussion so it is ordered by activity.
+Use **Un-pin** to release a thread so it is ordered by activity.
 
 ![](pin_thread.png)
 
-## Edit
+## Edit a thread
 
-**Edit discussion** opens the discussion edit panel, enabling you to edit any part of the discussion.
+**Edit thread** opens the edit panel, enabling you to change the thread.
 
 ![](thread_edit.png)
 
-When a discussion has been edited, the **Show edits** icon appears on the discussion page. Click on this to see what changes have been made.
+When a discussion has been edited, the **Show edits** icon appears on the thread page. Click on this to see what changes have been made.
 
 >[!Tip]
 >Editing discussions from the group page is a quick way to add a Category tag.
 
-## Move to group
+## Make a copy
 
-You can move a discussion to another Loomio group or subgroup.
+Create a copy of a discussion when you want to start a new discussion based on an existing one. The copy includes the title (prefixed with "Copy of"), discussion context, tags and formatting.
+
+Open the 3 dot (**⋯**) menu under the discussion context and select **Make a copy**.
+
+![](../using_discussions/thread_copy.png)
+
+Edit the title and context for the new discussion.
+
+![](../using_discussions/thread_copy_start.png)
+
+>[!Note]
+>**Make a copy** does not copy comments or polls from the source discussion. Loomio remembers the poll types used in the source discussion and shows them at the top of the poll type list in the new discussion.
+
+## Move a thread to another group
+
+You can move a thread to another Loomio group or subgroup.
+
+The thread will be visible to members of the destination group and to anyone specifically invited to the thread.
 
 ![](thread_move_group.png)
 
-Select the destination group or subgroup, and click **Move discussion**.
+Select the destination group or subgroup, and click **Move thread**.
 
 ![](move_thread_select.png)
 
 >[!Tip]
->Start a draft discussion and move it to a group when you are ready to post.  Use a private subgroup of direct discussion to work on the draft discussion with one or two people.
+>Start a draft thread and move it to a group when you are ready to post. Use a private subgroup or direct discussion to work on a draft with one or two people.
 
 ## Merge discussions
 
@@ -80,11 +97,11 @@ The comments are moved from the original discussion into the selected or newly c
 
 ![](../using_discussions/new_thread.png)
 
-After merging discussions, close the original discussion if it is no longer needed. You can delete it instead if you are certain you will not need it again.
+After merging discussions, close the original thread if it is no longer needed. You can delete it instead if you are certain you will not need it again.
 
-## Close discussion
+## Close a thread
 
-To keep the list of discussions on your group page relevant, you can close discussions that are no longer active.
+To keep the list on your group page relevant, you can close threads that are no longer active.
 
 Go to the Discussions tab on your group page, and open the 3 dot menu (**...**)
 
@@ -96,16 +113,18 @@ Change the discussion filter from default **Open** to **Closed**.   You can also
 
 ![](thread_closed.png)
 
-Use **Re-open discussion** to restore it to the open discussion list.
+Use **Re-open thread** to restore it to the open thread list.
 
 ![](closed_threads.png)
 
-## Delete discussion
+Closed threads are marked with a **Closed** tag.
 
-Deleting a discussion removes it from your group.  You can not restore a deleted discussion.
+## Delete a thread
 
-If you are not sure if you will need to access the discussion again, use **Close discussion**.  Closed discussions can be re-opened.
+Deleting a thread removes it from your group. You cannot restore a deleted thread.
 
-When you select **Delete discussion** you will be asked to confirm before proceeding.
+If you are not sure whether you will need to access the thread again, close it instead. Closed threads can be re-opened.
+
+When you select **Delete thread** you will be asked to confirm before proceeding.
 
 ![](thread_delete.png)

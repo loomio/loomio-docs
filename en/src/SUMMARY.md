@@ -29,7 +29,7 @@
   - [Formatting](user_manual/discussions/formatting/index.md)
   - [Tasks](user_manual/discussions/tasks/index.md)
   - [Direct Discussions](user_manual/discussions/direct_discussions/index.md)
-  - [Discussion management](user_manual/discussions/discussion_management/index.md)
+  - [Thread management](user_manual/discussions/discussion_management/index.md)
   - [Category tags](user_manual/discussions/tags/index.md)
   - [Examples](user_manual/discussions/examples/index.md)
   - [Templates](user_manual/discussions/templates/index.md)

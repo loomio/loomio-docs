@@ -213,28 +213,13 @@ To change this setting, click that grey text, choose your preference, and save. 
 
 ![](thread_layout_options.png)
 
-## Administering discussions
+## Other discussion tools
 
-There are a set of tools on the discussion page to help you make a copy, print, move discussion, close or delete discussion.
+The discussion menu includes tools to view the notification history and print the discussion.
 
-Find the tools under the 3 dot (**⋯**) menu, under the discussion context on the right.
+Find these tools under the 3 dot (**⋯**) menu, under the discussion context on the right.
 
 ![](thread_admin.png)
-
-### Make a copy
-
-Create a copy of a discussion - title ("Copy of...") and the discussion context, along with any tags and formatting used.
-
-Use **Make a copy** when you want to start a new discussion based on an existing discussion.
-
-![](thread_copy.png)
-
-Edit the discussion title and context for your new discussion.
-
-![](thread_copy_start.png)
-
->[!Note]
->**Make a copy** does not copy comments or polls from the source discussion.  Although Loomio remembers the polls used in the source discussion, so that when you start a poll in the discussion, the poll types used in the source discussion will show at the top of the list of polls.
 
 ### Show notifications
 
@@ -249,54 +234,3 @@ A page suitable for print is generated.
 To save as a file, use your browser's ability to "save to pdf", or copy and paste it into a file or repository of your choosing.
 
 ![](thread_print_thread.png)
-
-### Pin discussion
-Admins can pin discussions to the top of the group page to make them easier to find.
-
-Pinned discussions will appear above your other discussions on your group page and will be ordered by the most recently pinned item at the top. You can change position of the pinned discussion by pinning and unpinning discussions.
-
-You can **pin** or **un-pin** from the discussion preview options on the Group page.
-
-![](thread_pin_thread.png)
-
-### Close discussion
-
-To keep the list of discussions on your group page relevant, you can close discussions which people don't need to see.
-
-![](thread_close_thread.png)
-
-To view closed discussions, go to your group page. Click the drop-down menu just under the **Discussions** tab and change the discussion filter from **Open** to **Closed**.
-
-![](closed_thread_filter.png)
-
-Closed discussions are marked with a **Closed** tag.
-
-#### Re-open discussion
-
-You can re-open a closed discussion from the [group page](https://help.loomio.com/en/user_manual/groups/thread_management/index.html#close-discussion) or from within the discussion.
-
-![](thread_reopen.png)
-
-### Move to group
-
-You can move a discussion to another group or subgroup.  The discussion will then be visible to any member of the destination group, and anyone who have been specifically invited to the discussion.
-
-Select **Move to group** from the 3 dot menu to the right of the discussion.
-
-![](thread_move_to.png)
-
-Select the destination group or subgroup.
-
-![](destination_group.png)
-
-### Delete discussion
-
-You can delete any discussion that you start.
-
-Group admins you can delete any discussion in the group.
-
-![](delete_thread_1.png)
-
-You will be asked to confirm you want to delete the discussion.  Delete discussion can not be undone.
-
-![](delete_thread.png)

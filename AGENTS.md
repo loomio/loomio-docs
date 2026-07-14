@@ -21,7 +21,7 @@ mv ./en/book/* ./public/en/      # -> public/en/*  (nests ALL book content one l
 ```
 
 So on disk, book content lives at `en/book/user_manual/...` (no `en/`
-segment), but on the live site it's served at `/en/user_manual/...`. Two
+segment), but on the live site it's served at `/en/user_manual/...`. Three
 consequences that have caused real bugs:
 
 1. **Redirect `from` keys in `en/book.toml` must NOT start with `/en/`.**
@@ -39,6 +39,13 @@ consequences that have caused real bugs:
    `static/*` content — so it 404s in production despite passing a naive
    local check. This exact bug shipped and was only caught by crawling the
    live site (see below).
+3. **If a page's public URL changes, add a redirect from the old URL.**
+   Renaming or moving a source file or directory can break existing links and
+   bookmarks even when `SUMMARY.md` is updated. Add an `[output.html.redirect]`
+   entry in `en/book.toml` for every old page URL. As above, the `from` key
+   must omit `/en/`, while the target must include the full browser-facing
+   `/en/` path, for example:
+   `"/user_manual/discussions/old_name/index.html" = "/en/user_manual/discussions/new_name/index.html"`.
 
 Any time you touch `book.toml` redirects or add/edit internal links, keep
 this nesting model in mind — it's the single most common source of "works
