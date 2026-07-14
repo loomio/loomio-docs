@@ -96,4 +96,4 @@ If you want the archived subgroup to be visible to members of the parent group;
 
 Admins can delete a subgroup in the same way you delete a group. When deleting a subgroup, be careful to not delete the 'parent' group.
 
-Learn [how to delete groups](/en/user_manual/groups/deleting_archiving/).
+Learn [how to delete groups](/en/user_manual/groups/deleting_your_group/).

@@ -18,7 +18,7 @@ You will find more proposal and poll templates under the tabs:
 
 The classic Loomio proposal is still available under the Settings tab. You can **Unhide** it to make available for use under the Proposals tab.
 
-See our guides for [Advice process](https://help.loomio.com/en/guides/advice_process/index.html), [Consent process](https://help.loomio.com/en/guides/consent_process/index.html) and [Consensus](https://help.loomio.com/en/guides/consensus_process/index.html) for help and examples of using proposal templates at key steps in each process.
+See our guides for [Advice process](/en/user_manual/making_decisions/advice_process.html), [Consent process](/en/user_manual/making_decisions/consent_process.html) and [Consensus](/en/user_manual/making_decisions/consensus_process.html) for help and examples of using proposal templates at key steps in each process.
 
 ---
 

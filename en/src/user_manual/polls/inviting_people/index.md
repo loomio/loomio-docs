@@ -26,7 +26,7 @@ However if the poll is within a thread, they will also be able to see the thread
 
 ### Invite a subgroup to vote
 
-It is possible to invite a subgroup of people to vote in a poll within the parent group. Please be aware of the [Delegated voters](https://help.loomio.com/en/user_manual/groups/membership/delegated_voters.html) feature also.
+It is possible to invite a subgroup of people to vote in a poll within the parent group. Please be aware of the [Delegated voters](/en/user_manual/groups/delegated_voters/) feature also.
 
 ![seleting invited people only](invited-people-only.png)
 ![inviting voters subgroup](invite-voters-subgroup.png)

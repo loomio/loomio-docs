@@ -32,6 +32,8 @@ class LinkParser(HTMLParser):
             self.links.append(("src", attrs["src"]))
 
 def is_external(url):
+    if url.startswith("https://help.loomio.com/") or url.startswith("http://help.loomio.com/"):
+        return False
     return (
         url.startswith("http://") or url.startswith("https://")
         or url.startswith("mailto:") or url.startswith("tel:")
@@ -70,7 +72,10 @@ for root, dirs, files in os.walk(book_dir):
             # accept that form too before calling anything broken.
             def exists(base, rel):
                 target = os.path.join(base, rel)
-                return os.path.isfile(target) or os.path.isfile(os.path.join(target, "index.html")), target
+                if os.path.isfile(target):
+                    return True, target
+                index_target = os.path.join(target, "index.html")
+                return os.path.isfile(index_target), index_target
 
             if path_part.startswith("/"):
                 # Absolute paths are site-root-relative. The deploy step
@@ -95,12 +100,24 @@ for root, dirs, files in os.walk(book_dir):
                         target = f"{static_dir}/{rel} (note: path is missing a leading /en/ segment)"
             else:
                 target = os.path.normpath(os.path.join(root, path_part))
-                resolved = os.path.isfile(target) or os.path.isfile(os.path.join(target, "index.html"))
+                if os.path.isfile(target):
+                    resolved = True
+                else:
+                    target = os.path.join(target, "index.html")
+                    resolved = os.path.isfile(target)
 
             if not resolved:
                 rel_source = os.path.relpath(fpath, book_dir)
                 print(f'BROKEN {attr}: "{raw_url}" in {rel_source} (no file at {target})')
                 failures += 1
+            elif attr == "href" and target.endswith(".html"):
+                with open(target, encoding="utf-8", errors="replace") as target_file:
+                    target_content = target_file.read()
+                if re.search(r'<meta\s+http-equiv=["\']refresh["\']', target_content, re.IGNORECASE):
+                    rel_source = os.path.relpath(fpath, book_dir)
+                    rel_target = os.path.relpath(target, book_dir)
+                    print(f'LEGACY href: "{raw_url}" in {rel_source} points to redirect stub {rel_target}')
+                    failures += 1
 
 print()
 print(f"checked {checked} links/images, {failures} broken")

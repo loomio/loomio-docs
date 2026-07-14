@@ -53,6 +53,5 @@ Here are some common uses of discussions:
 
 **Advice, Consent and Generative decision making** - Prepare, propose, clarify, respond to reactions and objections, agree and implement - all within a Loomio discussion.
 
-See [Example discussions](https://help.loomio.com/en/user_manual/threads/examples/index.html) if you're looking for inspiration.
-
+See [Example discussions](/en/user_manual/discussions/examples/) if you're looking for inspiration.
 

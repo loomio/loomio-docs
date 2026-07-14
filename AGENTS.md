@@ -64,8 +64,8 @@ links in `en/src/**/*.md`.
 
 ## Checking scripts
 
-Two scripts validate the built book before deploy, and are wired into
-`.github/workflows/gh-pages.yml` right after `mdbook build en`:
+Three scripts validate the site during deploy and are wired into
+`.github/workflows/gh-pages.yml`:
 
 - `check-redirects.sh` — for every `[output.html.redirect]` entry in
   `en/book.toml`, verifies the target page actually exists in the built
@@ -75,9 +75,15 @@ Two scripts validate the built book before deploy, and are wired into
   and `<img src>`, and verifies the target resolves — correctly modeling
   the `/en` nesting split between `en/book/` and `static/`, and accepting
   GitHub Pages' directory-index resolution (`/foo/` or `/foo/index.html`
-  both count as valid, matching real server behavior).
+  both count as valid, matching real server behavior). It also rejects links
+  to legacy redirect stubs: internal links must point directly to the
+  canonical page.
+- `check-seo.sh` — runs after the deploy tree is assembled and metadata and
+  the sitemap are generated. It verifies that every sitemap entry is a real,
+  self-canonical content page with a title and description, and that redirect
+  stubs and non-canonical aliases are excluded.
 
-Run both locally after `mdbook build en` before pushing changes that touch
+Run the first two locally after `mdbook build en` before pushing changes that touch
 redirects or links:
 
 ```
@@ -86,8 +92,15 @@ mdbook build en
 ./check-links.sh
 ```
 
-Neither script catches everything, though — they only validate against the
-locally built tree. The redirect-nesting bug above shipped once already
+`generate-meta-descriptions.js` uses the first substantive paragraph on each
+page for its search description. When that is not a useful summary, add an
+override near the top of the Markdown source:
+
+```html
+<!-- seo-description: A concise, page-specific description for search results. -->
+```
+
+These build-tree checks do not catch everything, though. The redirect-nesting bug above shipped once already
 despite `check-redirects.sh` passing, because the script checked "does the
 target file exist" but not "does the `from` path actually reach that file
 once deployed." If you suspect something is broken only in production,

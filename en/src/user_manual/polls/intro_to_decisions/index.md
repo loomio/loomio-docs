@@ -31,7 +31,7 @@ The proposal templates are the scaffolding to run a process. You can edit the te
 
 A decision process is usually contained within a Loomio thread and may use one or more proposal templates as you progress towards an outcome. 
 
-See our guides for [Advice process](https://help.loomio.com/en/guides/advice_process/index.html), [Consent process](https://help.loomio.com/en/guides/consent_process/index.html) and [Consensus process](https://help.loomio.com/en/guides/consensus_process/index.html) for help and examples of using proposal templates at key steps in each process.
+See our guides for [Advice process](/en/user_manual/making_decisions/advice_process.html), [Consent process](/en/user_manual/making_decisions/consent_process.html) and [Consensus process](/en/user_manual/making_decisions/consensus_process.html) for help and examples of using proposal templates at key steps in each process.
 
 ## Proposal templates
 

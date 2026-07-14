@@ -31,7 +31,7 @@ Add tag(s) to help people find your discussion when searching by tag.  Admins ca
 
 Use invite to send the discussion to specific people via email.
 
-See [Notifying people](https://help.loomio.com/en/user_manual/threads/notifying_people/index.html) for guidance.
+See [Notifying people](/en/user_manual/discussions/notifying_people/) for guidance.
 
 ### Title
 Give your discussion a relevant title.  A discussion title is similar to an email subject line.
@@ -40,4 +40,3 @@ Give your discussion a relevant title.  A discussion title is similar to an emai
 Use discussion context to introduce the topic and frame the conversation or decision to make. Use the formatting tools to emphasize key points. Include background information, attach files, link to online documents and embed a video.
 
 The context will always stay at the top of the discussion and you can update it at any time as the discussion progresses.  When the discussion ends, update the context with the outcome.
-

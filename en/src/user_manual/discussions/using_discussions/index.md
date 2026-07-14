@@ -80,7 +80,7 @@ When you have written your text, use **Post Comment** to instantly publish the c
 
 ![](comment.png)
 
-The full range of formatting tools described in [Formatting](https://help.loomio.com/en/user_manual/threads/thread_admin/index.html) are available for use in comments.
+The full range of formatting tools described in [Formatting](/en/user_manual/discussions/formatting/) are available for use in comments.
 
 Write your comment and press **Post Comment**.
 
@@ -165,7 +165,7 @@ This is a great way to directly refer to your own comment or a comment someone h
 
 ### Notification history
 
-See [Comment notification history](https://help.loomio.com/en/user_manual/threads/notifying_people/index.html#comment-notification-history).
+See [Comment notification history](/en/user_manual/discussions/notifying_people/#comment-notification-history).
 
 ### Discard comment
 
@@ -223,7 +223,7 @@ Find these tools under the 3 dot (**⋯**) menu, under the discussion context on
 
 ### Show notifications
 
-See [Notified: (Discussion notification history)](https://help.loomio.com/en/user_manual/threads/notifying_people/index.html#notified-discussion-notification-history).
+See [Notified: (Discussion notification history)](/en/user_manual/discussions/notifying_people/#notified-discussion-notification-history).
 
 ### Print
 

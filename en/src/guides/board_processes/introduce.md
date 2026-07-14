@@ -53,13 +53,13 @@ Loomio groups are **Secret** by default, which means only the people you specifi
 See [member permissions](https://help.loomio.com/en/user_manual/groups/settings/index.html#permissions), and set to suit the proficiency of members in your group.  It may help to remove some permissions to avoid confusion as you are starting out. You can always restore permissions and everyone becomes more familiar with Loomio.
 
 ### Category tags
-Add [category tags](https://help.loomio.com/en/user_manual/groups/tags/index.html) to suit your organization.  Setting these in advance will help everyone use tags and find the threads and info they are looking for.
+Add [category tags](/en/user_manual/discussions/tags/) to suit your organization.  Setting these in advance will help everyone use tags and find the threads and info they are looking for.
 
 ### Set up your personal profile
 Your [personal profile](https://help.loomio.com/en/user_manual/users/user_profile/index.html) will help members of your group easily identify you, and have confidence that the messages they receive from you actually come from you.
 
 ### Manage group membership
-Make sure all the members of your board or committee have been [invited](https://help.loomio.com/en/user_manual/groups/membership/index.html) to the group, and accepted their invitation.
+Make sure all the members of your board or committee have been [invited](/en/user_manual/groups/inviting_people/) to the group, and accepted their invitation.
 
 ### Start with baby steps
 Before you launch into new work on Loomio, you might want to check that everyone can read threads, write a comment and vote in a poll.
@@ -71,6 +71,5 @@ Then start an [Opt-in poll](https://help.loomio.com/en/user_manual/polls/proposa
 Invite members to leave a reason describing their experience.
 
 When your members know how to sign in, write a comment and vote in a poll, they have can participate effectively in your Loomio group.
-
 
 

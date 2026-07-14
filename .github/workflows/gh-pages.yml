@@ -14,6 +14,11 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
       - name: Setup mdBook
         uses: peaceiris/actions-mdbook@v2
         with:
@@ -29,7 +34,15 @@ jobs:
       - run: mv ./en/book/* ./public/en/
       - name: Fix canonical URLs (.md -> .html)
         run: find ./public/en -name '*.html' -exec sed -i 's|canonical" href="\(.*\)\.md"|canonical" href="\1.html"|g' {} +
+      - name: Make redirect canonicals absolute
+        run: find ./public/en -name '*.html' -exec sed -i 's|rel="canonical" href="/en/|rel="canonical" href="https://help.loomio.com/en/|' {} +
+      - name: Consolidate duplicated mdBook landing page
+        run: sed -i 's|https://help.loomio.com/en/index.html|https://help.loomio.com/en/user_manual/overview/index.html|' ./public/en/index.html
+      - name: Generate page descriptions
+        run: node generate-meta-descriptions.js ./public/en
       - run: bash generate-sitemap.sh
+      - name: Check search metadata and sitemap
+        run: bash check-seo.sh
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3

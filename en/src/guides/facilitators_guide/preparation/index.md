@@ -14,7 +14,7 @@ Clarification of purpose is one of the highest value offerings of a skilled faci
 
 On Loomio
 
-* The app offers space for explication of purpose, such as the [group description](/en/user_manual/groups/starting_a_group/#group-description) and [discussion context](/en/user_manual/threads/engaging_with_threads/#thread-context) fields.
+* The app offers space for explication of purpose, such as the [group description](/en/user_manual/groups/starting_a_group/#group-description) and [discussion context](/en/user_manual/discussions/using_discussions/#thread-context) fields.
 * A Loomio discussion *about* purpose is a great place to start with your group, if it's not already clear.
 * Our analytics (stats about how people use the software) show that groups with a clear shared purpose are more successful.
 * [Customer stories and case studies](https://blog.loomio.com/?utm_campaign=facilitators_guide_help&utm_term=help) we've collected emphasise the importance of setting a collective purpose.
@@ -58,7 +58,7 @@ On Loomio
 ![](../collaboration-process.png)
 
 * Skilled users are already adapting Loomio for various experience designs — such as a multi-step consultation processes, signing off documents, etc. Each job, when facilitated effectively, takes a certain repeatable shape.
-* Online collaboration design doesn't have to reinvent the wheel. Trust what you know works, and translate it. Many tried and tested offline processes can be adapted to the online space (ex: the [Advice Process](/en/guides/advice_process/)).
+* Online collaboration design doesn't have to reinvent the wheel. Trust what you know works, and translate it. Many tried and tested offline processes can be adapted to the online space (ex: the [Advice Process](/en/user_manual/making_decisions/advice_process.html)).
 * [Case studies](https://blog.loomio.com/?utm_campaign=facilitators_guide_help&utm_term=help) of thoughtfully designed processes could be used as “recipes” — if you're not sure what design to use, start by seeing what others have tried.
 
 

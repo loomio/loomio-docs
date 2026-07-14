@@ -95,7 +95,7 @@ Use the task list to add check boxes for each task, and assign someone with a du
 
 ![](format_tasks.png)
 
-See the page on [Tasks](https://help.loomio.com/en/user_manual/threads/thread_admin/tasks.html) for more information.
+See the page on [Tasks](/en/user_manual/discussions/tasks/) for more information.
 
 ## Colors
 
@@ -178,6 +178,5 @@ To view locked threads, go to the relevant **group page** and change the discuss
 ### Unlock thread
 
 Open the three horizontal dots (**⋯**) for a locked thread and select **Unlock thread**. This allows comments and changes again and restores the thread to the open thread list.
-
 
 

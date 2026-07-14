@@ -20,7 +20,7 @@ Key aspects to an invitation:
 
 On Loomio
 
-* The tool has a built-in function to [invite users](/en/user_manual/groups/membership/) by email or by sending them a special link. Users can also request to join your group if your settings allow.
+* The tool has a built-in function to [invite users](/en/user_manual/groups/inviting_people/) by email or by sending them a special link. Users can also request to join your group if your settings allow.
 * The invitation tools built into the software are very basic, and getting an unexpected login request for new software without context isn't very inviting, so group creators often introduce people to the idea of Loomio through a separate process.
 * Many aspects of Loomio are already designed to create a safe and respectful space users would want to enter — such as thoughtful [privacy options](/en/user_manual/groups/starting_a_group/#privacy).
 * The design of the software itself is meant to be friendly, simple, and professional, hopefully putting out a trustworthy vibe.

@@ -16,13 +16,13 @@ Many organizations use one or more decision processes, depending on the type of 
 
 Check out these common decision making processes and how to apply these within Loomio:
 
-**[Simple decision process](https://help.loomio.com/en/user_manual/polls/decisions/index.html)** - A simple process to introduce and discuss the decision to be made, listen and sense how people think about it, propose and decide. Start here if you are new to collaborative decision making.
+**[Simple decision process](/en/user_manual/making_decisions/simple_decision_process.html)** - A simple process to introduce and discuss the decision to be made, listen and sense how people think about it, propose and decide. Start here if you are new to collaborative decision making.
  
-**[Advice process](https://help.loomio.com/en/guides/advice_process/index.html)** - Seek advice on a decision you need to make, with the advice of people impacted or who have expertise, so you can make a better decision for your organization.
+**[Advice process](/en/user_manual/making_decisions/advice_process.html)** - Seek advice on a decision you need to make, with the advice of people impacted or who have expertise, so you can make a better decision for your organization.
 
-**[Consent process](https://help.loomio.com/en/guides/consent_process/index.html)** - Seek consent on a decision you need to make, where there are no meaningful objections to your proposal, so you can make a fast decision that is 'safe to try' now.
+**[Consent process](/en/user_manual/making_decisions/consent_process.html)** - Seek consent on a decision you need to make, where there are no meaningful objections to your proposal, so you can make a fast decision that is 'safe to try' now.
 
-**[Consensus process](https://help.loomio.com/en/guides/consensus_process/index.html)** - Build consensus for a decision you need to make together, to reach an agreement that satisfies the needs and concerns of all participants.
+**[Consensus process](/en/user_manual/making_decisions/consensus_process.html)** - Build consensus for a decision you need to make together, to reach an agreement that satisfies the needs and concerns of all participants.
 
 
 ## Examples of organizations practicing inclusive decision making
