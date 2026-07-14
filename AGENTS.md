@@ -125,3 +125,26 @@ that were missing their `/en/` prefix.
   never be built into HTML if it isn't referenced from `SUMMARY.md` — this
   caused an orphaned page (`engaging_with_discussions`) whose old redirect
   target silently never existed.
+
+## SEO follow-ups after merging into Loomio
+
+The GitHub Pages deployment now excludes redirect stubs and non-canonical
+aliases from the sitemap, generates page descriptions, and runs
+`check-seo.sh` before deployment. After the documentation is merged into the
+main Loomio repository, complete these remaining tasks when practical:
+
+1. Replace mdBook's HTTP 200 meta-refresh redirect stubs with real permanent
+   HTTP `301` or `308` redirects when a custom help server or proxy is
+   available. Preserve every mapping in `[output.html.redirect]`, and keep
+   the redirects indefinitely if possible so old bookmarks and search signals
+   continue to reach the canonical pages.
+2. Search the main Loomio repository, including translated locale files, for
+   links to legacy help paths. Update controlled links to point directly to
+   the canonical URLs instead of passing through redirect stubs.
+3. Submit the corrected `https://help.loomio.com/sitemap.xml` in Google Search
+   Console. Inspect representative old and new URL pairs, request indexing for
+   important feature pages, and monitor Page Indexing for redirect or
+   Google-selected-canonical problems.
+4. Preserve established public documentation URLs. Prefer changing page
+   headings and navigation labels without moving source paths; when a move is
+   necessary, add and test a permanent redirect before deploying it.
