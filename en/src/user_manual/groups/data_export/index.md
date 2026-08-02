@@ -8,7 +8,7 @@ With the group data export feature you can:
 - [Print or save PDF's of a thread or poll for archival purposes.](#print-thread-to-pdf)
 - Move your group, including all users, threads, polls, and files to another Loomio server.
 
-If you ever want to move from Loomio managed servers [to your own](https://github.com/loomio/loomio-deploy), you can use this feature.
+If you ever want to move from Loomio managed servers [to your own](https://github.com/loomio/loomio), you can use this feature.
 
 If you're running your own Loomio server, and would rather not anymore, Loomio offer managed hosting in USA, EU and Australia. If you'd like to migrate your group to one of these servers, please [contact us](https://www.loomio.com/contact).
 
@@ -36,6 +36,23 @@ This will open the HTML file in another tab in your browser. If you want to save
 
 *For when you want to move your group data to a self-hosted Loomio instance.*
 
+You must be an admin of the group to export it. The JSON export includes:
+
+- The group, its members and membership requests
+- Threads, comments, reactions, tags, templates, notifications and related records from the included groups
+- Polls, options, votes and outcomes; an anonymous poll is included only after it has closed
+- Subgroups you belong to
+- Closed subgroups when you export their parent group as a parent group admin, even if you do not belong to those subgroups
+- References to files and images attached to the included content
+
+The JSON export does not include:
+
+- Secret subgroups you do not belong to, including their membership and content
+- Open subgroups you do not belong to
+- Archived subgroups
+- Anonymous polls that have not closed
+- Direct threads and polls that do not belong to the group
+
 You'll shortly receive an email with a link to downloading the JSON file.
 
 ## Print thread to pdf
@@ -52,7 +69,7 @@ You can copy the page to paste it into a document editor, file, or data reposito
 
 ## Import your group data on another Loomio server
 
-For instructions on setting up your own Loomio server, visit: https://github.com/loomio/loomio-deploy
+For instructions on setting up your own Loomio server, visit: https://github.com/loomio/loomio
 
 If you are hosting your own Loomio deployment, and would like to import your exported data:
 
