@@ -42,7 +42,7 @@
         <script>
             const path_to_root = "";
             const default_light_theme = "light";
-            window.path_to_searchindex_js = "searchindex-1d78a504.js";
+            window.path_to_searchindex_js = "searchindex-adea01dd.js";
         </script>
         <!-- Start loading toc.js asap -->
         <script src="toc-766d8dc8.js"></script>
@@ -942,7 +942,7 @@ s and permissions.</p>
 <li><a href="#print-thread-to-pdf">Print or save PDF’s of a thread or poll for archival purposes.</a></li>
 <li>Move your group, including all users, threads, polls, and files to another Loomio server.</li>
 </ul>
-<p>If you ever want to move from Loomio managed servers <a href="https://github.com/loomio/loomio-deploy">to your own</a>, you can use this feature.</p>
+<p>If you ever want to move from Loomio managed servers <a href="https://github.com/loomio/loomio">to your own</a>, you can use this feature.</p>
 <p>If you’re running your own Loomio server, and would rather not anymore, Loomio offer managed hosting in USA, EU and Australia. If you’d like to migrate your group to one of these servers, please <a href="https://www.loomio.com/contact">contact us</a>.</p>
 <p><a href="https://www.loomio.com/contact">Contact us</a> if you would like to transfer your Loomio group from Loomio’s global hosted service at loomio.com to one of our regional services; loomio.eu for Europe or loomio.nz for Australia and New Zealand.</p>
 <h2 id="export-data"><a class="header" href="#export-data">Export data</a></h2>
@@ -956,6 +956,23 @@ s and permissions.</p>
 <p>This will open the HTML file in another tab in your browser. If you want to save the file, right-click anywhere on the page and click “Save as”.</p>
 <h3 id="export-group-data-as-json"><a class="header" href="#export-group-data-as-json">Export group data as JSON</a></h3>
 <p><em>For when you want to move your group data to a self-hosted Loomio instance.</em></p>
+<p>You must be an admin of the group to export it. The JSON export includes:</p>
+<ul>
+<li>The group, its members and membership requests</li>
+<li>Threads, comments, reactions, tags, templates, notifications and related records from the included groups</li>
+<li>Polls, options, votes and outcomes; an anonymous poll is included only after it has closed</li>
+<li>Subgroups you belong to</li>
+<li>Closed subgroups when you export their parent group as a parent group admin, even if you do not belong to those subgroups</li>
+<li>References to files and images attached to the included content</li>
+</ul>
+<p>The JSON export does not include:</p>
+<ul>
+<li>Secret subgroups you do not belong to, including their membership and content</li>
+<li>Open subgroups you do not belong to</li>
+<li>Archived subgroups</li>
+<li>Anonymous polls that have not closed</li>
+<li>Direct threads and polls that do not belong to the group</li>
+</ul>
 <p>You’ll shortly receive an email with a link to downloading the JSON file.</p>
 <h2 id="print-thread-to-pdf"><a class="header" href="#print-thread-to-pdf">Print thread to pdf</a></h2>
 <p>You may need to extract a copy of a thread to store in a separate file archive.</p>
@@ -964,7 +981,7 @@ s and permissions.</p>
 <p>You can copy the page to paste it into a document editor, file, or data repository.</p>
 <p><img src="user_manual/groups/data_export/discussion_print_discussion.png#width-90" alt=""></p>
 <h2 id="import-your-group-data-on-another-loomio-server"><a class="header" href="#import-your-group-data-on-another-loomio-server">Import your group data on another Loomio server</a></h2>
-<p>For instructions on setting up your own Loomio server, visit: https://github.com/loomio/loomio-deploy</p>
+<p>For instructions on setting up your own Loomio server, visit: https://github.com/loomio/loomio</p>
 <p>If you are hosting your own Loomio deployment, and would like to import your exported data:</p>
 <p>Copy the .json file to the container instance’s <code>import</code> folder:</p>
 <p><code>scp your-group-data.json username@some-domain.org:loomio-deploy/import</code></p>
