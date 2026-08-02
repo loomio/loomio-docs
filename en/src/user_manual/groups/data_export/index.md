@@ -42,13 +42,12 @@ You must be an admin of the group to export it. The JSON export includes:
 - Threads, comments, reactions, tags, templates, notifications and related records from the included groups
 - Polls, options, votes and outcomes; an anonymous poll is included only after it has closed
 - Subgroups you belong to
-- Closed subgroups when you export their parent group as a parent group admin, even if you do not belong to those subgroups
+- Open and closed subgroups when you export their parent group as a parent group admin, even if you do not belong to those subgroups
 - References to files and images attached to the included content
 
 The JSON export does not include:
 
 - Secret subgroups you do not belong to, including their membership and content
-- Open subgroups you do not belong to
 - Archived subgroups
 - Anonymous polls that have not closed
 - Direct threads and polls that do not belong to the group
