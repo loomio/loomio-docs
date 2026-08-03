@@ -21,7 +21,6 @@ To add a subgroup, visit your main group page, then click **New Subgroup** from 
 Click the **New subgroup** button, give it a name and select the privacy setting, then click **Start subgroup**.
 
 ![](subgroups_new.png)
-s and permissions.
 
 When you are ready, [invite people](/en/user_manual/groups/inviting_people/) to the subgroup.
 
