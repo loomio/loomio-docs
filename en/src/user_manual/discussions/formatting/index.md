@@ -53,7 +53,7 @@ Now, anyone with access to your Loomio discussion and permission to view the doc
 
 ![](format_link.png)
 
-<iframe width="100%" height="380px" src="https://www.youtube.com/embed/84FAbGJbTws" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/84FAbGJbTws" frameborder="0" allowfullscreen></iframe>
 
 ## Insert Emoji
 
@@ -119,7 +119,7 @@ To use the embed video feature:
 
 ![](format_embed.png)
 
-<iframe width="100%" height="380px" src="https://youtube-nocookie.com/embed/AJnjTd9u4zg" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/AJnjTd9u4zg" frameborder="0" allowfullscreen></iframe>
 
 >[!Tip]
 >Make sure you set the visibility of the video in Youtube or Vimeo so it can be accesses by anyone with the link. In Youtube 'Unlisted' is a good option if you do not want to make the video public.
@@ -173,5 +173,4 @@ To view locked threads, go to the relevant **group page** and change the discuss
 ### Unlock thread
 
 Open the three horizontal dots (**⋯**) for a locked thread and select **Unlock thread**. This allows comments and changes again and restores the thread to the open thread list.
-
 
