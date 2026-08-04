@@ -3,12 +3,21 @@
     align-items: center;
     justify-content: start;
     text-decoration: none;
-    color: "#DCA034";
+    color: #f5c401;
 }
 
 .toc-logo img {
-    width: 128px;
+    width: 160px;
     padding: 16px 0;
+}
+
+.light #mdbook-menu-bar,
+.light #mdbook-menu-bar-hover-placeholder {
+    background-color: transparent;
+}
+
+.light #mdbook-menu-bar {
+    border-block-end-color: transparent;
 }
 
 
