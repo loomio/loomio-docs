@@ -109,25 +109,20 @@ Select to align text to left, center or right.
 
 ![](thread_align.png)
 
-## Embed videos
+## Embed videos and webpages
 
-You can embed a video from popular video platforms like Youtube and Vimeo into Loomio anywhere there is a text space; when starting a thread or poll, writing a comment, or updating your group description. The embed video icon is one of the formatting tools, under the space where you write text in Loomio.
+You can embed a video from platforms like Youtube, anywhere there is a text space with a formatting toolbar. The feature also works for embedding other webpages - some creative uses we've seen include embedding spreadsheets at the top of threads and calendars into group descriptions.
 
 To use the embed video feature: 
-1. Click the embed video icon.
-2. Go to the video you want to embed, find and copy the shareable link.
-3. Now, go back to Loomio and paste the link.
-
-A preview of the video will appear.
-
-Now anyone with access to your Loomio thread and permission to view the video can play it from within Loomio.
+1. Go to the video you want to embed, find and copy the embed link.
+2. Click the embed video icon and paste the link.
 
 ![](format_embed.png)
 
 <iframe width="100%" height="380px" src="https://www.youtube.com/embed/gbWUCPzxTUQ" frameborder="0" allowfullscreen></iframe>
 
 >[!Tip]
->Make sure you set the visibility of the video in Youtube or Vimeo so that the people you want to can view it. In Youtube 'Unlisted' is a good option if you do not want to make the video public.
+>Make sure you set the visibility of the video in Youtube or Vimeo so it can be accesses by anyone with the link. In Youtube 'Unlisted' is a good option if you do not want to make the video public.
 
 ## Quote
 
