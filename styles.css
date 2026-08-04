@@ -3,7 +3,7 @@ html {
 
 body {
   font-family: "Roboto", sans-serif;
-  background-color: #f7f7ed;
+  background-color: #F5FAFF;
   color: rgba(0,0,0,0.9);
   margin: 1em auto;
   line-height: 1.5;
@@ -37,8 +37,9 @@ main {
   background-color: #fff;
   padding: 1em;
   margin: 1em auto;
-  border-radius: 20px;
-  box-shadow: 1px 1px 4px #999;
+  border: 1px solid #E8E8E8;
+  border-radius: 12px;
+  box-shadow: none;
   max-width: 800px;
 }
 
@@ -52,7 +53,7 @@ ul {
 .header-text {
   font-family: "Roboto", sans-serif;
   font-size: 2.0rem;
-  color: #DCA034;
+  color: #0070E0;
   text-decoration: none;
   font-weight: 400;
   line-height: 1.3;
